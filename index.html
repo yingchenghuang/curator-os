@@ -804,8 +804,8 @@ function bindRealtimeCompanion() {
 }
 
 Promise.all([
-  fetch('curation-thinking.json').then((response) => response.json()),
-  fetch('daily-curator-prompts.json').then((response) => response.ok ? response.json() : [])
+  fetch(`curation-thinking.json?updated=${Date.now()}`, { cache: 'no-store' }).then((response) => response.json()),
+  fetch(`daily-curator-prompts.json?updated=${Date.now()}`, { cache: 'no-store' }).then((response) => response.ok ? response.json() : [])
 ]).then(([library, daily]) => {
   topics = library;
   dailyPrompts = daily;
