@@ -95,6 +95,32 @@ a { color: inherit; }
 .principle-grid label, .project-grid label { padding: 28px; background: #fffdf9; display: flex; flex-direction: column; gap: 12px; }
 .principle-grid span, .project-grid span { font-size: 17px; font-weight: 700; }
 .principle-grid textarea, .project-grid textarea { border: 0; outline: 0; background: transparent; min-height: 128px; resize: vertical; font-size: 17px; line-height: 1.85; }
+.principle-case { margin-top: 34px; border: 1px solid var(--line); background: #fffdf9; }
+.principle-case-head { display: flex; align-items: end; justify-content: space-between; gap: 24px; padding: 28px; border-bottom: 1px solid var(--line); }
+.principle-case-head h3 { margin: 5px 0 0; font-family: var(--serif); font-size: clamp(27px, 3vw, 40px); line-height: 1.18; }
+.principle-case-head > p { max-width: 430px; margin: 0; color: var(--muted); line-height: 1.75; }
+.principle-case-context { padding: 28px; background: var(--ink); color: #fffdf9; }
+.principle-case-context span { color: #9ed4dc; font-size: 12px; font-weight: 800; letter-spacing: .13em; }
+.principle-case-context h4 { max-width: 880px; margin: 10px 0 8px; font-family: var(--serif); font-size: clamp(24px, 3vw, 36px); line-height: 1.3; }
+.principle-case-context p { max-width: 920px; margin: 0; color: #dce7e7; line-height: 1.8; }
+.principle-perspectives { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-bottom: 1px solid var(--line); }
+.principle-perspective { min-height: 112px; padding: 20px; border: 0; border-right: 1px solid var(--line); background: #fffdf9; color: var(--ink); text-align: left; }
+.principle-perspective:last-child { border-right: 0; }
+.principle-perspective b, .principle-perspective span { display: block; }
+.principle-perspective b { margin-bottom: 7px; font-size: 16px; }
+.principle-perspective span { color: var(--muted); font-size: 13px; line-height: 1.5; }
+.principle-perspective:hover { background: var(--leaf); }
+.principle-perspective.active { box-shadow: inset 0 -4px var(--accent); background: #f8eeee; }
+.principle-perspective-detail { padding: 30px 28px 28px; }
+.perspective-voice { display: grid; grid-template-columns: minmax(150px, .4fr) minmax(0, 1.6fr); gap: 24px; align-items: start; margin-bottom: 24px; }
+.perspective-voice p { margin: 0; color: var(--accent); font-size: 13px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.perspective-voice blockquote { margin: 0; font-family: var(--serif); font-size: clamp(23px, 2.5vw, 31px); line-height: 1.5; }
+.perspective-detail-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+.perspective-detail-grid div { padding: 22px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.perspective-detail-grid b { display: block; margin-bottom: 8px; color: var(--blue); font-size: 13px; letter-spacing: .08em; }
+.perspective-detail-grid p { margin: 0; color: var(--muted); line-height: 1.75; }
+.principle-case-actions { display: flex; align-items: center; gap: 18px; margin: 0 28px 28px; }
+.principle-case-actions small { color: var(--muted); line-height: 1.5; }
 .project-grid { grid-template-columns: repeat(5, 1fr); }
 .project-grid label { min-height: 250px; }
 .project-grid b { font-family: var(--serif); font-size: 28px; color: var(--accent); }
@@ -223,6 +249,13 @@ footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 1
   .topic-card > p { font-size: 18px; }
   .question { font-size: 17px; }
   .principle-grid, .project-grid, .topic-grid { grid-template-columns: 1fr; }
+  .principle-case-head { align-items: start; flex-direction: column; }
+  .principle-perspectives { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .principle-perspective:nth-child(2) { border-right: 0; }
+  .principle-perspective:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+  .perspective-voice, .perspective-detail-grid { grid-template-columns: 1fr; }
+  .principle-case-actions { align-items: stretch; flex-direction: column; }
+  .principle-case-actions .primary { width: 100%; }
   .topic-tile:nth-child(n) { border-right: 0; }
   .project-grid label { min-height: 180px; }
   .topbar { padding: 0 20px; }
@@ -289,6 +322,13 @@ footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 1
         <label><span>哪些是我暫時的假設？</span><textarea id="assumptions" placeholder="辨識尚未證實的想法，避免直接把它當結論。"></textarea></label>
         <label><span>如果從零開始，我會設計什麼？</span><textarea id="rebuild" placeholder="不受原本展覽形式限制，重新提出介入方法。"></textarea></label>
       </div>
+      <article class="principle-case" aria-labelledby="principleCaseHeading">
+        <div class="principle-case-head"><div><p class="eyebrow">CASE STUDY / 4 PERSPECTIVES</p><h3 id="principleCaseHeading">同一個案例，四種第一性思考</h3></div><p>案例會跟著目前的策展課題更新。先選一位角色，看他如何分開問題、事實、假設與重建。</p></div>
+        <div class="principle-case-context"><span>具體案例</span><h4 id="principleCaseTitle"></h4><p id="principleCaseContext"></p></div>
+        <div id="principlePerspectives" class="principle-perspectives" role="group" aria-label="選擇案例觀點"></div>
+        <div id="principlePerspectiveDetail" class="principle-perspective-detail" aria-live="polite"></div>
+        <div class="principle-case-actions"><button id="applyPrinciplePerspective" class="primary" type="button">填入這個視角的拆解示範</button><small>按下後會將示範內容帶入上方四個欄位，仍可自由修改。</small></div>
+      </article>
     </section>
 
     <section id="project" class="section project">
@@ -332,6 +372,7 @@ let activeCategory = '全部';
 let activeTopic = 0;
 let companionAction = null;
 let companionPulseTimer = null;
+let activePrinciplePerspective = 0;
 
 const projectKey = 'curator-os-project-v1';
 const lenses = {
@@ -397,6 +438,92 @@ function renaissanceRoundtable(topic) {
   return { voices, dialogue };
 }
 
+function principleCaseStudy(topic) {
+  const subject = shortText(topic.title, 58);
+  const focus = shortText(topic.questions?.[0] || topic.summary || topic.title, 96);
+  const context = shortText(topic.summary || topic.rawText || topic.title, 150);
+  return {
+    title: `地方文化館要把「${subject}」做成一場六週實驗展`,
+    context: `團隊只剩四週準備，預算只夠完成一個主要介入。眼前材料指出：${context}。他們不能先決定展覽形式，必須回答「${focus}」，再用可驗證的證據選擇怎麼做。`,
+    perspectives: [
+      {
+        name: '林策展人', role: '命題與證據', label: '策展視角',
+        voice: `我先確認「${subject}」究竟要改變哪一種理解，而不是先挑作品。`,
+        problem: `讓「${subject}」從抽象主題，變成觀眾能在展場辨認、比較並回應的核心問題。`,
+        facts: `查核「${focus}」是否有現場觀察、資料或當事人敘事支持；並盤點現有作品與場域真正能證明什麼。`,
+        assumptions: '相關作品放在一起，觀眾就會理解策展命題；策展人的分類也能代表所有人的經驗。',
+        rebuild: '先做一條「證據—作品—觀眾回應」的最小測試動線，邀請少量觀眾走讀，再依回應決定完整展覽。'
+      },
+      {
+        name: '楊藝術家', role: '形式與感知', label: '創作者視角',
+        voice: '我關心的不是怎麼替命題做插圖，而是材料能不能讓問題真的被身體感受到。',
+        problem: `讓「${subject}」不只被說明，而能透過尺度、聲音、光線與觀看時間成為一段可感知的經驗。`,
+        facts: '實測材料、空間尺度、聲場、光線與觀看時間；觀察觀眾是否真的停留、靠近、避開或產生新的行為。',
+        assumptions: '形式越強烈就越能傳達議題；藝術家的原意一定會被觀眾接收到。',
+        rebuild: '以同一件作品做兩種低成本呈現，分別測試「閱讀理解」與「身體感受」，保留更能觸發觀察與提問的版本。'
+      },
+      {
+        name: '陳社群協作者', role: '經驗與權利', label: '觀眾／社群視角',
+        voice: '如果受影響的人只能被描述、不能決定如何被看見，展覽就還沒有碰到核心。',
+        problem: `讓與「${subject}」相關的人不只是素材提供者，也能影響敘事、語言與參與方式。`,
+        facts: '訪談不同背景的使用者，記錄理解障礙、停留行為、語言需求與是否感到被錯誤代表；確認同意與撤回機制。',
+        assumptions: '所有觀眾都有相同文化背景；被邀請參與就等於充分授權；一次意見蒐集能代表整個社群。',
+        rebuild: '開展前辦兩次共讀與現場走查，讓社群能修改關鍵文字、刪除不願公開的內容，並保留展期中的回饋入口。'
+      },
+      {
+        name: '吳製作人', role: '資源與維護', label: '執行視角',
+        voice: '一個不能安全運作、無人維護的概念，還不是可以成立的策展方案。',
+        problem: `讓「${subject}」在預算、工期、安全、版權與日常維護下仍能持續成立。`,
+        facts: '列出可用人力、設備、授權、運輸、無障礙與每日維護時間；找出一旦失效就會破壞核心體驗的單點風險。',
+        assumptions: '一次性裝置能穩定運作六週；志工可補足專業人力；開幕完成就等於專案完成。',
+        rebuild: '把展覽拆成最小可行版本，先保住一個核心體驗，為設備故障、內容更新與人力交接設計可替換的備援方案。'
+      }
+    ]
+  };
+}
+
+function showPrinciplePerspective(topic, index) {
+  const study = principleCaseStudy(topic);
+  const safeIndex = Math.max(0, Math.min(index, study.perspectives.length - 1));
+  const view = study.perspectives[safeIndex];
+  activePrinciplePerspective = safeIndex;
+  document.querySelectorAll('.principle-perspective').forEach((button, buttonIndex) => {
+    const active = buttonIndex === safeIndex;
+    button.classList.toggle('active', active);
+    button.setAttribute('aria-pressed', String(active));
+  });
+  $('#principlePerspectiveDetail').innerHTML = `<div class="perspective-voice"><p>${esc(view.label)}的判斷</p><blockquote>「${esc(view.voice)}」</blockquote></div><div class="perspective-detail-grid"><div><b>01｜真正要改變</b><p>${esc(view.problem)}</p></div><div><b>02｜可驗證事實</b><p>${esc(view.facts)}</p></div><div><b>03｜必須拆掉的假設</b><p>${esc(view.assumptions)}</p></div><div><b>04｜從零重建</b><p>${esc(view.rebuild)}</p></div></div>`;
+}
+
+function renderPrincipleCase(topic) {
+  const study = principleCaseStudy(topic);
+  activePrinciplePerspective = 0;
+  $('#principleCaseTitle').textContent = study.title;
+  $('#principleCaseContext').textContent = study.context;
+  $('#principlePerspectives').innerHTML = study.perspectives.map((view, index) => `<button class="principle-perspective${index === 0 ? ' active' : ''}" type="button" data-principle-perspective="${index}" aria-pressed="${index === 0}"><b>${esc(view.name)}</b><span>${esc(view.role)}</span></button>`).join('');
+  showPrinciplePerspective(topic, 0);
+}
+
+function bindPrincipleCase() {
+  $('#principlePerspectives').addEventListener('click', (event) => {
+    const button = event.target.closest('[data-principle-perspective]');
+    if (!button) return;
+    showPrinciplePerspective(currentTopic(), Number(button.dataset.principlePerspective));
+  });
+  $('#applyPrinciplePerspective').addEventListener('click', () => {
+    const view = principleCaseStudy(currentTopic()).perspectives[activePrinciplePerspective];
+    $('#problem').value = view.problem;
+    $('#facts').value = view.facts;
+    $('#assumptions').value = view.assumptions;
+    $('#rebuild').value = view.rebuild;
+    setCompanionFeedback(`已帶入「${view.name}」的案例拆解。現在請把其中一句改成你自己的現場觀察。`, {
+      label: '開始修改',
+      action: () => $('#problem').focus()
+    });
+    $('#problem').focus();
+  });
+}
+
 function taipeiDate() {
   return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Taipei' }).format(new Date());
 }
@@ -429,6 +556,7 @@ function showToday() {
   $('#topicTitle').textContent = topic.title;
   $('#topicSummary').textContent = topic.summary;
   $('#questionList').innerHTML = questionList(topic.questions.slice(0, 10));
+  renderPrincipleCase(topic);
   updateCompanion(topic, false);
 }
 
@@ -819,6 +947,7 @@ Promise.all([
   bindCompanion();
   bindDetailCompanion();
   bindRealtimeCompanion();
+  bindPrincipleCase();
   $('#nextTopic').onclick = () => {
     activeTopic = (activeTopic + 1) % dailyTopicList().length;
     showToday();
