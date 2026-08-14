@@ -442,10 +442,8 @@ function principleCaseStudy(topic) {
   const subject = shortText(topic.title, 58);
   const focus = shortText(topic.questions?.[0] || topic.summary || topic.title, 96);
   const context = shortText(topic.summary || topic.rawText || topic.title, 150);
-  return {
-    title: `地方文化館要把「${subject}」做成一場六週實驗展`,
-    context: `團隊只剩四週準備，預算只夠完成一個主要介入。眼前材料指出：${context}。他們不能先決定展覽形式，必須回答「${focus}」，再用可驗證的證據選擇怎麼做。`,
-    perspectives: [
+  const dailyCase = topic.caseStudy;
+  const defaultPerspectives = [
       {
         name: '林策展人', role: '命題與證據', label: '策展視角',
         voice: `我先確認「${subject}」究竟要改變哪一種理解，而不是先挑作品。`,
@@ -478,7 +476,11 @@ function principleCaseStudy(topic) {
         assumptions: '一次性裝置能穩定運作六週；志工可補足專業人力；開幕完成就等於專案完成。',
         rebuild: '把展覽拆成最小可行版本，先保住一個核心體驗，為設備故障、內容更新與人力交接設計可替換的備援方案。'
       }
-    ]
+  ];
+  return {
+    title: dailyCase?.title || `地方文化館要把「${subject}」做成一場六週實驗展`,
+    context: dailyCase?.context || `團隊只剩四週準備，預算只夠完成一個主要介入。眼前材料指出：${context}。他們不能先決定展覽形式，必須回答「${focus}」，再用可驗證的證據選擇怎麼做。`,
+    perspectives: dailyCase?.perspectives?.length === 4 ? dailyCase.perspectives : defaultPerspectives
   };
 }
 
