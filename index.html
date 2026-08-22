@@ -103,6 +103,18 @@ a { color: inherit; }
 .principle-case-context span { color: #9ed4dc; font-size: 12px; font-weight: 800; letter-spacing: .13em; }
 .principle-case-context h4 { max-width: 880px; margin: 10px 0 8px; font-family: var(--serif); font-size: clamp(24px, 3vw, 36px); line-height: 1.3; }
 .principle-case-context p { max-width: 920px; margin: 0; color: #dce7e7; line-height: 1.8; }
+.principle-case-meta { margin-top: 22px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,.2); color: #eef6f6; }
+.principle-realworld-head { display: flex; flex-wrap: wrap; align-items: center; gap: 9px 14px; margin-bottom: 12px; }
+.principle-realworld-head b { padding: 5px 9px; border-radius: 999px; background: #9ed4dc; color: var(--ink); font-size: 12px; letter-spacing: .08em; }
+.principle-realworld-head span { color: #dce7e7; font-size: 13px; }
+.principle-case-meta h5 { margin: 18px 0 8px; font-size: 15px; color: #fff; }
+.principle-case-meta ul { margin: 8px 0 0; padding-left: 20px; }
+.principle-case-meta li { margin: 7px 0; line-height: 1.55; }
+.principle-case-meta a { color: #9ed4dc; text-underline-offset: 3px; }
+.principle-plan-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; margin-top: 12px; }
+.principle-plan-grid div { padding: 12px; border: 1px solid rgba(255,255,255,.16); background: rgba(255,255,255,.05); }
+.principle-plan-grid b { display: block; margin-bottom: 5px; color: #9ed4dc; font-size: 12px; letter-spacing: .05em; }
+.principle-plan-grid p { font-size: 14px; }
 .principle-perspectives { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-bottom: 1px solid var(--line); }
 .principle-perspective { min-height: 112px; padding: 20px; border: 0; border-right: 1px solid var(--line); background: #fffdf9; color: var(--ink); text-align: left; }
 .principle-perspective:last-child { border-right: 0; }
@@ -324,7 +336,7 @@ footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 1
       </div>
       <article class="principle-case" aria-labelledby="principleCaseHeading">
         <div class="principle-case-head"><div><p class="eyebrow">CASE STUDY / 4 PERSPECTIVES</p><h3 id="principleCaseHeading">同一個案例，四種第一性思考</h3></div><p>案例會跟著目前的策展課題更新。先選一位角色，看他如何分開問題、事實、假設與重建。</p></div>
-        <div class="principle-case-context"><span>具體案例</span><h4 id="principleCaseTitle"></h4><p id="principleCaseContext"></p></div>
+        <div class="principle-case-context"><span>具體案例</span><h4 id="principleCaseTitle"></h4><p id="principleCaseContext"></p><div id="principleCaseMeta" class="principle-case-meta" hidden></div></div>
         <div id="principlePerspectives" class="principle-perspectives" role="group" aria-label="選擇案例觀點"></div>
         <div id="principlePerspectiveDetail" class="principle-perspective-detail" aria-live="polite"></div>
         <div class="principle-case-actions"><button id="applyPrinciplePerspective" class="primary" type="button">填入這個視角的拆解示範</button><small>按下後會將示範內容帶入上方四個欄位，仍可自由修改。</small></div>
@@ -384,6 +396,11 @@ const lenses = {
 
 function esc(value = '') {
   return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+}
+
+function safeHref(value = '') {
+  const href = String(value).trim();
+  return /^https:\/\//i.test(href) ? href : '#';
 }
 
 function highlightText(value = '') {
@@ -480,7 +497,14 @@ function principleCaseStudy(topic) {
   return {
     title: dailyCase?.title || `地方文化館要把「${subject}」做成一場六週實驗展`,
     context: dailyCase?.context || `團隊只剩四週準備，預算只夠完成一個主要介入。眼前材料指出：${context}。他們不能先決定展覽形式，必須回答「${focus}」，再用可驗證的證據選擇怎麼做。`,
-    perspectives: dailyCase?.perspectives?.length === 4 ? dailyCase.perspectives : defaultPerspectives
+    perspectives: dailyCase?.perspectives?.length === 4 ? dailyCase.perspectives : defaultPerspectives,
+    realWorld: dailyCase?.realWorld === true,
+    country: dailyCase?.country || '',
+    location: dailyCase?.location || '',
+    statusAsOf: dailyCase?.statusAsOf || '',
+    latestUpdate: dailyCase?.latestUpdate || '',
+    references: Array.isArray(dailyCase?.references) ? dailyCase.references : [],
+    applicablePlan: dailyCase?.applicablePlan || null
   };
 }
 
@@ -502,6 +526,17 @@ function renderPrincipleCase(topic) {
   activePrinciplePerspective = 0;
   $('#principleCaseTitle').textContent = study.title;
   $('#principleCaseContext').textContent = study.context;
+  const meta = $('#principleCaseMeta');
+  const plan = study.applicablePlan;
+  const referenceHtml = study.references.map((reference) => `<li><a href="${esc(safeHref(reference.url))}" target="_blank" rel="noopener noreferrer">${esc(reference.title || reference.publisher || reference.url)}</a>${reference.publisher ? `｜${esc(reference.publisher)}` : ''}${reference.publishedAt || reference.accessedAt ? `｜${esc(reference.publishedAt || `查閱 ${reference.accessedAt}`) }` : ''}</li>`).join('');
+  const planHtml = plan ? `<h5>${esc(plan.title || '可運用方案')}</h5><p>${esc(plan.derivedFrom || '')}</p><div class="principle-plan-grid"><div><b>適用條件</b><p>${esc(plan.suitableWhen || '')}</p></div><div><b>不適用條件</b><p>${esc(plan.unsuitableWhen || '')}</p></div><div><b>三個步驟</b><p>${esc((plan.steps || []).join(' → '))}</p></div><div><b>角色與資源</b><p>${esc(plan.rolesAndResources || '')}</p></div><div><b>七日實驗</b><p>${esc(plan.sevenDayExperiment || '')}</p></div><div><b>成功／停止條件</b><p>${esc(plan.successEvidence || '')}；${esc(plan.stopConditions || '')}</p></div></div>` : '';
+  if (study.realWorld || plan) {
+    meta.hidden = false;
+    meta.innerHTML = `${study.realWorld ? `<div class="principle-realworld-head"><b>國外實際案例</b><span>${esc(study.country)}｜${esc(study.location)}｜查證截至 ${esc(study.statusAsOf)}</span></div><p>${esc(study.latestUpdate)}</p>${referenceHtml ? `<h5>查證來源</h5><ul>${referenceHtml}</ul>` : ''}` : '<div class="principle-realworld-head"><b>應用訓練</b><span>明確標示的模擬／轉譯案例</span></div>'}${planHtml}`;
+  } else {
+    meta.hidden = true;
+    meta.innerHTML = '';
+  }
   $('#principlePerspectives').innerHTML = study.perspectives.map((view, index) => `<button class="principle-perspective${index === 0 ? ' active' : ''}" type="button" data-principle-perspective="${index}" aria-pressed="${index === 0}"><b>${esc(view.name)}</b><span>${esc(view.role)}</span></button>`).join('');
   showPrinciplePerspective(topic, 0);
 }
