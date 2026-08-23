@@ -208,6 +208,9 @@ dialog h3 { font-size: 18px; margin-top: 42px; }
 .roundtable-dialogue span { color: var(--ink); }
 footer { border-top: 1px solid var(--line); padding: 34px max(28px, calc((100vw - 1240px) / 2)); font-size: 15px; font-weight: 700; letter-spacing: .05em; }
 footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 12px; font-weight: 400; letter-spacing: 0; }
+.site-network { display: flex; flex-wrap: wrap; gap: 10px 24px; margin-top: 20px; }
+.site-network a { color: var(--blue); font-size: 13px; font-weight: 700; letter-spacing: .02em; text-decoration: none; border-bottom: 1px solid var(--blue); }
+.site-network a:hover { color: var(--accent); border-color: var(--accent); }
 .copyright-notice { position: fixed; z-index: 19; right: 108px; bottom: 14px; max-width: min(760px, calc(100vw - 156px)); margin: 0; padding: 7px 12px; color: #52656b; background: #fbfaf5e8; border: 1px solid #c8d5d6; box-shadow: 0 4px 12px #15263012; font-size: 11px; font-weight: 400; line-height: 1.55; letter-spacing: 0; }
 
 .reading-companion { position: fixed; z-index: 20; right: 28px; bottom: 26px; display: flex; align-items: end; gap: 12px; pointer-events: none; }
@@ -292,7 +295,7 @@ footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 1
 <body>
   <header class="topbar topbar-overlay">
     <a class="brand" href="#top">CURATOR OS <span>策展思維工作台</span></a>
-    <nav><a href="#today">今日思考</a><a href="#project">我的專案</a><a href="#library">課題庫</a></nav>
+    <nav><a href="#today">今日思考</a><a href="#project">我的專案</a><a href="#library">課題庫</a><a href="https://yingchenghuang.github.io/raum-portfolio/" target="_blank" rel="noopener noreferrer">RAUM+ 作品集 ↗</a><a href="https://yingchenghuang.github.io/desktop-tutorial/" target="_blank" rel="noopener noreferrer">公共藝術檔案 ↗</a></nav>
   </header>
 
   <main id="top">
@@ -362,7 +365,7 @@ footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 1
   </main>
 
   <dialog id="detailDialog"><article><button id="closeDialog" class="dialog-close" aria-label="關閉">×</button><p id="detailCategory" class="eyebrow"></p><h2 id="detailTitle"></h2><p id="detailSummary" class="dialog-summary"></p><aside id="caseCompanion" class="case-companion" aria-label="案例伴讀機器人"><div class="case-robot" aria-hidden="true"><span class="case-robot-orbit"></span><span class="case-robot-face"><i></i><i></i><b></b></span></div><div class="case-companion-content"><p class="companion-label">案例伴讀機器人</p><p id="caseCompanionMessage" class="companion-message">我會依這個案例陪你閱讀。</p><div class="case-companion-actions"><button id="caseCompanionGuide" class="case-companion-guide" type="button">從第一題開始</button><button id="caseCompanionUse" class="companion-use" type="button">帶入這個課題</button></div></div></aside><h3>策展人提問</h3><div id="detailQuestions" class="question-list"></div><section class="renaissance-roundtable" aria-labelledby="roundtableTitle"><div class="roundtable-head"><div><p class="eyebrow">RENAISSANCE ROUND TABLE</p><h3 id="roundtableTitle">四傑思維圓桌</h3></div><p>創作性思維角色，不是歷史原話。</p></div><div id="renaissanceViews" class="renaissance-views"></div><div class="roundtable-dialogue"><p class="eyebrow">THEIR DIALOGUE</p><div id="renaissanceDialogue"></div></div></section><h3>策略方針</h3><p id="detailStrategy" class="preline"></p><h3>學徒任務</h3><p id="detailTask" class="preline"></p><section id="trainingSection"><h3>策展思考訓練</h3><p id="detailTraining" class="preline"></p></section><h3>完整備忘錄內容</h3><p id="detailRaw" class="preline"></p></article></dialog>
-  <footer>CURATOR OS <span>每日策展思考課題與訓練同步至 Notion 與本站。</span><small class="copyright-notice">本文著作權歸藝術家黃英誠所有。引用或轉載本文內容時，請完整註明作者姓名及資料出處。未經作者書面授權，不得將本文內容用於任何商業用途。</small></footer>
+  <footer>CURATOR OS <span>每日策展思考課題與訓練同步至 Notion 與本站。</span><nav class="site-network" aria-label="黃英誠網站連結"><a href="https://yingchenghuang.github.io/raum-portfolio/" target="_blank" rel="noopener noreferrer">RAUM+ 作品集 ↗</a><a href="https://yingchenghuang.github.io/desktop-tutorial/" target="_blank" rel="noopener noreferrer">公共藝術檔案 ↗</a></nav><small class="copyright-notice">本文著作權歸藝術家黃英誠所有。引用或轉載本文內容時，請完整註明作者姓名及資料出處。未經作者書面授權，不得將本文內容用於任何商業用途。</small></footer>
 
   <aside id="readingCompanion" class="reading-companion" aria-label="伴讀助手">
     <div class="companion-panel" aria-live="polite">
