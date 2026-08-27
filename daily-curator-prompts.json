@@ -3896,5 +3896,382 @@
         }
       ]
     }
+  },
+  {
+    "id": "daily-2026-08-28-question",
+    "daily": true,
+    "date": "2026-08-28",
+    "category": "專業策展人提問思考課題",
+    "lens": "制度與形式",
+    "source": "MoMA官方展覽頁與新聞稿（2026-08-28查證）",
+    "title": "建築展如何讓「解放」成為可驗證的設計取捨，而不是風格標籤？",
+    "summary": "以MoMA《Architects of Liberation》把西非獨立時期建築拆成政治自決、氣候材料與公共制度三組限制，要求每個形式判斷都有證據。",
+    "questions": [
+      "MoMA為何以1950年代末至1980年代而非單一風格分期？",
+      "七國差異若被合併，哪個政治事實最先消失？",
+      "約400／450件物件中，哪些能證明意圖、建造與使用？",
+      "錨點建築如何連到城市、教育或住宅制度？",
+      "第一代受訓非洲建築師的署名如何改變敘事權？",
+      "新委託照片與歷史圖面衝突時要標記什麼？",
+      "泛非主義是來源事實、策展分類還是推論？",
+      "觀眾如何完成一條限制到形式的證據鏈？",
+      "哪個形容詞若無物件支持就必須刪除？",
+      "移植到台灣公共建築時，什麼條件使類比失效？"
+    ],
+    "strategy": "第一性原理：建築形式是限制下的決定。分開政治目標、資源／氣候與使用制度，再用可追溯材料連成因果鏈；寧可少講一國，也不以「現代」抹平差異。",
+    "task": "七日內選一棟台灣公共建築，以6件材料完成「限制—決定—形式—後果」矩陣，請3名觀眾找出最弱因果鏈。",
+    "training": "一個來源只支持一項事實，所有推論標橘色；觀眾說不出限制如何迫使取捨時，重做而不是加字。",
+    "rawText": "查證截至2026-08-28：MoMA展期2026-07-05至2027-01-02，涵蓋七國；現行展頁稱約400件，2月新聞稿稱約450件，數量差異明示為官方版本差異。",
+    "caseStudy": {
+      "title": "MoMA以約400／450件材料重寫西非現代建築的解放敘事",
+      "context": "紐約MoMA三樓展至2027-01-02，涵蓋貝南、喀麥隆、象牙海岸、迦納、奈及利亞、塞內加爾、多哥；四年研究、50多個出借方與17國材料。核心衝突是呈現獨立政治與建築創新又不把七國壓成同一現代主義；不處理會再次以西方分類遮蔽作者與制度差異。",
+      "realWorld": true,
+      "country": "美國（內容涉及西非七國）",
+      "location": "The Museum of Modern Art, New York",
+      "statusAsOf": "2026-08-28",
+      "latestUpdate": "展覽進行中至2027-01-02；現行展頁約400件，早期新聞稿約450件。",
+      "references": [
+        {
+          "title": "Architects of Liberation: Modernism in Western Africa",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5906",
+          "accessedAt": "2026-08-28"
+        },
+        {
+          "title": "Architects of Liberation press release",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/wp-content/uploads/2026/02/MoMA_ArchitectsofLiberation_PressRelease_Final.pdf",
+          "publishedAt": "2026-02-05"
+        }
+      ],
+      "applicablePlan": {
+        "title": "限制—形式證據矩陣",
+        "derivedFrom": "MoMA以七國、錨點建築及約400／450件物件連結獨立政治和建築形式；三步為依案例推導的台灣試作。",
+        "suitableWhen": "建築展容易被降格為風格史時",
+        "unsuitableWhen": "無法取得設計、使用或制度證據時",
+        "steps": [
+          "列政治目標、氣候材料、資源三項限制",
+          "每項限制配一件圖面、口述或使用證據",
+          "刪除不能被證據支持的風格形容詞"
+        ],
+        "rolesAndResources": "策展人、建築研究者、使用者代表、登錄員；A1矩陣與6件材料",
+        "sevenDayExperiment": "90分鐘用一棟公共建築完成矩陣，邀3名觀眾重述取捨",
+        "successEvidence": "3人皆能指出至少兩條限制如何改變形式的因果鏈",
+        "stopConditions": "來源權利不明、在地聲音缺席或推論被誤標為事實"
+      },
+      "perspectives": [
+        {
+          "name": "Martino Stierli／Ikem Stanley Okoye",
+          "role": "策展人",
+          "label": "策展人",
+          "voice": "逐國建立限制—形式矩陣",
+          "problem": "七國差異可能被宏大敘事吃掉",
+          "facts": "四年研究、逾50出借方、17國",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "逐國建立限制—形式矩陣"
+        },
+        {
+          "name": "西非建築師與影像作者",
+          "role": "藝術家／創作者",
+          "label": "藝術家／創作者",
+          "voice": "每件材料附作者位置與不能證明之處",
+          "problem": "作品易被當作泛非風格例證",
+          "facts": "特別關注第一代受訓非洲建築師",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "每件材料附作者位置與不能證明之處"
+        },
+        {
+          "name": "非建築背景參觀者",
+          "role": "觀眾／社群",
+          "label": "觀眾／社群",
+          "voice": "以一棟建築完成三段因果鏈",
+          "problem": "大量材料造成認知超載",
+          "facts": "以城市、教育、住宅等錨點組織",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "以一棟建築完成三段因果鏈"
+        },
+        {
+          "name": "MoMA登錄與展示團隊",
+          "role": "執行／維護者",
+          "label": "執行／維護者",
+          "voice": "並列來源日期並維護事實／推論清單",
+          "problem": "400／450件差異傷害可信度",
+          "facts": "現行展頁與早期新聞稿數量不同",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "並列來源日期並維護事實／推論清單"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daily-2026-08-28-training",
+    "daily": true,
+    "date": "2026-08-28",
+    "category": "策展思考訓練",
+    "lens": "證據壓力測試",
+    "source": "Curator OS台灣試作情境",
+    "title": "六張證據卡能否推翻你對一棟公共建築的漂亮說法？",
+    "summary": "以台灣區圖書館入口改造的模擬提案，讓四角色用意圖、施工、使用各兩張卡，刪掉無法證明的判斷。",
+    "questions": [
+      "120萬元入口改善費中何者是真限制？",
+      "開館前21天能驗證幾個主張？",
+      "館方簡報能證明使用結果嗎？",
+      "輪椅路徑與平面圖哪裡衝突？",
+      "採光主張需要哪項量測？",
+      "保全尖峰紀錄如何改寫動線？",
+      "哪張卡只是意見？",
+      "四角色各能否否決一條錯誤因果？",
+      "三位測試者要說出什麼才算理解？",
+      "何時該縮小展覽而非補字？"
+    ],
+    "strategy": "第一性原理：主張強度不能超過證據。形式解釋拆成意圖、建造、使用，任何一層斷裂就降級為假設。",
+    "task": "90分鐘製作6卡，邀3位使用者走入口；刪除至少一條無法被路徑、量測或紀錄支持的說法。",
+    "training": "每人扮演一視角並有一次否決權；否決要指出缺少哪類證據，最後只留三條最短因果鏈。",
+    "rawText": "模擬情境：120萬元、開館前21天、6張證據卡、3位使用者；人物與預算為訓練設定。",
+    "caseStudy": {
+      "title": "21天內替區圖書館入口策展：120萬元與六張證據卡",
+      "context": "模擬台灣區圖書館距開館21天、預算120萬元；館長、藝術家、兩位輪椅使用者、保全與維護員參與。美學主張與真實路徑不一致；不行動會延續阻礙並以文案掩飾。",
+      "applicablePlan": {
+        "title": "一棟建築六證據壓力測試",
+        "derivedFrom": "依MoMA案例反向設計的台灣模擬訓練。",
+        "suitableWhen": "已有場域但論述抽象",
+        "unsuitableWhen": "無法訪談使用者",
+        "steps": [
+          "收集意圖、施工、使用各兩證據",
+          "四角色各刪一個無證據判斷",
+          "排成三條因果鏈"
+        ],
+        "rolesAndResources": "4人、6張卡、錄音同意單、90分鐘",
+        "sevenDayExperiment": "圖書館入口用6卡測試3位使用者",
+        "successEvidence": "至少2位指出制度限制與空間後果",
+        "stopConditions": "不同意公開或史實推論無法區分"
+      },
+      "perspectives": [
+        {
+          "name": "林策展",
+          "role": "策展人",
+          "label": "策展人",
+          "voice": "逐卡標事實假設缺口",
+          "problem": "開幕壓力鼓勵漂亮文案",
+          "facts": "期限21天、預算120萬元",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "逐卡標事實假設缺口"
+        },
+        {
+          "name": "吳藝術家",
+          "role": "藝術家／創作者",
+          "label": "藝術家／創作者",
+          "voice": "移動1:1紙樣再定稿",
+          "problem": "作品位置壓縮輪椅轉向",
+          "facts": "有一處眩光",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "移動1:1紙樣再定稿"
+        },
+        {
+          "name": "陳小姐等3位測試者",
+          "role": "觀眾／社群",
+          "label": "觀眾／社群",
+          "voice": "保留路徑影像與樣本限制",
+          "problem": "意見易被當成個案",
+          "facts": "兩人同路徑卡在轉角",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "保留路徑影像與樣本限制"
+        },
+        {
+          "name": "黃班長",
+          "role": "執行／維護者",
+          "label": "執行／維護者",
+          "voice": "把疏散清潔納入否決門檻",
+          "problem": "效果圖不含維護成本",
+          "facts": "17:30尖峰、雨天積水",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "把疏散清潔納入否決門檻"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daily-2026-08-28-participatory",
+    "daily": true,
+    "date": "2026-08-28",
+    "category": "國際民眾參與策展實作",
+    "lens": "口述權與共同編輯",
+    "source": "Leicester Museums、St Philip’s Centre、EMOHA（2026-08-28查證）",
+    "title": "從103段口述到一面可撤回的展牆：居民如何真的擁有編輯與否決權？",
+    "summary": "取材英國Leicester《Living Together》：103位居民口述、敏感資料同意及共同製作；轉成台灣150分鐘、12人、有補償與撤回權的工作坊。",
+    "questions": [
+      "103人如何避免被平均成和諧故事？",
+      "18至100歲素材如何不以同一形式處理？",
+      "三種出生背景比例是事實還是代表承諾？",
+      "宗教等敏感資料誰決定公開？",
+      "參與者何時能改寫分類？",
+      "哪種否決權必須寫入流程？",
+      "活動留言如何升級共同編輯？",
+      "每人800元能否降低取用？",
+      "七日撤回如何同步所有副本？",
+      "什麼證據顯示機構回覆？"
+    ],
+    "strategy": "第一性原理：參與不是交出故事，而是控制用途。把發言權拆成選擇、編輯、分類、匿名、撤回；沒有可行使的否決就不稱共同策展。",
+    "task": "七日內招募12人，以1.6萬元內完成150分鐘試作，產出12句、4分類、權限表與回覆清單。",
+    "training": "主持人不得代修句子；每組至少一次改寫或否決，結束以權限表逐句核對。",
+    "rawText": "已知：Living Together記錄103人、展覽2026-02-07至05-24，網站與檔案延續，敏感資料經同意與檢查。台灣流程為推導試作。",
+    "caseStudy": {
+      "title": "Leicester《Living Together》：103位居民如何共同製作城市生活敘事",
+      "context": "Leicester Museum於2026-02-07至05-24展出，記錄103位18至100歲居民，約各三分之一海外出生、英國外地出生、Leicester出生，涵蓋宗教、族群、身心障礙、神經多樣性及LGBTQ+。凝聚敘事可能壓平排除與歧視；不處理會把敏感口述變成和諧宣傳。網站與EMOHA持續保存成果。",
+      "realWorld": true,
+      "participatory": true,
+      "country": "英國",
+      "location": "Leicester Museum & Art Gallery／St Philip’s Centre",
+      "statusAsOf": "2026-08-28",
+      "latestUpdate": "實體展已結束；103份口述、教育內容與檔案仍可查，EMOHA於2026-06說明後續典藏及敏感資料處理。",
+      "references": [
+        {
+          "title": "Living Together",
+          "publisher": "Leicester Museums",
+          "url": "https://www.leicestermuseums.org/LivingTogether2026",
+          "accessedAt": "2026-08-28"
+        },
+        {
+          "title": "Living Together project",
+          "publisher": "St Philip’s Centre",
+          "url": "https://www.leicesterlivingtogether.com/",
+          "accessedAt": "2026-08-28"
+        },
+        {
+          "title": "Living Together in Leicester",
+          "publisher": "East Midlands Oral History Archive",
+          "url": "https://eastmidsoha.home.blog/2026/06/03/living-together-in-leicester/",
+          "publishedAt": "2026-06-03"
+        }
+      ],
+      "applicablePlan": {
+        "title": "三句話共同編輯工作坊",
+        "derivedFrom": "Living Together的103人跨背景口述、展示活動與敏感資料同意；時長補償為台灣試作。",
+        "suitableWhen": "社群願談共同生活且機構能後續回覆",
+        "unsuitableWhen": "衝突升高、無安全轉介或只想收故事",
+        "steps": [
+          "招募12人、每人800元並分層同意",
+          "四組選可公開、匿名、不可用各一句",
+          "共同編輯歡迎／排除／未回答展牆"
+        ],
+        "rolesAndResources": "2主持、1同意紀錄員、關懷者；句卡、錄音、同意表；約1.6萬元",
+        "sevenDayExperiment": "150分鐘、12人，完成12句與權限表",
+        "successEvidence": "每組至少一次編輯或否決，全部句卡有權限",
+        "stopConditions": "被迫代表群體、敏感內容不可撤回或出現針對性傷害"
+      },
+      "workshopDesign": {
+        "title": "三句話共同編輯：從口述到可撤回的展牆",
+        "participationGoal": "居民決定哪些話可公開、如何分類、何時撤回。",
+        "participantProfile": "12位跨居住年資、語言、年齡與身心條件居民；不要求代表群體。",
+        "groupSize": "12位＋3位工作人員",
+        "duration": "150分鐘（台灣試作版本）",
+        "materials": [
+          "句卡",
+          "三色權限貼紙",
+          "錄音筆耳機",
+          "A1展牆紙",
+          "同意撤回表",
+          "每人800元"
+        ],
+        "facilitatorRoles": [
+          "主主持守權力邊界",
+          "共同主持協助語言",
+          "紀錄員維護權限"
+        ],
+        "preparation": "七日內定向招募、易讀說明，確認翻譯、無障礙、轉介與已同意素材。",
+        "steps": [
+          {
+            "time": "15分鐘",
+            "facilitatorAction": "說明拒答、匿名、撤回與補償",
+            "participantAction": "選擇錄音／筆記／不紀錄",
+            "visibleOutput": "個人權限卡"
+          },
+          {
+            "time": "25分鐘",
+            "facilitatorAction": "以歡迎或排除提問且不追問創傷",
+            "participantAction": "兩人一組說或寫經驗",
+            "visibleOutput": "12則片段"
+          },
+          {
+            "time": "25分鐘",
+            "facilitatorAction": "提供三色貼紙",
+            "participantAction": "標可公開、匿名、不可用",
+            "visibleOutput": "權限化句卡"
+          },
+          {
+            "time": "35分鐘",
+            "facilitatorAction": "限制自己不代寫",
+            "participantAction": "四組選三句並命名分類",
+            "visibleOutput": "12句與4分類"
+          },
+          {
+            "time": "30分鐘",
+            "facilitatorAction": "讀出排列與缺席聲音",
+            "participantAction": "移動、改寫或否決",
+            "visibleOutput": "共同編輯展牆"
+          },
+          {
+            "time": "20分鐘",
+            "facilitatorAction": "逐句確認並提供7日撤回",
+            "participantAction": "簽認或撤回並寫機構回覆",
+            "visibleOutput": "權限表與回覆清單"
+          }
+        ],
+        "outputs": "12張句卡、4分類、權限表、機構回覆清單",
+        "documentation": "只記錄允許版本；權限與內容分開保存；7日內寄回逐字與照片。",
+        "consentAndCare": "分層同意、匿名／拒答／撤回；每人800元；安靜區、翻譯、關懷轉介。",
+        "debriefQuestions": [
+          "誰實際改了分類？",
+          "哪句被否決？",
+          "缺席者會如何反對？",
+          "機構七日內回覆什麼？"
+        ],
+        "adaptationNotes": "時長、人數、材料與補償是依案例提出的台灣試作版本，非Leicester官方流程。",
+        "successEvidence": "四組皆改寫或否決；權限100%完整；撤回可執行。",
+        "stopConditions": "仇恨指向、代表性壓力、同意不清或無法承諾撤回時停止。"
+      },
+      "perspectives": [
+        {
+          "name": "St Philip’s Centre與博物館團隊",
+          "role": "策展人",
+          "label": "策展人",
+          "voice": "把分類、匿名、撤回、否決交給居民",
+          "problem": "和諧主題可能蓋過排除",
+          "facts": "103人、九主題、展覽與網站",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "把分類、匿名、撤回、否決交給居民"
+        },
+        {
+          "name": "口述者與創意參與者",
+          "role": "藝術家／創作者",
+          "label": "藝術家／創作者",
+          "voice": "逐句權限與七日撤回",
+          "problem": "剪輯可能脫離語境",
+          "facts": "跨18至100歲且有錄音逐字",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "逐句權限與七日撤回"
+        },
+        {
+          "name": "12位台灣試作居民",
+          "role": "觀眾／社群",
+          "label": "觀眾／社群",
+          "voice": "保留異議、不投票淘汰",
+          "problem": "代表性壓力逼人代言",
+          "facts": "每人800元、四組、12句",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "保留異議、不投票淘汰"
+        },
+        {
+          "name": "同意紀錄員與檔案員",
+          "role": "執行／維護者",
+          "label": "執行／維護者",
+          "voice": "建立內容—副本—權限清單",
+          "problem": "各副本權限不一致",
+          "facts": "宗教等敏感資料經檢查",
+          "assumptions": "更多素材或參與自然等於更完整的代表。",
+          "rebuild": "建立內容—副本—權限清單"
+        }
+      ]
+    }
   }
 ]
