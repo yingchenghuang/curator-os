@@ -4273,5 +4273,376 @@
         }
       ]
     }
+  },
+  {
+    "id": "daily-2026-08-29-question",
+    "daily": true,
+    "date": "2026-08-29",
+    "category": "專業策展人提問思考課題",
+    "lens": "敘事位置",
+    "source": "MoMA官方專題與雜誌（2026-08-29查證）",
+    "title": "超過100部移民電影，如何不把「共同渴望」剪成單一美國夢？",
+    "summary": "以MoMA《Immigrant Nation: People in Transit》檢查誰拍、拍誰、為誰而拍，讓跨境經驗的矛盾、幻滅與尊嚴保持可辨認。",
+    "questions": [
+      "超過100部影片中誰擁有第一人稱？",
+      "美國夢在何處是願景、何處是幻滅？",
+      "葡萄牙移民策展人的位置如何影響選片？",
+      "哪些導演曾被主流產業排除？",
+      "跨越哪些國家仍不能代表全球？",
+      "長片與短片如何公平分配注意力？",
+      "字幕會刪掉哪種語氣？",
+      "觀眾如何辨認人物是主體而非案例？",
+      "台灣移植時哪個美國脈絡不可直接類比？",
+      "哪項證據顯示展覽改變了觀看位置？"
+    ],
+    "strategy": "第一性原理：遷移不是單一主題，而是敘事權的移動。先確認作者、被攝者、觀眾與制度的位置，再決定片單；共同性必須建立在差異可見之後。",
+    "task": "七日內選12段各3分鐘材料完成敘事位置稽核，讓3位觀眾指出缺席者與失效類比。",
+    "training": "每段只能寫一項可驗證事實與一項策展推論；若無法回答誰有最後剪輯權，就不得把它稱為當事人聲音。",
+    "rawText": "查證截至2026-08-29：MoMA系列自2026-07-03至09-10，超過100部長短片；策展人Francisco Valente以自身葡萄牙移民經驗及被主流排除的導演視角重構美國夢。",
+    "caseStudy": {
+      "title": "MoMA以超過100部影片重構美國夢的敘事位置",
+      "context": "紐約MoMA Roy and Niuta Titus Theaters於2026-07-03至09-10放映超過100部長片、紀錄片與短片，跨多國與數十年。核心衝突是以共同尊嚴建立連結，卻可能把制度差異與幻滅磨平；不處理會讓移民再次只成為國家敘事的素材。",
+      "realWorld": true,
+      "country": "美國",
+      "location": "The Museum of Modern Art, New York",
+      "statusAsOf": "2026-08-29",
+      "latestUpdate": "系列正在放映，官方頁列至2026-09-10；8月14日專訪補充策展人的移民位置與選片原則。",
+      "references": [
+        {
+          "title": "Immigrant Nation: People in Transit",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/film-media/immigrantnation/",
+          "accessedAt": "2026-08-29"
+        },
+        {
+          "title": "Reframing the American Dream on Film",
+          "publisher": "MoMA Magazine",
+          "url": "https://www.moma.org/magazine/articles/1451",
+          "publishedAt": "2026-08-14"
+        }
+      ],
+      "applicablePlan": {
+        "title": "敘事位置稽核表",
+        "derivedFrom": "MoMA以超過100部影片、跨國導演與移民自身視角重構美國夢；以下為台灣策展推導。",
+        "suitableWhen": "跨文化展覽素材多但發言位置不均",
+        "unsuitableWhen": "無法確認作者與當事人位置",
+        "steps": [
+          "把素材依誰拍、拍誰、為誰而拍分欄",
+          "每欄至少保留一個反駁主敘事的材料",
+          "請3位觀眾標記誰缺席及哪個類比失效"
+        ],
+        "rolesAndResources": "策展人、社群顧問、字幕／授權人員；12張影片卡、A1稽核表",
+        "sevenDayExperiment": "選12段各3分鐘片段，90分鐘測試3位觀眾能否辨認四種敘事位置",
+        "successEvidence": "3人均能指出至少一個被主敘事遮蔽的作者位置",
+        "stopConditions": "字幕失真、授權不明或當事人只被當作苦難證據"
+      },
+      "perspectives": [
+        {
+          "name": "Francisco Valente",
+          "role": "策展人",
+          "label": "策展人",
+          "voice": "公開自己的策展位置並逐片標記敘事權",
+          "problem": "百部影片可能把遷移差異壓成單一美國夢",
+          "facts": "系列超過100部，至9月10日",
+          "assumptions": "數量增加就自然帶來觀點公平。",
+          "rebuild": "公開自己的策展位置並逐片標記敘事權"
+        },
+        {
+          "name": "跨國移民導演",
+          "role": "藝術家／創作者",
+          "label": "藝術家／創作者",
+          "voice": "把第一人稱與不能代表之處寫入片卡",
+          "problem": "作品容易被策展框架代言",
+          "facts": "包含移民自身與被主流排除的導演",
+          "assumptions": "數量增加就自然帶來觀點公平。",
+          "rebuild": "把第一人稱與不能代表之處寫入片卡"
+        },
+        {
+          "name": "一般電影觀眾",
+          "role": "觀眾／社群",
+          "label": "觀眾／社群",
+          "voice": "用12段比較而非接受單一結論",
+          "problem": "長片與短片造成觀看門檻",
+          "facts": "共同影院讓不同觀眾建立各自關係",
+          "assumptions": "數量增加就自然帶來觀點公平。",
+          "rebuild": "用12段比較而非接受單一結論"
+        },
+        {
+          "name": "MoMA電影排片與字幕團隊",
+          "role": "執行／維護者",
+          "label": "執行／維護者",
+          "voice": "維護作者、字幕、授權、放映版本對照表",
+          "problem": "排片與授權決定哪些聲音能持續被看見",
+          "facts": "長短片跨多國且需字幕與授權",
+          "assumptions": "數量增加就自然帶來觀點公平。",
+          "rebuild": "維護作者、字幕、授權、放映版本對照表"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daily-2026-08-29-training",
+    "daily": true,
+    "date": "2026-08-29",
+    "category": "策展思考訓練",
+    "lens": "字幕與剪輯",
+    "source": "Curator OS台灣模擬訓練",
+    "title": "用四段三分鐘影像測試：字幕正在翻譯，還是在替人物下結論？",
+    "summary": "以高雄移工影像展模擬案，讓策展人、創作者、社群與字幕維護者共同檢查語氣、剪輯和撤回權。",
+    "questions": [
+      "四段影像各由誰拍攝？",
+      "三分鐘剪輯刪掉什麼前因？",
+      "越南語敬語如何被翻成中文？",
+      "哪句字幕是事實、哪句是判斷？",
+      "當事人何時能改字幕？",
+      "不同意公開能否撤回？",
+      "觀眾能否聽見原音？",
+      "策展人旁白何時應沉默？",
+      "字幕修改如何留下版本？",
+      "何種錯誤出現就停止放映？"
+    ],
+    "strategy": "第一性原理：字幕不是透明管道，而是第二次剪輯。逐句分開原意、語境與策展推論，並把修改、否決和撤回交還給說話者。",
+    "task": "七日內用4段各3分鐘影像、雙語逐字與4位測試者完成字幕版本稽核。",
+    "training": "每句字幕由一位語言者與一位當事人雙確認；不能確認的句子標示未決，不以流暢取代準確。",
+    "rawText": "此為台灣模擬訓練：高雄社區場地、4段影像、雙語校對費2萬元、7日期限。",
+    "caseStudy": {
+      "title": "高雄移工影像展：四段三分鐘與兩萬元字幕校對",
+      "context": "模擬高雄社區展距試映7天，4段越南語與中文影像、字幕校對費2萬元；策展人、兩名影像作者、四名移工測試者、字幕員參與。衝突是流暢中文抹去語氣與不同意；不修正會把人物再次剪成機構結論。",
+      "applicablePlan": {
+        "title": "逐句字幕權限表",
+        "derivedFrom": "由MoMA案例反向設計的台灣模擬訓練。",
+        "suitableWhen": "跨文化展覽素材多但發言位置不均",
+        "unsuitableWhen": "無法確認作者與當事人位置",
+        "steps": [
+          "把素材依誰拍、拍誰、為誰而拍分欄",
+          "每欄至少保留一個反駁主敘事的材料",
+          "請3位觀眾標記誰缺席及哪個類比失效"
+        ],
+        "rolesAndResources": "策展人、社群顧問、字幕／授權人員；12張影片卡、A1稽核表",
+        "sevenDayExperiment": "4段影像由4位測試者逐句標記保留、改寫、匿名、撤回",
+        "successEvidence": "3人均能指出至少一個被主敘事遮蔽的作者位置",
+        "stopConditions": "字幕失真、授權不明或當事人只被當作苦難證據"
+      },
+      "perspectives": [
+        {
+          "name": "林策展",
+          "role": "策展人",
+          "label": "策展人",
+          "voice": "公開策展旁白與原音的界線",
+          "problem": "流暢字幕可能掩蓋原意。",
+          "facts": "7天與2萬元",
+          "assumptions": "中文通順就代表翻譯正確。",
+          "rebuild": "刪除無證據旁白"
+        },
+        {
+          "name": "阮導演",
+          "role": "藝術家／創作者",
+          "label": "藝術家／創作者",
+          "voice": "保留停頓與不確定",
+          "problem": "流暢字幕可能掩蓋原意。",
+          "facts": "4段各3分鐘",
+          "assumptions": "中文通順就代表翻譯正確。",
+          "rebuild": "保留原音並標語境"
+        },
+        {
+          "name": "四位移工測試者",
+          "role": "觀眾／社群",
+          "label": "觀眾／社群",
+          "voice": "我們能改寫、匿名或撤回",
+          "problem": "流暢字幕可能掩蓋原意。",
+          "facts": "4位測試者",
+          "assumptions": "中文通順就代表翻譯正確。",
+          "rebuild": "逐句行使否決"
+        },
+        {
+          "name": "陳字幕員",
+          "role": "執行／維護者",
+          "label": "執行／維護者",
+          "voice": "每句保留版本與確認人",
+          "problem": "流暢字幕可能掩蓋原意。",
+          "facts": "雙語逐字稿",
+          "assumptions": "中文通順就代表翻譯正確。",
+          "rebuild": "建立字幕權限表"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daily-2026-08-29-participatory",
+    "daily": true,
+    "date": "2026-08-29",
+    "category": "國際民眾參與策展實作",
+    "lens": "模組共創與排列權",
+    "source": "東九文化中心及香港表演藝術官方資料（2026-08-29查證）",
+    "title": "當500多個織片繼續生長，民眾能否決定作品怎麼被看見？",
+    "summary": "取材香港《Woven Pulse》：居民、青年與藝術家共同編織，現場織片持續加入感應牆；轉成有排列、匿名、否決與撤回權的台灣120分鐘工作坊。",
+    "questions": [
+      "500多個起始織片由誰製作？",
+      "參與者能決定顏色之外的什麼？",
+      "90分鐘官方工作坊的權力邊界為何？",
+      "心率轉色是否保存生理資料？",
+      "誰決定織片在牆上的位置？",
+      "新增越多是否一定更具代表性？",
+      "6歲參與者如何取得同意？",
+      "故事連到NFC前誰審核？",
+      "撤回一片如何不破壞整體？",
+      "台灣版何種證據才算共同策展？"
+    ],
+    "strategy": "第一性原理：共同製作不等於共同決定。把參與拆為選材、命名、排列、匿名、否決與撤回；至少讓每人掌握位置或公開狀態。",
+    "task": "七日內招募16人，以1.8萬元完成120分鐘試作，產出16片、共同排列規則與權限清單。",
+    "training": "主持人不可替參與者選色或位置；每組必須重排或否決一次，逐片確認公開狀態。",
+    "rawText": "已知：展期至2026-08-31，8月29、30仍有工作坊，免費、約90分鐘、6歲以上；中心牆由500多片起始並持續加入。台灣流程為推導。",
+    "caseStudy": {
+      "title": "香港《Woven Pulse》：500多片起始織物如何變成持續生長的社群作品",
+      "context": "香港東九文化中心The Link自2026-07-01至08-31展出，8月29、30仍有每日三場工作坊；居民、學生、藝術家陳郁與黎潤詩參與，起始牆超過500片。核心衝突是民眾製作織片但排列與詮釋權可能仍在藝術家；不處理會把共創降為免費勞動與漂亮數量。",
+      "realWorld": true,
+      "participatory": true,
+      "country": "香港",
+      "location": "East Kowloon Cultural Centre, The Link",
+      "statusAsOf": "2026-08-29",
+      "latestUpdate": "展覽進行至8月31；8月29、30仍有11:00、14:00、16:00場次，免費、每場約90分鐘。",
+      "references": [
+        {
+          "title": "Woven Pulse",
+          "publisher": "East Kowloon Cultural Centre／LCSD",
+          "url": "https://www.ekcc.hk/en/events/2026/woven-pulse.html",
+          "accessedAt": "2026-08-29"
+        },
+        {
+          "title": "Woven Pulse programme record",
+          "publisher": "Hong Kong Performing Arts",
+          "url": "https://www.performing-arts.gov.hk/tc/02550000000/0255000000006308.html",
+          "accessedAt": "2026-08-29"
+        }
+      ],
+      "applicablePlan": {
+        "title": "可拆換的社群模組牆",
+        "derivedFrom": "Woven Pulse以500多個起始織片、現場持續新增及感應互動形成成長作品；台灣流程為推導試作。",
+        "suitableWhen": "參與者能以小模組留下可見選擇",
+        "unsuitableWhen": "機構不願讓參與者決定展示位置或撤回",
+        "steps": [
+          "招募16人並支付每人600元",
+          "每人將一種場域感受轉為色彩與織片",
+          "全組共同決定排列、匿名與可撤回狀態"
+        ],
+        "rolesAndResources": "2主持、1紀錄員；16份織材、色票、權限卡、1.8萬元",
+        "sevenDayExperiment": "120分鐘完成16片與一面可重排牆",
+        "successEvidence": "16人皆選顏色與位置，至少一次重排或否決",
+        "stopConditions": "感測資料被保存、未成年同意不清、作品位置由藝術家單方面決定"
+      },
+      "workshopDesign": {
+        "title": "一格一心情：可重排的社群織片牆",
+        "participationGoal": "讓參與者決定顏色、故事公開程度、織片位置與撤回。",
+        "participantProfile": "16位6歲以上居民；未成年須監護同意。",
+        "groupSize": "16人＋3工作人員",
+        "duration": "120分鐘（根據案例提出的台灣試作版本）",
+        "materials": [
+          "回收布條",
+          "小織框",
+          "色票",
+          "權限卡",
+          "可拆掛網",
+          "每人600元"
+        ],
+        "facilitatorRoles": [
+          "主主持說明權力",
+          "織作協助者不代做",
+          "紀錄員管理同意撤回"
+        ],
+        "preparation": "七日招募、提供易讀同意；不保存心率等生理資料。",
+        "steps": [
+          {
+            "time": "15分鐘",
+            "facilitatorAction": "說明公開與撤回",
+            "participantAction": "選權限",
+            "visibleOutput": "權限卡"
+          },
+          {
+            "time": "15分鐘",
+            "facilitatorAction": "引導顏色對應感受",
+            "participantAction": "選色或拒答",
+            "visibleOutput": "個人色票"
+          },
+          {
+            "time": "35分鐘",
+            "facilitatorAction": "示範後退到旁邊",
+            "participantAction": "完成織片",
+            "visibleOutput": "16片"
+          },
+          {
+            "time": "20分鐘",
+            "facilitatorAction": "提出三種排列規則",
+            "participantAction": "移動並命名區塊",
+            "visibleOutput": "共同版面"
+          },
+          {
+            "time": "20分鐘",
+            "facilitatorAction": "指出權力差距",
+            "participantAction": "改寫、匿名或否決",
+            "visibleOutput": "權限化牆面"
+          },
+          {
+            "time": "15分鐘",
+            "facilitatorAction": "逐片確認七日撤回",
+            "participantAction": "簽認或取回",
+            "visibleOutput": "清單與照片"
+          }
+        ],
+        "outputs": "16片、共同排列規則、權限清單",
+        "documentation": "只拍已同意版本；七日內寄回照片，撤回同步清單。",
+        "consentAndCare": "每人600元、可拒答匿名撤回；未成年雙重同意，不蒐集生理資料。",
+        "debriefQuestions": [
+          "誰決定中心位置？",
+          "哪片被移動或否決？",
+          "成長是否等於更多？",
+          "機構要如何回覆？"
+        ],
+        "adaptationNotes": "官方工作坊約90分鐘且免費；此120分鐘、16人、補償與決定權為台灣試作。",
+        "successEvidence": "每人完成一次位置選擇，至少一次重排或否決。",
+        "stopConditions": "同意不清、被迫揭露情緒、藝術家收回排列權時停止。"
+      },
+      "perspectives": [
+        {
+          "name": "陳郁／黎潤詩",
+          "role": "策展人",
+          "label": "策展人",
+          "voice": "設計問題但交出排列邊界",
+          "problem": "製作權不必然等於策展權。",
+          "facts": "展至8月31、起始逾500片",
+          "assumptions": "作品持續增長就代表參與公平。",
+          "rebuild": "公開不可更動與可共決範圍"
+        },
+        {
+          "name": "居民與青年織作者",
+          "role": "藝術家／創作者",
+          "label": "藝術家／創作者",
+          "voice": "我的織片與故事可匿名撤回",
+          "problem": "製作權不必然等於策展權。",
+          "facts": "官方稱居民學生共創",
+          "assumptions": "作品持續增長就代表參與公平。",
+          "rebuild": "增加位置與公開選擇"
+        },
+        {
+          "name": "台灣16位試作居民",
+          "role": "觀眾／社群",
+          "label": "觀眾／社群",
+          "voice": "我能選位置並否決排列",
+          "problem": "製作權不必然等於策展權。",
+          "facts": "台灣版16人各600元",
+          "assumptions": "作品持續增長就代表參與公平。",
+          "rebuild": "至少一次共同重排"
+        },
+        {
+          "name": "同意紀錄員",
+          "role": "執行／維護者",
+          "label": "執行／維護者",
+          "voice": "維護每片權限與副本",
+          "problem": "製作權不必然等於策展權。",
+          "facts": "官方工作坊約90分鐘",
+          "assumptions": "作品持續增長就代表參與公平。",
+          "rebuild": "建立織片—照片—同意清單"
+        }
+      ]
+    }
   }
 ]
