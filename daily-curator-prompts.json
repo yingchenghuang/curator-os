@@ -4988,5 +4988,435 @@
         "stopConditions": "任何人撤回個人故事、來源顯示物件可能非法取得、傷害性衝突無照護資源，或館方拒絕履行七日回覆時停止公開"
       }
     }
+  },
+  {
+    "id": "daily-2026-08-31-curator",
+    "daily": true,
+    "date": "2026-08-31",
+    "category": "專業策展人提問思考課題",
+    "lens": "把研究過程策展化",
+    "source": "National Gallery of Art 官方資料（查證截至2026-08-31）",
+    "title": "24位學生走進國家藝廊後，研究過程本身能不能成為展覽？",
+    "summary": "美國國家藝廊《Reimagining America by Design》今天開展：24位 Corcoran 學生以一學期研究18,257幅 Index of American Design 水彩，策展不只展示答案，也公開作業、發現與方法。",
+    "questions": [
+      "24位學生哪些研究步驟值得被觀眾看見？",
+      "18,257幅水彩如何縮成可理解的選件範圍？",
+      "作業、失敗與修正誰有權公開？",
+      "六位學生策展人與教師、館方如何分權？",
+      "Research & Process 到10月30日要證明什麼？",
+      "11月2日換成 Work & Play 時敘事如何轉場？",
+      "複製品、交易卡與檔案材料各提供何種證據？",
+      "觀眾如何區分課程成果與館方定論？",
+      "七日試作能公開哪三個研究版本？",
+      "何時過程展示只剩幕後花絮？"
+    ],
+    "strategy": "第一性原理：研究不是通往展覽的廢料，而是讓選擇可被檢查的證據。已知：24位學生一學期進館研究；首階段8月31日至10月30日展示作業與發現，整體至12月31日。推論：台灣可用三版選件圖與理由變更紀錄，公開策展判斷如何形成。",
+    "task": "七日內選一個12件材料庫，保存初選、反證後修正、最終選擇三版，每版寫出刪除與保留理由。",
+    "training": "每次改選必須記錄新證據、被推翻假設與仍未知處；禁止只寫『更適合主題』。",
+    "rawText": "今天開展的 Reimagining America by Design 把課程作業與研究發現放進國家藝廊。本題用三版選件紀錄，把過程從幕後升級為觀眾可檢查的策展材料。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區／National Gallery of Art East Building Library Atrium",
+      "statusAsOf": "2026-08-31",
+      "latestUpdate": "《Reimagining America by Design》於2026-08-31開展；Research & Process 至10-30，Work & Play 於11-02至12-31接續。",
+      "references": [
+        {
+          "title": "In the Library: Reimagining America by Design",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+          "accessedAt": "2026-08-31"
+        },
+        {
+          "title": "Research Initiatives: Reimagining America by Design",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/research/center/annual-reports/center-46/research-initiatives",
+          "accessedAt": "2026-08-31"
+        }
+      ],
+      "title": "Reimagining America by Design：把一學期的研究變成兩階段展覽",
+      "context": "2026年8月31日，美國國家藝廊展出24位 Corcoran 大學生對18,257幅 Index of American Design 水彩的研究。台灣試作以7天、12件資料、3次版本、4人團隊與新台幣8,000元測試；若只秀成品，觀眾看不見選擇如何被證據修正。",
+      "perspectives": [
+        {
+          "name": "學生策展人代表",
+          "role": "策展人",
+          "label": "問題與邊界",
+          "voice": "先把決定如何形成說清楚。",
+          "problem": "問題怎麼被設定？",
+          "facts": "官方記錄24位學生與一學期合作課程。",
+          "assumptions": "機構流程天然中立",
+          "rebuild": "公開三版選件與變更理由。"
+        },
+        {
+          "name": "學生創作者",
+          "role": "藝術家／創作者",
+          "label": "材料與作者性",
+          "voice": "材料不能只證明策展人的答案。",
+          "problem": "創作證據如何不被挪用？",
+          "facts": "官方展覽把學生作業、繪圖、3D複製品與交易卡納入成果。",
+          "assumptions": "專業語言比創作者經驗可靠",
+          "rebuild": "標出本人作品與館藏資料的界線。"
+        },
+        {
+          "name": "一般觀眾",
+          "role": "觀眾／社群",
+          "label": "決定與回應",
+          "voice": "我需要真正能改變成果的權利。",
+          "problem": "參與者能決定什麼？",
+          "facts": "展覽首階段公開研究方法與發現至10月30日。",
+          "assumptions": "出席就等於參與",
+          "rebuild": "以『哪項證據改變選擇』回應版本牆。"
+        },
+        {
+          "name": "圖書館檔案員",
+          "role": "執行／維護者",
+          "label": "紀錄與照護",
+          "voice": "同意、版本與後續都要有人負責。",
+          "problem": "誰維護與回覆？",
+          "facts": "Index含18,257幅、約1,000名藝術家作品。",
+          "assumptions": "活動結束就完成責任",
+          "rebuild": "維護來源、權利與版本日期。"
+        }
+      ],
+      "applicablePlan": {
+        "title": "三版研究牆",
+        "derivedFrom": "國家藝廊兩階段展覽與學生研究成果；台灣三版流程為推論",
+        "suitableWhen": "需要把學習或參與轉成可見策展決定時",
+        "unsuitableWhen": "沒有同意、回覆、基本安全或可讓渡權力時",
+        "steps": [
+          "做12件初選並寫假設",
+          "加入反證後保存第二版",
+          "公開最終版與未解問題"
+        ],
+        "rolesAndResources": "策展／教育者、參與者代表、紀錄照護者；證據卡、決策板、同意表與補償",
+        "sevenDayExperiment": "4人用12件資料完成90分鐘版本比較",
+        "successEvidence": "參與者能指出至少一項自己造成、並可在成果中辨認的改變",
+        "stopConditions": "未取得同意、傷害風險無法照護、機構拒絕履行回覆或參與者要求撤回時暫停"
+      }
+    }
+  },
+  {
+    "id": "daily-2026-08-31-training",
+    "daily": true,
+    "date": "2026-08-31",
+    "category": "策展思考訓練",
+    "lens": "轉場與敘事接力",
+    "source": "Curator OS 第一性原理訓練",
+    "title": "同一批材料做兩次展覽：第二次不能只是換標題",
+    "summary": "以模擬地方檔案館兩階段展為訓練，第一次公開研究問題，第二次只保留被觀眾證據真正改變的內容。",
+    "questions": [
+      "第一階段要收集哪三種觀眾證據？",
+      "哪些回應只是偏好，哪些能推翻假設？",
+      "第二階段必須刪掉什麼？",
+      "同一件物件兩次出現的理由是否改變？",
+      "誰判斷回應具有代表性？",
+      "不同意見如何被保留？",
+      "轉場七天要多少人時？",
+      "4萬元預算優先花在哪裡？",
+      "觀眾如何看見自己造成的改變？",
+      "什麼條件下第二階段應取消？"
+    ],
+    "strategy": "第一性原理：第二階段存在的理由是新證據造成新選擇，而不是行銷換皮。分開偏好、可驗證事實與價值衝突，再重建選件。",
+    "task": "用8件地方物件做兩版桌上展；收集6位測試者回應，只允許有證據鏈的改動進入第二版。",
+    "training": "每項改動寫成『原假設—新證據—決定—代價』四格，缺一格就不改。",
+    "rawText": "模擬地方檔案館有4萬元與7天轉場。第一階段提出問題，第二階段必須證明觀眾證據如何改變選擇。",
+    "caseStudy": {
+      "title": "地方檔案館的七日兩階段轉場",
+      "context": "台南一座模擬地方檔案館用8件物件、4萬元、4人團隊，先展3天研究問題，再用7天改成第二階段。6位觀眾提供回應；若只換標題，會消耗信任且無法證明參與價值。",
+      "perspectives": [
+        {
+          "name": "林策展",
+          "role": "策展人",
+          "label": "問題與邊界",
+          "voice": "先把決定如何形成說清楚。",
+          "problem": "問題怎麼被設定？",
+          "facts": "8件物件、兩階段、7日轉場。",
+          "assumptions": "機構流程天然中立",
+          "rebuild": "用四格證據鏈決定改動。"
+        },
+        {
+          "name": "地方影像作者",
+          "role": "藝術家／創作者",
+          "label": "材料與作者性",
+          "voice": "材料不能只證明策展人的答案。",
+          "problem": "創作證據如何不被挪用？",
+          "facts": "作者要求影像語境不可被第二版剪除。",
+          "assumptions": "專業語言比創作者經驗可靠",
+          "rebuild": "審核新標籤並保留撤回權。"
+        },
+        {
+          "name": "六位測試觀眾",
+          "role": "觀眾／社群",
+          "label": "決定與回應",
+          "voice": "我需要真正能改變成果的權利。",
+          "problem": "參與者能決定什麼？",
+          "facts": "六人回應中只有可追溯證據能改變第二版。",
+          "assumptions": "出席就等於參與",
+          "rebuild": "標示哪則回應造成哪項改變。"
+        },
+        {
+          "name": "典藏助理",
+          "role": "執行／維護者",
+          "label": "紀錄與照護",
+          "voice": "同意、版本與後續都要有人負責。",
+          "problem": "誰維護與回覆？",
+          "facts": "預算4萬元且每件移動需狀況檢查。",
+          "assumptions": "活動結束就完成責任",
+          "rebuild": "建立兩版物件與同意紀錄。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daily-2026-08-31-participatory",
+    "daily": true,
+    "date": "2026-08-31",
+    "category": "國際民眾參與策展實作",
+    "lens": "青年電影策展的主題、片單與主持權",
+    "source": "Barbican 官方資料（查證截至2026-08-31）",
+    "title": "青年不是目標觀眾：19位策展人如何把自我紀錄變成影展？",
+    "summary": "以 Barbican 2026 Chronic Youth 為案例：19位青年從2025年10月起參與六個月免費計畫，實際策劃兩日影展；轉成台灣120分鐘小型版，青年決定主題、片序、活動與主持，並能否決傷害性文案。",
+    "questions": [
+      "19位青年實際決定哪些節目內容？",
+      "Isra Al Kassi 的引導邊界是什麼？",
+      "六個月如何累積到兩日影展？",
+      "自我紀錄主題由誰命名？",
+      "片單衝突如何保留少數意見？",
+      "青年能否否決行銷文案？",
+      "3部短片資料需含哪些權利與分級？",
+      "8人120分鐘如何避免高聲量壟斷？",
+      "每人1,200元補償如何不綁公開同意？",
+      "何時應停映或改變討論方式？"
+    ],
+    "strategy": "第一性原理：青年參與的最小證據是節目因其決定而改變。已知：19位青年歷時六個月策劃2026年4月25–26日影展，主題為自我紀錄，包含放映、工作坊與活動；2026–27方案仍提供實際影展策劃。推論：台灣120分鐘版明定主題、片序、活動、主持與傷害否決權。",
+    "task": "七日內招募8位16–24歲青年，8人各補償1,200元，用3部已授權短片完成一場120分鐘節目設計。",
+    "training": "每人至少使用一次提案、編輯或否決權；主持人只檢查法律、分級與照護邊界，不替青年決定『比較成熟』的答案。",
+    "rawText": "Chronic Youth 2026 已完成兩日影展，19位青年真正策劃節目。台灣120分鐘版為根據案例的試作，不冒充 Barbican 原流程。",
+    "caseStudy": {
+      "realWorld": true,
+      "participatory": true,
+      "country": "英國",
+      "location": "倫敦／Barbican Cinemas",
+      "statusAsOf": "2026-08-31",
+      "latestUpdate": "2026影展已於4月25–26日完成；Barbican 官網現正招募／運作2026–27 Young Film Programmers，10月至隔年4月每週三晚間進行。",
+      "references": [
+        {
+          "title": "Shifting the Lens: Chronic Youth Film Festival 2026",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/our-story/press-room/barbican-presents-shifting-the-lens-self-documentation-on-screen-the-11th",
+          "publishedAt": "2026-03-11"
+        },
+        {
+          "title": "Barbican Young Film Programmers",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/take-part/young-creatives/barbican-young-film-programmers",
+          "accessedAt": "2026-08-31"
+        }
+      ],
+      "title": "Chronic Youth：19位青年從六個月培訓走到兩日影展",
+      "context": "19位青年自2025年10月起在 Isra Al Kassi 引導下，策劃2026年4月25–26日影展，主題聚焦自我紀錄與社群敘事。台灣試作以7日、8位青年、3部短片、120分鐘與9,600元補償進行；若青年只有受訪權，成人仍壟斷片單與公共敘事。",
+      "perspectives": [
+        {
+          "name": "Isra Al Kassi／引導角色",
+          "role": "策展人",
+          "label": "問題與邊界",
+          "voice": "先把決定如何形成說清楚。",
+          "problem": "問題怎麼被設定？",
+          "facts": "官方記錄19位青年與六個月免費方案。",
+          "assumptions": "機構流程天然中立",
+          "rebuild": "只守法律／照護邊界，公開可讓渡決定。"
+        },
+        {
+          "name": "入選導演／素材提供者",
+          "role": "藝術家／創作者",
+          "label": "材料與作者性",
+          "voice": "材料不能只證明策展人的答案。",
+          "problem": "創作證據如何不被挪用？",
+          "facts": "節目涵蓋紀錄、劇情、DIY與檔案影像。",
+          "assumptions": "專業語言比創作者經驗可靠",
+          "rebuild": "提供權利、語境與映後參與條件。"
+        },
+        {
+          "name": "19位青年策展人",
+          "role": "觀眾／社群",
+          "label": "決定與回應",
+          "voice": "我需要真正能改變成果的權利。",
+          "problem": "參與者能決定什麼？",
+          "facts": "青年共同命名自我紀錄主題並策劃放映與活動。",
+          "assumptions": "出席就等於參與",
+          "rebuild": "決定主題、片序、活動、主持並可否決傷害文案。"
+        },
+        {
+          "name": "放映與同意管理員",
+          "role": "執行／維護者",
+          "label": "紀錄與照護",
+          "voice": "同意、版本與後續都要有人負責。",
+          "problem": "誰維護與回覆？",
+          "facts": "Barbican團隊處理放映、分級與場館執行。",
+          "assumptions": "活動結束就完成責任",
+          "rebuild": "保存片權、分級、同意與七日回覆。"
+        }
+      ],
+      "applicablePlan": {
+        "title": "青年策展權力板",
+        "derivedFrom": "Barbican 19位青年、六個月方案與實際節目成果；120分鐘流程為台灣試作推論",
+        "suitableWhen": "需要把學習或參與轉成可見策展決定時",
+        "unsuitableWhen": "沒有同意、回覆、基本安全或可讓渡權力時",
+        "steps": [
+          "先列可決定的主題、片單、活動與主持權",
+          "以個人提案、同儕反證、共識／保留異議選出一個節目",
+          "青年完成節目文字、主持分工與否決清單"
+        ],
+        "rolesAndResources": "策展／教育者、參與者代表、紀錄照護者；證據卡、決策板、同意表與補償",
+        "sevenDayExperiment": "招募8位16–24歲青年，支付每人1,200元，完成120分鐘一場片單與活動設計",
+        "successEvidence": "參與者能指出至少一項自己造成、並可在成果中辨認的改變",
+        "stopConditions": "未取得同意、傷害風險無法照護、機構拒絕履行回覆或參與者要求撤回時暫停"
+      },
+      "workshopDesign": {
+        "title": "根據 Chronic Youth 提出的台灣120分鐘青年策展試作",
+        "participationGoal": "青年實際決定主題、3部短片片序、映後活動、主持與傷害性文案否決",
+        "participantProfile": "8位16–24歲、對電影與自我紀錄有興趣青年",
+        "groupSize": "8位青年＋3位工作人員",
+        "duration": "120分鐘",
+        "materials": "3部已授權短片資料卡、片序卡、權力板、反證卡、同意／撤回表",
+        "facilitatorRoles": "主主持守流程；電影工作者說明權利與分級；照護紀錄員管理補償、同意與異議",
+        "preparation": "七日前招募並說明每人1,200元補償；三日前完成片權與分級；當日提供匿名發言",
+        "steps": [
+          {
+            "time": "15分鐘",
+            "facilitatorAction": "公布青年可決定主題、3部短片排序、活動與主持；法律與分級為不可讓渡邊界。",
+            "participantAction": "確認權力並選匿名／署名。",
+            "visibleOutput": "權力板"
+          },
+          {
+            "time": "20分鐘",
+            "facilitatorAction": "提供3部短片資料、權利與分級。",
+            "participantAction": "各寫一項自我紀錄議題與一項風險。",
+            "visibleOutput": "議題／風險卡"
+          },
+          {
+            "time": "25分鐘",
+            "facilitatorAction": "兩人輪流提案，不先評論。",
+            "participantAction": "提出片序、目標觀眾與映後行動。",
+            "visibleOutput": "4份節目草案"
+          },
+          {
+            "time": "25分鐘",
+            "facilitatorAction": "用反證問題處理資深者與高聲量。",
+            "participantAction": "指出草案排除的聲音並提出修正。",
+            "visibleOutput": "反證紀錄"
+          },
+          {
+            "time": "20分鐘",
+            "facilitatorAction": "先處理傷害否決，再以共識選1案。",
+            "participantAction": "決定片序、活動、主持人並保留異議。",
+            "visibleOutput": "節目決議"
+          },
+          {
+            "time": "15分鐘",
+            "facilitatorAction": "說明七日回覆與撤回。",
+            "participantAction": "審核80字文案與公開範圍。",
+            "visibleOutput": "文案、同意與追蹤表"
+          }
+        ],
+        "outputs": "一套片序、一個映後活動、80字文案、主持分工與異議／否決紀錄",
+        "documentation": "只記錄同意內容；個人經驗可匿名且可撤回；版本含日期與青年修改痕跡",
+        "consentAndCare": "可不談個人創傷、可停錄、可匿名、補償不綁公開；傷害疑慮先於多數決",
+        "debriefQuestions": [
+          "哪個決定真的因我改變？",
+          "哪項成人邊界合理／不合理？",
+          "哪個少數意見需留在成果中？"
+        ],
+        "adaptationNotes": "8人、120分鐘、3部短片與補償額為根據案例提出的台灣試作版本，不是官方原流程。",
+        "successEvidence": "8人皆使用至少一種提案、編輯或否決權，並能在最終節目指出其痕跡",
+        "stopConditions": "片權未確認、創傷揭露無支持、仇恨內容無法照護、青年撤回或機構覆寫決議時停止"
+      }
+    }
+  },
+  {
+    "id": "daily-2026-08-31-family",
+    "daily": true,
+    "date": "2026-08-31",
+    "category": "親子觀展教育訓練",
+    "lens": "看見—證據—推測—多重解讀",
+    "source": "Curator OS 親子觀展教育架構",
+    "title": "孩子說「看不懂」時，家長先不要解釋：用四步培養看展的眼",
+    "summary": "以一件陌生裝置作品為練習，家長從答案提供者改成共同觀察者；孩子先說看見什麼、指出證據、提出推測，再比較不同解讀。",
+    "questions": [
+      "孩子第一眼停在哪裡？",
+      "他說的是看見的事實還是推測？",
+      "作品中哪個細節支持他的說法？",
+      "若換一個位置，答案會改變嗎？",
+      "哪種聲音、材質或尺度先引起身體反應？",
+      "家長何時忍不住給答案？",
+      "孩子能提出第二種解讀嗎？",
+      "不同意時能否各自找證據？",
+      "15分鐘後孩子能自己問出什麼？",
+      "何時疲累已超過學習效果？"
+    ],
+    "strategy": "第一性原理：觀展能力不是記住正解，而是注意、證據、推測與修正的循環。家長少說作者背景，多問『你在哪裡看到的？如果相反呢？』。",
+    "task": "本週選一件作品進行15分鐘四步對話：1看見、2證據、3推測、4第二種可能；家長最多講3句知識。",
+    "training": "禁止『這是什麼』『作者想表達什麼』作為第一問；先允許沉默30秒。孩子可以說不喜歡，但要找一項作品證據。",
+    "rawText": "親子看展不是把孩子訓練成小型藝術史學生，而是培養慢看、找證據、容納歧義與形成自己判斷的能力。",
+    "caseStudy": {
+      "title": "15分鐘親子陌生裝置觀察",
+      "context": "台北一間美術館週日下午，家長帶8歲孩子看一件由20把舊椅與風扇組成的模擬裝置；只剩15分鐘、現場約30人、無兒童標籤。孩子說『看不懂想走』。若家長立刻講解，孩子會把看展等同猜成人答案。",
+      "perspectives": [
+        {
+          "name": "教育策展人",
+          "role": "策展人",
+          "label": "問題與邊界",
+          "voice": "先把決定如何形成說清楚。",
+          "problem": "問題怎麼被設定？",
+          "facts": "作品含20把舊椅、風扇與可聽見氣流。",
+          "assumptions": "機構流程天然中立",
+          "rebuild": "提供四步卡，不先給作品答案。"
+        },
+        {
+          "name": "裝置作者（模擬）",
+          "role": "藝術家／創作者",
+          "label": "材料與作者性",
+          "voice": "材料不能只證明策展人的答案。",
+          "problem": "創作證據如何不被挪用？",
+          "facts": "作者材料提供多種線索，不要求唯一答案。",
+          "assumptions": "專業語言比創作者經驗可靠",
+          "rebuild": "保留材料歧義，允許孩子與作者不同。"
+        },
+        {
+          "name": "8歲孩子與家長",
+          "role": "觀眾／社群",
+          "label": "決定與回應",
+          "voice": "我需要真正能改變成果的權利。",
+          "problem": "參與者能決定什麼？",
+          "facts": "孩子只有15分鐘且先說看不懂。",
+          "assumptions": "出席就等於參與",
+          "rebuild": "孩子決定觀察位置、提出證據與第二種解讀；家長只追問。"
+        },
+        {
+          "name": "現場服務員",
+          "role": "執行／維護者",
+          "label": "紀錄與照護",
+          "voice": "同意、版本與後續都要有人負責。",
+          "problem": "誰維護與回覆？",
+          "facts": "現場30人，需要不阻擋動線並留意風扇安全。",
+          "assumptions": "活動結束就完成責任",
+          "rebuild": "安排安全觀察點並在疲累時允許停止。"
+        }
+      ]
+    },
+    "familyTraining": {
+      "ageRange": "6–12歲，可依語言能力調整",
+      "duration": "15分鐘",
+      "parentRole": "共同觀察者，不是答案提供者",
+      "steps": [
+        "沉默看30秒，孩子選第一個注意點",
+        "問『你在哪裡看到／聽到這件事？』",
+        "把句子分成看見的事實與自己的推測",
+        "換位置或換角色，提出第二種可能",
+        "孩子用一句話留下自己的問題"
+      ],
+      "successEvidence": "孩子能指出至少2個作品細節、區分1次事實與推測、提出1個自己的問題",
+      "stopConditions": "孩子持續疲累、焦慮、感官過載，或現場安全與動線不允許時立即停止；離場不是失敗"
+    }
   }
 ]
