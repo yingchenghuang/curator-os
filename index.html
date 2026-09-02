@@ -597,7 +597,7 @@ function showToday() {
   const isDaily = Boolean(topic.daily);
   const dailyTasks = dailyPrompts.filter((item) => item.date === topic.date);
   const taskPosition = dailyTasks.findIndex((item) => item.id === topic.id) + 1;
-  $('#topicCategory').textContent = isDaily ? `每日專業策展人課題｜${topic.lens}` : topic.category;
+  $('#topicCategory').textContent = isDaily ? `${topic.category}｜${topic.lens}` : topic.category;
   $('#topicCount').textContent = isDaily ? `${topic.date}｜今日任務 ${taskPosition}/${dailyTasks.length}` : `${topic.questions.length} 個提問`;
   $('#dailySource').textContent = '';
   $('#topicTitle').textContent = topic.title;
