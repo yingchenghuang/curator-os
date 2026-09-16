@@ -14224,5 +14224,223 @@
       "context": "一位空間藝術家每週工作55小時，卻只有6小時進入真正創作。透過五類時間帳，他取消一場低價值會議、集中行政訊息並固定恢復時段，將創作提高到12小時而不延長總工時。"
     },
     "rawText": "如果忙碌沒有留下作品、收入或恢復，它還值得被保留嗎？\n\n今天不計算做了多少事，只檢查時間留下的證據。刪除一件低價值任務，往往比再找一套效率工具更接近自由。"
+  },
+  {
+    "id": "daily-2026-09-17-curator",
+    "daily": true,
+    "date": "2026-09-17",
+    "category": "專業策展人提問思考課題",
+    "lens": "身體位置、觀看權與空間證據",
+    "source": "MoMA官方資料（查證截至2026-09-17）",
+    "title": "當照片裡的身體總是佔據不同面積，策展如何證明空間不是中性的？",
+    "summary": "MoMA《Taking Back Our Space: Photographic Perspectives》將於2026年9月20日開幕，以Marianne Wex 1977年的研究型攝影計畫與七位當代藝術家對話，從交織女性主義角度檢查身體如何佔據、被限制或重新取得空間。今天的課題不是先宣稱空間有權力，而是建立可被觀眾辨識的身體—空間證據。",
+    "questions": [
+      "同一張照片裡，誰佔據中央、誰被壓到邊緣？",
+      "坐姿、站姿、腿部與手臂展開的幅度如何分配空間？",
+      "鏡頭高度與裁切是否讓某種身體更有權威？",
+      "哪些姿勢被社會閱讀成自然，其實經過長期訓練？",
+      "如果只看構圖、不讀身份資料，你會得到相同判斷嗎？",
+      "展場動線是否重複作品正在批判的空間權力？",
+      "哪一個身體差異目前只被當成主題，而沒有改變展示方法？",
+      "作品尺寸會不會放大某些身體經驗、縮小另一些？",
+      "觀眾自己的姿勢能否成為理解作品的證據？",
+      "如果空間不是中性的，你願意修改哪一項最基本的策展慣例？"
+    ],
+    "strategy": "建立身體—空間四碼：位置（中心／邊緣）、姿勢（展開／收縮）、視角（俯視／平視／仰視）、移動權（可進／受阻）。先逐件記錄，再形成論述；禁止從理論倒推證據。",
+    "task": "60分鐘選12張人物影像，逐張用四碼記錄；最後只保留三個反覆出現、且能被圖像直接支持的空間模式。",
+    "training": "第二輪把藝術家姓名與作品說明遮住，再做一次編碼。比較前後差異，找出哪些判斷其實來自既有知識而非畫面。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Taking Back Our Space: Photographic Perspectives",
+      "statusAsOf": "2026-09-17",
+      "latestUpdate": "截至9月17日為開幕前；MoMA公布展覽將Marianne Wex《Let's Take Back Our Space》與Nona Faustine、Martine Gutierrez、K8 Hardy、Yuki Kihara、Joiri Minaya、Paulina Olowska、Wendy Red Star等七位當代藝術家的作品並置，展期2026-09-20至2027-05-02。",
+      "references": [
+        {
+          "title": "Taking Back Our Space: Photographic Perspectives",
+          "publisher": "MoMA Press",
+          "url": "https://press.moma.org/exhibition/taking-back-our-space-photographic-perspectives/",
+          "accessedAt": "2026-09-17"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA官方資料列展期2026-09-20至2027-05-02，並以intersectional feminist perspectives探索bodies與space的關係。\n【推論】此框架可用來檢查展場本身如何分配身體可見性。\n【原創模擬】身體—空間四碼與12張影像練習為Curator OS設計，非MoMA官方方法。"
+  },
+  {
+    "id": "daily-2026-09-17-training",
+    "daily": true,
+    "date": "2026-09-17",
+    "category": "策展思考訓練",
+    "lens": "身體位置與視角證據",
+    "source": "Journal of Environmental Psychology 2026研究（查證截至2026-09-17）",
+    "title": "同一件作品，站、坐、蹲、退後四次：你的策展論述會不會改變？",
+    "summary": "2026年《Journal of Environmental Psychology》研究指出，建築環境特徵會影響身體周圍近身空間的多感官重新映射；今天把這項研究轉成策展訓練，用不同姿勢與距離重看同一作品，檢查論述是否過度依賴單一站立視角。",
+    "questions": [
+      "站著看時你最先注意什麼？",
+      "坐下後作品的尺度關係如何改變？",
+      "蹲下時哪些原本不可見的細節出現？",
+      "退後五公尺後，內容變成輪廓還是仍有訊息？",
+      "哪個姿勢讓你最有控制感？",
+      "哪個姿勢讓作品最有壓迫或親近感？",
+      "展場是否默認所有觀眾都以成人站姿觀看？",
+      "兒童、輪椅使用者與高齡者會獲得完全不同的作品嗎？",
+      "哪項策展文字在換姿勢後突然顯得不準確？",
+      "如果只能保留一個觀看高度，誰會被犧牲？"
+    ],
+    "strategy": "使用四姿勢×三距離矩陣，不先修改作品。每次只記錄視線、身體舒適度、可見細節與情緒強度，再比較哪些差異足以改變策展判斷。",
+    "task": "選一件現有作品，完成站、坐、蹲、退後四種觀看，各5分鐘；把最顯著的三個差異畫成一張剖面圖。",
+    "training": "邀請另一位身高或行動方式不同的人重做一次。只比較差異，不追求平均答案；把差異最大的地方改寫成下一版展示假設。",
+    "caseStudy": {
+      "realWorld": true,
+      "title": "Architectural features of the environment shape the multisensory dynamics of peripersonal space remapping",
+      "statusAsOf": "2026-09-17",
+      "latestUpdate": "研究於2026年9月刊出並開放取用；摘要指出建築特徵會調節peripersonal space可塑性，開放環境中的工具互動促進重新映射，受限環境則抑制。",
+      "references": [
+        {
+          "title": "Architectural features of the environment shape the multisensory dynamics of peripersonal space remapping",
+          "publisher": "Journal of Environmental Psychology",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0272494426002707",
+          "accessedAt": "2026-09-17"
+        }
+      ]
+    },
+    "rawText": "【事實】2026年研究顯示建築環境特徵會調節身體周圍近身空間的多感官重新映射。\n【推論】展覽中的距離、壓縮與開放可能不只改變視覺，也改變身體對可行動範圍的感受。\n【原創模擬】四姿勢×三距離是Curator OS訓練，不是研究原始實驗程序。"
+  },
+  {
+    "id": "daily-2026-09-17-participatory",
+    "daily": true,
+    "date": "2026-09-17",
+    "category": "國際民眾參與策展實作",
+    "lens": "社區主導、免費入場與決策後果",
+    "source": "Walker Art Center官方資料（查證截至2026-09-17）",
+    "title": "社區之夜不是免費入場而已：Whittier居民能否把自己的街區帶進美術館？",
+    "summary": "Walker Art Center將於2026年9月24日舉辦首屆Neighborhood Night: Whittier，與Whittier Alliance合作，內容包含藝術製作、社區資源分享與TyLie Shider的多媒體紀錄劇《Whittier: A Play in Portraits》；官方特別說明活動由Whittier社區成員參與設計與帶領。",
+    "questions": [
+      "哪些活動是居民自己設計，而非機構替居民設計？",
+      "Whittier Alliance在內容、宣傳、資源或決策中擁有什麼權限？",
+      "免費入場解決了哪些門檻，又留下哪些文化門檻？",
+      "社區資源分享能否帶走到活動之外？",
+      "劇場中的鄰里肖像如何避免把一個街區變成單一故事？",
+      "誰沒有時間在週四晚上參與？",
+      "哪一項居民意見會改變Walker下一次活動？",
+      "參與者提供的故事、勞動與關係得到什麼回報？",
+      "活動結束後，Walker如何回報採納與未採納的建議？",
+      "如果一年後再辦，哪一部分應由社區直接取得預算與決定權？"
+    ],
+    "strategy": "建立社區之夜四權表：內容權、資源權、主持權、後續權。每一權都列出機構、合作組織、居民實際擁有的範圍，避免只以出席人數代表參與品質。",
+    "task": "90分鐘替台灣一個街區設計一場Neighborhood Night：限定一個場館、一個在地組織、三種居民角色與2萬元試作預算；至少把一項內容與一項預算決定交給居民。",
+    "training": "完成活動後不用滿意度問卷，改問三題：你決定了什麼？哪個地方你沒有權力？下次哪一項權力應移動？把答案轉成下一版制度修改。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼亞波利斯／Walker Art Center",
+      "title": "Neighborhood Night: Whittier",
+      "statusAsOf": "2026-09-17",
+      "latestUpdate": "Walker於2026-09-08發布新聞，宣布首屆Neighborhood Night將於9月24日與Whittier Alliance合作，並由Whittier社區成員參與設計與帶領活動。",
+      "references": [
+        {
+          "title": "Free September Events Include Inaugural Neighborhood Night Celebrating Whittier",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/press-releases/free-september-events-include-inaugural-neighborhood-night-celebrating-whittier/",
+          "accessedAt": "2026-09-17"
+        },
+        {
+          "title": "Free Thursday Nights",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/visit/free-thursday-nights/",
+          "accessedAt": "2026-09-17"
+        }
+      ]
+    },
+    "rawText": "【事實】Walker官方宣布9月24日免費Neighborhood Night，與Whittier Alliance合作，包含藝術製作、社區資源分享及《Whittier: A Play in Portraits》。\n【推論】真正值得追蹤的是居民能否把一次性參與轉成下一輪內容或資源決定權。\n【原創模擬】四權表、台灣2萬元試作與後續三問為Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-09-17-family",
+    "daily": true,
+    "date": "2026-09-17",
+    "category": "親子觀展教育訓練",
+    "lens": "身體距離、空間感與觀看證據",
+    "source": "MoMA官方親子教育資料（查證截至2026-09-17）",
+    "title": "孩子說「這裡好擠」時先別糾正：把身體距離變成觀展證據",
+    "summary": "MoMA將於2026年9月19日舉辦Family Gallery Talks: Spaces and Places，面向4至10歲兒童家庭，由教育者帶領觀看三件作品，透過movement、material exploration與drawing共同探索空間與地方。今天把它轉成家庭可獨立操作的距離練習。",
+    "questions": [
+      "你第一眼想靠近還是退後？",
+      "站在哪裡最舒服？",
+      "哪個細節讓你選這個距離？",
+      "往前一步後看見什麼新東西？",
+      "往後一步後作品變得比較安靜還是比較強？",
+      "坐下來看和站著看有什麼不同？",
+      "如果你可以替作品留一個不准太靠近的圈，會多大？",
+      "家長和孩子選的距離一樣嗎？",
+      "哪種不同不是誰對誰錯，而是身體不同？",
+      "下次看到大型作品，你會先怎麼測試自己的位置？"
+    ],
+    "strategy": "成人只做追證據：不問好不好看，只問哪個細節讓你站在這裡？讓孩子自己調整距離、姿勢與方向，建立身體反應—視覺證據的連結。",
+    "task": "選三件作品，各用5分鐘完成第一位置—向前一步—向後一步—坐或蹲四次觀看，畫一張孩子自己的距離地圖。",
+    "training": "家長最後才分享自己的位置選擇，並刻意保留一處與孩子不同的答案；讓孩子知道觀看不必收斂成家庭共同答案。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Family Gallery Talks: Spaces and Places",
+      "statusAsOf": "2026-09-17",
+      "latestUpdate": "MoMA官方列2026-09-19的家庭導覽主題為Spaces and Places，4至10歲家庭共同觀看三件作品，活動包含movement、material exploration與drawing。",
+      "references": [
+        {
+          "title": "Family Gallery Talks: Spaces and Places",
+          "publisher": "MoMA",
+          "url": "https://www.moma.org/calendar/events/11670",
+          "accessedAt": "2026-09-17"
+        },
+        {
+          "title": "Family Gallery Talks",
+          "publisher": "MoMA",
+          "url": "https://www.moma.org/calendar/programs/223",
+          "accessedAt": "2026-09-17"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA官方列9月19日Spaces and Places親子導覽，面向4至10歲家庭，觀看三件作品並透過movement、material exploration、drawing探索。\n【推論】以移動而非先講知識，可讓兒童把空間感轉成可說明的觀看材料。\n【原創模擬】距離地圖與四次觀看流程為Curator OS家庭練習，不是MoMA官方固定腳本。"
+  },
+  {
+    "id": "daily-2026-09-17-life",
+    "daily": true,
+    "date": "2026-09-17",
+    "category": "人生策展課題",
+    "lens": "場所依附、時間配置與自我感",
+    "source": "Journal of Environmental Psychology 2026研究（查證截至2026-09-17）",
+    "title": "你每天待最久的地方，正在把你訓練成什麼樣的人？",
+    "summary": "2026年《Journal of Environmental Psychology》研究指出，回想具有依附感的地方能提升受試者的生命意義感相關指標，日常在具場所依附的地方活動也與較高的meaning、coherence與significance相關。今天提出較小的問題：你的時間表除了管理事情，也正在管理你反覆置身的環境。",
+    "questions": [
+      "過去七天你待最久的三個地方是哪裡？",
+      "哪個地方讓你最容易進入創作？",
+      "哪個地方只讓你進入回訊息與維護模式？",
+      "哪個地方和我是誰的感覺最強？",
+      "熟悉感是在支持你，還是在讓行為固定？",
+      "哪個重要關係只在不適合它的空間裡發生？",
+      "你有沒有一個能真正無產出地恢復的地方？",
+      "哪個空間的成本不高，卻長期消耗注意力？",
+      "如果每週新增兩小時在一個不同環境，你想測試什麼自己？",
+      "你需要換工作，還是先換一部分工作的場所？"
+    ],
+    "strategy": "建立場所投資表：每個場所只評五項——時間、創作、收入、關係、恢復。不要先搬家或做重大決策；先用兩週小型環境實驗取得自己的行為證據。",
+    "task": "回顧七天，每個超過60分鐘的場所記錄總時數與五項分數。選一個高耗損場所，在下週把其中兩小時移到另一個地方測試。",
+    "training": "每次90分鐘工作結束，只記三個數字：完成度、注意力、離開時能量。比較不同場所兩週，不依一次心情下結論。",
+    "caseStudy": {
+      "realWorld": true,
+      "title": "Sites of meaning-making: Places of attachment afford psychological meaning",
+      "statusAsOf": "2026-09-17",
+      "latestUpdate": "研究於2026年3月刊出，6月另有corrigendum紀錄；摘要指出回想place of attachment提升meaning in life及其coherence、significance、purpose成分，日常在依附場所的經驗也提高整體meaning、coherence與significance。",
+      "references": [
+        {
+          "title": "Sites of meaning-making: Places of attachment afford psychological meaning",
+          "publisher": "Journal of Environmental Psychology",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0272494426000599",
+          "accessedAt": "2026-09-17"
+        }
+      ]
+    },
+    "rawText": "【事實】研究支持place attachment與心理意義感之間存在可觀察關聯與實驗效果。\n【推論】個人可把場所視為人生配置的一個變量，但不能推論某個特定工作室、咖啡館或城市一定改善人生。\n【原創模擬】場所投資表與兩週環境實驗為Curator OS人生策展方法。"
   }
 ]
