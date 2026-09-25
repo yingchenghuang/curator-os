@@ -15805,5 +15805,213 @@
       ]
     },
     "rawText": "【事實】Barbican《Repercussions》公開討論sonic rights與silence。\n【推論】個人也可以把聲音視為注意力環境。\n【原創模擬】24小時聲音紀錄與三天無通知時段為Curator OS人生策展練習。"
+  },
+  {
+    "id": "daily-2026-09-26-curator",
+    "daily": true,
+    "date": "2026-09-26",
+    "category": "專業策展人提問思考課題",
+    "lens": "跨媒介策展、議題密度與方法一致性",
+    "source": "Barbican官方資料（查證截至2026-09-26）",
+    "title": "當一個策展命題跨越裝置、表演、電影與音樂，什麼才是真正把它們黏在一起的骨架？",
+    "summary": "《Repercussions》在Barbican於今天進入最後一天。它橫跨裝置、表演、放映、音樂與參與活動，但真正需要研究的不是媒材很多，而是同一個sonic rights命題如何在不同媒介中被重複檢驗。今日練習策展的『跨媒介一致性』。",
+    "questions": [
+      "如果拿掉所有媒材名稱，這個展覽還剩下哪一句核心問題？",
+      "每個媒介提供了什麼其他媒介無法完成的證據？",
+      "哪些作品只是形式不同，實際上沒有增加新的判斷？",
+      "觀眾在聲音、影像與表演之間如何知道自己仍在同一命題裡？",
+      "跨媒介是否增加理解，也可能稀釋問題強度？",
+      "哪一個節點應該提供概念重置，而不是繼續增加內容？",
+      "參與活動與正式作品的知識地位是否相等？",
+      "不同媒介造成的時間尺度差異如何被策展？",
+      "如果預算砍半，你會留下哪三種媒介，理由是什麼？",
+      "展覽結束後，哪一個命題仍能單獨成立而不依賴大型場館？"
+    ],
+    "strategy": "使用『命題—證據—媒介』矩陣：每個媒介都必須對核心命題提供一種獨特證據。若兩個媒介提供相同證據，合併或刪除其中一個。",
+    "task": "拿你正在發展的一個策展案，列出五種可能媒介。為每一種只寫一句『它證明了什麼』；刪掉無法提出獨特證據的媒介。",
+    "training": "90分鐘做兩版策展：完整版與50%刪減版。比較刪減後核心問題是否更清楚，並把被刪媒介的功能轉移給保留項目。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦／Barbican Centre",
+      "title": "Repercussions: A takeover by Lawrence Abu Hamdan and Earshot",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "2026年9月26日為Barbican《Repercussions》四日計畫最後一天；官方將裝置、表演、放映、現場音樂與參與活動整合於sonic rights主題下。",
+      "references": [
+        {
+          "title": "Barbican announces Repercussions",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/our-story/press-room/barbican-announces-repercussions-a-landmark-cross-arts-takeover-led-by-turner",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】《Repercussions》於9月23至26日跨越多種藝術形式。\n【推論】跨媒介策展的品質可由每種媒介是否提供獨特證據來檢查。\n【原創模擬】命題—證據—媒介矩陣與50%刪減測試為Curator OS方法。"
+  },
+  {
+    "id": "daily-2026-09-26-training",
+    "daily": true,
+    "date": "2026-09-26",
+    "category": "策展思考訓練",
+    "lens": "觀看順序、導覽依賴與自主判斷",
+    "source": "MoMA官方活動資料（查證截至2026-09-26）",
+    "title": "先不要聽導覽：你能不能在專家解說前，先形成自己的第一版判斷？",
+    "summary": "MoMA今天安排Before-Hours Tours with an Art Historian。專家導覽可以提高資訊密度，也可能過早替觀眾建立解釋框架。今天做一個雙輪測試：先獨立觀看，再聽解說，辨認哪些理解是你自己形成、哪些是被權威語言重新排序。",
+    "questions": [
+      "在沒有解說前，你最先注意到什麼？",
+      "你能否用三句話形成暫時判斷而不查資料？",
+      "專家解說新增的是事實、脈絡還是評價？",
+      "哪一句解說讓你改變原本判斷？",
+      "哪些原本重要的細節在解說後反而被你忽略？",
+      "你是否因專家身份而停止提出反例？",
+      "哪些資訊若提前知道，會限制第一次觀看？",
+      "哪些資訊若完全不提供，又會造成嚴重誤讀？",
+      "策展文字應該放在第一次看之前還是之後？",
+      "你如何讓觀眾同時保留自主判斷與可靠脈絡？"
+    ],
+    "strategy": "採雙輪觀看：第一輪禁止查資料，只記觀察與假設；第二輪加入專家資料，再標記哪些被支持、修正或推翻。不要把第二輪自動視為正確答案。",
+    "task": "選一件你熟悉但尚未研究的作品，先看10分鐘寫200字；再查官方資料10分鐘，重寫200字，逐句標記FACT、INFERENCE、REVISION。",
+    "training": "60分鐘完成雙輪筆記，最後只保留三個最重要的『被修正點』，並將它們轉成展場文字需要提供的最低脈絡。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Before-Hours Tours with an Art Historian",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "MoMA 2026年9月26日行事曆列有9:30至10:30的Before-Hours Tours with an Art Historian。",
+      "references": [
+        {
+          "title": "MoMA Events — Sep 26, 2026",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/?date=2026-09-26&happening_filter=All+events",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA今天安排Before-Hours Tours with an Art Historian。\n【推論】專家資訊的進場順序會改變觀眾形成判斷的方式。\n【原創模擬】雙輪觀看與FACT／INFERENCE／REVISION標記為Curator OS訓練。"
+  },
+  {
+    "id": "daily-2026-09-26-participatory",
+    "daily": true,
+    "date": "2026-09-26",
+    "category": "國際民眾參與策展實作",
+    "lens": "無經驗門檻、材料入口與共同創作文化",
+    "source": "Walker Art Center官方Art Club資料（查證截至2026-09-26）",
+    "title": "「任何程度都可以」不夠：你如何真的讓第一次來的人敢開始？",
+    "summary": "Walker Art Club明確標示活動適合all skill levels，並以免費、材料試驗與每週不同媒材建立入口。今天把『歡迎所有人』拆成具體的參與設計：一個人如何在不知道規則、沒有技術、也不認識任何人的情況下，五分鐘內開始。",
+    "questions": [
+      "入口是否需要報名、費用或專業詞彙？",
+      "第一次來的人看見材料後知道第一步嗎？",
+      "是否有一個不必問人的自助開始方式？",
+      "熟練參與者會不會無意中壟斷材料與注意力？",
+      "工作人員的示範會降低焦慮還是製造標準答案？",
+      "完成品是否被過度重視而壓迫試驗？",
+      "不想聊天的人是否仍能舒服參與？",
+      "語言、年齡、身體差異需要哪些替代入口？",
+      "離開時參與者能否帶走方法而非只有物件？",
+      "下一次回來時，他能否擁有更多自主權？"
+    ],
+    "strategy": "設計『五分鐘啟動』：30秒看懂、2分鐘可試、5分鐘有第一個痕跡。任何需要工作人員長篇解釋才能開始的步驟都視為門檻。",
+    "task": "為你的一個公共藝術工作坊做A4單頁啟動卡，只用圖像與三句短句。找一位沒參與設計的人測試，看他是否能在五分鐘內開始。",
+    "training": "60至75分鐘完成啟動卡、一次實測、一次修正；記錄測試者第一次停住或詢問的位置，將其視為流程設計問題。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼亞波利斯／Walker Art Center",
+      "title": "Walker Art Club",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "Walker官方Art Club頁面說明系列免費、每週四進行，活動設計給所有技能程度參與者，媒材涵蓋繪畫、雕塑、zine、首飾與其他創作形式。",
+      "references": [
+        {
+          "title": "Art Club",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/seasons/art-club/",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】Walker Art Club強調free creativity、new mediums與all skill levels。\n【推論】真正的低門檻必須能被觀察為『不用先懂規則也能開始』。\n【原創模擬】五分鐘啟動與A4啟動卡為Curator OS參與式設計工具。"
+  },
+  {
+    "id": "daily-2026-09-26-family",
+    "daily": true,
+    "date": "2026-09-26",
+    "category": "親子觀展教育訓練",
+    "lens": "親子共讀、成人退位與兒童提問",
+    "source": "MoMA官方Family Book Reading資料（2026-09-26）",
+    "title": "今天不要替孩子問問題：讓他先決定這張畫最值得問什麼。",
+    "summary": "MoMA今天舉行《Into the Starry Night》Family Book Reading，適合兩歲以上兒童與成人陪同。今日訓練把成人從『解說者』移到『記錄者』：孩子先提出問題，成人只幫忙保存、追問與比較。",
+    "questions": [
+      "孩子第一個問題是在問人物、顏色、故事還是原因？",
+      "成人能否忍住不立刻回答？",
+      "哪個問題其實比作品標準解說更接近孩子的觀看？",
+      "孩子是否會重複問同一題？重複代表什麼？",
+      "兩歲孩子的指認與動作能否也被當成問題？",
+      "成人如何區分孩子真的好奇與只是配合？",
+      "什麼時候適合提供藝術史資訊？",
+      "資訊提供後，孩子的問題變多還是變少？",
+      "家庭成員能否各自保留不同答案？",
+      "離場前最值得帶走的是答案，還是一個仍想追問的問題？"
+    ],
+    "strategy": "採『孩子先問三題』規則：看作品前成人不出題；孩子提出或用動作指出三個疑問後，成人才選其中一題共同查找線索。",
+    "task": "找一件圖像豐富的作品，給孩子三分鐘自由看。成人只記錄原句與指向，不修正文法、不補詞；最後一起選一題畫成小卡。",
+    "training": "30分鐘完成：自由看3分鐘、記問題7分鐘、找線索10分鐘、做問題卡10分鐘。成果不是答案，而是保存一個孩子自己的觀看入口。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Family Book Reading: Into the Starry Night",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "活動於今天10:30與11:00舉行，MoMA說明為作者Curtis R. Scott朗讀兒童書《Into the Starry Night》，建議兩歲以上兒童與成人同行。",
+      "references": [
+        {
+          "title": "Family Book Reading",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11703",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA今天舉行親子共讀活動。\n【推論】共讀可以成為把藝術語言交還給孩子的入口，但成人解說也可能過早封閉提問。\n【原創模擬】孩子先問三題與問題卡為Curator OS親子觀展方法。"
+  },
+  {
+    "id": "daily-2026-09-26-life",
+    "daily": true,
+    "date": "2026-09-26",
+    "category": "人生策展課題",
+    "lens": "反覆回訪、技能累積與生活節奏",
+    "source": "Curator OS原創人生策展，參照Walker Art Club 2026秋季系列",
+    "title": "你需要的不是更多新計畫，而是一個願意每週回來的地方嗎？",
+    "summary": "很多計畫失敗不是因為缺乏靈感，而是每次都重新開始。Walker Art Club以每週回訪建立創作節奏，提醒人生策展也可以把重點從『下一個新東西』移到『哪件事值得穩定重複』。",
+    "questions": [
+      "你最近三個月開始了多少新計畫？",
+      "其中真正持續四週以上的有幾個？",
+      "哪件事每次重新啟動都消耗最多精神？",
+      "什麼工作其實適合固定每週同一時段？",
+      "你目前缺的是新刺激還是穩定回訪？",
+      "哪一項技能若持續12週會明顯累積？",
+      "你能否把成果要求降低，只保留出席與開始？",
+      "哪個地方最容易讓你進入工作狀態？",
+      "誰可以成為固定但不造成壓力的同行者？",
+      "十二週後你想看到的是作品數量、能力提升還是生活節奏改變？"
+    ],
+    "strategy": "設計一個12週回訪單元：固定同一時段、同一地點、同一核心行為，每週只允許改一個變量。優先保護持續性而非每週求新。",
+    "task": "選一件最重要但一直斷續的事，排出未來四週固定90分鐘，不增加其他新工具。每次只記『有沒有開始、留下什麼、下次第一步』。",
+    "training": "今天完成第一個90分鐘回訪，結束前必須留下下一次可直接開始的材料與一句起手提示，降低重新啟動成本。",
+    "caseStudy": {
+      "realWorld": false,
+      "title": "12週回訪式人生策展",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "Curator OS原創人生策展練習；靈感參照Walker Art Club以每週免費創作活動建立重複參與節奏。",
+      "references": [
+        {
+          "title": "Art Club",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/seasons/art-club/",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】Walker Art Club採每週四重複出現的免費創作模式。\n【推論】重複回訪本身可以成為技能與關係累積的基礎。\n【原創模擬】12週回訪單元與四週90分鐘測試為Curator OS人生策展。"
   }
 ]
