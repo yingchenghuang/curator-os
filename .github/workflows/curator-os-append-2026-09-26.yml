@@ -21,7 +21,15 @@ JSON
           import json, subprocess
           path='daily-curator-prompts.json'
           with open(path,encoding='utf-8') as f: data=json.load(f)
-          with open('/tmp/new_entries.json',encoding='utf-8') as f: new=json.load(f)
+          txt=open('/tmp/new_entries.json',encoding='utf-8').read()
+          out=[]; ins=False; esc=False
+          for ch in txt:
+              if ch=='"' and not esc: ins=not ins
+              if ch=='\n' and ins: out.append('\\n')
+              else: out.append(ch)
+              esc = (ch=='\\' and not esc)
+              if ch!='\\': esc=False
+          new=json.loads(''.join(out))
           ids={x.get('id') for x in data}
           for day in ['2026-09-25','2026-09-26']:
               batch=[x for x in new if x['date']==day]
