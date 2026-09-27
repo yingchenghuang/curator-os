@@ -16013,5 +16013,225 @@
       ]
     },
     "rawText": "【事實】Walker Art Club採每週四重複出現的免費創作模式。\n【推論】重複回訪本身可以成為技能與關係累積的基礎。\n【原創模擬】12週回訪單元與四週90分鐘測試為Curator OS人生策展。"
+  },
+  {
+    "id": "daily-2026-09-28-curator",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "專業策展人提問思考課題",
+    "lens": "數位檔案、脆弱性與自我敘事",
+    "source": "MoMA Modern Mondays／An Evening with Molly Soda官方資料（查證截至2026-09-28）",
+    "title": "策展人應該整理數位過去，還是保留它原本的尷尬、混亂與不一致？",
+    "summary": "MoMA於2026年9月28日晚間舉辦《An Evening with Molly Soda》，節目完全取材自藝術家自2010年累積的個人YouTube檔案。Soda長期保存網路表演、自拍、妝容教學、唱歌、跳舞與在鏡頭前哭泣等數位痕跡，幾乎不刪除。今日藉此訓練數位檔案策展：整理能提高可讀性，也可能抹平真正的時間質地。",
+    "questions": [
+      "你的數位檔案中，哪些內容因為太尷尬而最想刪除？",
+      "刪除尷尬是否也等於刪除一段時代語言？",
+      "策展人應該保留錯誤、失敗與過時美學到什麼程度？",
+      "一個網路人格與真人之間的落差是否應被策展看見？",
+      "平台年代更替後，失效連結、低畫質與壞檔本身是否也是歷史證據？",
+      "把私人影片搬進美術館後，觀眾的觀看倫理是否改變？",
+      "哪些內容因為平台演算法曾經被放大，今天仍主導我們的印象？",
+      "數位檔案的整理順序應依年代、情緒、媒介還是平台？",
+      "如果藝術家本人希望忘記某段過去，機構的保存責任到哪裡停止？",
+      "你如何讓數位檔案可讀，同時不把一個人編成過度完整的故事？"
+    ],
+    "strategy": "建立『保留／隱藏／刪除／待定』四欄數位檔案表。任何刪除決定都先寫理由，區分技術垃圾、重複資料、隱私風險與令人不舒服但具歷史意義的材料。",
+    "task": "60分鐘整理你近三年的一個數位資料夾，只處理30個檔案。禁止立刻刪除，先全部放入四欄並寫一句判斷。",
+    "training": "第二輪把其中5個最想刪除的檔案當成策展材料，為每個檔案寫『它保留了哪一種時間證據』，再決定是否真的刪除。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "An Evening with Molly Soda",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "MoMA於2026年9月28日19:00舉辦Modern Mondays節目《An Evening with Molly Soda》，放映完全取自藝術家個人YouTube檔案的作品。官方指出其YouTube頻道自2010年累積數百支影片，且藝術家極少刪除自己的線上過去。",
+      "references": [
+        {
+          "title": "An Evening with Molly Soda",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11667",
+          "accessedAt": "2026-09-28"
+        },
+        {
+          "title": "Modern Mondays",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/560",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA於9月28日舉辦《An Evening with Molly Soda》，節目取材自其個人YouTube檔案；官方描述她自2010年累積大量影片且少有刪除。\\n【推論】數位檔案的『不整理』也可能保留時代、平台與自我矛盾的證據。\\n【原創模擬】保留／隱藏／刪除／待定四欄法為Curator OS策展訓練。"
+  },
+  {
+    "id": "daily-2026-09-28-training",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "策展思考訓練",
+    "lens": "時間型作品、重複觀看與策展紀錄",
+    "source": "MoMA《Sarah Michelson: nowhere》官方資料（查證截至2026-09-28）",
+    "title": "如果作品從早上10:30做到下午5:30，哪一個瞬間才有資格代表它？",
+    "summary": "Sarah Michelson的《nowhere》把MoMA中庭當成每日工作場，9月28日從10:30持續至17:30。作品不是一個固定時刻，而是舞者、休息、重複、觀眾進出與博物館日常共同形成的時間場。今天訓練如何策展與記錄『持續發生』的作品。",
+    "questions": [
+      "一張照片能否代表一件持續七小時的作品？",
+      "開場、中段與尾聲的觀看權重應該相同嗎？",
+      "舞者休息時作品是否仍然存在？",
+      "觀眾只看三分鐘與看兩小時，看到的是同一件作品嗎？",
+      "博物館日常噪音是否成為作品的一部分？",
+      "重複動作的差異要如何被記錄？",
+      "時間型作品的策展文字應描述結果還是觀看條件？",
+      "如果觀眾進出自由，誰決定作品的起點與終點？",
+      "哪種紀錄最能保存作品：影片、時間表、訪談還是行為記譜？",
+      "你如何避免用最戲劇性的瞬間取代作品真正的時間結構？"
+    ],
+    "strategy": "用『時間切片』取代英雄照片：開場、30分鐘、2小時、4小時、結束前各記一次。每次只記身體、空間、觀眾、聲音與節奏五項，不立刻下總結。",
+    "task": "挑一個會持續至少60分鐘的公共空間活動，每15分鐘記錄一次，共四次。最後比較哪些變化若只看單一照片會完全消失。",
+    "training": "做一張『時間剖面』，橫軸是時間，縱軸標記觀眾密度、聲音、動作強度與空間佔用，最後寫一段不依賴高潮瞬間的策展說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Sarah Michelson: nowhere",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "MoMA官方列《Sarah Michelson: nowhere》於2026年9月15日至10月11日展出；9月28日表演時間為10:30至17:30。藝術家將Marron Family Atrium視為每日工作場，並與輪替舞者共同表演。",
+      "references": [
+        {
+          "title": "Sarah Michelson: nowhere",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11615",
+          "accessedAt": "2026-09-28"
+        },
+        {
+          "title": "Sarah Michelson: nowhere — Press",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/film-media/sarah-michelson-nowhere/",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】《nowhere》在9月28日由10:30持續至17:30，並把MoMA中庭納入作品日常。\\n【推論】時間型作品若只用單一照片代表，容易犧牲作品真正的節奏與勞動結構。\\n【原創模擬】五次時間切片與時間剖面為Curator OS策展訓練。"
+  },
+  {
+    "id": "daily-2026-09-28-participatory",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "國際民眾參與策展實作",
+    "lens": "社交編舞、身體門檻與包容參與",
+    "source": "Guggenheim Works & Process／SCUFF Queer Country Dancing官方資料（查證截至2026-09-28）",
+    "title": "一場參與式活動真正的第一道門檻，不是票價，而是『我敢不敢把身體放進去』。",
+    "summary": "Guggenheim於9月28日晚間在旋轉中庭舉辦SCUFF Queer Country Dancing舞會，官方標示為beginner-friendly並包容不同經驗程度。今日把它當作參與式策展案例：有些活動資訊上完全開放，但身體上仍讓新手感到自己『不屬於這裡』。",
+    "questions": [
+      "第一次參加的人在入口會先看到高手還是新手？",
+      "活動是否允許旁觀後再加入？",
+      "不會跳舞的人是否知道第一個動作是什麼？",
+      "配對舞蹈如何避免讓單獨到場者尷尬？",
+      "性別角色是否被預設在舞步裡？",
+      "參與者可以中途退出而不被注視嗎？",
+      "工作人員的語言是否真的傳達『你可以不會』？",
+      "場地中心與邊緣分別給了誰安全感？",
+      "如果有人只想觀看，他是否仍被視為參與者？",
+      "什麼證據能顯示活動不只是宣稱包容，而是讓更多身體真的進場？"
+    ],
+    "strategy": "設計『旁觀—試做—加入—退出—再加入』五階段，不要求一次完成參與。每個階段都要有清楚的身體位置與退出權。",
+    "task": "為一個工作坊畫出五階段參與平面圖，尤其標出旁觀區、第一次試做區與可隨時退出的位置。",
+    "training": "找一位完全不熟悉活動的人看流程圖5分鐘，請他指出哪一步最不敢進去。只修正那一個門檻，再重新測試。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Guggenheim Museum",
+      "title": "Works & Process Rotunda Dance Party: SCUFF Queer Country Dancing",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "Guggenheim官方日曆列活動於2026年9月28日19:00舉行，SCUFF在旋轉中庭帶領line dancing與partner dancing，並明確標示為beginner-friendly與inclusive of all experience levels。",
+      "references": [
+        {
+          "title": "Guggenheim Calendar — September 28, 2026",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/stroller-tours",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】Guggenheim 9月28日安排SCUFF Queer Country Dancing，官方標示新手友善並包容各種經驗程度。\\n【推論】參與式策展的關鍵門檻之一是身體是否敢真正進場，而不只是資訊上是否免費或開放。\\n【原創模擬】旁觀—試做—加入—退出—再加入五階段為Curator OS參與設計方法。"
+  },
+  {
+    "id": "daily-2026-09-28-family",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "親子觀展教育訓練",
+    "lens": "建築觀察、兒童尺度與提問權",
+    "source": "Guggenheim《Curious about the Building?》官方資料（查證截至2026-09-28）",
+    "title": "不要先告訴孩子這是名建築：讓他先找出『這棟房子哪裡很奇怪』。",
+    "summary": "Guggenheim每天14:00的《Curious about the Building?》以30分鐘帶領觀眾探索Frank Lloyd Wright建築的細節、怪癖與空間特徵。今天將這個架構轉成親子訓練：先讓孩子用身體尺度發現奇怪之處，再補建築史。",
+    "questions": [
+      "孩子第一個覺得奇怪的地方是坡道、光、聲音還是高度？",
+      "他會把旋轉坡道理解成路、樓梯還是遊戲場？",
+      "成人是否太快使用建築師名字終止孩子的觀察？",
+      "哪個空間細節只有低視角才看得到？",
+      "走路速度變快或變慢時，建築感受如何改變？",
+      "孩子能否用『我不喜歡』作為有效觀察？",
+      "觸摸限制是否需要先說明，還是可以在需要時再說？",
+      "建築導覽要回答問題，還是增加更多問題？",
+      "如果孩子要改一個地方，他最想改哪裡？",
+      "離開時，他能否用一句話說出這棟建築與一般房子的不同？"
+    ],
+    "strategy": "採『先找怪、再畫路、最後才說歷史』三步法。成人只追問『你怎麼知道？』，不要急著糾正形容詞。",
+    "task": "帶孩子或自己模擬兒童視角，找出一棟建築的5個『奇怪之處』，每個都畫一張10秒草圖。",
+    "training": "30分鐘完成：自由走10分鐘、畫路線10分鐘、補充一段建築背景10分鐘；比較背景知識加入前後，哪些觀察被改變。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Guggenheim Museum",
+      "title": "Curious about the Building?",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "Guggenheim官方資料列2026年9月28日14:00至14:30舉辦《Curious about the Building?》，由museum educators帶領參觀者探索建築特色與細節，包含在門票內且無需事前登記。",
+      "references": [
+        {
+          "title": "Curious about the Building?",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/curious-about-the-building",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】Guggenheim 9月28日14:00舉行30分鐘建築導覽，鼓勵觀眾探索建築細節與特性。\\n【推論】先以兒童尺度發現建築異常，再加入歷史脈絡，可降低標準答案對第一手觀察的干擾。\\n【原創模擬】先找怪—畫路—說歷史的三步法為Curator OS親子觀展訓練。"
+  },
+  {
+    "id": "daily-2026-09-28-life",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "人生策展課題",
+    "lens": "日常練習、工作場所與不依賴成果的持續",
+    "source": "Curator OS原創人生策展，參照MoMA《Sarah Michelson: nowhere》",
+    "title": "如果今天沒有『完成作品』，但你仍準時進入創作現場，這一天算不算前進？",
+    "summary": "Sarah Michelson把MoMA中庭當作daily workspace，讓舞蹈、思考、停頓與存在本身進入作品。人生策展也可以重新定義前進：不把每一天都逼成成果，而是建立一個會固定回去工作的場所與節奏。",
+    "questions": [
+      "你目前用什麼證據判斷今天有沒有前進？",
+      "沒有完成成果的工作日是否全被你判定為失敗？",
+      "哪一個固定場所最容易讓你進入創作狀態？",
+      "你真正需要的是更多時間，還是更穩定的開始儀式？",
+      "哪些工作只有長期重複才會看見效果？",
+      "你能否把『出現在現場』當成一種最低成功標準？",
+      "哪些停頓其實是思考，而不是拖延？",
+      "你如何區分必要的停頓與逃避？",
+      "若今天只能保留90分鐘，你最值得回去做哪一件事？",
+      "十二週後，你希望看到更多作品，還是更穩定的創作身份？"
+    ],
+    "strategy": "建立『到場優先』規則：固定一個90分鐘創作時段，成果不限，但必須進入同一場域並完成一個可留下的痕跡，例如一頁草圖、一段文字、一個模型修改或一張研究卡。",
+    "task": "今天安排90分鐘，不設定完成目標，只設定『準時到場＋留下痕跡』。結束後記錄做了什麼，而不是沒做完什麼。",
+    "training": "連續7天追蹤三項：是否到場、是否留下痕跡、離場時是否知道下一步。暫時不要用作品完成數評價。",
+    "caseStudy": {
+      "realWorld": false,
+      "title": "到場優先的7日人生策展",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "Curator OS原創人生策展練習；概念參照Sarah Michelson把MoMA Marron Family Atrium當作daily workspace、將舞蹈與思考融入博物館日常的做法。",
+      "references": [
+        {
+          "title": "Sarah Michelson: nowhere",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5928",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA將《nowhere》描述為daily dance，Michelson把中庭當作每日工作場所。\\n【推論】創作的持續性可以用『是否回到現場』衡量，而不只用單日完成成果。\\n【原創模擬】到場優先與7日追蹤表為Curator OS人生策展練習。"
   }
 ]
