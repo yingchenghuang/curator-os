@@ -16233,5 +16233,227 @@
       ]
     },
     "rawText": "【事實】MoMA將《nowhere》描述為daily dance，Michelson把中庭當作每日工作場所。\\n【推論】創作的持續性可以用『是否回到現場』衡量，而不只用單日完成成果。\\n【原創模擬】到場優先與7日追蹤表為Curator OS人生策展練習。"
+  },
+  {
+    "id": "daily-2026-09-29-curator",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "專業策展人提問思考課題",
+    "lens": "共同策展、見證與詮釋權",
+    "source": "MoMA《Nilima Sheikh: Fractured Skies》與9月29日Artist and Curators in Conversation官方資料（查證截至2026-09-29）",
+    "title": "當藝術家與策展人坐在同一張桌上，誰有權決定一段歷史要被怎麼說？",
+    "summary": "MoMA於2026年9月27日開幕《Nilima Sheikh: Fractured Skies》，9月29日晚間再安排藝術家Nilima Sheikh與MoMA、Kiran Nadar Museum of Art策展人共同對談。展覽透過三個主要作品系列處理歷史、區域敘事、女性聲音與見證。今日訓練的重點不是『誰比較懂作品』，而是共同策展中不同知識位置如何被清楚區分。",
+    "questions": [
+      "藝術家對作品意義的說法是否具有最終權威？",
+      "策展人若掌握更多歷史資料，是否有權修正藝術家的自我敘述？",
+      "共同策展中的分歧是否應被觀眾看見？",
+      "地方知識、藝術家經驗與博物館研究的證據地位是否相同？",
+      "如果策展文字比作品本身更清楚，是否已經取代作品發言？",
+      "藝術家說『這不是我的意思』時，策展人該如何處理？",
+      "跨機構合作時，誰決定最後的論述版本？",
+      "策展人如何避免把複雜歷史壓成一條易讀敘事？",
+      "觀眾是否應知道哪些判斷來自藝術家、哪些來自機構？",
+      "一場真正成熟的共同策展，是否可以保留未解決的矛盾？"
+    ],
+    "strategy": "建立『發言位置標記』：Artist、Curator、Archive、Institution、Audience。每段關鍵論述都註明來源位置，避免不同類型的知識被混成單一權威聲音。",
+    "task": "選一篇你正在寫的策展論述，圈出10個判斷句，逐句標記它到底來自藝術家、史料、你自己的推論或機構立場。",
+    "training": "60分鐘完成『發言位置地圖』，最後找出3句目前來源不清楚的句子，改寫成更誠實的版本。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Nilima Sheikh: Fractured Skies / Artist and Curators in Conversation",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "MoMA展覽於2026年9月27日至2027年6月13日展出；9月29日18:30–20:00安排Nilima Sheikh與策展人Cara Manes、Roobina Karode共同對談。",
+      "references": [
+        {
+          "title": "Nilima Sheikh: Fractured Skies",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5932",
+          "accessedAt": "2026-09-29"
+        },
+        {
+          "title": "Artist and Curators in Conversation",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://production-gcp.moma.org/calendar/events/11704",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA《Fractured Skies》由MoMA與Kiran Nadar Museum of Art共同組織，9月29日另有藝術家與策展人圓桌對談。\\n【推論】共同策展的核心不只是共享署名，而是清楚分辨不同知識位置。\\n【原創模擬】發言位置標記與60分鐘地圖為Curator OS方法。"
+  },
+  {
+    "id": "daily-2026-09-29-training",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "策展思考訓練",
+    "lens": "資訊設計、證據轉譯與視覺誤導",
+    "source": "MoMA《Full Disclosure: The Edge of Information Design》官方資料（查證截至2026-09-29）",
+    "title": "資料一旦被畫成圖，還是事實嗎？",
+    "summary": "MoMA於2026年9月27日開幕《Full Disclosure: The Edge of Information Design》，這是館方首個完全聚焦資訊設計的展覽，展出30件數位與類比作品。官方明確指出：data is not knowledge，資料必須透過設計被翻譯。今天的訓練是檢查『圖表看起來很客觀』這個錯覺。",
+    "questions": [
+      "一張圖表最先讓你看到的是數據還是設計？",
+      "色彩選擇是否偷偷替資料加入情緒？",
+      "尺度起點改變後，結論會不會改變？",
+      "哪些資料被排除在視覺化之外？",
+      "圖表越簡單是否就越接近真相？",
+      "互動式圖表會增加理解，還是增加選擇偏誤？",
+      "資料來源是否和圖本身一樣容易被看見？",
+      "AI生成資訊圖應如何揭露推論與缺失資料？",
+      "當圖表是為了說服而不是理解，策展人如何辨識？",
+      "你能否用同一組資料做出兩張互相矛盾但都『看似合理』的圖？"
+    ],
+    "strategy": "採『資料—選擇—圖形—結論』四欄法。任何資訊圖都先列出原始資料，再記錄設計者做過的選擇，最後才判斷圖表是否支持結論。",
+    "task": "找一組你熟悉的5項數據，用兩種不同尺度、排序或配色做兩張圖，觀察觀眾會得出哪些不同印象。",
+    "training": "60分鐘完成雙圖對照，並替每張圖寫一句『它最容易讓人誤解什麼』。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Full Disclosure: The Edge of Information Design",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "展覽於2026年9月27日至2027年6月13日展出，為MoMA首個專門聚焦資訊設計的展覽，包含30件數位與類比作品。",
+      "references": [
+        {
+          "title": "Full Disclosure: The Edge of Information Design",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5926",
+          "accessedAt": "2026-09-29"
+        },
+        {
+          "title": "Full Disclosure Press Release",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/exhibition/fulldisclosure/",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA明確以『Data, however, is not knowledge』說明資訊必須經過設計翻譯。\\n【推論】資料視覺化本身就是策展選擇，而不是中性包裝。\\n【原創模擬】雙圖對照與誤解句為Curator OS訓練。"
+  },
+  {
+    "id": "daily-2026-09-29-participatory",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "國際民眾參與策展實作",
+    "lens": " embodied learning、共同研究與展場外知識",
+    "source": "Serpentine《troubleshooting...》官方資料（查證截至2026-09-29）",
+    "title": "參與者只是『來體驗』，還是也能成為知識生產者？",
+    "summary": "Serpentine於2026年9月5至6日舉辦《troubleshooting...》，從Education Space的開放科技檔案出發，再把參與者帶進Kensington Gardens與Hyde Park，以步行、遊戲與移動研究數位時代的導航與世界觀。官方明確將people描述為active agents and producers of knowledge。今天的實作重點是：參與不只是互動，而是能否真的產出新的觀察。",
+    "questions": [
+      "參與者完成活動後有沒有留下可被使用的新知識？",
+      "導覽路線是否允許參與者偏離？",
+      "工作人員提出問題後，答案會不會回到策展資料庫？",
+      "走出展場是否改變了什麼原本只在物件前看不到的事？",
+      "參與者的身體經驗要如何被記錄而不被簡化？",
+      "活動是讓人發現，還是只讓人重演策展人的結論？",
+      "哪些參與成果值得成為下一版展覽資料？",
+      "不同人的路徑差異能否被並置而非統一？",
+      "活動結束後誰擁有這些參與者產出的資料？",
+      "真正的共同研究是否需要讓參與者影響下一次方法？"
+    ],
+    "strategy": "把參與設計成『輸入—探索—產出—回流』四步。任何工作坊若沒有產出或回流，就仍偏向體驗型活動。",
+    "task": "設計一條30分鐘公共空間研究路徑，讓參與者沿途記錄3個你事前不知道答案的問題。",
+    "training": "活動後把所有觀察整理成一張『新知識清單』，只留下原本策展人不知道、但由參與者發現的內容。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦／Serpentine與Kensington Gardens、Hyde Park",
+      "title": "troubleshooting...",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "Serpentine於2026年9月5至6日舉辦guided walks，由研究者、藝術家與創意科技工作者帶領，從processing...檔案展出發延伸至公園，強調embodied learning與people as active agents and producers of knowledge。",
+      "references": [
+        {
+          "title": "troubleshooting...",
+          "publisher": "Serpentine",
+          "url": "https://www.serpentinegalleries.org/whats-on/troubleshooting/",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】Serpentine官方將《troubleshooting...》描述為把檔案研究轉成公共遭遇，並強調具身學習與參與者作為知識生產者。\\n【推論】參與式策展的成熟度可由『參與是否產生原本不存在的新知識』判斷。\\n【原創模擬】輸入—探索—產出—回流四步法為Curator OS工具。"
+  },
+  {
+    "id": "daily-2026-09-29-family",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "親子觀展教育訓練",
+    "lens": "轉譯創作、模仿與兒童自主選擇",
+    "source": "Whitney Museum《Open Studio 2026》官方資料（查證截至2026-09-29）",
+    "title": "孩子做出『不像原作』的東西，可能反而代表他真的看懂了。",
+    "summary": "Whitney的Open Studio 2026在多個週六舉行，最近一次為9月26日，邀請各年齡家庭根據館內展覽與收藏進行不同的artmaking project。今天的親子訓練要把焦點從『照著做』轉成『轉譯』：孩子不需要複製作品，而是選一個他真正注意到的關係重新發明。",
+    "questions": [
+      "孩子最先模仿的是顏色、形狀、動作還是故事？",
+      "如果作品完全不像原作，是否代表活動失敗？",
+      "成人如何判斷孩子是在隨便做還是在轉譯？",
+      "是否需要先示範一個標準成品？",
+      "材料限制會不會反而幫助孩子做出自己的選擇？",
+      "孩子能否說出自己保留了原作哪一個特徵？",
+      "不同年齡是否應該使用同一材料？",
+      "成人的作品會不會變成孩子模仿的新標準？",
+      "如果孩子中途改題目，活動是否允許？",
+      "最後評量應看成品，還是看孩子做過哪些選擇？"
+    ],
+    "strategy": "採『看一個—選一個—改一個』：先找原作一個特徵，選擇保留，再故意改變另一項，讓孩子知道創作不是複製。",
+    "task": "選一件作品，讓孩子只說出一個最想保留的元素，再要求他必須改變尺寸、材料或用途其中一項。",
+    "training": "30至45分鐘完成，最後由孩子自己說『我保留了什麼、我改了什麼』，成人不替他總結。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Whitney Museum of American Art",
+      "title": "Open Studio 2026",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "Whitney Open Studio 2026於多個週六11:00–15:00舉行，面向所有年齡家庭，活動以館內收藏與當期展覽為靈感設計不同創作任務；最近一次日期為9月26日。",
+      "references": [
+        {
+          "title": "Open Studio 2026",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/open-studio-2026",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】Whitney Open Studio 2026為家庭提供以館內作品為靈感的不同artmaking projects。\\n【推論】『不像原作』不必然是理解不足，也可能是兒童完成轉譯。\\n【原創模擬】看一個—選一個—改一個為Curator OS親子訓練。"
+  },
+  {
+    "id": "daily-2026-09-29-life",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "人生策展課題",
+    "lens": "記憶、不可修復經驗與非正向敘事",
+    "source": "MoMA PS1《Teresa Margolles: En el lugar de los hechos》官方資料（查證截至2026-09-29）",
+    "title": "人生裡有些經驗，不需要被『轉化成成長』，只需要被誠實地留下嗎？",
+    "summary": "MoMA PS1於2026年9月24日開幕Teresa Margolles在美國首個大型博物館展《En el lugar de los hechos》。她長期以現場痕跡、材料與研究處理失落、消失與被公共記憶忽略的事件。今日借這個方法思考人生策展：並非所有困難經驗都必須被改寫成成長故事，有些內容的價值可能只是被準確記住。",
+    "questions": [
+      "你是否習慣把每個挫折都寫成『後來讓我成長』？",
+      "哪些經驗其實至今仍沒有答案？",
+      "沒有答案是否等於這段經驗沒有價值？",
+      "你能否只記錄發生了什麼，而不急著解釋？",
+      "哪些細節一旦被過度美化就會失真？",
+      "你的人生書寫裡是否存在被刪掉的不舒服證據？",
+      "什麼時候重新詮釋是理解，什麼時候只是合理化？",
+      "有沒有一段過去你願意標註『仍未完成』？",
+      "哪些記憶適合公開，哪些應該保留私密？",
+      "如果不要求得到正面結論，你會怎麼替那段經驗命名？"
+    ],
+    "strategy": "採『事實／感受／解釋／未知』四欄記錄。今天禁止把未知欄填滿，也禁止把痛苦自動轉成成長。",
+    "task": "選一段你常用『所以我學會了…』總結的經驗，重新寫200字，只允許事實與當時感受，不寫教訓。",
+    "training": "完成後加一行『目前仍不知道的是＿＿』。保留空白，不急著解答。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA PS1",
+      "title": "Teresa Margolles: En el lugar de los hechos (At the Scene)",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "展覽於2026年9月24日至2027年2月8日在MoMA PS1展出，是Margolles在美國首個大型博物館展，涵蓋近三十年的雕塑、攝影、錄像與大型裝置。",
+      "references": [
+        {
+          "title": "Teresa Margolles: En el lugar de los hechos",
+          "publisher": "The Museum of Modern Art / MoMA PS1",
+          "url": "https://press.moma.org/exhibition/teresa-margolles/",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA PS1展覽呈現Margolles近三十年以現場痕跡、研究與材料處理失落、暴力與公共記憶的創作。\\n【推論】人生策展也可以保留尚未被解釋完成的經驗，而不必追求正向收束。\\n【原創模擬】事實／感受／解釋／未知四欄法為Curator OS人生策展練習。"
   }
 ]
