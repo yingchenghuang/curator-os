@@ -16677,5 +16677,441 @@
       ]
     },
     "rawText": "【事實】MoMA《The Modern Window: Julien Ceccaldi》官方標示展至2026年9月30日，今天為最後展日。\\n【推論】策展中的撤場可以轉化成人生策展的『有意識結束』能力。\\n【原創模擬】Close／Continue／Archive／Reopen Later四欄法為Curator OS人生策展工具。"
+  },
+  {
+    "id": "daily-2026-09-27-curator",
+    "daily": true,
+    "date": "2026-09-27",
+    "category": "專業策展人提問思考課題",
+    "lens": "證據",
+    "source": "Whitney Museum of American Art官方資料（查證截至2026-09-27）",
+    "title": "導覽員替策展人說話時，哪些句子必須留下證據？",
+    "summary": "以Whitney Biennial 2026每日展覽導覽為案例，把導覽拆成作品事實、策展判斷與現場回應，避免機構語言被重複到像唯一答案。",
+    "questions": [
+      "導覽中的哪一句能由作品標籤或檔案直接證明？",
+      "哪一句屬於策展團隊的選擇與詮釋？",
+      "導覽員加入個人例子時，觀眾能否辨認語氣轉換？",
+      "藝術家原意與機構詮釋衝突時，應先呈現哪一方？",
+      "只有二十五個名額會排除哪些觀眾？",
+      "一場短導覽應保留多少時間讓觀眾提出反證？",
+      "不同導覽員講同一件作品時，哪些內容必須一致？",
+      "哪些爭議應公開為未定問題，避免被過早收束？",
+      "導覽結束後，觀眾能否說出自己如何得出判斷？",
+      "若拿掉策展人的權威名稱，這套說法還站得住嗎？"
+    ],
+    "strategy": "來源事實：Whitney於2026年9月14日至10月11日提供Biennial 2026展覽導覽，免費隨門票參加，限二十五人。推論：導覽是策展論述的第二次編輯。原創方法：每段話加上F事實、I詮釋、Q待問三種標記。",
+    "task": "選一件作品寫三分鐘導覽稿，逐句標記F、I、Q；刪除一個沒有證據的權威句，補上一個讓觀眾能反駁的問題。",
+    "training": "用同一件作品錄製兩版九十秒導覽：第一版只說可驗證事實，第二版加入策展判斷。比較觀眾在哪一句開始把詮釋誤認為事實。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-09-27",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Whitney Biennial 2026六樓展覽導覽於2026年9月14日至10月11日舉行；9月27日13:00有一場，免費隨門票參加，限二十五人。",
+      "references": [
+        {
+          "title": "Exhibition Tour: Whitney Biennial 2026",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/tour-whitney-biennial-2026-floor6",
+          "accessedAt": "2026-09-27"
+        }
+      ],
+      "title": "Whitney Biennial 2026展覽導覽",
+      "context": "館方導覽員提供作品洞見，但官方頁面沒有說明導覽稿的證據標示方法。Curator OS將它轉成可稽核的口語策展練習。"
+    },
+    "rawText": "【來源事實】Whitney Biennial 2026六樓展覽導覽於2026年9月14日至10月11日提供，9月27日13:00有場次，免費隨門票參加且限二十五人。\n\n【推論】導覽會再次編輯策展論述，若不標示語氣，觀眾容易把詮釋當成事實。\n\n【原創模擬】以F事實、I詮釋、Q待問三層重寫三分鐘導覽。\n\n來源：https://whitney.org/events/tour-whitney-biennial-2026-floor6\n資料id：daily-2026-09-27-curator"
+  },
+  {
+    "id": "daily-2026-09-27-family",
+    "daily": true,
+    "date": "2026-09-27",
+    "category": "親子觀展教育訓練",
+    "lens": "關係",
+    "source": "Whitney Museum of American Art家庭計畫官方資料（查證截至2026-09-27）",
+    "title": "成人先說答案的前十秒，會不會關掉孩子自己的觀看？",
+    "summary": "把親子共學改成孩子先觀察、成人再補充、雙方共同修正，測試發言順序如何影響觀看。",
+    "questions": [
+      "第一眼由誰先說，另一個人是否立刻跟隨？",
+      "孩子用了哪個成人不會選的詞？",
+      "成人的知識何時提供幫助，何時變成標準答案？",
+      "同一作品可以先用動作回答嗎？",
+      "孩子說不知道時，成人能否保留五秒沉默？",
+      "哪個細節能讓雙方提出不同故事？",
+      "成人若故意說錯，孩子會不會更敢反駁？",
+      "家庭活動是否允許只觀看、不製作？",
+      "如何讓孩子也能向成人提出一題？",
+      "離館後雙方各自記得什麼，差異代表什麼？"
+    ],
+    "strategy": "來源事實：Whitney家庭計畫包含創作工作坊、活動、導覽、展廳指南與居家挑戰，鼓勵兒童和成人共同學習。推論：共同出席不保證發言權平等。原創方法：前十秒由孩子決定觀看入口，成人只複述、不評分。",
+    "task": "選三件作品，每件先沉默十秒，再由孩子說一個細節、成人精確複述，最後各提出一個不同問題。",
+    "training": "做一張雙欄觀察卡：孩子看到／成人看到。禁止合併答案，最後只找一個彼此真正不同的地方。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-09-27",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "截至2026年9月27日，Whitney家庭計畫持續提供親子工作坊、導覽、展廳活動指南與居家創作挑戰，官方目標為孩子與成人共同學習藝術。",
+      "references": [
+        {
+          "title": "Families",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/education/families",
+          "accessedAt": "2026-09-27"
+        }
+      ],
+      "title": "Whitney家庭計畫",
+      "context": "官方提供共同學習框架；「孩子先說十秒」是Curator OS原創的發言權實驗。"
+    },
+    "rawText": "【來源事實】Whitney家庭計畫以工作坊、活動、導覽、展廳指南與居家挑戰鼓勵兒童和成人共同學習。\n\n【推論】共同參與仍可能由成人壟斷命名權。\n\n【原創模擬】孩子先說、成人複述、雙方各問一題，保留差異。\n\n來源：https://whitney.org/education/families\n資料id：daily-2026-09-27-family"
+  },
+  {
+    "id": "daily-2026-09-27-life",
+    "daily": true,
+    "date": "2026-09-27",
+    "category": "人生策展課題",
+    "lens": "關係",
+    "source": "Walker Art Center與Mizna官方活動資料（查證截至2026-09-27）",
+    "title": "你一直沒說出口的那場對話，正在替你消耗多少創作能量？",
+    "summary": "參照《Bouchra》把長期迴避的關係議題拆成事實、恐懼、想說的話與可承擔的第一句，停止讓沉默無限佔用注意力。",
+    "questions": [
+      "你真正迴避的是對話內容、對方反應還是自己的羞愧？",
+      "哪些事實已經確定，哪些只是你預演的災難？",
+      "不說話每天佔用多少注意力與創作時間？",
+      "你希望對方理解什麼，又能接受他不理解什麼？",
+      "第一場對話只需要完成哪一件事？",
+      "哪些界線必須先說清楚，避免對話變成辯論？",
+      "如果口頭說不出來，書寫是否更精準？",
+      "你是否把延遲誤認為準備？",
+      "對話後最差、最好與最可能的結果各是什麼？",
+      "無論結果如何，你要把哪一部分能量收回自己手上？"
+    ],
+    "strategy": "來源事實：《Bouchra》以導演與母親的真實對話為基礎，透過動畫重新想像長期迴避的酷兒身份與親密關係議題，2026年9月27日在Walker放映。推論：未說出口的議題可能轉成創作材料，也可能持續耗損。原創方法：只設計第一句與二十分鐘界線。",
+    "task": "寫四欄：已知事實、我害怕的反應、我真正想說、我能承擔的第一句。若適合溝通，安排一次二十分鐘對話；若仍不安全，先完成未寄出的信。",
+    "training": "對話前做三次模擬：對方理解、對方防衛、對方沉默。每版只練習保持核心句，不追求控制結果。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-09-27",
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "latestUpdate": "《Bouchra》於2026年9月27日19:00在Walker Cinema作為第20屆Twin Cities Arab Film Fest閉幕活動放映，導演映後遠端對談。",
+      "references": [
+        {
+          "title": "Bouchra by Meriem Bennani and Orian Barki",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/bouchra-by-bennani-and-barki/",
+          "accessedAt": "2026-09-27"
+        }
+      ],
+      "title": "《Bouchra》",
+      "context": "影片從卡薩布蘭卡母親與紐約女兒的長途電話開始，素材源於導演與母親的真實對話，再以3D動畫虛構化。人生練習僅借用其延遲對話與創作轉譯結構。"
+    },
+    "rawText": "【來源事實】《Bouchra》以導演與母親的真實對話為基礎，處理長期迴避的酷兒身份與親密關係議題；2026年9月27日在Walker放映。\n\n【推論】沉默可能保護關係，也可能長期耗損注意力，需依安全與權力條件判斷。\n\n【原創模擬】四欄拆解與二十分鐘界線，不以和解作為唯一成功標準。\n\n來源：https://www.walkerart.org/whats-on/bouchra-by-bennani-and-barki/\n資料id：daily-2026-09-27-life"
+  },
+  {
+    "id": "daily-2026-09-27-participatory",
+    "daily": true,
+    "date": "2026-09-27",
+    "category": "國際民眾參與策展實作",
+    "lens": "權力",
+    "source": "Whitney Museum of American Art社區計畫官方資料（查證截至2026-09-27）",
+    "title": "社區顧問網絡若不能改變決策，持續關係會不會只是長期諮詢？",
+    "summary": "以Whitney社區顧問網絡WECAN為參照，把「持續連結」轉成可追蹤的提案權、回覆義務與決策後果。",
+    "questions": [
+      "顧問能提出議題，還是只能回應館方既定問題？",
+      "哪些預算、節目或空間決定可被社區改變？",
+      "顧問成員如何產生，任期與替換規則是否透明？",
+      "居民、教師、家長與社福組織的知識如何被記錄？",
+      "沒有採用的建議是否會收到公開理由？",
+      "持續合作是否包含報酬、交通與照顧成本？",
+      "誰能對機構提案行使否決或暫停權？",
+      "顧問意見與藝術專業衝突時由誰裁決？",
+      "一年後應用哪三項制度改變驗證影響？",
+      "網絡若沒有改變任何決策，機構願不願意承認參與失效？"
+    ],
+    "strategy": "來源事實：Whitney表示社區計畫追求超越單次參訪的持續連結，WECAN包含居民、教師、家長、社福與社區組織代表。推論：持續時間不等於權力深度。原創方法：建立提案、共同決定、否決、回覆四級權限表。",
+    "task": "為一個社區顧問會議列出十項決定，逐項標記諮詢、共同決定或社區可否決；至少把一項資源配置提升到共同決定。",
+    "training": "模擬一項建議未被採用，機構必須在七日內提供證據、限制與替代方案，顧問可再提出一次修正。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-09-27",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "截至2026年9月27日，Whitney官方仍將Community Programs定位為超越單次參訪的持續合作，並列出WECAN由地方居民、教師、家長、社福與社區組織代表組成。",
+      "references": [
+        {
+          "title": "Community Initiatives",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/education/community",
+          "accessedAt": "2026-09-27"
+        }
+      ],
+      "title": "Whitney Education Community Advisory Network",
+      "context": "官方可證明網絡組成與持續關係目標；公開頁面未具體列出否決權、報酬或年度決策改變，因此這些仍屬待驗證。"
+    },
+    "rawText": "【來源事實】Whitney社區計畫強調超越單次參訪的持續連結；WECAN由地方居民、教師、家長、社福服務者與社區組織代表組成。\n\n【推論】長期存在仍可能停留在諮詢層級，需檢查實際決策後果。\n\n【原創模擬】建立四級權限表與七日回覆義務。\n\n來源：https://whitney.org/education/community\n資料id：daily-2026-09-27-participatory"
+  },
+  {
+    "id": "daily-2026-09-27-training",
+    "daily": true,
+    "date": "2026-09-27",
+    "category": "策展思考訓練",
+    "lens": "觀察",
+    "source": "Whitney Museum of American Art官方資料（查證截至2026-09-27）",
+    "title": "四十五分鐘只看一件作品：慢看會讓判斷更準，還是只讓措辭更漂亮？",
+    "summary": "參照Whitney《A Closer Look》，用觀察、證據、推論、修正四回合測試慢看是否真正改變判斷。",
+    "questions": [
+      "第一分鐘你最先命名的是形式、情緒還是故事？",
+      "哪三項描述任何人都能在作品上找到？",
+      "你在哪一步開始替藝術家猜測動機？",
+      "別人的觀察如何改變你的第一個結論？",
+      "沉默三十秒後，你看見了什麼先前漏掉的關係？",
+      "同一細節能支持兩個相反解讀嗎？",
+      "哪些藝術史知識幫助觀看，哪些知識壓過現場？",
+      "四十五分鐘的時間成本換來哪一項可辨認的修正？",
+      "如果結論完全沒變，是作品證據夠強還是你拒絕改變？",
+      "最後一句應該是答案，還是目前最精準的未知？"
+    ],
+    "strategy": "來源事實：Whitney的導覽每場四十五分鐘，聚焦一件作品或兩件作品之間的連結，鼓勵共同討論。推論：慢看只有在結論可被修正時才有價值。原創方法：每十分鐘強制寫一次「我改變了什麼」。",
+    "task": "挑一件作品做四輪各十分鐘觀察：描述、證據、反證、修正。最後五分鐘只寫一項被作品推翻的原判斷。",
+    "training": "兩人互換觀察卡，禁止評論品味，只能圈出無證據的形容詞與缺少反例的結論。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-09-27",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "《A Closer Look: Guided Close-Looking Through Dialogue》於2026年5月4日至10月31日進行；9月27日15:00安排場次，每場四十五分鐘，限二十人。",
+      "references": [
+        {
+          "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/closer-look-untitled-america",
+          "accessedAt": "2026-09-27"
+        }
+      ],
+      "title": "Whitney《A Closer Look》",
+      "context": "官方強調慢看與共同討論。Curator OS額外加入反證與結論修正，讓時間延長可被評估。"
+    },
+    "rawText": "【來源事實】Whitney《A Closer Look》每場四十五分鐘，聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論。\n\n【推論】慢看未必自動提升品質；判斷是否因新證據而修正才是關鍵。\n\n【原創模擬】四輪觀察卡：描述、證據、反證、修正。\n\n來源：https://whitney.org/events/closer-look-untitled-america\n資料id：daily-2026-09-27-training"
+  },
+  {
+    "id": "daily-2026-10-01-curator",
+    "daily": true,
+    "date": "2026-10-01",
+    "category": "專業策展人提問思考課題",
+    "lens": "媒介",
+    "source": "The Museum of Modern Art官方資料（查證截至2026-10-01）",
+    "title": "當書被放進展櫃，策展如何保住翻頁、閱讀與偶然發現？",
+    "summary": "以MoMA《The Surrealist Book》會員預展為案例，研究藝術家書從可觸媒介轉成展品後，策展如何補回時間、順序與物質互動。",
+    "questions": [
+      "一本書的作品性存在於封面、頁序、觸感還是閱讀時間？",
+      "只展示單一跨頁會犧牲哪些敘事關係？",
+      "展櫃保護原件時，哪一種替代方式能補回翻頁？",
+      "數位翻頁是否保留比例、材質與偶然性？",
+      "策展人選擇打開哪一頁，是否等同重新剪輯作品？",
+      "特殊裝幀與附加材料要如何避免只成為奇觀？",
+      "觀眾需要讀懂文字才能理解這件藝術家書嗎？",
+      "多語言內容如何被轉譯而不抹平語言遊戲？",
+      "保存限制與可及性衝突時，優先順序如何公開？",
+      "離場後觀眾能否帶走一套重新看待書的閱讀方法？"
+    ],
+    "strategy": "來源事實：MoMA展覽聚焦超現實主義藝術家書，10月1日至3日會員預展，10月4日正式開幕；展品含特殊紙材、模型、素描本與雕塑性裝幀。推論：展出書必然把可操作媒介轉成部分可見物件。原創方法：每本書建立物件、頁序、閱讀三條平行展示。",
+    "task": "選一本藝術家書，設計三個展示介面：原件展櫃、一段可翻閱替代物、一張頁序地圖；逐項說明保留與損失。",
+    "training": "做一次「只開一頁」壓力測試：先選最漂亮的一頁，再選最能解釋全書的一頁，比較兩者如何改變策展敘事。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-01",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "《The Surrealist Book: Tomorrow Lives in Mirrors》於2026年10月1日至3日會員預展，10月4日至2027年1月23日正式展出。",
+      "references": [
+        {
+          "title": "The Surrealist Book: Tomorrow Lives in Mirrors",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5918",
+          "accessedAt": "2026-10-01"
+        },
+        {
+          "title": "The Surrealist Book: Tomorrow Lives in Mirrors",
+          "publisher": "MoMA Press Office",
+          "url": "https://press.moma.org/exhibition/the-surrealist-book/",
+          "accessedAt": "2026-10-01"
+        }
+      ],
+      "title": "MoMA《The Surrealist Book》",
+      "context": "展覽首次呈現Helen與Sam Zell收藏的大批珍稀藝術家書，強調超現實主義者如何把書轉成互動與混合媒介。Curator OS聚焦展櫃如何改變閱讀。"
+    },
+    "rawText": "【來源事實】MoMA《The Surrealist Book》於2026年10月1日至3日會員預展，10月4日正式開幕，展品涵蓋特殊紙材、模型、素描本與雕塑性裝幀。\n\n【推論】把書放進展櫃會保護原件，同時削弱翻頁、順序與觸感。\n\n【原創模擬】以原件、替代翻閱、頁序地圖三軌補回閱讀時間。\n\n來源：https://www.moma.org/calendar/exhibitions/5918\n資料id：daily-2026-10-01-curator"
+  },
+  {
+    "id": "daily-2026-10-01-family",
+    "daily": true,
+    "date": "2026-10-01",
+    "category": "親子觀展教育訓練",
+    "lens": "想像",
+    "source": "Walker Art Center官方家庭活動資料（查證截至2026-10-01）",
+    "title": "孩子說完故事後，成人能不能只追問，不急著把它變成作品？",
+    "summary": "參照Walker即將舉行的Story Makers & Dream Shapers，讓故事先完整存在，再決定它要成為書、動作、雕塑或什麼都不做。",
+    "questions": [
+      "孩子最想說的是事件、角色、感覺還是聲音？",
+      "成人第一個追問會打開故事還是導向成品？",
+      "故事可以只用動作、不用完整句子嗎？",
+      "哪一段空白應保留給孩子自己補？",
+      "材料選擇是否服務故事，還是材料反過來綁架內容？",
+      "同一故事變成書與雕塑會失去什麼？",
+      "孩子能否拒絕公開或展示自己的故事？",
+      "成人可以分享自己的版本，但如何不蓋過孩子？",
+      "活動何時應停止，避免把愉快變成作業？",
+      "回家後只保留哪一句或哪個動作就足夠？"
+    ],
+    "strategy": "來源事實：Walker於2026年10月3日舉辦免費家庭日，以書、戲劇、舞蹈、雕塑等藝術形式探索故事。推論：多媒材可能打開選擇，也可能過早推向製作。原創方法：先用三分鐘口述或動作完成故事，再由孩子決定媒介。",
+    "task": "進入展場後讓孩子先用三句話或三個動作說一個故事；成人只問「然後呢」「哪裡最重要」「你要不要留下它」，媒介由孩子最後決定。",
+    "training": "同一故事做兩版：零材料版與單一材料版。比較材料增加了表達，還是只增加裝飾。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-01",
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "latestUpdate": "Walker《Free First Saturday: Story Makers & Dream Shapers》排定2026年10月3日10:00至15:00舉行，展廳免費至17:00，活動免費但需登記。",
+      "references": [
+        {
+          "title": "Free First Saturday: Story Makers & Dream Shapers",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/free-first-saturday-story-makers-dream-shapers/",
+          "accessedAt": "2026-10-01"
+        }
+      ],
+      "title": "Walker《Story Makers & Dream Shapers》",
+      "context": "官方邀請家庭探索藝術家如何透過書、戲劇、舞蹈與雕塑說故事。Curator OS延伸為「故事先於媒介」的親子方法。"
+    },
+    "rawText": "【來源事實】Walker將於2026年10月3日舉辦免費家庭日，以書、戲劇、舞蹈、雕塑等形式探索故事，活動免費但需登記。\n\n【推論】媒材選擇能擴張故事，也可能過早把孩子推向成品。\n\n【原創模擬】先完成零材料故事，再由孩子決定是否需要媒介。\n\n來源：https://www.walkerart.org/whats-on/free-first-saturday-story-makers-dream-shapers/\n資料id：daily-2026-10-01-family"
+  },
+  {
+    "id": "daily-2026-10-01-life",
+    "daily": true,
+    "date": "2026-10-01",
+    "category": "人生策展課題",
+    "lens": "維護",
+    "source": "Walker Art Center官方資料（查證截至2026-10-01）",
+    "title": "你只計算完成作品的時間，是否把維持人生運作的幕後勞動全部當成零？",
+    "summary": "以Walker Scholars’ Night的幕後主題為入口，把研究、整理、照護、聯絡、恢復與維護列入真正的工作帳，重新判斷自己是否真的沒有進展。",
+    "questions": [
+      "一件完成作品背後有哪些沒有被署名的工作？",
+      "本週多少時間花在維護工具、身體與合作關係？",
+      "哪些行政是必要基礎，哪些只是流程膨脹？",
+      "你是否因為沒有可展示成品，就判定整週失敗？",
+      "恢復時間如何影響下一次判斷品質？",
+      "哪一項幕後勞動可以批次、自動化或交給別人？",
+      "哪些工作必須親自做，因為它承載你的方法？",
+      "你能否把研究筆記視為可累積資產？",
+      "若把維護全部省掉，三個月後會發生什麼？",
+      "月底應用哪些證據評估前進，而非只數成品？"
+    ],
+    "strategy": "來源事實：Walker於2026年10月1日舉行Scholars’ Night，內容公開收藏取得、策展工作、圖書資料、導覽、藝術製作與影片剪輯等幕後環節。推論：可見成果依賴大量不可見維護。原創方法：建立成品、推進、維護、恢復四類工作帳。",
+    "task": "回看過去七天，把所有工作分鐘分為成品、推進、維護、恢復；找出一項可批次的維護工作，同時保留一項不能被刪除的恢復。",
+    "training": "連續七天每天只記四個數字與一項證據。週末用「是否降低未來阻力」評估幕後工作，不用忙碌感評分。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-01",
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "latestUpdate": "Walker Scholars’ Night於2026年10月1日17:00至21:00免費舉行，包含展覽導覽、新近收藏幕後介紹、圖書資料展示、藝術製作、影片放映與剪輯師對談。",
+      "references": [
+        {
+          "title": "Scholars’ Night: Behind the Scenes",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/scholars-night-behind-scenes/",
+          "accessedAt": "2026-10-01"
+        }
+      ],
+      "title": "Walker Scholars’ Night: Behind the Scenes",
+      "context": "活動將美術館收藏、研究、圖書館、教育與影像剪輯的幕後工作公開。人生課題把同一結構轉向個人工作帳。"
+    },
+    "rawText": "【來源事實】Walker於2026年10月1日舉行Scholars’ Night，公開收藏取得、策展、圖書資料、教育活動與影片剪輯等幕後環節。\n\n【推論】可見成品依賴大量維護與恢復，但這些時間常被個人工作評估忽略。\n\n【原創模擬】用成品、推進、維護、恢復四類工作帳重新計算進展。\n\n來源：https://www.walkerart.org/whats-on/scholars-night-behind-scenes/\n資料id：daily-2026-10-01-life"
+  },
+  {
+    "id": "daily-2026-10-01-participatory",
+    "daily": true,
+    "date": "2026-10-01",
+    "category": "國際民眾參與策展實作",
+    "lens": "關係",
+    "source": "Walker Art Center官方資料（查證截至2026-10-01）",
+    "title": "要求大家放下手機，就真的會產生連結嗎？",
+    "summary": "以Walker《Analog Connections》為真實案例，檢查離線手作、復古遊戲與現場談話能否從共同在場進入可觀察的互惠關係。",
+    "questions": [
+      "離線是活動規則、價值主張還是暫時情境？",
+      "無手機會讓誰自在，也會讓誰失去輔助工具？",
+      "共同手作是否讓陌生人真正交換資訊？",
+      "活動如何避免把復古科技浪漫化？",
+      "誰設計談話題目，參與者能否改變流程？",
+      "一次愉快互動留下什麼可延續的聯絡或行動？",
+      "慢性病與障礙參與者需要哪些彈性？",
+      "免費入場解決費用門檻後，還有哪些文化門檻？",
+      "如何測量連結，而不把人數當成唯一指標？",
+      "活動結束三十天後，哪一段關係仍有可能存在？"
+    ],
+    "strategy": "來源事實：Walker與Present Company於2026年10月1日共同舉辦免費離線活動，包含現場創作、復古遊戲、時尚循環對話與Polaroid。推論：共同在場是連結條件，仍非長期關係證據。原創方法：活動中設計一項互惠交換與三十日回訪。",
+    "task": "設計一個十五分鐘離線桌：每人帶來一項技能或故事，完成一次給予與一次接收；活動後記錄誰願意在三十日內延續交換。",
+    "training": "把指標分成在場、互動、互惠、延續四層；禁止用單一參與人數宣稱建立社群。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-01",
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "latestUpdate": "《Analog Connections with Present Company》於2026年10月1日17:00至20:00在Walker Cargill Lounge免費舉行，展廳免費開放至21:00，可申請ASL與其他協助。",
+      "references": [
+        {
+          "title": "Analog Connections with Present Company",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/analog-connections-with-present-company/",
+          "accessedAt": "2026-10-01"
+        }
+      ],
+      "title": "Walker《Analog Connections》",
+      "context": "活動邀請參與者離開螢幕，進行現場創作、復古遊戲與對話。官方可證明活動設計，長期連結仍需活動後資料。"
+    },
+    "rawText": "【來源事實】Walker與Present Company於2026年10月1日舉辦免費離線活動，包含手作、復古遊戲、時尚對話與Polaroid，可申請ASL等協助。\n\n【推論】離線共同在場可能增加互動，但不能直接證明長期社群形成。\n\n【原創模擬】用在場、互動、互惠、延續四層指標與三十日回訪測試結果。\n\n來源：https://www.walkerart.org/whats-on/analog-connections-with-present-company/\n資料id：daily-2026-10-01-participatory"
+  },
+  {
+    "id": "daily-2026-10-01-training",
+    "daily": true,
+    "date": "2026-10-01",
+    "category": "策展思考訓練",
+    "lens": "序列",
+    "source": "Walker Art Center官方資料（查證截至2026-10-01）",
+    "title": "不用旁白，影像序列能否承擔一個完整論述？",
+    "summary": "參照Chantal Akerman《D’Est》的慢速移動、環繞與靜止鏡頭，練習只用順序、停留與重複建立歷史感，避免文字替影像把話說完。",
+    "questions": [
+      "第一個鏡頭提供地點、情緒還是觀看規則？",
+      "若沒有旁白，觀眾靠哪些重複辨認結構？",
+      "移動鏡頭與靜止鏡頭分別如何分配權力？",
+      "人物被觀看多久才開始產生不適？",
+      "剪接順序是在建立歷史，還是在製造因果錯覺？",
+      "哪些聲音應保留現場，哪些聲音會過度操控情緒？",
+      "一段等待畫面需要多長才真正被感受到？",
+      "跨越不同國家時，哪些差異不能被統一成東歐印象？",
+      "刪掉哪一段文字後，影像反而更能工作？",
+      "觀眾離場後會記得資訊，還是記得觀看的節奏？"
+    ],
+    "strategy": "來源事實：《D’Est》記錄後鐵幕時期東歐旅程，以慢速移動、環繞與靜止鏡頭形成視覺檔案，2026年10月1日在Walker放映並與剪輯師Claire Atherton對談。推論：無旁白仍會透過剪接建立立場。原創方法：用十二張影像卡組成三種相反論述。",
+    "task": "選十二張田野照片，不加說明排成「抵達、停留、離開」三段；再只改順序，做出一個相反感受版本。",
+    "training": "請一位未讀背景的人觀看兩版，記錄他推測出的地點、時間與因果，找出剪接偷偷製造的三個假設。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-01",
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "latestUpdate": "Walker於2026年10月1日19:00放映Chantal Akerman《D’Est》，隨後由剪輯師Claire Atherton參與對談；學生免費。",
+      "references": [
+        {
+          "title": "D’Est (From the East) by Chantal Akerman",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/dest-from-the-east-by-chantal-akerman/",
+          "accessedAt": "2026-10-01"
+        }
+      ],
+      "title": "Chantal Akerman《D’Est》",
+      "context": "官方將影片描述為後鐵幕東歐的變形旅行誌與視覺檔案。Curator OS將其形式轉成無旁白序列訓練。"
+    },
+    "rawText": "【來源事實】《D’Est》以慢速移動、環繞與靜止鏡頭記錄後鐵幕時期東歐，2026年10月1日在Walker放映並安排剪輯師對談。\n\n【推論】沒有旁白仍會透過順序、停留與重複建立論述。\n\n【原創模擬】十二張影像卡重排兩版，檢查剪接製造的假因果。\n\n來源：https://www.walkerart.org/whats-on/dest-from-the-east-by-chantal-akerman/\n資料id：daily-2026-10-01-training"
   }
 ]
