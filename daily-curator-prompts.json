@@ -17113,5 +17113,226 @@
       "context": "官方將影片描述為後鐵幕東歐的變形旅行誌與視覺檔案。Curator OS將其形式轉成無旁白序列訓練。"
     },
     "rawText": "【來源事實】《D’Est》以慢速移動、環繞與靜止鏡頭記錄後鐵幕時期東歐，2026年10月1日在Walker放映並安排剪輯師對談。\n\n【推論】沒有旁白仍會透過順序、停留與重複建立論述。\n\n【原創模擬】十二張影像卡重排兩版，檢查剪接製造的假因果。\n\n來源：https://www.walkerart.org/whats-on/dest-from-the-east-by-chantal-akerman/\n資料id：daily-2026-10-01-training"
+  },
+  {
+    "id": "daily-2026-10-02-curator",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "專業策展人提問思考課題",
+    "lens": "收藏與權力",
+    "source": "Brooklyn Museum官方資料（查證截至2026-10-02）",
+    "title": "私人收藏被捐進博物館後，策展人是在接收作品，還是在接收一套品味？",
+    "summary": "以Brooklyn Museum《Cézanne to Modigliani》開幕為案例，檢查私人收藏進入公共機構後，捐贈史、缺席者與展示權如何共同塑造現代藝術敘事。",
+    "questions": [
+      "一批私人收藏進入博物館時，誰決定它代表哪一段藝術史？",
+      "收藏家的偏好應被當成研究材料，還是被策展文字隱去？",
+      "作品的市場價值會不會悄悄取代其歷史關係？",
+      "五十多件名作之間，哪些缺席藝術家最能揭露收藏邊界？",
+      "捐贈條件是否限制作品的展示、借展或重新詮釋？",
+      "展名以大師姓名構成時，誰被留在這條現代主義譜系之外？",
+      "策展人要如何區分收藏史、作品史與機構取得史？",
+      "公共機構是否應公開收藏形成時的階級、地域與性別條件？",
+      "觀眾如何看見『為什麼是這些作品』，而不只看見名作？",
+      "若重新策展一次，你會保留收藏家的組合，還是拆開重建？"
+    ],
+    "strategy": "來源事實：Brooklyn Museum《Cézanne to Modigliani: Gifts of Modern Art from the Pearlman Collection》於2026年10月2日開幕，展至2027年4月18日，由Brooklyn Museum與LACMA共同策劃，呈現逾五十件歐洲現代藝術作品。推論：私人收藏進入公共博物館時，也把收藏者的選擇與缺席帶入公共敘事。原創方法：建立作品史、收藏史、取得史三層標籤。",
+    "task": "選一組五件館藏，為每件補寫作品史、收藏史、取得史三欄；再列出兩位因原收藏邏輯而缺席的藝術家，寫一段不超過150字的缺席聲明。",
+    "training": "進行「拆散收藏」訓練：先照收藏家的原組合排列，再按年代、地域或問題重新排一次，比較兩種排序各自保護與遮蔽了什麼。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "《Cézanne to Modigliani: Gifts of Modern Art from the Pearlman Collection》於2026年10月2日開幕，展期至2027年4月18日。",
+      "references": [
+        {
+          "title": "Cézanne to Modigliani: Gifts of Modern Art from the Pearlman Collection",
+          "publisher": "Brooklyn Museum",
+          "url": "https://www.brooklynmuseum.org/exhibitions/pearlman-collection",
+          "accessedAt": "2026-10-02"
+        },
+        {
+          "title": "The Brooklyn Museum Announces Slate of Fall Exhibitions and Public Programs",
+          "publisher": "Brooklyn Museum",
+          "url": "https://www.brooklynmuseum.org/press/exhibitions-fall-2026",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "Brooklyn Museum《Cézanne to Modigliani》",
+      "context": "展覽以Pearlman Collection的捐贈與收藏為起點，呈現逾五十件歐洲現代藝術作品。Curator OS把注意力放在私人品味如何被轉譯成公共藝術史。"
+    },
+    "rawText": "【來源事實】Brooklyn Museum《Cézanne to Modigliani》於2026年10月2日開幕，展至2027年4月18日，由Brooklyn Museum與LACMA共同策劃，呈現逾五十件歐洲現代藝術作品。\n\n【推論】私人收藏進入公共機構時，收藏者的選擇與缺席也可能被自然化為公共藝術史。\n\n【原創模擬】以作品史、收藏史、取得史三層標籤揭露敘事形成條件。\n\n來源：https://www.brooklynmuseum.org/exhibitions/pearlman-collection\n資料id：daily-2026-10-02-curator"
+  },
+  {
+    "id": "daily-2026-10-02-training",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "策展思考訓練",
+    "lens": "觀看證據",
+    "source": "National Gallery of Art官方資料（查證截至2026-10-02）",
+    "title": "一小時只談一張自畫像，如何避免把觀察偷換成心理診斷？",
+    "summary": "參照National Gallery of Art《The Art of Looking》一小時線上對話，練習把Siqueiros自畫像中的可見證據、形式判斷與心理推測分開。",
+    "questions": [
+      "你第一眼看到的是姿勢、色彩、視線還是象徵？",
+      "哪些描述能被另一位觀眾直接在畫面上指出？",
+      "『自信』『焦慮』『憤怒』屬於觀察還是心理推測？",
+      "1948年的歷史脈絡應在觀看的哪個階段加入？",
+      "藝術家身分資訊會不會讓你忽略畫面本身？",
+      "同一個握拳姿勢還可能有哪三種解釋？",
+      "自畫像是否必然等同藝術家的真實自我？",
+      "一小時對談中，主持人何時應補知識、何時應保持沉默？",
+      "他人的相反觀察是否讓你修改原判斷？",
+      "結束前，哪一句話能清楚標示『我仍然不知道』？"
+    ],
+    "strategy": "來源事實：National Gallery of Art於2026年10月2日舉辦一小時線上《The Art of Looking》，以David Alfaro Siqueiros 1948年《Self-Portrait》為單一對象，邀請公眾分享觀察、詮釋、問題與想法，無須藝術史背景。推論：長時間觀看仍可能把形式線索過快轉成心理判斷。原創方法：以看見、解釋、待證三欄逐句標記。",
+    "task": "對一件肖像作品寫30句短句，分成『看見』『解釋』『待證』三欄；至少把五句原本的心理描述改寫成可指認的視覺證據。",
+    "training": "做四輪各十五分鐘的慢看：輪廓、色彩、身體、背景；每輪只記錄可見內容，最後才允許提出三項詮釋，並替每項註明證據。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "華盛頓特區／線上",
+      "latestUpdate": "《The Art of Looking: David Alfaro Siqueiros, Self-Portrait》於2026年10月2日13:00至14:00線上舉行，免費並須註冊。",
+      "references": [
+        {
+          "title": "The Art of Looking: David Alfaro Siqueiros, Self-Portrait",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/art-looking-david-alfaro-sinqueiros-self-portrait",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "NGA《The Art of Looking》",
+      "context": "活動以單件1948年自畫像進行互動對話，強調視覺素養與觀點轉換。Curator OS將它轉成防止心理過度解讀的證據訓練。"
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年10月2日舉辦一小時線上《The Art of Looking》，以Siqueiros 1948年《Self-Portrait》為對象，無須藝術史背景。\n\n【推論】慢看不自動等於準確；若缺少證據標記，形式線索仍可能被偷換成心理診斷。\n\n【原創模擬】以看見、解釋、待證三欄重寫觀看筆記。\n\n來源：https://www.nga.gov/calendar/art-looking-david-alfaro-sinqueiros-self-portrait\n資料id：daily-2026-10-02-training"
+  },
+  {
+    "id": "daily-2026-10-02-participatory",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "國際民眾參與策展實作",
+    "lens": "對話倫理",
+    "source": "Whitney Museum of American Art官方資料（查證截至2026-10-02）",
+    "title": "讓陌生人談戰爭與監視時，對話如何不把創傷變成輕率意見？",
+    "summary": "以Whitney《Art + You》討論Aziz Hazara《Moon Sightings》為案例，建立事實、位置、感受與回應四段式對話，避免公共討論只剩快速表態。",
+    "questions": [
+      "參與者在發言前需要知道哪些作品與歷史事實？",
+      "誰與戰爭、撤軍或監視議題有直接經驗？",
+      "主持人要如何區分親身經驗、媒體印象與價值判斷？",
+      "作品中的夜視影像如何改變觀看者與被觀看者的權力？",
+      "當有人說錯事時，對話要暫停、修正還是繼續追問？",
+      "哪些問題可能迫使參與者公開不願分享的創傷？",
+      "沉默是否也能被視為一種合法參與？",
+      "不同政治立場如何被容納而不等於所有主張都無須查證？",
+      "一小時討論後，參與者能帶走哪一項可驗證的理解？",
+      "機構如何保存對話成果，又不把私人經驗變成展覽資產？"
+    ],
+    "strategy": "來源事實：Whitney於2026年10月2日17:30至18:30舉辦免費《Art + You》，以Aziz Hazara《Moon Sightings》討論戰爭、監視、記憶、地方及權力與知識的限制，鼓勵年輕成人透過慢看與對話連結。推論：開放發言若缺少位置與證據規則，可能把他人創傷降為意見素材。原創方法：每次發言依序說明事實、位置、感受、回應。",
+    "task": "設計一場四人、四十分鐘的敏感議題對話；每人發言前先標示『我知道的事實』『我的位置』『我的感受』『我希望回應什麼』，最後只保留可追溯的共同紀錄。",
+    "training": "由主持人準備六張界線卡：可追問、需查證、暫停、不同意、保留、不公開；模擬三次衝突，練習不以快速共識結束。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "《Art + You》於2026年10月2日17:30至18:30在Whitney六樓舉行，活動免費、名額有限，可預約或視現場空間加入。",
+      "references": [
+        {
+          "title": "Art + You",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/art-and-you-oct2",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "Whitney《Art + You》",
+      "context": "活動以Aziz Hazara作品為入口，邀請年輕成人透過慢看與對話討論戰爭、監視、記憶與權力。Curator OS聚焦敏感議題的參與倫理。"
+    },
+    "rawText": "【來源事實】Whitney於2026年10月2日舉辦免費《Art + You》，以Aziz Hazara《Moon Sightings》討論戰爭、監視、記憶、地方與知識限制。\n\n【推論】沒有位置與查證規則的開放對話，可能把他人創傷變成參與者的意見素材。\n\n【原創模擬】以事實、位置、感受、回應四段式發言，搭配可追問、需查證、暫停與不公開界線卡。\n\n來源：https://whitney.org/events/art-and-you-oct2\n資料id：daily-2026-10-02-participatory"
+  },
+  {
+    "id": "daily-2026-10-02-family",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "親子觀展教育訓練",
+    "lens": "雙語與重複",
+    "source": "National Gallery of Art官方資料（查證截至2026-10-02）",
+    "title": "同一本故事讀兩次、用兩種語言，孩子看見的是重複還是差異？",
+    "summary": "參照National Gallery of Art英語與西班牙語雙語Storytime，讓孩子透過兩次閱讀比較聲音、圖像、節奏與意思，而不是要求逐字翻譯。",
+    "questions": [
+      "孩子第一次閱讀最先抓住哪個圖像或聲音？",
+      "第二種語言出現時，他注意到的是重複還是陌生？",
+      "成人是否急著把每個詞翻成完全相同的意思？",
+      "同一張圖在兩種語言裡會不會產生不同情緒？",
+      "第二次閱讀應保持相同節奏，還是允許新的停頓？",
+      "孩子不懂詞語時，可以用動作、聲音或指圖回應嗎？",
+      "哪一句由孩子決定要再聽一次？",
+      "自我肯定主題如何避免變成成人要求孩子說正向答案？",
+      "陪伴者能否記錄差異，而不立即糾正？",
+      "離開後，家庭可以如何把兩種語言帶回日常？"
+    ],
+    "strategy": "來源事實：National Gallery of Art於2026年10月2日10:00至11:00舉辦《I Like Myself!/¡Me gusta cómo soy!》Storytime，以英語及西班牙語朗讀同一本書兩次，搭配創意遊戲；活動免費、無須報名，歡迎各年齡並以幼兒與照護者為主。推論：雙語閱讀的價值不只在對譯，也在比較語音、節奏與觀看差異。原創方法：第一遍聽圖像，第二遍找差異，第三步由孩子選擇回應媒介。",
+    "task": "挑一本有雙語版本的繪本，第一次不翻譯只讀與看圖，第二次換語言；請孩子用三張卡指出『一樣』『不一樣』『還不知道』，成人只記錄不訂正。",
+    "training": "完成十分鐘雙語回聲練習：成人各讀一句，孩子可用另一種語言、動作或圖像回應；最後讓孩子挑一頁重新編一種自己的說法。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "華盛頓特區",
+      "latestUpdate": "《Storytime: I Like Myself!/¡Me gusta cómo soy!》於2026年10月2日10:00至11:00在National Gallery of Art東館中庭舉行，免費且無須報名。",
+      "references": [
+        {
+          "title": "Storytime: I Like Myself/¡Me gusta cómo soy!",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/storytime-i-myselfme-gusta-como-soy?evd=202610021400",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "NGA雙語Storytime",
+      "context": "活動把同一本繪本以英語與西班牙語讀兩次，並加入創意遊戲。Curator OS將重複閱讀改造成比較語言與圖像的親子觀看方法。"
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年10月2日舉辦英語與西班牙語雙語Storytime，同一本書朗讀兩次並搭配創意遊戲；活動免費且無須報名。\n\n【推論】雙語閱讀的教育價值不只在逐字翻譯，也在孩子比較語音、節奏、圖像與意思的差異。\n\n【原創模擬】以『一樣／不一樣／還不知道』三張卡保存孩子的觀察。\n\n來源：https://www.nga.gov/calendar/storytime-i-myselfme-gusta-como-soy?evd=202610021400\n資料id：daily-2026-10-02-family"
+  },
+  {
+    "id": "daily-2026-10-02-life",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "人生策展課題",
+    "lens": "方法轉換",
+    "source": "Walker Art Center官方資料（查證截至2026-10-02）",
+    "title": "當你覺得已經沒有音樂可寫，真正需要結束的是創作，還是原本的創作方式？",
+    "summary": "以Éric Baudelaire三段式影片與Alvin Curran的即興音樂為參照，把創作停滯拆成素材枯竭、方法失效與生活轉向，尋找不必否定過去的下一種工作方式。",
+    "questions": [
+      "你是真的沒有內容，還是原來的形式已經無法承載它？",
+      "目前停滯的是材料、技術、時間還是信念？",
+      "過去檔案裡有哪些片段仍在等待新的關係？",
+      "如果不要求產出完整作品，你今天還願意做什麼？",
+      "哪一項舊方法曾經有效，但現在只剩慣性？",
+      "即興能否成為研究，而不是逃避決定？",
+      "生活地點或關係的改變如何進入創作方法？",
+      "你需要停止的是專案、媒介，還是對成功的定義？",
+      "誰可以聽你說明停滯，而不急著替你解決？",
+      "下一個版本要保留過去的哪一段聲音？"
+    ],
+    "strategy": "來源事實：Walker於2026年10月2日19:00放映Éric Baudelaire 2022年59分鐘影片《When There Is No More Music to Write, and Other Roman Stories》，以作曲家Alvin Curran的生命與工作為軸，結合即興配樂、檔案影像、地下電影片段、Curran的Super 8與口述，映後由Baudelaire與剪輯師Claire Atherton對談。推論：創作停滯有時不是沒有內容，而是舊方法無法再組織既有素材與生活變化。原創方法：分開判斷要結束的專案、媒介與成功標準。",
+    "task": "拿出一個停滯專案，列出仍有效的三份舊素材、已失效的兩個方法，以及一個可在四十五分鐘完成的新組合；完成後只判斷是否產生下一步，不評作品好壞。",
+    "training": "做三段各十五分鐘實驗：第一段只整理舊檔案，第二段用陌生順序重新組合，第三段加入一個今天的聲音或文字；記錄哪一段重新產生能量。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "latestUpdate": "《When There Is No More Music to Write, and Other Roman Stories》於2026年10月2日19:00在Walker Cinema放映，片長59分鐘，映後舉行導演與剪輯師對談。",
+      "references": [
+        {
+          "title": "When There Is No More Music to Write, and Other Roman Stories by Éric Baudelaire",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/when-there-is-no-more-music-to-write-and-other-roman-stories-by-eric-baudelaire/",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "Éric Baudelaire《When There Is No More Music to Write》",
+      "context": "影片以Alvin Curran的生命、即興音樂與義大利1960至70年代政治脈絡交織多種檔案。Curator OS將片名轉成創作停滯時的工作方法檢查。"
+    },
+    "rawText": "【來源事實】Walker於2026年10月2日放映Éric Baudelaire 2022年59分鐘影片，結合Curran的即興配樂、檔案影像、Super 8與口述，映後由導演與剪輯師對談。\n\n【推論】創作停滯有時不是內容枯竭，而是舊方法無法再組織素材與生活變化。\n\n【原創模擬】把停滯拆成素材、方法與成功標準，進行三段各十五分鐘的重組測試。\n\n來源：https://www.walkerart.org/whats-on/when-there-is-no-more-music-to-write-and-other-roman-stories-by-eric-baudelaire/\n資料id：daily-2026-10-02-life"
   }
 ]
