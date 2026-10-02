@@ -15641,90 +15641,6 @@
     "rawText": "【事實】Barbican將《Repercussions》定義為9月23至26日的跨藝術takeover，議題包括sonic rights、noise pollution與silence。\n【推論】聲音策展可被視為空間權利的分配，而非單純媒材選擇。\n【原創模擬】聲音權利四層圖與60分鐘聲場任務為Curator OS設計。"
   },
   {
-    "id": "daily-2026-09-25-training",
-    "daily": true,
-    "date": "2026-09-25",
-    "category": "策展思考訓練",
-    "lens": "慢看、手眼協調與觀察精度",
-    "source": "MoMA官方活動資料（查證截至2026-09-26）",
-    "title": "畫下來再說：當觀眾被迫慢看，策展判斷會變得更精準嗎？",
-    "summary": "MoMA在9月25日安排Drop-in Drawing，將繪畫作為展場內的觀看活動。今日不把畫畫視為美術技巧，而把它當成策展研究工具：當你必須用線條重建比例、距離與關係，很多原本快速略過的判斷會被迫變慢。",
-    "questions": [
-      "你第一眼看見的重點，畫五分鐘後還是同一個嗎？",
-      "哪些比例在口頭描述時被你誇大或忽略？",
-      "你最難畫出的部分是否也是最難理解的部分？",
-      "作品與牆面、地面、鄰作之間的距離如何影響判斷？",
-      "你是否用熟悉的符號替代真正看到的形狀？",
-      "畫圖時哪些細節讓你修改原先的策展敘述？",
-      "不擅長繪畫的人是否反而更能保留觀察的不確定？",
-      "如果只允許使用五條線，你會保留什麼？",
-      "同一作品畫三次，哪些關係會穩定出現？",
-      "你的文字是否能回到圖面中被驗證？"
-    ],
-    "strategy": "將「描述」與「描繪」交叉驗證：先寫80字，再畫5分鐘，最後重寫80字。只比較兩版文字中新增、刪除與修正的判斷。",
-    "task": "選一件作品完成三張5分鐘速寫：正面、側面、距離五公尺。每張旁邊只寫三個可觀察事實，不寫感受。",
-    "training": "用45至60分鐘完成文字—速寫—重寫循環，再圈出一個因慢看而被推翻的原判斷，作為下一版策展說明的修正點。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "Drop-in Drawing",
-      "statusAsOf": "2026-09-26",
-      "latestUpdate": "MoMA 2026年9月25日行事曆列有Drop-in Drawing，時間為17:30至19:30，屬gallery experience。",
-      "references": [
-        {
-          "title": "MoMA Events — Sep 25, 2026",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/?date=2026-09-25&happening_filter=All+events",
-          "accessedAt": "2026-09-26"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA 9月25日行事曆列出Drop-in Drawing。\n【推論】繪畫可被當成放慢觀看、檢查空間比例的研究方法。\n【原創模擬】80字—速寫—重寫流程為Curator OS訓練。"
-  },
-  {
-    "id": "daily-2026-09-25-participatory",
-    "daily": true,
-    "date": "2026-09-25",
-    "category": "國際民眾參與策展實作",
-    "lens": "低門檻創作、重複參與與非專業者",
-    "source": "Walker Art Center官方資料（2026-09-23發布，查證截至2026-09-26）",
-    "title": "參與不是一次做完：一個每週回來的Art Club如何累積公共性？",
-    "summary": "Walker Art Center於9月23日公布秋季Art Club系列：每週四免費、面向不同經驗程度，從繪畫、陶藝、zine到攝影與聲音等媒材，強調experiment、connect與create。今天的重點不是單次工作坊，而是「重複回來」如何形成一個可持續的公共學習場。",
-    "questions": [
-      "免費是否真的降低門檻，還有哪些時間與文化門檻仍存在？",
-      "第一次來的人如何在五分鐘內知道自己可以開始？",
-      "熟客與新手如何共享空間而不形成新的內圈？",
-      "活動是否要求完成作品，還是允許純粹試驗？",
-      "工作人員何時應該提供指導，何時應該退後？",
-      "每週更換媒材會增加好奇，還是讓學習無法累積？",
-      "參與者是否能影響下一期主題與材料？",
-      "什麼紀錄可以顯示一個人從觀眾逐步變成共同創作者？",
-      "如何衡量重複參與，而不把社群關係簡化成出席數？",
-      "如果活動取消一個月，公共性會留下什麼？"
-    ],
-    "strategy": "把參與設計成三層：第一次能進入、第二次能熟悉、第三次能貢獻。每層都指定一個行動權，而不是只增加內容。",
-    "task": "設計一個連續三週的公共藝術小型Art Club，每週90分鐘。第一週觀察與試材、第二週共同修改、第三週由參與者決定展示方式。",
-    "training": "用一張『回訪階梯』記錄首次參加、再次參加、主動協助、提出主題、共同決策五種層級；不要用作品好壞作為主要指標。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "明尼亞波利斯／Walker Art Center",
-      "title": "Art Club",
-      "statusAsOf": "2026-09-26",
-      "latestUpdate": "Walker於2026年9月23日公布秋季Art Club回歸，免費週四系列面向各種經驗程度，安排繪畫、陶藝、首飾、zine、攝影與其他創作活動。",
-      "references": [
-        {
-          "title": "Art Club Returns to the Walker for a Fall Season of Free Thursday Night Creativity",
-          "publisher": "Walker Art Center",
-          "url": "https://www.walkerart.org/press-releases/art-club-returns-to-the-walker-for-a-fall-season-of-free-thursday-night-creativity/",
-          "accessedAt": "2026-09-26"
-        }
-      ]
-    },
-    "rawText": "【事實】Walker官方明確說明Art Club為免費週四活動，鼓勵不同程度參與者試驗媒材、交流與創作。\n【推論】真正值得追蹤的公共性不只在單次人數，而在是否形成回訪、熟悉與貢獻。\n【原創模擬】三週Art Club與回訪階梯為Curator OS方法。"
-  },
-  {
     "id": "daily-2026-09-25-family",
     "daily": true,
     "date": "2026-09-25",
@@ -15807,6 +15723,90 @@
     "rawText": "【事實】Barbican《Repercussions》公開討論sonic rights與silence。\n【推論】個人也可以把聲音視為注意力環境。\n【原創模擬】24小時聲音紀錄與三天無通知時段為Curator OS人生策展練習。"
   },
   {
+    "id": "daily-2026-09-25-participatory",
+    "daily": true,
+    "date": "2026-09-25",
+    "category": "國際民眾參與策展實作",
+    "lens": "低門檻創作、重複參與與非專業者",
+    "source": "Walker Art Center官方資料（2026-09-23發布，查證截至2026-09-26）",
+    "title": "參與不是一次做完：一個每週回來的Art Club如何累積公共性？",
+    "summary": "Walker Art Center於9月23日公布秋季Art Club系列：每週四免費、面向不同經驗程度，從繪畫、陶藝、zine到攝影與聲音等媒材，強調experiment、connect與create。今天的重點不是單次工作坊，而是「重複回來」如何形成一個可持續的公共學習場。",
+    "questions": [
+      "免費是否真的降低門檻，還有哪些時間與文化門檻仍存在？",
+      "第一次來的人如何在五分鐘內知道自己可以開始？",
+      "熟客與新手如何共享空間而不形成新的內圈？",
+      "活動是否要求完成作品，還是允許純粹試驗？",
+      "工作人員何時應該提供指導，何時應該退後？",
+      "每週更換媒材會增加好奇，還是讓學習無法累積？",
+      "參與者是否能影響下一期主題與材料？",
+      "什麼紀錄可以顯示一個人從觀眾逐步變成共同創作者？",
+      "如何衡量重複參與，而不把社群關係簡化成出席數？",
+      "如果活動取消一個月，公共性會留下什麼？"
+    ],
+    "strategy": "把參與設計成三層：第一次能進入、第二次能熟悉、第三次能貢獻。每層都指定一個行動權，而不是只增加內容。",
+    "task": "設計一個連續三週的公共藝術小型Art Club，每週90分鐘。第一週觀察與試材、第二週共同修改、第三週由參與者決定展示方式。",
+    "training": "用一張『回訪階梯』記錄首次參加、再次參加、主動協助、提出主題、共同決策五種層級；不要用作品好壞作為主要指標。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼亞波利斯／Walker Art Center",
+      "title": "Art Club",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "Walker於2026年9月23日公布秋季Art Club回歸，免費週四系列面向各種經驗程度，安排繪畫、陶藝、首飾、zine、攝影與其他創作活動。",
+      "references": [
+        {
+          "title": "Art Club Returns to the Walker for a Fall Season of Free Thursday Night Creativity",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/press-releases/art-club-returns-to-the-walker-for-a-fall-season-of-free-thursday-night-creativity/",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】Walker官方明確說明Art Club為免費週四活動，鼓勵不同程度參與者試驗媒材、交流與創作。\n【推論】真正值得追蹤的公共性不只在單次人數，而在是否形成回訪、熟悉與貢獻。\n【原創模擬】三週Art Club與回訪階梯為Curator OS方法。"
+  },
+  {
+    "id": "daily-2026-09-25-training",
+    "daily": true,
+    "date": "2026-09-25",
+    "category": "策展思考訓練",
+    "lens": "慢看、手眼協調與觀察精度",
+    "source": "MoMA官方活動資料（查證截至2026-09-26）",
+    "title": "畫下來再說：當觀眾被迫慢看，策展判斷會變得更精準嗎？",
+    "summary": "MoMA在9月25日安排Drop-in Drawing，將繪畫作為展場內的觀看活動。今日不把畫畫視為美術技巧，而把它當成策展研究工具：當你必須用線條重建比例、距離與關係，很多原本快速略過的判斷會被迫變慢。",
+    "questions": [
+      "你第一眼看見的重點，畫五分鐘後還是同一個嗎？",
+      "哪些比例在口頭描述時被你誇大或忽略？",
+      "你最難畫出的部分是否也是最難理解的部分？",
+      "作品與牆面、地面、鄰作之間的距離如何影響判斷？",
+      "你是否用熟悉的符號替代真正看到的形狀？",
+      "畫圖時哪些細節讓你修改原先的策展敘述？",
+      "不擅長繪畫的人是否反而更能保留觀察的不確定？",
+      "如果只允許使用五條線，你會保留什麼？",
+      "同一作品畫三次，哪些關係會穩定出現？",
+      "你的文字是否能回到圖面中被驗證？"
+    ],
+    "strategy": "將「描述」與「描繪」交叉驗證：先寫80字，再畫5分鐘，最後重寫80字。只比較兩版文字中新增、刪除與修正的判斷。",
+    "task": "選一件作品完成三張5分鐘速寫：正面、側面、距離五公尺。每張旁邊只寫三個可觀察事實，不寫感受。",
+    "training": "用45至60分鐘完成文字—速寫—重寫循環，再圈出一個因慢看而被推翻的原判斷，作為下一版策展說明的修正點。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Drop-in Drawing",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "MoMA 2026年9月25日行事曆列有Drop-in Drawing，時間為17:30至19:30，屬gallery experience。",
+      "references": [
+        {
+          "title": "MoMA Events — Sep 25, 2026",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/?date=2026-09-25&happening_filter=All+events",
+          "accessedAt": "2026-09-26"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA 9月25日行事曆列出Drop-in Drawing。\n【推論】繪畫可被當成放慢觀看、檢查空間比例的研究方法。\n【原創模擬】80字—速寫—重寫流程為Curator OS訓練。"
+  },
+  {
     "id": "daily-2026-09-26-curator",
     "daily": true,
     "date": "2026-09-26",
@@ -15847,90 +15847,6 @@
       ]
     },
     "rawText": "【事實】《Repercussions》於9月23至26日跨越多種藝術形式。\n【推論】跨媒介策展的品質可由每種媒介是否提供獨特證據來檢查。\n【原創模擬】命題—證據—媒介矩陣與50%刪減測試為Curator OS方法。"
-  },
-  {
-    "id": "daily-2026-09-26-training",
-    "daily": true,
-    "date": "2026-09-26",
-    "category": "策展思考訓練",
-    "lens": "觀看順序、導覽依賴與自主判斷",
-    "source": "MoMA官方活動資料（查證截至2026-09-26）",
-    "title": "先不要聽導覽：你能不能在專家解說前，先形成自己的第一版判斷？",
-    "summary": "MoMA今天安排Before-Hours Tours with an Art Historian。專家導覽可以提高資訊密度，也可能過早替觀眾建立解釋框架。今天做一個雙輪測試：先獨立觀看，再聽解說，辨認哪些理解是你自己形成、哪些是被權威語言重新排序。",
-    "questions": [
-      "在沒有解說前，你最先注意到什麼？",
-      "你能否用三句話形成暫時判斷而不查資料？",
-      "專家解說新增的是事實、脈絡還是評價？",
-      "哪一句解說讓你改變原本判斷？",
-      "哪些原本重要的細節在解說後反而被你忽略？",
-      "你是否因專家身份而停止提出反例？",
-      "哪些資訊若提前知道，會限制第一次觀看？",
-      "哪些資訊若完全不提供，又會造成嚴重誤讀？",
-      "策展文字應該放在第一次看之前還是之後？",
-      "你如何讓觀眾同時保留自主判斷與可靠脈絡？"
-    ],
-    "strategy": "採雙輪觀看：第一輪禁止查資料，只記觀察與假設；第二輪加入專家資料，再標記哪些被支持、修正或推翻。不要把第二輪自動視為正確答案。",
-    "task": "選一件你熟悉但尚未研究的作品，先看10分鐘寫200字；再查官方資料10分鐘，重寫200字，逐句標記FACT、INFERENCE、REVISION。",
-    "training": "60分鐘完成雙輪筆記，最後只保留三個最重要的『被修正點』，並將它們轉成展場文字需要提供的最低脈絡。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "Before-Hours Tours with an Art Historian",
-      "statusAsOf": "2026-09-26",
-      "latestUpdate": "MoMA 2026年9月26日行事曆列有9:30至10:30的Before-Hours Tours with an Art Historian。",
-      "references": [
-        {
-          "title": "MoMA Events — Sep 26, 2026",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/?date=2026-09-26&happening_filter=All+events",
-          "accessedAt": "2026-09-26"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA今天安排Before-Hours Tours with an Art Historian。\n【推論】專家資訊的進場順序會改變觀眾形成判斷的方式。\n【原創模擬】雙輪觀看與FACT／INFERENCE／REVISION標記為Curator OS訓練。"
-  },
-  {
-    "id": "daily-2026-09-26-participatory",
-    "daily": true,
-    "date": "2026-09-26",
-    "category": "國際民眾參與策展實作",
-    "lens": "無經驗門檻、材料入口與共同創作文化",
-    "source": "Walker Art Center官方Art Club資料（查證截至2026-09-26）",
-    "title": "「任何程度都可以」不夠：你如何真的讓第一次來的人敢開始？",
-    "summary": "Walker Art Club明確標示活動適合all skill levels，並以免費、材料試驗與每週不同媒材建立入口。今天把『歡迎所有人』拆成具體的參與設計：一個人如何在不知道規則、沒有技術、也不認識任何人的情況下，五分鐘內開始。",
-    "questions": [
-      "入口是否需要報名、費用或專業詞彙？",
-      "第一次來的人看見材料後知道第一步嗎？",
-      "是否有一個不必問人的自助開始方式？",
-      "熟練參與者會不會無意中壟斷材料與注意力？",
-      "工作人員的示範會降低焦慮還是製造標準答案？",
-      "完成品是否被過度重視而壓迫試驗？",
-      "不想聊天的人是否仍能舒服參與？",
-      "語言、年齡、身體差異需要哪些替代入口？",
-      "離開時參與者能否帶走方法而非只有物件？",
-      "下一次回來時，他能否擁有更多自主權？"
-    ],
-    "strategy": "設計『五分鐘啟動』：30秒看懂、2分鐘可試、5分鐘有第一個痕跡。任何需要工作人員長篇解釋才能開始的步驟都視為門檻。",
-    "task": "為你的一個公共藝術工作坊做A4單頁啟動卡，只用圖像與三句短句。找一位沒參與設計的人測試，看他是否能在五分鐘內開始。",
-    "training": "60至75分鐘完成啟動卡、一次實測、一次修正；記錄測試者第一次停住或詢問的位置，將其視為流程設計問題。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "明尼亞波利斯／Walker Art Center",
-      "title": "Walker Art Club",
-      "statusAsOf": "2026-09-26",
-      "latestUpdate": "Walker官方Art Club頁面說明系列免費、每週四進行，活動設計給所有技能程度參與者，媒材涵蓋繪畫、雕塑、zine、首飾與其他創作形式。",
-      "references": [
-        {
-          "title": "Art Club",
-          "publisher": "Walker Art Center",
-          "url": "https://www.walkerart.org/seasons/art-club/",
-          "accessedAt": "2026-09-26"
-        }
-      ]
-    },
-    "rawText": "【事實】Walker Art Club強調free creativity、new mediums與all skill levels。\n【推論】真正的低門檻必須能被觀察為『不用先懂規則也能開始』。\n【原創模擬】五分鐘啟動與A4啟動卡為Curator OS參與式設計工具。"
   },
   {
     "id": "daily-2026-09-26-family",
@@ -16015,668 +15931,88 @@
     "rawText": "【事實】Walker Art Club採每週四重複出現的免費創作模式。\n【推論】重複回訪本身可以成為技能與關係累積的基礎。\n【原創模擬】12週回訪單元與四週90分鐘測試為Curator OS人生策展。"
   },
   {
-    "id": "daily-2026-09-28-curator",
+    "id": "daily-2026-09-26-participatory",
     "daily": true,
-    "date": "2026-09-28",
-    "category": "專業策展人提問思考課題",
-    "lens": "數位檔案、脆弱性與自我敘事",
-    "source": "MoMA Modern Mondays／An Evening with Molly Soda官方資料（查證截至2026-09-28）",
-    "title": "策展人應該整理數位過去，還是保留它原本的尷尬、混亂與不一致？",
-    "summary": "MoMA於2026年9月28日晚間舉辦《An Evening with Molly Soda》，節目完全取材自藝術家自2010年累積的個人YouTube檔案。Soda長期保存網路表演、自拍、妝容教學、唱歌、跳舞與在鏡頭前哭泣等數位痕跡，幾乎不刪除。今日藉此訓練數位檔案策展：整理能提高可讀性，也可能抹平真正的時間質地。",
-    "questions": [
-      "你的數位檔案中，哪些內容因為太尷尬而最想刪除？",
-      "刪除尷尬是否也等於刪除一段時代語言？",
-      "策展人應該保留錯誤、失敗與過時美學到什麼程度？",
-      "一個網路人格與真人之間的落差是否應被策展看見？",
-      "平台年代更替後，失效連結、低畫質與壞檔本身是否也是歷史證據？",
-      "把私人影片搬進美術館後，觀眾的觀看倫理是否改變？",
-      "哪些內容因為平台演算法曾經被放大，今天仍主導我們的印象？",
-      "數位檔案的整理順序應依年代、情緒、媒介還是平台？",
-      "如果藝術家本人希望忘記某段過去，機構的保存責任到哪裡停止？",
-      "你如何讓數位檔案可讀，同時不把一個人編成過度完整的故事？"
-    ],
-    "strategy": "建立『保留／隱藏／刪除／待定』四欄數位檔案表。任何刪除決定都先寫理由，區分技術垃圾、重複資料、隱私風險與令人不舒服但具歷史意義的材料。",
-    "task": "60分鐘整理你近三年的一個數位資料夾，只處理30個檔案。禁止立刻刪除，先全部放入四欄並寫一句判斷。",
-    "training": "第二輪把其中5個最想刪除的檔案當成策展材料，為每個檔案寫『它保留了哪一種時間證據』，再決定是否真的刪除。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "An Evening with Molly Soda",
-      "statusAsOf": "2026-09-28",
-      "latestUpdate": "MoMA於2026年9月28日19:00舉辦Modern Mondays節目《An Evening with Molly Soda》，放映完全取自藝術家個人YouTube檔案的作品。官方指出其YouTube頻道自2010年累積數百支影片，且藝術家極少刪除自己的線上過去。",
-      "references": [
-        {
-          "title": "An Evening with Molly Soda",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11667",
-          "accessedAt": "2026-09-28"
-        },
-        {
-          "title": "Modern Mondays",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/film/560",
-          "accessedAt": "2026-09-28"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA於9月28日舉辦《An Evening with Molly Soda》，節目取材自其個人YouTube檔案；官方描述她自2010年累積大量影片且少有刪除。\\n【推論】數位檔案的『不整理』也可能保留時代、平台與自我矛盾的證據。\\n【原創模擬】保留／隱藏／刪除／待定四欄法為Curator OS策展訓練。"
-  },
-  {
-    "id": "daily-2026-09-28-training",
-    "daily": true,
-    "date": "2026-09-28",
-    "category": "策展思考訓練",
-    "lens": "時間型作品、重複觀看與策展紀錄",
-    "source": "MoMA《Sarah Michelson: nowhere》官方資料（查證截至2026-09-28）",
-    "title": "如果作品從早上10:30做到下午5:30，哪一個瞬間才有資格代表它？",
-    "summary": "Sarah Michelson的《nowhere》把MoMA中庭當成每日工作場，9月28日從10:30持續至17:30。作品不是一個固定時刻，而是舞者、休息、重複、觀眾進出與博物館日常共同形成的時間場。今天訓練如何策展與記錄『持續發生』的作品。",
-    "questions": [
-      "一張照片能否代表一件持續七小時的作品？",
-      "開場、中段與尾聲的觀看權重應該相同嗎？",
-      "舞者休息時作品是否仍然存在？",
-      "觀眾只看三分鐘與看兩小時，看到的是同一件作品嗎？",
-      "博物館日常噪音是否成為作品的一部分？",
-      "重複動作的差異要如何被記錄？",
-      "時間型作品的策展文字應描述結果還是觀看條件？",
-      "如果觀眾進出自由，誰決定作品的起點與終點？",
-      "哪種紀錄最能保存作品：影片、時間表、訪談還是行為記譜？",
-      "你如何避免用最戲劇性的瞬間取代作品真正的時間結構？"
-    ],
-    "strategy": "用『時間切片』取代英雄照片：開場、30分鐘、2小時、4小時、結束前各記一次。每次只記身體、空間、觀眾、聲音與節奏五項，不立刻下總結。",
-    "task": "挑一個會持續至少60分鐘的公共空間活動，每15分鐘記錄一次，共四次。最後比較哪些變化若只看單一照片會完全消失。",
-    "training": "做一張『時間剖面』，橫軸是時間，縱軸標記觀眾密度、聲音、動作強度與空間佔用，最後寫一段不依賴高潮瞬間的策展說明。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "Sarah Michelson: nowhere",
-      "statusAsOf": "2026-09-28",
-      "latestUpdate": "MoMA官方列《Sarah Michelson: nowhere》於2026年9月15日至10月11日展出；9月28日表演時間為10:30至17:30。藝術家將Marron Family Atrium視為每日工作場，並與輪替舞者共同表演。",
-      "references": [
-        {
-          "title": "Sarah Michelson: nowhere",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11615",
-          "accessedAt": "2026-09-28"
-        },
-        {
-          "title": "Sarah Michelson: nowhere — Press",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://press.moma.org/film-media/sarah-michelson-nowhere/",
-          "accessedAt": "2026-09-28"
-        }
-      ]
-    },
-    "rawText": "【事實】《nowhere》在9月28日由10:30持續至17:30，並把MoMA中庭納入作品日常。\\n【推論】時間型作品若只用單一照片代表，容易犧牲作品真正的節奏與勞動結構。\\n【原創模擬】五次時間切片與時間剖面為Curator OS策展訓練。"
-  },
-  {
-    "id": "daily-2026-09-28-participatory",
-    "daily": true,
-    "date": "2026-09-28",
+    "date": "2026-09-26",
     "category": "國際民眾參與策展實作",
-    "lens": "社交編舞、身體門檻與包容參與",
-    "source": "Guggenheim Works & Process／SCUFF Queer Country Dancing官方資料（查證截至2026-09-28）",
-    "title": "一場參與式活動真正的第一道門檻，不是票價，而是『我敢不敢把身體放進去』。",
-    "summary": "Guggenheim於9月28日晚間在旋轉中庭舉辦SCUFF Queer Country Dancing舞會，官方標示為beginner-friendly並包容不同經驗程度。今日把它當作參與式策展案例：有些活動資訊上完全開放，但身體上仍讓新手感到自己『不屬於這裡』。",
+    "lens": "無經驗門檻、材料入口與共同創作文化",
+    "source": "Walker Art Center官方Art Club資料（查證截至2026-09-26）",
+    "title": "「任何程度都可以」不夠：你如何真的讓第一次來的人敢開始？",
+    "summary": "Walker Art Club明確標示活動適合all skill levels，並以免費、材料試驗與每週不同媒材建立入口。今天把『歡迎所有人』拆成具體的參與設計：一個人如何在不知道規則、沒有技術、也不認識任何人的情況下，五分鐘內開始。",
     "questions": [
-      "第一次參加的人在入口會先看到高手還是新手？",
-      "活動是否允許旁觀後再加入？",
-      "不會跳舞的人是否知道第一個動作是什麼？",
-      "配對舞蹈如何避免讓單獨到場者尷尬？",
-      "性別角色是否被預設在舞步裡？",
-      "參與者可以中途退出而不被注視嗎？",
-      "工作人員的語言是否真的傳達『你可以不會』？",
-      "場地中心與邊緣分別給了誰安全感？",
-      "如果有人只想觀看，他是否仍被視為參與者？",
-      "什麼證據能顯示活動不只是宣稱包容，而是讓更多身體真的進場？"
+      "入口是否需要報名、費用或專業詞彙？",
+      "第一次來的人看見材料後知道第一步嗎？",
+      "是否有一個不必問人的自助開始方式？",
+      "熟練參與者會不會無意中壟斷材料與注意力？",
+      "工作人員的示範會降低焦慮還是製造標準答案？",
+      "完成品是否被過度重視而壓迫試驗？",
+      "不想聊天的人是否仍能舒服參與？",
+      "語言、年齡、身體差異需要哪些替代入口？",
+      "離開時參與者能否帶走方法而非只有物件？",
+      "下一次回來時，他能否擁有更多自主權？"
     ],
-    "strategy": "設計『旁觀—試做—加入—退出—再加入』五階段，不要求一次完成參與。每個階段都要有清楚的身體位置與退出權。",
-    "task": "為一個工作坊畫出五階段參與平面圖，尤其標出旁觀區、第一次試做區與可隨時退出的位置。",
-    "training": "找一位完全不熟悉活動的人看流程圖5分鐘，請他指出哪一步最不敢進去。只修正那一個門檻，再重新測試。",
+    "strategy": "設計『五分鐘啟動』：30秒看懂、2分鐘可試、5分鐘有第一個痕跡。任何需要工作人員長篇解釋才能開始的步驟都視為門檻。",
+    "task": "為你的一個公共藝術工作坊做A4單頁啟動卡，只用圖像與三句短句。找一位沒參與設計的人測試，看他是否能在五分鐘內開始。",
+    "training": "60至75分鐘完成啟動卡、一次實測、一次修正；記錄測試者第一次停住或詢問的位置，將其視為流程設計問題。",
     "caseStudy": {
       "realWorld": true,
       "country": "美國",
-      "location": "紐約／Guggenheim Museum",
-      "title": "Works & Process Rotunda Dance Party: SCUFF Queer Country Dancing",
-      "statusAsOf": "2026-09-28",
-      "latestUpdate": "Guggenheim官方日曆列活動於2026年9月28日19:00舉行，SCUFF在旋轉中庭帶領line dancing與partner dancing，並明確標示為beginner-friendly與inclusive of all experience levels。",
+      "location": "明尼亞波利斯／Walker Art Center",
+      "title": "Walker Art Club",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "Walker官方Art Club頁面說明系列免費、每週四進行，活動設計給所有技能程度參與者，媒材涵蓋繪畫、雕塑、zine、首飾與其他創作形式。",
       "references": [
         {
-          "title": "Guggenheim Calendar — September 28, 2026",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/event/stroller-tours",
-          "accessedAt": "2026-09-28"
+          "title": "Art Club",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/seasons/art-club/",
+          "accessedAt": "2026-09-26"
         }
       ]
     },
-    "rawText": "【事實】Guggenheim 9月28日安排SCUFF Queer Country Dancing，官方標示新手友善並包容各種經驗程度。\\n【推論】參與式策展的關鍵門檻之一是身體是否敢真正進場，而不只是資訊上是否免費或開放。\\n【原創模擬】旁觀—試做—加入—退出—再加入五階段為Curator OS參與設計方法。"
+    "rawText": "【事實】Walker Art Club強調free creativity、new mediums與all skill levels。\n【推論】真正的低門檻必須能被觀察為『不用先懂規則也能開始』。\n【原創模擬】五分鐘啟動與A4啟動卡為Curator OS參與式設計工具。"
   },
   {
-    "id": "daily-2026-09-28-family",
+    "id": "daily-2026-09-26-training",
     "daily": true,
-    "date": "2026-09-28",
-    "category": "親子觀展教育訓練",
-    "lens": "建築觀察、兒童尺度與提問權",
-    "source": "Guggenheim《Curious about the Building?》官方資料（查證截至2026-09-28）",
-    "title": "不要先告訴孩子這是名建築：讓他先找出『這棟房子哪裡很奇怪』。",
-    "summary": "Guggenheim每天14:00的《Curious about the Building?》以30分鐘帶領觀眾探索Frank Lloyd Wright建築的細節、怪癖與空間特徵。今天將這個架構轉成親子訓練：先讓孩子用身體尺度發現奇怪之處，再補建築史。",
-    "questions": [
-      "孩子第一個覺得奇怪的地方是坡道、光、聲音還是高度？",
-      "他會把旋轉坡道理解成路、樓梯還是遊戲場？",
-      "成人是否太快使用建築師名字終止孩子的觀察？",
-      "哪個空間細節只有低視角才看得到？",
-      "走路速度變快或變慢時，建築感受如何改變？",
-      "孩子能否用『我不喜歡』作為有效觀察？",
-      "觸摸限制是否需要先說明，還是可以在需要時再說？",
-      "建築導覽要回答問題，還是增加更多問題？",
-      "如果孩子要改一個地方，他最想改哪裡？",
-      "離開時，他能否用一句話說出這棟建築與一般房子的不同？"
-    ],
-    "strategy": "採『先找怪、再畫路、最後才說歷史』三步法。成人只追問『你怎麼知道？』，不要急著糾正形容詞。",
-    "task": "帶孩子或自己模擬兒童視角，找出一棟建築的5個『奇怪之處』，每個都畫一張10秒草圖。",
-    "training": "30分鐘完成：自由走10分鐘、畫路線10分鐘、補充一段建築背景10分鐘；比較背景知識加入前後，哪些觀察被改變。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／Guggenheim Museum",
-      "title": "Curious about the Building?",
-      "statusAsOf": "2026-09-28",
-      "latestUpdate": "Guggenheim官方資料列2026年9月28日14:00至14:30舉辦《Curious about the Building?》，由museum educators帶領參觀者探索建築特色與細節，包含在門票內且無需事前登記。",
-      "references": [
-        {
-          "title": "Curious about the Building?",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/event/curious-about-the-building",
-          "accessedAt": "2026-09-28"
-        }
-      ]
-    },
-    "rawText": "【事實】Guggenheim 9月28日14:00舉行30分鐘建築導覽，鼓勵觀眾探索建築細節與特性。\\n【推論】先以兒童尺度發現建築異常，再加入歷史脈絡，可降低標準答案對第一手觀察的干擾。\\n【原創模擬】先找怪—畫路—說歷史的三步法為Curator OS親子觀展訓練。"
-  },
-  {
-    "id": "daily-2026-09-28-life",
-    "daily": true,
-    "date": "2026-09-28",
-    "category": "人生策展課題",
-    "lens": "日常練習、工作場所與不依賴成果的持續",
-    "source": "Curator OS原創人生策展，參照MoMA《Sarah Michelson: nowhere》",
-    "title": "如果今天沒有『完成作品』，但你仍準時進入創作現場，這一天算不算前進？",
-    "summary": "Sarah Michelson把MoMA中庭當作daily workspace，讓舞蹈、思考、停頓與存在本身進入作品。人生策展也可以重新定義前進：不把每一天都逼成成果，而是建立一個會固定回去工作的場所與節奏。",
-    "questions": [
-      "你目前用什麼證據判斷今天有沒有前進？",
-      "沒有完成成果的工作日是否全被你判定為失敗？",
-      "哪一個固定場所最容易讓你進入創作狀態？",
-      "你真正需要的是更多時間，還是更穩定的開始儀式？",
-      "哪些工作只有長期重複才會看見效果？",
-      "你能否把『出現在現場』當成一種最低成功標準？",
-      "哪些停頓其實是思考，而不是拖延？",
-      "你如何區分必要的停頓與逃避？",
-      "若今天只能保留90分鐘，你最值得回去做哪一件事？",
-      "十二週後，你希望看到更多作品，還是更穩定的創作身份？"
-    ],
-    "strategy": "建立『到場優先』規則：固定一個90分鐘創作時段，成果不限，但必須進入同一場域並完成一個可留下的痕跡，例如一頁草圖、一段文字、一個模型修改或一張研究卡。",
-    "task": "今天安排90分鐘，不設定完成目標，只設定『準時到場＋留下痕跡』。結束後記錄做了什麼，而不是沒做完什麼。",
-    "training": "連續7天追蹤三項：是否到場、是否留下痕跡、離場時是否知道下一步。暫時不要用作品完成數評價。",
-    "caseStudy": {
-      "realWorld": false,
-      "title": "到場優先的7日人生策展",
-      "statusAsOf": "2026-09-28",
-      "latestUpdate": "Curator OS原創人生策展練習；概念參照Sarah Michelson把MoMA Marron Family Atrium當作daily workspace、將舞蹈與思考融入博物館日常的做法。",
-      "references": [
-        {
-          "title": "Sarah Michelson: nowhere",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/exhibitions/5928",
-          "accessedAt": "2026-09-28"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA將《nowhere》描述為daily dance，Michelson把中庭當作每日工作場所。\\n【推論】創作的持續性可以用『是否回到現場』衡量，而不只用單日完成成果。\\n【原創模擬】到場優先與7日追蹤表為Curator OS人生策展練習。"
-  },
-  {
-    "id": "daily-2026-09-29-curator",
-    "daily": true,
-    "date": "2026-09-29",
-    "category": "專業策展人提問思考課題",
-    "lens": "共同策展、見證與詮釋權",
-    "source": "MoMA《Nilima Sheikh: Fractured Skies》與9月29日Artist and Curators in Conversation官方資料（查證截至2026-09-29）",
-    "title": "當藝術家與策展人坐在同一張桌上，誰有權決定一段歷史要被怎麼說？",
-    "summary": "MoMA於2026年9月27日開幕《Nilima Sheikh: Fractured Skies》，9月29日晚間再安排藝術家Nilima Sheikh與MoMA、Kiran Nadar Museum of Art策展人共同對談。展覽透過三個主要作品系列處理歷史、區域敘事、女性聲音與見證。今日訓練的重點不是『誰比較懂作品』，而是共同策展中不同知識位置如何被清楚區分。",
-    "questions": [
-      "藝術家對作品意義的說法是否具有最終權威？",
-      "策展人若掌握更多歷史資料，是否有權修正藝術家的自我敘述？",
-      "共同策展中的分歧是否應被觀眾看見？",
-      "地方知識、藝術家經驗與博物館研究的證據地位是否相同？",
-      "如果策展文字比作品本身更清楚，是否已經取代作品發言？",
-      "藝術家說『這不是我的意思』時，策展人該如何處理？",
-      "跨機構合作時，誰決定最後的論述版本？",
-      "策展人如何避免把複雜歷史壓成一條易讀敘事？",
-      "觀眾是否應知道哪些判斷來自藝術家、哪些來自機構？",
-      "一場真正成熟的共同策展，是否可以保留未解決的矛盾？"
-    ],
-    "strategy": "建立『發言位置標記』：Artist、Curator、Archive、Institution、Audience。每段關鍵論述都註明來源位置，避免不同類型的知識被混成單一權威聲音。",
-    "task": "選一篇你正在寫的策展論述，圈出10個判斷句，逐句標記它到底來自藝術家、史料、你自己的推論或機構立場。",
-    "training": "60分鐘完成『發言位置地圖』，最後找出3句目前來源不清楚的句子，改寫成更誠實的版本。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "Nilima Sheikh: Fractured Skies / Artist and Curators in Conversation",
-      "statusAsOf": "2026-09-29",
-      "latestUpdate": "MoMA展覽於2026年9月27日至2027年6月13日展出；9月29日18:30–20:00安排Nilima Sheikh與策展人Cara Manes、Roobina Karode共同對談。",
-      "references": [
-        {
-          "title": "Nilima Sheikh: Fractured Skies",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/exhibitions/5932",
-          "accessedAt": "2026-09-29"
-        },
-        {
-          "title": "Artist and Curators in Conversation",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://production-gcp.moma.org/calendar/events/11704",
-          "accessedAt": "2026-09-29"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA《Fractured Skies》由MoMA與Kiran Nadar Museum of Art共同組織，9月29日另有藝術家與策展人圓桌對談。\\n【推論】共同策展的核心不只是共享署名，而是清楚分辨不同知識位置。\\n【原創模擬】發言位置標記與60分鐘地圖為Curator OS方法。"
-  },
-  {
-    "id": "daily-2026-09-29-training",
-    "daily": true,
-    "date": "2026-09-29",
+    "date": "2026-09-26",
     "category": "策展思考訓練",
-    "lens": "資訊設計、證據轉譯與視覺誤導",
-    "source": "MoMA《Full Disclosure: The Edge of Information Design》官方資料（查證截至2026-09-29）",
-    "title": "資料一旦被畫成圖，還是事實嗎？",
-    "summary": "MoMA於2026年9月27日開幕《Full Disclosure: The Edge of Information Design》，這是館方首個完全聚焦資訊設計的展覽，展出30件數位與類比作品。官方明確指出：data is not knowledge，資料必須透過設計被翻譯。今天的訓練是檢查『圖表看起來很客觀』這個錯覺。",
+    "lens": "觀看順序、導覽依賴與自主判斷",
+    "source": "MoMA官方活動資料（查證截至2026-09-26）",
+    "title": "先不要聽導覽：你能不能在專家解說前，先形成自己的第一版判斷？",
+    "summary": "MoMA今天安排Before-Hours Tours with an Art Historian。專家導覽可以提高資訊密度，也可能過早替觀眾建立解釋框架。今天做一個雙輪測試：先獨立觀看，再聽解說，辨認哪些理解是你自己形成、哪些是被權威語言重新排序。",
     "questions": [
-      "一張圖表最先讓你看到的是數據還是設計？",
-      "色彩選擇是否偷偷替資料加入情緒？",
-      "尺度起點改變後，結論會不會改變？",
-      "哪些資料被排除在視覺化之外？",
-      "圖表越簡單是否就越接近真相？",
-      "互動式圖表會增加理解，還是增加選擇偏誤？",
-      "資料來源是否和圖本身一樣容易被看見？",
-      "AI生成資訊圖應如何揭露推論與缺失資料？",
-      "當圖表是為了說服而不是理解，策展人如何辨識？",
-      "你能否用同一組資料做出兩張互相矛盾但都『看似合理』的圖？"
+      "在沒有解說前，你最先注意到什麼？",
+      "你能否用三句話形成暫時判斷而不查資料？",
+      "專家解說新增的是事實、脈絡還是評價？",
+      "哪一句解說讓你改變原本判斷？",
+      "哪些原本重要的細節在解說後反而被你忽略？",
+      "你是否因專家身份而停止提出反例？",
+      "哪些資訊若提前知道，會限制第一次觀看？",
+      "哪些資訊若完全不提供，又會造成嚴重誤讀？",
+      "策展文字應該放在第一次看之前還是之後？",
+      "你如何讓觀眾同時保留自主判斷與可靠脈絡？"
     ],
-    "strategy": "採『資料—選擇—圖形—結論』四欄法。任何資訊圖都先列出原始資料，再記錄設計者做過的選擇，最後才判斷圖表是否支持結論。",
-    "task": "找一組你熟悉的5項數據，用兩種不同尺度、排序或配色做兩張圖，觀察觀眾會得出哪些不同印象。",
-    "training": "60分鐘完成雙圖對照，並替每張圖寫一句『它最容易讓人誤解什麼』。",
+    "strategy": "採雙輪觀看：第一輪禁止查資料，只記觀察與假設；第二輪加入專家資料，再標記哪些被支持、修正或推翻。不要把第二輪自動視為正確答案。",
+    "task": "選一件你熟悉但尚未研究的作品，先看10分鐘寫200字；再查官方資料10分鐘，重寫200字，逐句標記FACT、INFERENCE、REVISION。",
+    "training": "60分鐘完成雙輪筆記，最後只保留三個最重要的『被修正點』，並將它們轉成展場文字需要提供的最低脈絡。",
     "caseStudy": {
       "realWorld": true,
       "country": "美國",
       "location": "紐約／MoMA",
-      "title": "Full Disclosure: The Edge of Information Design",
-      "statusAsOf": "2026-09-29",
-      "latestUpdate": "展覽於2026年9月27日至2027年6月13日展出，為MoMA首個專門聚焦資訊設計的展覽，包含30件數位與類比作品。",
+      "title": "Before-Hours Tours with an Art Historian",
+      "statusAsOf": "2026-09-26",
+      "latestUpdate": "MoMA 2026年9月26日行事曆列有9:30至10:30的Before-Hours Tours with an Art Historian。",
       "references": [
         {
-          "title": "Full Disclosure: The Edge of Information Design",
+          "title": "MoMA Events — Sep 26, 2026",
           "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/exhibitions/5926",
-          "accessedAt": "2026-09-29"
-        },
-        {
-          "title": "Full Disclosure Press Release",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://press.moma.org/exhibition/fulldisclosure/",
-          "accessedAt": "2026-09-29"
+          "url": "https://www.moma.org/calendar/?date=2026-09-26&happening_filter=All+events",
+          "accessedAt": "2026-09-26"
         }
       ]
     },
-    "rawText": "【事實】MoMA明確以『Data, however, is not knowledge』說明資訊必須經過設計翻譯。\\n【推論】資料視覺化本身就是策展選擇，而不是中性包裝。\\n【原創模擬】雙圖對照與誤解句為Curator OS訓練。"
-  },
-  {
-    "id": "daily-2026-09-29-participatory",
-    "daily": true,
-    "date": "2026-09-29",
-    "category": "國際民眾參與策展實作",
-    "lens": " embodied learning、共同研究與展場外知識",
-    "source": "Serpentine《troubleshooting...》官方資料（查證截至2026-09-29）",
-    "title": "參與者只是『來體驗』，還是也能成為知識生產者？",
-    "summary": "Serpentine於2026年9月5至6日舉辦《troubleshooting...》，從Education Space的開放科技檔案出發，再把參與者帶進Kensington Gardens與Hyde Park，以步行、遊戲與移動研究數位時代的導航與世界觀。官方明確將people描述為active agents and producers of knowledge。今天的實作重點是：參與不只是互動，而是能否真的產出新的觀察。",
-    "questions": [
-      "參與者完成活動後有沒有留下可被使用的新知識？",
-      "導覽路線是否允許參與者偏離？",
-      "工作人員提出問題後，答案會不會回到策展資料庫？",
-      "走出展場是否改變了什麼原本只在物件前看不到的事？",
-      "參與者的身體經驗要如何被記錄而不被簡化？",
-      "活動是讓人發現，還是只讓人重演策展人的結論？",
-      "哪些參與成果值得成為下一版展覽資料？",
-      "不同人的路徑差異能否被並置而非統一？",
-      "活動結束後誰擁有這些參與者產出的資料？",
-      "真正的共同研究是否需要讓參與者影響下一次方法？"
-    ],
-    "strategy": "把參與設計成『輸入—探索—產出—回流』四步。任何工作坊若沒有產出或回流，就仍偏向體驗型活動。",
-    "task": "設計一條30分鐘公共空間研究路徑，讓參與者沿途記錄3個你事前不知道答案的問題。",
-    "training": "活動後把所有觀察整理成一張『新知識清單』，只留下原本策展人不知道、但由參與者發現的內容。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "英國",
-      "location": "倫敦／Serpentine與Kensington Gardens、Hyde Park",
-      "title": "troubleshooting...",
-      "statusAsOf": "2026-09-29",
-      "latestUpdate": "Serpentine於2026年9月5至6日舉辦guided walks，由研究者、藝術家與創意科技工作者帶領，從processing...檔案展出發延伸至公園，強調embodied learning與people as active agents and producers of knowledge。",
-      "references": [
-        {
-          "title": "troubleshooting...",
-          "publisher": "Serpentine",
-          "url": "https://www.serpentinegalleries.org/whats-on/troubleshooting/",
-          "accessedAt": "2026-09-29"
-        }
-      ]
-    },
-    "rawText": "【事實】Serpentine官方將《troubleshooting...》描述為把檔案研究轉成公共遭遇，並強調具身學習與參與者作為知識生產者。\\n【推論】參與式策展的成熟度可由『參與是否產生原本不存在的新知識』判斷。\\n【原創模擬】輸入—探索—產出—回流四步法為Curator OS工具。"
-  },
-  {
-    "id": "daily-2026-09-29-family",
-    "daily": true,
-    "date": "2026-09-29",
-    "category": "親子觀展教育訓練",
-    "lens": "轉譯創作、模仿與兒童自主選擇",
-    "source": "Whitney Museum《Open Studio 2026》官方資料（查證截至2026-09-29）",
-    "title": "孩子做出『不像原作』的東西，可能反而代表他真的看懂了。",
-    "summary": "Whitney的Open Studio 2026在多個週六舉行，最近一次為9月26日，邀請各年齡家庭根據館內展覽與收藏進行不同的artmaking project。今天的親子訓練要把焦點從『照著做』轉成『轉譯』：孩子不需要複製作品，而是選一個他真正注意到的關係重新發明。",
-    "questions": [
-      "孩子最先模仿的是顏色、形狀、動作還是故事？",
-      "如果作品完全不像原作，是否代表活動失敗？",
-      "成人如何判斷孩子是在隨便做還是在轉譯？",
-      "是否需要先示範一個標準成品？",
-      "材料限制會不會反而幫助孩子做出自己的選擇？",
-      "孩子能否說出自己保留了原作哪一個特徵？",
-      "不同年齡是否應該使用同一材料？",
-      "成人的作品會不會變成孩子模仿的新標準？",
-      "如果孩子中途改題目，活動是否允許？",
-      "最後評量應看成品，還是看孩子做過哪些選擇？"
-    ],
-    "strategy": "採『看一個—選一個—改一個』：先找原作一個特徵，選擇保留，再故意改變另一項，讓孩子知道創作不是複製。",
-    "task": "選一件作品，讓孩子只說出一個最想保留的元素，再要求他必須改變尺寸、材料或用途其中一項。",
-    "training": "30至45分鐘完成，最後由孩子自己說『我保留了什麼、我改了什麼』，成人不替他總結。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／Whitney Museum of American Art",
-      "title": "Open Studio 2026",
-      "statusAsOf": "2026-09-29",
-      "latestUpdate": "Whitney Open Studio 2026於多個週六11:00–15:00舉行，面向所有年齡家庭，活動以館內收藏與當期展覽為靈感設計不同創作任務；最近一次日期為9月26日。",
-      "references": [
-        {
-          "title": "Open Studio 2026",
-          "publisher": "Whitney Museum of American Art",
-          "url": "https://whitney.org/events/open-studio-2026",
-          "accessedAt": "2026-09-29"
-        }
-      ]
-    },
-    "rawText": "【事實】Whitney Open Studio 2026為家庭提供以館內作品為靈感的不同artmaking projects。\\n【推論】『不像原作』不必然是理解不足，也可能是兒童完成轉譯。\\n【原創模擬】看一個—選一個—改一個為Curator OS親子訓練。"
-  },
-  {
-    "id": "daily-2026-09-29-life",
-    "daily": true,
-    "date": "2026-09-29",
-    "category": "人生策展課題",
-    "lens": "記憶、不可修復經驗與非正向敘事",
-    "source": "MoMA PS1《Teresa Margolles: En el lugar de los hechos》官方資料（查證截至2026-09-29）",
-    "title": "人生裡有些經驗，不需要被『轉化成成長』，只需要被誠實地留下嗎？",
-    "summary": "MoMA PS1於2026年9月24日開幕Teresa Margolles在美國首個大型博物館展《En el lugar de los hechos》。她長期以現場痕跡、材料與研究處理失落、消失與被公共記憶忽略的事件。今日借這個方法思考人生策展：並非所有困難經驗都必須被改寫成成長故事，有些內容的價值可能只是被準確記住。",
-    "questions": [
-      "你是否習慣把每個挫折都寫成『後來讓我成長』？",
-      "哪些經驗其實至今仍沒有答案？",
-      "沒有答案是否等於這段經驗沒有價值？",
-      "你能否只記錄發生了什麼，而不急著解釋？",
-      "哪些細節一旦被過度美化就會失真？",
-      "你的人生書寫裡是否存在被刪掉的不舒服證據？",
-      "什麼時候重新詮釋是理解，什麼時候只是合理化？",
-      "有沒有一段過去你願意標註『仍未完成』？",
-      "哪些記憶適合公開，哪些應該保留私密？",
-      "如果不要求得到正面結論，你會怎麼替那段經驗命名？"
-    ],
-    "strategy": "採『事實／感受／解釋／未知』四欄記錄。今天禁止把未知欄填滿，也禁止把痛苦自動轉成成長。",
-    "task": "選一段你常用『所以我學會了…』總結的經驗，重新寫200字，只允許事實與當時感受，不寫教訓。",
-    "training": "完成後加一行『目前仍不知道的是＿＿』。保留空白，不急著解答。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA PS1",
-      "title": "Teresa Margolles: En el lugar de los hechos (At the Scene)",
-      "statusAsOf": "2026-09-29",
-      "latestUpdate": "展覽於2026年9月24日至2027年2月8日在MoMA PS1展出，是Margolles在美國首個大型博物館展，涵蓋近三十年的雕塑、攝影、錄像與大型裝置。",
-      "references": [
-        {
-          "title": "Teresa Margolles: En el lugar de los hechos",
-          "publisher": "The Museum of Modern Art / MoMA PS1",
-          "url": "https://press.moma.org/exhibition/teresa-margolles/",
-          "accessedAt": "2026-09-29"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA PS1展覽呈現Margolles近三十年以現場痕跡、研究與材料處理失落、暴力與公共記憶的創作。\\n【推論】人生策展也可以保留尚未被解釋完成的經驗，而不必追求正向收束。\\n【原創模擬】事實／感受／解釋／未知四欄法為Curator OS人生策展練習。"
-  },
-  {
-    "id": "daily-2026-09-30-curator",
-    "daily": true,
-    "date": "2026-09-30",
-    "category": "專業策展人提問思考課題",
-    "lens": "材料限制、媒介倫理與低成本策展",
-    "source": "MoMA《The Material Is the Message》官方資料（查證截至2026-09-30）",
-    "title": "策展人是在展示作品，還是在展示『限制如何變成方法』？",
-    "summary": "MoMA於2026年9月30日晚間放映《The Material Is the Message》，聚焦超低預算實驗電影如何把缺乏器材、重複使用影像、直接刮畫膠片與材料損耗轉化成作品方法。今天的核心不是讚美貧乏，而是檢查：當資源受限時，策展是否能分辨真正的創造性約束與被浪漫化的匱乏。",
-    "questions": [
-      "當作品因預算不足改變形式，這是失敗還是方法？",
-      "哪些限制真正迫使創作者做出新判斷？",
-      "哪些限制只是機構沒有提供足夠資源？",
-      "策展人是否會過度浪漫化『窮也能做藝術』？",
-      "媒材本身的耗損、刮痕與錯誤能否成為內容？",
-      "重複使用既有材料時，來源與權利如何被交代？",
-      "如果增加十倍預算，作品最重要的部分會消失嗎？",
-      "低成本是否真的等於低環境負荷？",
-      "什麼時候技術限制應被保留，什麼時候應被修正？",
-      "你的競圖中哪一個高成本項目其實沒有增加核心價值？"
-    ],
-    "strategy": "建立『限制—反應—價值』矩陣：先列出金錢、技術、材料、時間與場域限制，再逐項判斷它迫使你產生了什麼新方法，以及是否真的增加作品價值。",
-    "task": "選一個正在發展的案子，假設預算立刻減少30%。禁止縮小所有東西，必須找出3個可以透過重新設計而非單純刪除來回應的地方。",
-    "training": "60分鐘做兩版：原案與70%預算版。最後只比較哪一版的核心概念更清楚，不比較哪一版看起來更昂貴。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "The Material Is the Message",
-      "statusAsOf": "2026-09-30",
-      "latestUpdate": "MoMA於2026年9月30日19:30放映約83分鐘的《The Material Is the Message》，節目以低預算、直接處理膠片、found footage與再利用材料等方式呈現媒材限制如何成為創作方法。",
-      "references": [
-        {
-          "title": "The Material Is the Message",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11639",
-          "accessedAt": "2026-09-30"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA 9月30日放映《The Material Is the Message》，節目聚焦超低預算與直接介入膠片、found footage、重用影像等方法。\\n【推論】限制可成為方法，但不能把資源不足自動浪漫化為創造力。\\n【原創模擬】限制—反應—價值矩陣與70%預算測試為Curator OS方法。"
-  },
-  {
-    "id": "daily-2026-09-30-training",
-    "daily": true,
-    "date": "2026-09-30",
-    "category": "策展思考訓練",
-    "lens": "刪選密度、集合敘事與非單一國家想像",
-    "source": "Whitney《Untitled (America)》與9月30日展覽導覽官方資料（查證截至2026-09-30）",
-    "title": "只用21件作品談『America』：少，會不會比多更有力量？",
-    "summary": "Whitney的《Untitled (America)》以21件作品並置1900年代至1980年代的不同美國經驗，展覽持續展出；9月30日館方安排多場展覽導覽。今日訓練聚焦『有限樣本的敘事責任』：選得少可以提高關係密度，也更容易把未被選中的經驗誤當成不存在。",
-    "questions": [
-      "21件作品足以談一個國家嗎？",
-      "作品少時，每一件被賦予的代表權是否更高？",
-      "你如何讓觀眾知道這不是完整歷史？",
-      "不同年代放在一起時，哪些斷裂會被壓平？",
-      "作品之間的相似性與衝突哪個更重要？",
-      "如果必須刪掉5件，哪個敘事會最先崩解？",
-      "若加入1件新作品，你會補缺口還是製造新的矛盾？",
-      "展覽標題中的America是地理、政治、文化還是想像？",
-      "集合展如何避免每件作品只剩下『代表某議題』？",
-      "你的策展中，哪些內容其實因為怕遺漏而被塞進來？"
-    ],
-    "strategy": "做『刪五加一』測試：先從既有作品清單中刪5件，再只允許加回1件；觀察哪些敘事關係是真正必要的，哪些只是因為怕不完整而存在。",
-    "task": "拿你目前一個10件以上的作品清單，刪掉30%，再重新寫100字策展摘要。比較刪減前後哪一版主張更清楚。",
-    "training": "最後建立『缺席聲明』：用3句話明確指出這個策展沒有處理什麼，避免把有限選擇假裝成完整世界。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／Whitney Museum of American Art",
-      "title": "Untitled (America)",
-      "statusAsOf": "2026-09-30",
-      "latestUpdate": "《Untitled (America)》目前在Whitney 7樓持續展出，館方列出21件核心作品；2026年9月30日安排12:00與15:00展覽導覽。展覽以不同藝術家對地方、記憶、大眾文化、媒體與美國想像的回應形成並置。",
-      "references": [
-        {
-          "title": "Untitled (America)",
-          "publisher": "Whitney Museum of American Art",
-          "url": "https://whitney.org/exhibitions/untitled-america",
-          "accessedAt": "2026-09-30"
-        },
-        {
-          "title": "Events Calendar",
-          "publisher": "Whitney Museum of American Art",
-          "url": "https://whitney.org/events",
-          "accessedAt": "2026-09-30"
-        }
-      ]
-    },
-    "rawText": "【事實】Whitney《Untitled (America)》目前持續展出，官方列出21件作品，9月30日有多場展覽導覽。\\n【推論】作品數量越少，每件作品承擔的代表壓力越高。\\n【原創模擬】刪五加一與缺席聲明為Curator OS策展訓練。"
-  },
-  {
-    "id": "daily-2026-09-30-participatory",
-    "daily": true,
-    "date": "2026-09-30",
-    "category": "國際民眾參與策展實作",
-    "lens": "公共詩意、共同聆聽與低壓參與",
-    "source": "Guggenheim Café Rebay x Patrick Rosal與2026 Poet-in-Residence官方資料（查證截至2026-09-30）",
-    "title": "參與式藝術一定要『做很多事』嗎？能不能只從一起聽開始？",
-    "summary": "Guggenheim於9月30日10:30進行Café Rebay x Patrick Rosal，邀請各年齡觀眾參與由2026 Poet-in-Residence設計的持續性公共計畫。Rosal年度計畫《The Water Listeners》把水視為生活存在、感官元素與聚集／反思／交換的媒介。今天練習低壓參與：不一定要求產出作品，而是先共同注意、聆聽與留下痕跡。",
-    "questions": [
-      "參與一定需要完成一個物件嗎？",
-      "共同聆聽是否能被視為有效行動？",
-      "不想說話的人能否完整參與？",
-      "如何避免詩意語言只讓熟悉藝術的人感到自在？",
-      "不同年齡的人可以用同一種方式留下回應嗎？",
-      "公共計畫是否需要一個明確結束成果？",
-      "一次短暫的共享注意力能留下什麼？",
-      "誰負責把零散回應整理成後續知識？",
-      "如果參與者只停留30秒，這算不算參與？",
-      "你的公共藝術活動是否因為要求太多而把人擋在外面？"
-    ],
-    "strategy": "建立『低壓參與三層』：看／聽即可、留下小痕跡、主動共同創作。允許觀眾停在任何一層，不把最高投入視為唯一成功。",
-    "task": "設計一個15分鐘公共藝術活動，必須讓路人即使只投入30秒也能完成第一層參與；不得要求下載App、註冊或填長表。",
-    "training": "找3種角色模擬：只經過的人、願意停3分鐘的人、願意投入15分鐘的人。分別寫出他們可以獲得與留下什麼。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／Guggenheim Museum",
-      "title": "Café Rebay x Patrick Rosal / The Water Listeners",
-      "statusAsOf": "2026-09-30",
-      "latestUpdate": "Guggenheim官方日曆列Café Rebay x Patrick Rosal於9月30日10:30進行，為Poet-in-Residence Patrick Rosal設計的持續性公共計畫，面向所有年齡；2026駐館計畫《The Water Listeners》聚焦水作為感知、聚集、反思與交換的媒介。",
-      "references": [
-        {
-          "title": "Guggenheim Calendar",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/calendar",
-          "accessedAt": "2026-09-30"
-        },
-        {
-          "title": "Patrick Rosal Named 2026 Poet-in-Residence",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/wp-content/uploads/2026/04/press-release-srgm-2026-poet-in-residence-04072026.pdf",
-          "accessedAt": "2026-09-30"
-        }
-      ]
-    },
-    "rawText": "【事實】Guggenheim 9月30日舉辦Café Rebay x Patrick Rosal；Rosal為2026 Poet-in-Residence，其年度計畫《The Water Listeners》討論水、聆聽與共享經驗。\\n【推論】參與式策展不必總以高投入創作為目標，也可從共同注意開始。\\n【原創模擬】低壓參與三層與30秒／3分鐘／15分鐘測試為Curator OS方法。"
-  },
-  {
-    "id": "daily-2026-09-30-family",
-    "daily": true,
-    "date": "2026-09-30",
-    "category": "親子觀展教育訓練",
-    "lens": "故事轉場、空間想像與親子共構",
-    "source": "MoMA Family Story Time官方資料（2026-09-30）",
-    "title": "讀完故事不要立刻找『正確作品』：讓孩子先決定故事應該住在哪一個空間。",
-    "summary": "MoMA於9月30日10:30舉行Family Story Time，本月主題為Spaces and Places。活動先以故事促進思考、對話、動作與創作，再透過活動單把概念帶回展廳作品。今日親子訓練把重點放在『故事如何轉場成空間』。",
-    "questions": [
-      "故事裡最重要的空間是房間、街道、自然還是想像？",
-      "孩子會把故事放在哪一個現實空間？",
-      "成人是否太快幫他對應到某件作品？",
-      "同一個故事可以住在三種不同空間嗎？",
-      "孩子選空間時在意尺寸、光、聲音還是安全感？",
-      "如果故事角色換一個地方，情節會怎麼改變？",
-      "孩子能否用身體走出故事的空間尺度？",
-      "活動單會幫助連結，還是變成尋寶式答案？",
-      "展場裡哪一個角落最像孩子自己想像的地方？",
-      "回家後能否用家中一個空間重新演一次故事？"
-    ],
-    "strategy": "採『故事—選址—走路—重寫』四步法：先讀故事，再讓孩子自己挑一個展場位置，走過去後才問『如果故事發生在這裡，會改變什麼？』",
-    "task": "挑一本短繪本，讀完後不要討論寓意。讓孩子在一個公共空間找3個可能的故事地點，並選1個說明原因。",
-    "training": "30至45分鐘完成，最後只記錄孩子對空間條件的選擇，不評價故事理解是否正確。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "Family Story Time: Spaces and Places",
-      "statusAsOf": "2026-09-30",
-      "latestUpdate": "MoMA於2026年9月30日10:30–11:00舉行Family Story Time，9月主題為Spaces and Places；活動結合故事、材料／動作／色彩／形狀活動，並提供活動單讓家庭自行連結館內作品。",
-      "references": [
-        {
-          "title": "Family Story Time",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11674",
-          "accessedAt": "2026-09-30"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA Family Story Time於9月30日舉行，本月主題為Spaces and Places，並把故事活動延伸至館內作品。\\n【推論】故事可以成為空間閱讀入口，但不需要由成人預先指定唯一對應作品。\\n【原創模擬】故事—選址—走路—重寫為Curator OS親子訓練。"
-  },
-  {
-    "id": "daily-2026-09-30-life",
-    "daily": true,
-    "date": "2026-09-30",
-    "category": "人生策展課題",
-    "lens": "結束、撤場與不延長的能力",
-    "source": "MoMA《The Modern Window: Julien Ceccaldi》最後展期資料（查證截至2026-09-30）",
-    "title": "不是每個值得的計畫都要延長：你怎麼知道一個階段真的可以結束了？",
-    "summary": "MoMA《The Modern Window: Julien Ceccaldi》今天9月30日進入最後展日。展覽從2025年11月持續近一年，以透明壓克力、城市場景與現代主義視窗構成一個觀看都市社會生活的窗口。人生策展借用『撤場』概念：結束不一定表示失敗，有時結束是讓下一個階段獲得位置。",
-    "questions": [
-      "你目前有哪些計畫其實已完成目的，只因捨不得而繼續？",
-      "延長一個計畫的真正理由是價值還是慣性？",
-      "什麼證據可以證明它已經完成？",
-      "你是否把『還可以更好』誤當成『還不能結束』？",
-      "哪一個工作如果今天停止，不會真正造成損失？",
-      "結束前最值得保存的是成果、方法還是關係？",
-      "哪些材料應封存，哪些應直接丟掉？",
-      "你需要一個儀式來承認階段結束嗎？",
-      "撤掉舊計畫後空出的時間要保留多久，不立刻填滿？",
-      "如果不延長，你最想讓下一個階段出現什麼？"
-    ],
-    "strategy": "建立『Close / Continue / Archive / Reopen Later』四欄。今天只決定狀態，不新增任務；任何Continue都必須寫明下一個可驗證目標，否則轉Archive。",
-    "task": "列出目前5個仍掛在心裡的計畫，各用一句話寫『它原本要完成什麼』，再決定四種狀態。",
-    "training": "完成後選一件Close或Archive的事，做15分鐘收尾：整理檔案、寫結束日期、留下三句學到的方法，然後停止。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約／MoMA",
-      "title": "The Modern Window: Julien Ceccaldi",
-      "statusAsOf": "2026-09-30",
-      "latestUpdate": "MoMA官方標示Julien Ceccaldi的The Modern Window裝置於2026年9月30日最後一天展出；作品自2025年11月14日展開，以透明面板、城市場景與現代主義視覺語彙構成街窗式委託。",
-      "references": [
-        {
-          "title": "The Modern Window: Julien Ceccaldi",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/exhibitions/5861",
-          "accessedAt": "2026-09-30"
-        }
-      ]
-    },
-    "rawText": "【事實】MoMA《The Modern Window: Julien Ceccaldi》官方標示展至2026年9月30日，今天為最後展日。\\n【推論】策展中的撤場可以轉化成人生策展的『有意識結束』能力。\\n【原創模擬】Close／Continue／Archive／Reopen Later四欄法為Curator OS人生策展工具。"
+    "rawText": "【事實】MoMA今天安排Before-Hours Tours with an Art Historian。\n【推論】專家資訊的進場順序會改變觀眾形成判斷的方式。\n【原創模擬】雙輪觀看與FACT／INFERENCE／REVISION標記為Curator OS訓練。"
   },
   {
     "id": "daily-2026-09-27-curator",
@@ -16892,6 +16228,670 @@
       "context": "官方強調慢看與共同討論。Curator OS額外加入反證與結論修正，讓時間延長可被評估。"
     },
     "rawText": "【來源事實】Whitney《A Closer Look》每場四十五分鐘，聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論。\n\n【推論】慢看未必自動提升品質；判斷是否因新證據而修正才是關鍵。\n\n【原創模擬】四輪觀察卡：描述、證據、反證、修正。\n\n來源：https://whitney.org/events/closer-look-untitled-america\n資料id：daily-2026-09-27-training"
+  },
+  {
+    "id": "daily-2026-09-28-curator",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "專業策展人提問思考課題",
+    "lens": "數位檔案、脆弱性與自我敘事",
+    "source": "MoMA Modern Mondays／An Evening with Molly Soda官方資料（查證截至2026-09-28）",
+    "title": "策展人應該整理數位過去，還是保留它原本的尷尬、混亂與不一致？",
+    "summary": "MoMA於2026年9月28日晚間舉辦《An Evening with Molly Soda》，節目完全取材自藝術家自2010年累積的個人YouTube檔案。Soda長期保存網路表演、自拍、妝容教學、唱歌、跳舞與在鏡頭前哭泣等數位痕跡，幾乎不刪除。今日藉此訓練數位檔案策展：整理能提高可讀性，也可能抹平真正的時間質地。",
+    "questions": [
+      "你的數位檔案中，哪些內容因為太尷尬而最想刪除？",
+      "刪除尷尬是否也等於刪除一段時代語言？",
+      "策展人應該保留錯誤、失敗與過時美學到什麼程度？",
+      "一個網路人格與真人之間的落差是否應被策展看見？",
+      "平台年代更替後，失效連結、低畫質與壞檔本身是否也是歷史證據？",
+      "把私人影片搬進美術館後，觀眾的觀看倫理是否改變？",
+      "哪些內容因為平台演算法曾經被放大，今天仍主導我們的印象？",
+      "數位檔案的整理順序應依年代、情緒、媒介還是平台？",
+      "如果藝術家本人希望忘記某段過去，機構的保存責任到哪裡停止？",
+      "你如何讓數位檔案可讀，同時不把一個人編成過度完整的故事？"
+    ],
+    "strategy": "建立『保留／隱藏／刪除／待定』四欄數位檔案表。任何刪除決定都先寫理由，區分技術垃圾、重複資料、隱私風險與令人不舒服但具歷史意義的材料。",
+    "task": "60分鐘整理你近三年的一個數位資料夾，只處理30個檔案。禁止立刻刪除，先全部放入四欄並寫一句判斷。",
+    "training": "第二輪把其中5個最想刪除的檔案當成策展材料，為每個檔案寫『它保留了哪一種時間證據』，再決定是否真的刪除。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "An Evening with Molly Soda",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "MoMA於2026年9月28日19:00舉辦Modern Mondays節目《An Evening with Molly Soda》，放映完全取自藝術家個人YouTube檔案的作品。官方指出其YouTube頻道自2010年累積數百支影片，且藝術家極少刪除自己的線上過去。",
+      "references": [
+        {
+          "title": "An Evening with Molly Soda",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11667",
+          "accessedAt": "2026-09-28"
+        },
+        {
+          "title": "Modern Mondays",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/560",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA於9月28日舉辦《An Evening with Molly Soda》，節目取材自其個人YouTube檔案；官方描述她自2010年累積大量影片且少有刪除。\\n【推論】數位檔案的『不整理』也可能保留時代、平台與自我矛盾的證據。\\n【原創模擬】保留／隱藏／刪除／待定四欄法為Curator OS策展訓練。"
+  },
+  {
+    "id": "daily-2026-09-28-family",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "親子觀展教育訓練",
+    "lens": "建築觀察、兒童尺度與提問權",
+    "source": "Guggenheim《Curious about the Building?》官方資料（查證截至2026-09-28）",
+    "title": "不要先告訴孩子這是名建築：讓他先找出『這棟房子哪裡很奇怪』。",
+    "summary": "Guggenheim每天14:00的《Curious about the Building?》以30分鐘帶領觀眾探索Frank Lloyd Wright建築的細節、怪癖與空間特徵。今天將這個架構轉成親子訓練：先讓孩子用身體尺度發現奇怪之處，再補建築史。",
+    "questions": [
+      "孩子第一個覺得奇怪的地方是坡道、光、聲音還是高度？",
+      "他會把旋轉坡道理解成路、樓梯還是遊戲場？",
+      "成人是否太快使用建築師名字終止孩子的觀察？",
+      "哪個空間細節只有低視角才看得到？",
+      "走路速度變快或變慢時，建築感受如何改變？",
+      "孩子能否用『我不喜歡』作為有效觀察？",
+      "觸摸限制是否需要先說明，還是可以在需要時再說？",
+      "建築導覽要回答問題，還是增加更多問題？",
+      "如果孩子要改一個地方，他最想改哪裡？",
+      "離開時，他能否用一句話說出這棟建築與一般房子的不同？"
+    ],
+    "strategy": "採『先找怪、再畫路、最後才說歷史』三步法。成人只追問『你怎麼知道？』，不要急著糾正形容詞。",
+    "task": "帶孩子或自己模擬兒童視角，找出一棟建築的5個『奇怪之處』，每個都畫一張10秒草圖。",
+    "training": "30分鐘完成：自由走10分鐘、畫路線10分鐘、補充一段建築背景10分鐘；比較背景知識加入前後，哪些觀察被改變。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Guggenheim Museum",
+      "title": "Curious about the Building?",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "Guggenheim官方資料列2026年9月28日14:00至14:30舉辦《Curious about the Building?》，由museum educators帶領參觀者探索建築特色與細節，包含在門票內且無需事前登記。",
+      "references": [
+        {
+          "title": "Curious about the Building?",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/curious-about-the-building",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】Guggenheim 9月28日14:00舉行30分鐘建築導覽，鼓勵觀眾探索建築細節與特性。\\n【推論】先以兒童尺度發現建築異常，再加入歷史脈絡，可降低標準答案對第一手觀察的干擾。\\n【原創模擬】先找怪—畫路—說歷史的三步法為Curator OS親子觀展訓練。"
+  },
+  {
+    "id": "daily-2026-09-28-life",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "人生策展課題",
+    "lens": "日常練習、工作場所與不依賴成果的持續",
+    "source": "Curator OS原創人生策展，參照MoMA《Sarah Michelson: nowhere》",
+    "title": "如果今天沒有『完成作品』，但你仍準時進入創作現場，這一天算不算前進？",
+    "summary": "Sarah Michelson把MoMA中庭當作daily workspace，讓舞蹈、思考、停頓與存在本身進入作品。人生策展也可以重新定義前進：不把每一天都逼成成果，而是建立一個會固定回去工作的場所與節奏。",
+    "questions": [
+      "你目前用什麼證據判斷今天有沒有前進？",
+      "沒有完成成果的工作日是否全被你判定為失敗？",
+      "哪一個固定場所最容易讓你進入創作狀態？",
+      "你真正需要的是更多時間，還是更穩定的開始儀式？",
+      "哪些工作只有長期重複才會看見效果？",
+      "你能否把『出現在現場』當成一種最低成功標準？",
+      "哪些停頓其實是思考，而不是拖延？",
+      "你如何區分必要的停頓與逃避？",
+      "若今天只能保留90分鐘，你最值得回去做哪一件事？",
+      "十二週後，你希望看到更多作品，還是更穩定的創作身份？"
+    ],
+    "strategy": "建立『到場優先』規則：固定一個90分鐘創作時段，成果不限，但必須進入同一場域並完成一個可留下的痕跡，例如一頁草圖、一段文字、一個模型修改或一張研究卡。",
+    "task": "今天安排90分鐘，不設定完成目標，只設定『準時到場＋留下痕跡』。結束後記錄做了什麼，而不是沒做完什麼。",
+    "training": "連續7天追蹤三項：是否到場、是否留下痕跡、離場時是否知道下一步。暫時不要用作品完成數評價。",
+    "caseStudy": {
+      "realWorld": false,
+      "title": "到場優先的7日人生策展",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "Curator OS原創人生策展練習；概念參照Sarah Michelson把MoMA Marron Family Atrium當作daily workspace、將舞蹈與思考融入博物館日常的做法。",
+      "references": [
+        {
+          "title": "Sarah Michelson: nowhere",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5928",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA將《nowhere》描述為daily dance，Michelson把中庭當作每日工作場所。\\n【推論】創作的持續性可以用『是否回到現場』衡量，而不只用單日完成成果。\\n【原創模擬】到場優先與7日追蹤表為Curator OS人生策展練習。"
+  },
+  {
+    "id": "daily-2026-09-28-participatory",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "國際民眾參與策展實作",
+    "lens": "社交編舞、身體門檻與包容參與",
+    "source": "Guggenheim Works & Process／SCUFF Queer Country Dancing官方資料（查證截至2026-09-28）",
+    "title": "一場參與式活動真正的第一道門檻，不是票價，而是『我敢不敢把身體放進去』。",
+    "summary": "Guggenheim於9月28日晚間在旋轉中庭舉辦SCUFF Queer Country Dancing舞會，官方標示為beginner-friendly並包容不同經驗程度。今日把它當作參與式策展案例：有些活動資訊上完全開放，但身體上仍讓新手感到自己『不屬於這裡』。",
+    "questions": [
+      "第一次參加的人在入口會先看到高手還是新手？",
+      "活動是否允許旁觀後再加入？",
+      "不會跳舞的人是否知道第一個動作是什麼？",
+      "配對舞蹈如何避免讓單獨到場者尷尬？",
+      "性別角色是否被預設在舞步裡？",
+      "參與者可以中途退出而不被注視嗎？",
+      "工作人員的語言是否真的傳達『你可以不會』？",
+      "場地中心與邊緣分別給了誰安全感？",
+      "如果有人只想觀看，他是否仍被視為參與者？",
+      "什麼證據能顯示活動不只是宣稱包容，而是讓更多身體真的進場？"
+    ],
+    "strategy": "設計『旁觀—試做—加入—退出—再加入』五階段，不要求一次完成參與。每個階段都要有清楚的身體位置與退出權。",
+    "task": "為一個工作坊畫出五階段參與平面圖，尤其標出旁觀區、第一次試做區與可隨時退出的位置。",
+    "training": "找一位完全不熟悉活動的人看流程圖5分鐘，請他指出哪一步最不敢進去。只修正那一個門檻，再重新測試。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Guggenheim Museum",
+      "title": "Works & Process Rotunda Dance Party: SCUFF Queer Country Dancing",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "Guggenheim官方日曆列活動於2026年9月28日19:00舉行，SCUFF在旋轉中庭帶領line dancing與partner dancing，並明確標示為beginner-friendly與inclusive of all experience levels。",
+      "references": [
+        {
+          "title": "Guggenheim Calendar — September 28, 2026",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/stroller-tours",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】Guggenheim 9月28日安排SCUFF Queer Country Dancing，官方標示新手友善並包容各種經驗程度。\\n【推論】參與式策展的關鍵門檻之一是身體是否敢真正進場，而不只是資訊上是否免費或開放。\\n【原創模擬】旁觀—試做—加入—退出—再加入五階段為Curator OS參與設計方法。"
+  },
+  {
+    "id": "daily-2026-09-28-training",
+    "daily": true,
+    "date": "2026-09-28",
+    "category": "策展思考訓練",
+    "lens": "時間型作品、重複觀看與策展紀錄",
+    "source": "MoMA《Sarah Michelson: nowhere》官方資料（查證截至2026-09-28）",
+    "title": "如果作品從早上10:30做到下午5:30，哪一個瞬間才有資格代表它？",
+    "summary": "Sarah Michelson的《nowhere》把MoMA中庭當成每日工作場，9月28日從10:30持續至17:30。作品不是一個固定時刻，而是舞者、休息、重複、觀眾進出與博物館日常共同形成的時間場。今天訓練如何策展與記錄『持續發生』的作品。",
+    "questions": [
+      "一張照片能否代表一件持續七小時的作品？",
+      "開場、中段與尾聲的觀看權重應該相同嗎？",
+      "舞者休息時作品是否仍然存在？",
+      "觀眾只看三分鐘與看兩小時，看到的是同一件作品嗎？",
+      "博物館日常噪音是否成為作品的一部分？",
+      "重複動作的差異要如何被記錄？",
+      "時間型作品的策展文字應描述結果還是觀看條件？",
+      "如果觀眾進出自由，誰決定作品的起點與終點？",
+      "哪種紀錄最能保存作品：影片、時間表、訪談還是行為記譜？",
+      "你如何避免用最戲劇性的瞬間取代作品真正的時間結構？"
+    ],
+    "strategy": "用『時間切片』取代英雄照片：開場、30分鐘、2小時、4小時、結束前各記一次。每次只記身體、空間、觀眾、聲音與節奏五項，不立刻下總結。",
+    "task": "挑一個會持續至少60分鐘的公共空間活動，每15分鐘記錄一次，共四次。最後比較哪些變化若只看單一照片會完全消失。",
+    "training": "做一張『時間剖面』，橫軸是時間，縱軸標記觀眾密度、聲音、動作強度與空間佔用，最後寫一段不依賴高潮瞬間的策展說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Sarah Michelson: nowhere",
+      "statusAsOf": "2026-09-28",
+      "latestUpdate": "MoMA官方列《Sarah Michelson: nowhere》於2026年9月15日至10月11日展出；9月28日表演時間為10:30至17:30。藝術家將Marron Family Atrium視為每日工作場，並與輪替舞者共同表演。",
+      "references": [
+        {
+          "title": "Sarah Michelson: nowhere",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11615",
+          "accessedAt": "2026-09-28"
+        },
+        {
+          "title": "Sarah Michelson: nowhere — Press",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/film-media/sarah-michelson-nowhere/",
+          "accessedAt": "2026-09-28"
+        }
+      ]
+    },
+    "rawText": "【事實】《nowhere》在9月28日由10:30持續至17:30，並把MoMA中庭納入作品日常。\\n【推論】時間型作品若只用單一照片代表，容易犧牲作品真正的節奏與勞動結構。\\n【原創模擬】五次時間切片與時間剖面為Curator OS策展訓練。"
+  },
+  {
+    "id": "daily-2026-09-29-curator",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "專業策展人提問思考課題",
+    "lens": "共同策展、見證與詮釋權",
+    "source": "MoMA《Nilima Sheikh: Fractured Skies》與9月29日Artist and Curators in Conversation官方資料（查證截至2026-09-29）",
+    "title": "當藝術家與策展人坐在同一張桌上，誰有權決定一段歷史要被怎麼說？",
+    "summary": "MoMA於2026年9月27日開幕《Nilima Sheikh: Fractured Skies》，9月29日晚間再安排藝術家Nilima Sheikh與MoMA、Kiran Nadar Museum of Art策展人共同對談。展覽透過三個主要作品系列處理歷史、區域敘事、女性聲音與見證。今日訓練的重點不是『誰比較懂作品』，而是共同策展中不同知識位置如何被清楚區分。",
+    "questions": [
+      "藝術家對作品意義的說法是否具有最終權威？",
+      "策展人若掌握更多歷史資料，是否有權修正藝術家的自我敘述？",
+      "共同策展中的分歧是否應被觀眾看見？",
+      "地方知識、藝術家經驗與博物館研究的證據地位是否相同？",
+      "如果策展文字比作品本身更清楚，是否已經取代作品發言？",
+      "藝術家說『這不是我的意思』時，策展人該如何處理？",
+      "跨機構合作時，誰決定最後的論述版本？",
+      "策展人如何避免把複雜歷史壓成一條易讀敘事？",
+      "觀眾是否應知道哪些判斷來自藝術家、哪些來自機構？",
+      "一場真正成熟的共同策展，是否可以保留未解決的矛盾？"
+    ],
+    "strategy": "建立『發言位置標記』：Artist、Curator、Archive、Institution、Audience。每段關鍵論述都註明來源位置，避免不同類型的知識被混成單一權威聲音。",
+    "task": "選一篇你正在寫的策展論述，圈出10個判斷句，逐句標記它到底來自藝術家、史料、你自己的推論或機構立場。",
+    "training": "60分鐘完成『發言位置地圖』，最後找出3句目前來源不清楚的句子，改寫成更誠實的版本。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Nilima Sheikh: Fractured Skies / Artist and Curators in Conversation",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "MoMA展覽於2026年9月27日至2027年6月13日展出；9月29日18:30–20:00安排Nilima Sheikh與策展人Cara Manes、Roobina Karode共同對談。",
+      "references": [
+        {
+          "title": "Nilima Sheikh: Fractured Skies",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5932",
+          "accessedAt": "2026-09-29"
+        },
+        {
+          "title": "Artist and Curators in Conversation",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://production-gcp.moma.org/calendar/events/11704",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA《Fractured Skies》由MoMA與Kiran Nadar Museum of Art共同組織，9月29日另有藝術家與策展人圓桌對談。\\n【推論】共同策展的核心不只是共享署名，而是清楚分辨不同知識位置。\\n【原創模擬】發言位置標記與60分鐘地圖為Curator OS方法。"
+  },
+  {
+    "id": "daily-2026-09-29-family",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "親子觀展教育訓練",
+    "lens": "轉譯創作、模仿與兒童自主選擇",
+    "source": "Whitney Museum《Open Studio 2026》官方資料（查證截至2026-09-29）",
+    "title": "孩子做出『不像原作』的東西，可能反而代表他真的看懂了。",
+    "summary": "Whitney的Open Studio 2026在多個週六舉行，最近一次為9月26日，邀請各年齡家庭根據館內展覽與收藏進行不同的artmaking project。今天的親子訓練要把焦點從『照著做』轉成『轉譯』：孩子不需要複製作品，而是選一個他真正注意到的關係重新發明。",
+    "questions": [
+      "孩子最先模仿的是顏色、形狀、動作還是故事？",
+      "如果作品完全不像原作，是否代表活動失敗？",
+      "成人如何判斷孩子是在隨便做還是在轉譯？",
+      "是否需要先示範一個標準成品？",
+      "材料限制會不會反而幫助孩子做出自己的選擇？",
+      "孩子能否說出自己保留了原作哪一個特徵？",
+      "不同年齡是否應該使用同一材料？",
+      "成人的作品會不會變成孩子模仿的新標準？",
+      "如果孩子中途改題目，活動是否允許？",
+      "最後評量應看成品，還是看孩子做過哪些選擇？"
+    ],
+    "strategy": "採『看一個—選一個—改一個』：先找原作一個特徵，選擇保留，再故意改變另一項，讓孩子知道創作不是複製。",
+    "task": "選一件作品，讓孩子只說出一個最想保留的元素，再要求他必須改變尺寸、材料或用途其中一項。",
+    "training": "30至45分鐘完成，最後由孩子自己說『我保留了什麼、我改了什麼』，成人不替他總結。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Whitney Museum of American Art",
+      "title": "Open Studio 2026",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "Whitney Open Studio 2026於多個週六11:00–15:00舉行，面向所有年齡家庭，活動以館內收藏與當期展覽為靈感設計不同創作任務；最近一次日期為9月26日。",
+      "references": [
+        {
+          "title": "Open Studio 2026",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/open-studio-2026",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】Whitney Open Studio 2026為家庭提供以館內作品為靈感的不同artmaking projects。\\n【推論】『不像原作』不必然是理解不足，也可能是兒童完成轉譯。\\n【原創模擬】看一個—選一個—改一個為Curator OS親子訓練。"
+  },
+  {
+    "id": "daily-2026-09-29-life",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "人生策展課題",
+    "lens": "記憶、不可修復經驗與非正向敘事",
+    "source": "MoMA PS1《Teresa Margolles: En el lugar de los hechos》官方資料（查證截至2026-09-29）",
+    "title": "人生裡有些經驗，不需要被『轉化成成長』，只需要被誠實地留下嗎？",
+    "summary": "MoMA PS1於2026年9月24日開幕Teresa Margolles在美國首個大型博物館展《En el lugar de los hechos》。她長期以現場痕跡、材料與研究處理失落、消失與被公共記憶忽略的事件。今日借這個方法思考人生策展：並非所有困難經驗都必須被改寫成成長故事，有些內容的價值可能只是被準確記住。",
+    "questions": [
+      "你是否習慣把每個挫折都寫成『後來讓我成長』？",
+      "哪些經驗其實至今仍沒有答案？",
+      "沒有答案是否等於這段經驗沒有價值？",
+      "你能否只記錄發生了什麼，而不急著解釋？",
+      "哪些細節一旦被過度美化就會失真？",
+      "你的人生書寫裡是否存在被刪掉的不舒服證據？",
+      "什麼時候重新詮釋是理解，什麼時候只是合理化？",
+      "有沒有一段過去你願意標註『仍未完成』？",
+      "哪些記憶適合公開，哪些應該保留私密？",
+      "如果不要求得到正面結論，你會怎麼替那段經驗命名？"
+    ],
+    "strategy": "採『事實／感受／解釋／未知』四欄記錄。今天禁止把未知欄填滿，也禁止把痛苦自動轉成成長。",
+    "task": "選一段你常用『所以我學會了…』總結的經驗，重新寫200字，只允許事實與當時感受，不寫教訓。",
+    "training": "完成後加一行『目前仍不知道的是＿＿』。保留空白，不急著解答。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA PS1",
+      "title": "Teresa Margolles: En el lugar de los hechos (At the Scene)",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "展覽於2026年9月24日至2027年2月8日在MoMA PS1展出，是Margolles在美國首個大型博物館展，涵蓋近三十年的雕塑、攝影、錄像與大型裝置。",
+      "references": [
+        {
+          "title": "Teresa Margolles: En el lugar de los hechos",
+          "publisher": "The Museum of Modern Art / MoMA PS1",
+          "url": "https://press.moma.org/exhibition/teresa-margolles/",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA PS1展覽呈現Margolles近三十年以現場痕跡、研究與材料處理失落、暴力與公共記憶的創作。\\n【推論】人生策展也可以保留尚未被解釋完成的經驗，而不必追求正向收束。\\n【原創模擬】事實／感受／解釋／未知四欄法為Curator OS人生策展練習。"
+  },
+  {
+    "id": "daily-2026-09-29-participatory",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "國際民眾參與策展實作",
+    "lens": " embodied learning、共同研究與展場外知識",
+    "source": "Serpentine《troubleshooting...》官方資料（查證截至2026-09-29）",
+    "title": "參與者只是『來體驗』，還是也能成為知識生產者？",
+    "summary": "Serpentine於2026年9月5至6日舉辦《troubleshooting...》，從Education Space的開放科技檔案出發，再把參與者帶進Kensington Gardens與Hyde Park，以步行、遊戲與移動研究數位時代的導航與世界觀。官方明確將people描述為active agents and producers of knowledge。今天的實作重點是：參與不只是互動，而是能否真的產出新的觀察。",
+    "questions": [
+      "參與者完成活動後有沒有留下可被使用的新知識？",
+      "導覽路線是否允許參與者偏離？",
+      "工作人員提出問題後，答案會不會回到策展資料庫？",
+      "走出展場是否改變了什麼原本只在物件前看不到的事？",
+      "參與者的身體經驗要如何被記錄而不被簡化？",
+      "活動是讓人發現，還是只讓人重演策展人的結論？",
+      "哪些參與成果值得成為下一版展覽資料？",
+      "不同人的路徑差異能否被並置而非統一？",
+      "活動結束後誰擁有這些參與者產出的資料？",
+      "真正的共同研究是否需要讓參與者影響下一次方法？"
+    ],
+    "strategy": "把參與設計成『輸入—探索—產出—回流』四步。任何工作坊若沒有產出或回流，就仍偏向體驗型活動。",
+    "task": "設計一條30分鐘公共空間研究路徑，讓參與者沿途記錄3個你事前不知道答案的問題。",
+    "training": "活動後把所有觀察整理成一張『新知識清單』，只留下原本策展人不知道、但由參與者發現的內容。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦／Serpentine與Kensington Gardens、Hyde Park",
+      "title": "troubleshooting...",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "Serpentine於2026年9月5至6日舉辦guided walks，由研究者、藝術家與創意科技工作者帶領，從processing...檔案展出發延伸至公園，強調embodied learning與people as active agents and producers of knowledge。",
+      "references": [
+        {
+          "title": "troubleshooting...",
+          "publisher": "Serpentine",
+          "url": "https://www.serpentinegalleries.org/whats-on/troubleshooting/",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】Serpentine官方將《troubleshooting...》描述為把檔案研究轉成公共遭遇，並強調具身學習與參與者作為知識生產者。\\n【推論】參與式策展的成熟度可由『參與是否產生原本不存在的新知識』判斷。\\n【原創模擬】輸入—探索—產出—回流四步法為Curator OS工具。"
+  },
+  {
+    "id": "daily-2026-09-29-training",
+    "daily": true,
+    "date": "2026-09-29",
+    "category": "策展思考訓練",
+    "lens": "資訊設計、證據轉譯與視覺誤導",
+    "source": "MoMA《Full Disclosure: The Edge of Information Design》官方資料（查證截至2026-09-29）",
+    "title": "資料一旦被畫成圖，還是事實嗎？",
+    "summary": "MoMA於2026年9月27日開幕《Full Disclosure: The Edge of Information Design》，這是館方首個完全聚焦資訊設計的展覽，展出30件數位與類比作品。官方明確指出：data is not knowledge，資料必須透過設計被翻譯。今天的訓練是檢查『圖表看起來很客觀』這個錯覺。",
+    "questions": [
+      "一張圖表最先讓你看到的是數據還是設計？",
+      "色彩選擇是否偷偷替資料加入情緒？",
+      "尺度起點改變後，結論會不會改變？",
+      "哪些資料被排除在視覺化之外？",
+      "圖表越簡單是否就越接近真相？",
+      "互動式圖表會增加理解，還是增加選擇偏誤？",
+      "資料來源是否和圖本身一樣容易被看見？",
+      "AI生成資訊圖應如何揭露推論與缺失資料？",
+      "當圖表是為了說服而不是理解，策展人如何辨識？",
+      "你能否用同一組資料做出兩張互相矛盾但都『看似合理』的圖？"
+    ],
+    "strategy": "採『資料—選擇—圖形—結論』四欄法。任何資訊圖都先列出原始資料，再記錄設計者做過的選擇，最後才判斷圖表是否支持結論。",
+    "task": "找一組你熟悉的5項數據，用兩種不同尺度、排序或配色做兩張圖，觀察觀眾會得出哪些不同印象。",
+    "training": "60分鐘完成雙圖對照，並替每張圖寫一句『它最容易讓人誤解什麼』。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Full Disclosure: The Edge of Information Design",
+      "statusAsOf": "2026-09-29",
+      "latestUpdate": "展覽於2026年9月27日至2027年6月13日展出，為MoMA首個專門聚焦資訊設計的展覽，包含30件數位與類比作品。",
+      "references": [
+        {
+          "title": "Full Disclosure: The Edge of Information Design",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5926",
+          "accessedAt": "2026-09-29"
+        },
+        {
+          "title": "Full Disclosure Press Release",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/exhibition/fulldisclosure/",
+          "accessedAt": "2026-09-29"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA明確以『Data, however, is not knowledge』說明資訊必須經過設計翻譯。\\n【推論】資料視覺化本身就是策展選擇，而不是中性包裝。\\n【原創模擬】雙圖對照與誤解句為Curator OS訓練。"
+  },
+  {
+    "id": "daily-2026-09-30-curator",
+    "daily": true,
+    "date": "2026-09-30",
+    "category": "專業策展人提問思考課題",
+    "lens": "材料限制、媒介倫理與低成本策展",
+    "source": "MoMA《The Material Is the Message》官方資料（查證截至2026-09-30）",
+    "title": "策展人是在展示作品，還是在展示『限制如何變成方法』？",
+    "summary": "MoMA於2026年9月30日晚間放映《The Material Is the Message》，聚焦超低預算實驗電影如何把缺乏器材、重複使用影像、直接刮畫膠片與材料損耗轉化成作品方法。今天的核心不是讚美貧乏，而是檢查：當資源受限時，策展是否能分辨真正的創造性約束與被浪漫化的匱乏。",
+    "questions": [
+      "當作品因預算不足改變形式，這是失敗還是方法？",
+      "哪些限制真正迫使創作者做出新判斷？",
+      "哪些限制只是機構沒有提供足夠資源？",
+      "策展人是否會過度浪漫化『窮也能做藝術』？",
+      "媒材本身的耗損、刮痕與錯誤能否成為內容？",
+      "重複使用既有材料時，來源與權利如何被交代？",
+      "如果增加十倍預算，作品最重要的部分會消失嗎？",
+      "低成本是否真的等於低環境負荷？",
+      "什麼時候技術限制應被保留，什麼時候應被修正？",
+      "你的競圖中哪一個高成本項目其實沒有增加核心價值？"
+    ],
+    "strategy": "建立『限制—反應—價值』矩陣：先列出金錢、技術、材料、時間與場域限制，再逐項判斷它迫使你產生了什麼新方法，以及是否真的增加作品價值。",
+    "task": "選一個正在發展的案子，假設預算立刻減少30%。禁止縮小所有東西，必須找出3個可以透過重新設計而非單純刪除來回應的地方。",
+    "training": "60分鐘做兩版：原案與70%預算版。最後只比較哪一版的核心概念更清楚，不比較哪一版看起來更昂貴。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "The Material Is the Message",
+      "statusAsOf": "2026-09-30",
+      "latestUpdate": "MoMA於2026年9月30日19:30放映約83分鐘的《The Material Is the Message》，節目以低預算、直接處理膠片、found footage與再利用材料等方式呈現媒材限制如何成為創作方法。",
+      "references": [
+        {
+          "title": "The Material Is the Message",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11639",
+          "accessedAt": "2026-09-30"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA 9月30日放映《The Material Is the Message》，節目聚焦超低預算與直接介入膠片、found footage、重用影像等方法。\\n【推論】限制可成為方法，但不能把資源不足自動浪漫化為創造力。\\n【原創模擬】限制—反應—價值矩陣與70%預算測試為Curator OS方法。"
+  },
+  {
+    "id": "daily-2026-09-30-family",
+    "daily": true,
+    "date": "2026-09-30",
+    "category": "親子觀展教育訓練",
+    "lens": "故事轉場、空間想像與親子共構",
+    "source": "MoMA Family Story Time官方資料（2026-09-30）",
+    "title": "讀完故事不要立刻找『正確作品』：讓孩子先決定故事應該住在哪一個空間。",
+    "summary": "MoMA於9月30日10:30舉行Family Story Time，本月主題為Spaces and Places。活動先以故事促進思考、對話、動作與創作，再透過活動單把概念帶回展廳作品。今日親子訓練把重點放在『故事如何轉場成空間』。",
+    "questions": [
+      "故事裡最重要的空間是房間、街道、自然還是想像？",
+      "孩子會把故事放在哪一個現實空間？",
+      "成人是否太快幫他對應到某件作品？",
+      "同一個故事可以住在三種不同空間嗎？",
+      "孩子選空間時在意尺寸、光、聲音還是安全感？",
+      "如果故事角色換一個地方，情節會怎麼改變？",
+      "孩子能否用身體走出故事的空間尺度？",
+      "活動單會幫助連結，還是變成尋寶式答案？",
+      "展場裡哪一個角落最像孩子自己想像的地方？",
+      "回家後能否用家中一個空間重新演一次故事？"
+    ],
+    "strategy": "採『故事—選址—走路—重寫』四步法：先讀故事，再讓孩子自己挑一個展場位置，走過去後才問『如果故事發生在這裡，會改變什麼？』",
+    "task": "挑一本短繪本，讀完後不要討論寓意。讓孩子在一個公共空間找3個可能的故事地點，並選1個說明原因。",
+    "training": "30至45分鐘完成，最後只記錄孩子對空間條件的選擇，不評價故事理解是否正確。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "Family Story Time: Spaces and Places",
+      "statusAsOf": "2026-09-30",
+      "latestUpdate": "MoMA於2026年9月30日10:30–11:00舉行Family Story Time，9月主題為Spaces and Places；活動結合故事、材料／動作／色彩／形狀活動，並提供活動單讓家庭自行連結館內作品。",
+      "references": [
+        {
+          "title": "Family Story Time",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11674",
+          "accessedAt": "2026-09-30"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA Family Story Time於9月30日舉行，本月主題為Spaces and Places，並把故事活動延伸至館內作品。\\n【推論】故事可以成為空間閱讀入口，但不需要由成人預先指定唯一對應作品。\\n【原創模擬】故事—選址—走路—重寫為Curator OS親子訓練。"
+  },
+  {
+    "id": "daily-2026-09-30-life",
+    "daily": true,
+    "date": "2026-09-30",
+    "category": "人生策展課題",
+    "lens": "結束、撤場與不延長的能力",
+    "source": "MoMA《The Modern Window: Julien Ceccaldi》最後展期資料（查證截至2026-09-30）",
+    "title": "不是每個值得的計畫都要延長：你怎麼知道一個階段真的可以結束了？",
+    "summary": "MoMA《The Modern Window: Julien Ceccaldi》今天9月30日進入最後展日。展覽從2025年11月持續近一年，以透明壓克力、城市場景與現代主義視窗構成一個觀看都市社會生活的窗口。人生策展借用『撤場』概念：結束不一定表示失敗，有時結束是讓下一個階段獲得位置。",
+    "questions": [
+      "你目前有哪些計畫其實已完成目的，只因捨不得而繼續？",
+      "延長一個計畫的真正理由是價值還是慣性？",
+      "什麼證據可以證明它已經完成？",
+      "你是否把『還可以更好』誤當成『還不能結束』？",
+      "哪一個工作如果今天停止，不會真正造成損失？",
+      "結束前最值得保存的是成果、方法還是關係？",
+      "哪些材料應封存，哪些應直接丟掉？",
+      "你需要一個儀式來承認階段結束嗎？",
+      "撤掉舊計畫後空出的時間要保留多久，不立刻填滿？",
+      "如果不延長，你最想讓下一個階段出現什麼？"
+    ],
+    "strategy": "建立『Close / Continue / Archive / Reopen Later』四欄。今天只決定狀態，不新增任務；任何Continue都必須寫明下一個可驗證目標，否則轉Archive。",
+    "task": "列出目前5個仍掛在心裡的計畫，各用一句話寫『它原本要完成什麼』，再決定四種狀態。",
+    "training": "完成後選一件Close或Archive的事，做15分鐘收尾：整理檔案、寫結束日期、留下三句學到的方法，然後停止。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／MoMA",
+      "title": "The Modern Window: Julien Ceccaldi",
+      "statusAsOf": "2026-09-30",
+      "latestUpdate": "MoMA官方標示Julien Ceccaldi的The Modern Window裝置於2026年9月30日最後一天展出；作品自2025年11月14日展開，以透明面板、城市場景與現代主義視覺語彙構成街窗式委託。",
+      "references": [
+        {
+          "title": "The Modern Window: Julien Ceccaldi",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5861",
+          "accessedAt": "2026-09-30"
+        }
+      ]
+    },
+    "rawText": "【事實】MoMA《The Modern Window: Julien Ceccaldi》官方標示展至2026年9月30日，今天為最後展日。\\n【推論】策展中的撤場可以轉化成人生策展的『有意識結束』能力。\\n【原創模擬】Close／Continue／Archive／Reopen Later四欄法為Curator OS人生策展工具。"
+  },
+  {
+    "id": "daily-2026-09-30-participatory",
+    "daily": true,
+    "date": "2026-09-30",
+    "category": "國際民眾參與策展實作",
+    "lens": "公共詩意、共同聆聽與低壓參與",
+    "source": "Guggenheim Café Rebay x Patrick Rosal與2026 Poet-in-Residence官方資料（查證截至2026-09-30）",
+    "title": "參與式藝術一定要『做很多事』嗎？能不能只從一起聽開始？",
+    "summary": "Guggenheim於9月30日10:30進行Café Rebay x Patrick Rosal，邀請各年齡觀眾參與由2026 Poet-in-Residence設計的持續性公共計畫。Rosal年度計畫《The Water Listeners》把水視為生活存在、感官元素與聚集／反思／交換的媒介。今天練習低壓參與：不一定要求產出作品，而是先共同注意、聆聽與留下痕跡。",
+    "questions": [
+      "參與一定需要完成一個物件嗎？",
+      "共同聆聽是否能被視為有效行動？",
+      "不想說話的人能否完整參與？",
+      "如何避免詩意語言只讓熟悉藝術的人感到自在？",
+      "不同年齡的人可以用同一種方式留下回應嗎？",
+      "公共計畫是否需要一個明確結束成果？",
+      "一次短暫的共享注意力能留下什麼？",
+      "誰負責把零散回應整理成後續知識？",
+      "如果參與者只停留30秒，這算不算參與？",
+      "你的公共藝術活動是否因為要求太多而把人擋在外面？"
+    ],
+    "strategy": "建立『低壓參與三層』：看／聽即可、留下小痕跡、主動共同創作。允許觀眾停在任何一層，不把最高投入視為唯一成功。",
+    "task": "設計一個15分鐘公共藝術活動，必須讓路人即使只投入30秒也能完成第一層參與；不得要求下載App、註冊或填長表。",
+    "training": "找3種角色模擬：只經過的人、願意停3分鐘的人、願意投入15分鐘的人。分別寫出他們可以獲得與留下什麼。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Guggenheim Museum",
+      "title": "Café Rebay x Patrick Rosal / The Water Listeners",
+      "statusAsOf": "2026-09-30",
+      "latestUpdate": "Guggenheim官方日曆列Café Rebay x Patrick Rosal於9月30日10:30進行，為Poet-in-Residence Patrick Rosal設計的持續性公共計畫，面向所有年齡；2026駐館計畫《The Water Listeners》聚焦水作為感知、聚集、反思與交換的媒介。",
+      "references": [
+        {
+          "title": "Guggenheim Calendar",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/calendar",
+          "accessedAt": "2026-09-30"
+        },
+        {
+          "title": "Patrick Rosal Named 2026 Poet-in-Residence",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2026/04/press-release-srgm-2026-poet-in-residence-04072026.pdf",
+          "accessedAt": "2026-09-30"
+        }
+      ]
+    },
+    "rawText": "【事實】Guggenheim 9月30日舉辦Café Rebay x Patrick Rosal；Rosal為2026 Poet-in-Residence，其年度計畫《The Water Listeners》討論水、聆聽與共享經驗。\\n【推論】參與式策展不必總以高投入創作為目標，也可從共同注意開始。\\n【原創模擬】低壓參與三層與30秒／3分鐘／15分鐘測試為Curator OS方法。"
+  },
+  {
+    "id": "daily-2026-09-30-training",
+    "daily": true,
+    "date": "2026-09-30",
+    "category": "策展思考訓練",
+    "lens": "刪選密度、集合敘事與非單一國家想像",
+    "source": "Whitney《Untitled (America)》與9月30日展覽導覽官方資料（查證截至2026-09-30）",
+    "title": "只用21件作品談『America』：少，會不會比多更有力量？",
+    "summary": "Whitney的《Untitled (America)》以21件作品並置1900年代至1980年代的不同美國經驗，展覽持續展出；9月30日館方安排多場展覽導覽。今日訓練聚焦『有限樣本的敘事責任』：選得少可以提高關係密度，也更容易把未被選中的經驗誤當成不存在。",
+    "questions": [
+      "21件作品足以談一個國家嗎？",
+      "作品少時，每一件被賦予的代表權是否更高？",
+      "你如何讓觀眾知道這不是完整歷史？",
+      "不同年代放在一起時，哪些斷裂會被壓平？",
+      "作品之間的相似性與衝突哪個更重要？",
+      "如果必須刪掉5件，哪個敘事會最先崩解？",
+      "若加入1件新作品，你會補缺口還是製造新的矛盾？",
+      "展覽標題中的America是地理、政治、文化還是想像？",
+      "集合展如何避免每件作品只剩下『代表某議題』？",
+      "你的策展中，哪些內容其實因為怕遺漏而被塞進來？"
+    ],
+    "strategy": "做『刪五加一』測試：先從既有作品清單中刪5件，再只允許加回1件；觀察哪些敘事關係是真正必要的，哪些只是因為怕不完整而存在。",
+    "task": "拿你目前一個10件以上的作品清單，刪掉30%，再重新寫100字策展摘要。比較刪減前後哪一版主張更清楚。",
+    "training": "最後建立『缺席聲明』：用3句話明確指出這個策展沒有處理什麼，避免把有限選擇假裝成完整世界。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約／Whitney Museum of American Art",
+      "title": "Untitled (America)",
+      "statusAsOf": "2026-09-30",
+      "latestUpdate": "《Untitled (America)》目前在Whitney 7樓持續展出，館方列出21件核心作品；2026年9月30日安排12:00與15:00展覽導覽。展覽以不同藝術家對地方、記憶、大眾文化、媒體與美國想像的回應形成並置。",
+      "references": [
+        {
+          "title": "Untitled (America)",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/exhibitions/untitled-america",
+          "accessedAt": "2026-09-30"
+        },
+        {
+          "title": "Events Calendar",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events",
+          "accessedAt": "2026-09-30"
+        }
+      ]
+    },
+    "rawText": "【事實】Whitney《Untitled (America)》目前持續展出，官方列出21件作品，9月30日有多場展覽導覽。\\n【推論】作品數量越少，每件作品承擔的代表壓力越高。\\n【原創模擬】刪五加一與缺席聲明為Curator OS策展訓練。"
   },
   {
     "id": "daily-2026-10-01-curator",
@@ -17164,92 +17164,6 @@
     "rawText": "【來源事實】Brooklyn Museum《Cézanne to Modigliani》於2026年10月2日開幕，展至2027年4月18日，由Brooklyn Museum與LACMA共同策劃，呈現逾五十件歐洲現代藝術作品。\n\n【推論】私人收藏進入公共機構時，收藏者的選擇與缺席也可能被自然化為公共藝術史。\n\n【原創模擬】以作品史、收藏史、取得史三層標籤揭露敘事形成條件。\n\n來源：https://www.brooklynmuseum.org/exhibitions/pearlman-collection\n資料id：daily-2026-10-02-curator"
   },
   {
-    "id": "daily-2026-10-02-training",
-    "daily": true,
-    "date": "2026-10-02",
-    "category": "策展思考訓練",
-    "lens": "觀看證據",
-    "source": "National Gallery of Art官方資料（查證截至2026-10-02）",
-    "title": "一小時只談一張自畫像，如何避免把觀察偷換成心理診斷？",
-    "summary": "參照National Gallery of Art《The Art of Looking》一小時線上對話，練習把Siqueiros自畫像中的可見證據、形式判斷與心理推測分開。",
-    "questions": [
-      "你第一眼看到的是姿勢、色彩、視線還是象徵？",
-      "哪些描述能被另一位觀眾直接在畫面上指出？",
-      "『自信』『焦慮』『憤怒』屬於觀察還是心理推測？",
-      "1948年的歷史脈絡應在觀看的哪個階段加入？",
-      "藝術家身分資訊會不會讓你忽略畫面本身？",
-      "同一個握拳姿勢還可能有哪三種解釋？",
-      "自畫像是否必然等同藝術家的真實自我？",
-      "一小時對談中，主持人何時應補知識、何時應保持沉默？",
-      "他人的相反觀察是否讓你修改原判斷？",
-      "結束前，哪一句話能清楚標示『我仍然不知道』？"
-    ],
-    "strategy": "來源事實：National Gallery of Art於2026年10月2日舉辦一小時線上《The Art of Looking》，以David Alfaro Siqueiros 1948年《Self-Portrait》為單一對象，邀請公眾分享觀察、詮釋、問題與想法，無須藝術史背景。推論：長時間觀看仍可能把形式線索過快轉成心理判斷。原創方法：以看見、解釋、待證三欄逐句標記。",
-    "task": "對一件肖像作品寫30句短句，分成『看見』『解釋』『待證』三欄；至少把五句原本的心理描述改寫成可指認的視覺證據。",
-    "training": "做四輪各十五分鐘的慢看：輪廓、色彩、身體、背景；每輪只記錄可見內容，最後才允許提出三項詮釋，並替每項註明證據。",
-    "caseStudy": {
-      "realWorld": true,
-      "statusAsOf": "2026-10-02",
-      "country": "美國",
-      "location": "華盛頓特區／線上",
-      "latestUpdate": "《The Art of Looking: David Alfaro Siqueiros, Self-Portrait》於2026年10月2日13:00至14:00線上舉行，免費並須註冊。",
-      "references": [
-        {
-          "title": "The Art of Looking: David Alfaro Siqueiros, Self-Portrait",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/calendar/art-looking-david-alfaro-sinqueiros-self-portrait",
-          "accessedAt": "2026-10-02"
-        }
-      ],
-      "title": "NGA《The Art of Looking》",
-      "context": "活動以單件1948年自畫像進行互動對話，強調視覺素養與觀點轉換。Curator OS將它轉成防止心理過度解讀的證據訓練。"
-    },
-    "rawText": "【來源事實】National Gallery of Art於2026年10月2日舉辦一小時線上《The Art of Looking》，以Siqueiros 1948年《Self-Portrait》為對象，無須藝術史背景。\n\n【推論】慢看不自動等於準確；若缺少證據標記，形式線索仍可能被偷換成心理診斷。\n\n【原創模擬】以看見、解釋、待證三欄重寫觀看筆記。\n\n來源：https://www.nga.gov/calendar/art-looking-david-alfaro-sinqueiros-self-portrait\n資料id：daily-2026-10-02-training"
-  },
-  {
-    "id": "daily-2026-10-02-participatory",
-    "daily": true,
-    "date": "2026-10-02",
-    "category": "國際民眾參與策展實作",
-    "lens": "對話倫理",
-    "source": "Whitney Museum of American Art官方資料（查證截至2026-10-02）",
-    "title": "讓陌生人談戰爭與監視時，對話如何不把創傷變成輕率意見？",
-    "summary": "以Whitney《Art + You》討論Aziz Hazara《Moon Sightings》為案例，建立事實、位置、感受與回應四段式對話，避免公共討論只剩快速表態。",
-    "questions": [
-      "參與者在發言前需要知道哪些作品與歷史事實？",
-      "誰與戰爭、撤軍或監視議題有直接經驗？",
-      "主持人要如何區分親身經驗、媒體印象與價值判斷？",
-      "作品中的夜視影像如何改變觀看者與被觀看者的權力？",
-      "當有人說錯事時，對話要暫停、修正還是繼續追問？",
-      "哪些問題可能迫使參與者公開不願分享的創傷？",
-      "沉默是否也能被視為一種合法參與？",
-      "不同政治立場如何被容納而不等於所有主張都無須查證？",
-      "一小時討論後，參與者能帶走哪一項可驗證的理解？",
-      "機構如何保存對話成果，又不把私人經驗變成展覽資產？"
-    ],
-    "strategy": "來源事實：Whitney於2026年10月2日17:30至18:30舉辦免費《Art + You》，以Aziz Hazara《Moon Sightings》討論戰爭、監視、記憶、地方及權力與知識的限制，鼓勵年輕成人透過慢看與對話連結。推論：開放發言若缺少位置與證據規則，可能把他人創傷降為意見素材。原創方法：每次發言依序說明事實、位置、感受、回應。",
-    "task": "設計一場四人、四十分鐘的敏感議題對話；每人發言前先標示『我知道的事實』『我的位置』『我的感受』『我希望回應什麼』，最後只保留可追溯的共同紀錄。",
-    "training": "由主持人準備六張界線卡：可追問、需查證、暫停、不同意、保留、不公開；模擬三次衝突，練習不以快速共識結束。",
-    "caseStudy": {
-      "realWorld": true,
-      "statusAsOf": "2026-10-02",
-      "country": "美國",
-      "location": "紐約",
-      "latestUpdate": "《Art + You》於2026年10月2日17:30至18:30在Whitney六樓舉行，活動免費、名額有限，可預約或視現場空間加入。",
-      "references": [
-        {
-          "title": "Art + You",
-          "publisher": "Whitney Museum of American Art",
-          "url": "https://whitney.org/events/art-and-you-oct2",
-          "accessedAt": "2026-10-02"
-        }
-      ],
-      "title": "Whitney《Art + You》",
-      "context": "活動以Aziz Hazara作品為入口，邀請年輕成人透過慢看與對話討論戰爭、監視、記憶與權力。Curator OS聚焦敏感議題的參與倫理。"
-    },
-    "rawText": "【來源事實】Whitney於2026年10月2日舉辦免費《Art + You》，以Aziz Hazara《Moon Sightings》討論戰爭、監視、記憶、地方與知識限制。\n\n【推論】沒有位置與查證規則的開放對話，可能把他人創傷變成參與者的意見素材。\n\n【原創模擬】以事實、位置、感受、回應四段式發言，搭配可追問、需查證、暫停與不公開界線卡。\n\n來源：https://whitney.org/events/art-and-you-oct2\n資料id：daily-2026-10-02-participatory"
-  },
-  {
     "id": "daily-2026-10-02-family",
     "daily": true,
     "date": "2026-10-02",
@@ -17334,5 +17248,306 @@
       "context": "影片以Alvin Curran的生命、即興音樂與義大利1960至70年代政治脈絡交織多種檔案。Curator OS將片名轉成創作停滯時的工作方法檢查。"
     },
     "rawText": "【來源事實】Walker於2026年10月2日放映Éric Baudelaire 2022年59分鐘影片，結合Curran的即興配樂、檔案影像、Super 8與口述，映後由導演與剪輯師對談。\n\n【推論】創作停滯有時不是內容枯竭，而是舊方法無法再組織素材與生活變化。\n\n【原創模擬】把停滯拆成素材、方法與成功標準，進行三段各十五分鐘的重組測試。\n\n來源：https://www.walkerart.org/whats-on/when-there-is-no-more-music-to-write-and-other-roman-stories-by-eric-baudelaire/\n資料id：daily-2026-10-02-life"
+  },
+  {
+    "id": "daily-2026-10-02-participatory",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "國際民眾參與策展實作",
+    "lens": "對話倫理",
+    "source": "Whitney Museum of American Art官方資料（查證截至2026-10-02）",
+    "title": "讓陌生人談戰爭與監視時，對話如何不把創傷變成輕率意見？",
+    "summary": "以Whitney《Art + You》討論Aziz Hazara《Moon Sightings》為案例，建立事實、位置、感受與回應四段式對話，避免公共討論只剩快速表態。",
+    "questions": [
+      "參與者在發言前需要知道哪些作品與歷史事實？",
+      "誰與戰爭、撤軍或監視議題有直接經驗？",
+      "主持人要如何區分親身經驗、媒體印象與價值判斷？",
+      "作品中的夜視影像如何改變觀看者與被觀看者的權力？",
+      "當有人說錯事時，對話要暫停、修正還是繼續追問？",
+      "哪些問題可能迫使參與者公開不願分享的創傷？",
+      "沉默是否也能被視為一種合法參與？",
+      "不同政治立場如何被容納而不等於所有主張都無須查證？",
+      "一小時討論後，參與者能帶走哪一項可驗證的理解？",
+      "機構如何保存對話成果，又不把私人經驗變成展覽資產？"
+    ],
+    "strategy": "來源事實：Whitney於2026年10月2日17:30至18:30舉辦免費《Art + You》，以Aziz Hazara《Moon Sightings》討論戰爭、監視、記憶、地方及權力與知識的限制，鼓勵年輕成人透過慢看與對話連結。推論：開放發言若缺少位置與證據規則，可能把他人創傷降為意見素材。原創方法：每次發言依序說明事實、位置、感受、回應。",
+    "task": "設計一場四人、四十分鐘的敏感議題對話；每人發言前先標示『我知道的事實』『我的位置』『我的感受』『我希望回應什麼』，最後只保留可追溯的共同紀錄。",
+    "training": "由主持人準備六張界線卡：可追問、需查證、暫停、不同意、保留、不公開；模擬三次衝突，練習不以快速共識結束。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "《Art + You》於2026年10月2日17:30至18:30在Whitney六樓舉行，活動免費、名額有限，可預約或視現場空間加入。",
+      "references": [
+        {
+          "title": "Art + You",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/art-and-you-oct2",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "Whitney《Art + You》",
+      "context": "活動以Aziz Hazara作品為入口，邀請年輕成人透過慢看與對話討論戰爭、監視、記憶與權力。Curator OS聚焦敏感議題的參與倫理。"
+    },
+    "rawText": "【來源事實】Whitney於2026年10月2日舉辦免費《Art + You》，以Aziz Hazara《Moon Sightings》討論戰爭、監視、記憶、地方與知識限制。\n\n【推論】沒有位置與查證規則的開放對話，可能把他人創傷變成參與者的意見素材。\n\n【原創模擬】以事實、位置、感受、回應四段式發言，搭配可追問、需查證、暫停與不公開界線卡。\n\n來源：https://whitney.org/events/art-and-you-oct2\n資料id：daily-2026-10-02-participatory"
+  },
+  {
+    "id": "daily-2026-10-02-training",
+    "daily": true,
+    "date": "2026-10-02",
+    "category": "策展思考訓練",
+    "lens": "觀看證據",
+    "source": "National Gallery of Art官方資料（查證截至2026-10-02）",
+    "title": "一小時只談一張自畫像，如何避免把觀察偷換成心理診斷？",
+    "summary": "參照National Gallery of Art《The Art of Looking》一小時線上對話，練習把Siqueiros自畫像中的可見證據、形式判斷與心理推測分開。",
+    "questions": [
+      "你第一眼看到的是姿勢、色彩、視線還是象徵？",
+      "哪些描述能被另一位觀眾直接在畫面上指出？",
+      "『自信』『焦慮』『憤怒』屬於觀察還是心理推測？",
+      "1948年的歷史脈絡應在觀看的哪個階段加入？",
+      "藝術家身分資訊會不會讓你忽略畫面本身？",
+      "同一個握拳姿勢還可能有哪三種解釋？",
+      "自畫像是否必然等同藝術家的真實自我？",
+      "一小時對談中，主持人何時應補知識、何時應保持沉默？",
+      "他人的相反觀察是否讓你修改原判斷？",
+      "結束前，哪一句話能清楚標示『我仍然不知道』？"
+    ],
+    "strategy": "來源事實：National Gallery of Art於2026年10月2日舉辦一小時線上《The Art of Looking》，以David Alfaro Siqueiros 1948年《Self-Portrait》為單一對象，邀請公眾分享觀察、詮釋、問題與想法，無須藝術史背景。推論：長時間觀看仍可能把形式線索過快轉成心理判斷。原創方法：以看見、解釋、待證三欄逐句標記。",
+    "task": "對一件肖像作品寫30句短句，分成『看見』『解釋』『待證』三欄；至少把五句原本的心理描述改寫成可指認的視覺證據。",
+    "training": "做四輪各十五分鐘的慢看：輪廓、色彩、身體、背景；每輪只記錄可見內容，最後才允許提出三項詮釋，並替每項註明證據。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-02",
+      "country": "美國",
+      "location": "華盛頓特區／線上",
+      "latestUpdate": "《The Art of Looking: David Alfaro Siqueiros, Self-Portrait》於2026年10月2日13:00至14:00線上舉行，免費並須註冊。",
+      "references": [
+        {
+          "title": "The Art of Looking: David Alfaro Siqueiros, Self-Portrait",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/art-looking-david-alfaro-sinqueiros-self-portrait",
+          "accessedAt": "2026-10-02"
+        }
+      ],
+      "title": "NGA《The Art of Looking》",
+      "context": "活動以單件1948年自畫像進行互動對話，強調視覺素養與觀點轉換。Curator OS將它轉成防止心理過度解讀的證據訓練。"
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年10月2日舉辦一小時線上《The Art of Looking》，以Siqueiros 1948年《Self-Portrait》為對象，無須藝術史背景。\n\n【推論】慢看不自動等於準確；若缺少證據標記，形式線索仍可能被偷換成心理診斷。\n\n【原創模擬】以看見、解釋、待證三欄重寫觀看筆記。\n\n來源：https://www.nga.gov/calendar/art-looking-david-alfaro-sinqueiros-self-portrait\n資料id：daily-2026-10-02-training"
+  },
+  {
+    "id": "daily-2026-10-03-curator",
+    "daily": true,
+    "date": "2026-10-03",
+    "category": "專業策展人提問思考課題",
+    "lens": "照護敘事",
+    "source": "台北當代藝術館官方資料（查證截至2026-10-03）",
+    "title": "當高齡社會成為展覽題目，策展如何不把老人與照護者固定成被同情的角色？",
+    "summary": "以台北當代藝術館《明日再也沒有人遺忘》為案例，把高齡、照護勞動、跨國移動與記憶傳承拆成不同主體的行動能力，避免以單一悲情框架代替複雜生活。",
+    "questions": [
+      "展覽中的高齡者是被觀看的議題，還是能定義問題、拒絕再現並提出未來的人？",
+      "照護者的勞動被呈現為犧牲、專業、關係，還是制度缺口？",
+      "台灣與韓國的共同處境有哪些可比較證據，哪些差異不能被亞洲高齡化一語抹平？",
+      "作品談的是老化本身，還是家庭結構、勞動移動與公共資源的重新分配？",
+      "誰的聲音最容易被家庭影像、醫療語言或政策數字取代？",
+      "策展文字是否把脆弱當成人格，忽略高齡者仍有慾望、技藝、判斷與幽默？",
+      "跨國照護者的遷移經驗如何進入敘事，而不只成為本地家庭的背景？",
+      "地方知識與身體技藝的傳承若中斷，真正消失的是記憶、收入、身份還是社群互助？",
+      "觀眾離場後能辨認哪一個可被改變的制度條件，而不只感到悲傷？",
+      "若由高齡者與照護者共同改寫展覽，哪一段敘事最可能被刪除或重新命名？"
+    ],
+    "strategy": "先做「角色—資源—決定權」矩陣：分別列出高齡者、家屬、本地與跨國照護者、機構及政策制定者擁有的知識、承擔的成本與可做的決定。來源事實只說明案例；策展推論必須標示；任何代言式結論都要留下可被當事人修正的位置。",
+    "task": "選一個涉及高齡或照護的策展概念，刪除所有「弱勢、溫暖、陪伴」等概括詞，改寫成五句可觀察的事實；再為其中一位被描述者增加一項真實決定權。",
+    "training": "用40分鐘完成照護敘事壓力測試：10分鐘圈出誰在做事，10分鐘圈出誰在承擔代價，10分鐘圈出誰能決定，最後10分鐘檢查三者是否被誤寫成同一個人。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-03",
+      "country": "台灣",
+      "location": "台北",
+      "latestUpdate": "《明日再也沒有人遺忘》於2026年10月3日在台北當代藝術館開幕，展期至2026年11月22日，集結台灣與韓國六位藝術家。",
+      "references": [
+        {
+          "title": "When Tomorrow is Forgotten",
+          "publisher": "Museum of Contemporary Art, Taipei",
+          "url": "https://www.moca.taipei/index.php/en/ExhibitionAndEvent/Info/When%2ATomorrow%2Ais%2AForgotten",
+          "accessedAt": "2026-10-03"
+        }
+      ],
+      "title": "台北當代藝術館《明日再也沒有人遺忘》",
+      "context": "展覽從台灣與韓國進入超高齡社會的現實出發，觸及照護網絡、跨國照護勞動、女性潛水員的地方知識、聲音與集體記憶。Curator OS聚焦誰能定義高齡與照護。"
+    },
+    "rawText": "【來源事實】台北當代藝術館《明日再也沒有人遺忘》於2026年10月3日至11月22日展出，由黃奕軒與Junghoon Kim策展，集結台灣與韓國六位藝術家，處理高齡化、照護網絡、跨國勞動、地方知識與集體記憶。\n\n【推論】若策展只以脆弱與溫情描述高齡者及照護者，可能再次剝奪他們定義問題與未來的能力。\n\n【原創模擬】以角色、資源、代價、決定權四欄檢查展覽敘事，並讓當事人擁有刪除或改寫權。\n\n來源：https://www.moca.taipei/index.php/en/ExhibitionAndEvent/Info/When%2ATomorrow%2Ais%2AForgotten\n資料id：daily-2026-10-03-curator"
+  },
+  {
+    "id": "daily-2026-10-03-family",
+    "daily": true,
+    "date": "2026-10-03",
+    "category": "親子觀展教育訓練",
+    "lens": "多模態敘事",
+    "source": "Walker Art Center官方資料（查證截至2026-10-03）",
+    "title": "孩子同時用偶戲、書、節奏與動作說故事時，成人如何辨認他真正想表達的內容？",
+    "summary": "參照Walker《Story Makers & Dream Shapers》把影偶、手作書、巴西鈴鼓、舞蹈、故事時間與無對白短片並置，訓練成人追蹤孩子跨媒材重複的選擇，而非只評價完成品是否漂亮。",
+    "questions": [
+      "孩子先選角色、聲音、動作還是文字，這個順序透露了什麼偏好？",
+      "同一個角色在影偶、圖畫與動作中有哪些特徵反覆出現？",
+      "孩子改變故事時，是忘記、試驗，還是回應材料帶來的新可能？",
+      "成人的示範是否過早決定了作品應該長什麼樣子？",
+      "不喜歡寫字的孩子能否以聲音、節奏或身體完整表達？",
+      "孩子需要被追問的是情節、感受，還是他做出某個選擇的原因？",
+      "手作成果與現場表演，哪一種更接近孩子當下的敘事？",
+      "團體活動中，較安靜的孩子如何保留自己的節奏與故事權？",
+      "觀看無對白短片後，孩子添加的聲音是否改變了他對影像的理解？",
+      "離場前，成人能否用一句話準確重述孩子的想法並讓他修正？"
+    ],
+    "strategy": "使用「跨媒材線索卡」記錄角色、動作、聲音、顏色與一句話。只追蹤孩子主動重複三次以上的線索；成人先描述選擇，再詢問意思，最後請孩子確認，不以美觀與完整度替代表達。",
+    "task": "與孩子或自己完成一個15分鐘故事：先畫角色，再用一個聲音與一個動作延伸。最後只問三題：哪個最重要？哪個可以刪掉？你希望別人記住什麼？",
+    "training": "做三輪各5分鐘的媒材轉換：圖像轉動作、動作轉聲音、聲音轉一句話。每輪只記錄保留下來的元素，找出故事真正的核心，而不是要求所有細節一致。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-03",
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "latestUpdate": "Walker《Free First Saturday: Story Makers & Dream Shapers》於2026年10月3日10:00至15:00舉行，活動免費但須登記，畫廊免費開放至17:00。",
+      "references": [
+        {
+          "title": "Free First Saturday: Story Makers & Dream Shapers",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/free-first-saturday-story-makers-dream-shapers/",
+          "accessedAt": "2026-10-03"
+        }
+      ],
+      "title": "Walker《Story Makers & Dream Shapers》",
+      "context": "活動結合影偶、手作書、pandeiro製作與節奏、Capoeira演出、雙語背景故事時間、無對白動畫與互動導覽。Curator OS將其轉成追蹤孩子跨媒材表達的觀察方法。"
+    },
+    "rawText": "【來源事實】Walker Art Center於2026年10月3日舉辦免費《Story Makers & Dream Shapers》，內容包含影偶、手作書、pandeiro與節奏、Capoeira、故事時間、無對白短片及互動導覽。\n\n【推論】孩子跨媒材反覆保留的角色、聲音與動作，往往比單一完成品更能顯示他真正重視的內容。\n\n【原創模擬】以角色、動作、聲音、顏色與一句話追蹤卡，要求成人先描述、再詢問、最後讓孩子修正。\n\n來源：https://www.walkerart.org/whats-on/free-first-saturday-story-makers-dream-shapers/\n資料id：daily-2026-10-03-family"
+  },
+  {
+    "id": "daily-2026-10-03-life",
+    "daily": true,
+    "date": "2026-10-03",
+    "category": "人生策展課題",
+    "lens": "即興與失控",
+    "source": "Serpentine官方資料（查證截至2026-10-03）",
+    "title": "當下一步無法預先寫好，你能不能把失控改成一種回應現場的能力？",
+    "summary": "以Shala Miller《hideandseek》的即興人聲與弦樂實驗為參照，把不確定拆成聆聽、回應、保留與停止四種動作，練習在計畫失去腳本時仍持續做出小而清楚的選擇。",
+    "questions": [
+      "目前讓你不安的是結果未知、他人反應未知，還是你無法控制自己的表現？",
+      "在沒有完整計畫前，哪一個當下訊號值得先回應？",
+      "你能聽見的是現場需求，還是腦中預演的失敗？",
+      "哪一項既定方法已經太僵硬，反而阻止你理解變化？",
+      "即興時什麼是不能放棄的底線：安全、誠實、時間還是關係？",
+      "你如何分辨有效的偏離與單純逃避準備？",
+      "出現不協調時，你要修正、跟隨、暫停，還是讓它維持一段時間？",
+      "別人的回應如何成為下一步材料，而不是對你能力的判決？",
+      "一次短暫失敗可以留下哪一條可重用的訊號？",
+      "若今天只做一個五分鐘版本，你願意測試哪個尚未確定的方向？"
+    ],
+    "strategy": "採用「一個錨點、三次回應」：先確定不可妥協的價值或期限，再依現場訊號做三個短回合，每回合只改一項；結束後記錄保留、停止與下一次再測三欄，不把即興等同於毫無準備。",
+    "task": "選一件卡住的工作，設定15分鐘與一條底線。連續做三個五分鐘版本，每次只回應上一版最明顯的訊號；禁止在過程中評分，最後才選一個值得延伸的動作。",
+    "training": "進行「和聲／失諧」筆記：把今天三個順暢時刻與三個不協調時刻並列，為每個不協調時刻寫下跟隨、調整、停止三種可能，明天只實驗其中一種。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-03",
+      "country": "英國",
+      "location": "倫敦",
+      "latestUpdate": "Serpentine Park Nights《hideandseek》於2026年10月2日及3日20:00在2026 Serpentine Pavilion演出，為Shala Miller在英國的首次呈現。",
+      "references": [
+        {
+          "title": "Park Nights 2026: Shala Miller",
+          "publisher": "Serpentine",
+          "url": "https://www.serpentinegalleries.org/whats-on/park-nights-2026-shala-miller/",
+          "accessedAt": "2026-10-03"
+        }
+      ],
+      "title": "Shala Miller《hideandseek》",
+      "context": "Shala Miller與Dorothy Carlos、Samantha Feliciano以即興人聲與弦樂在LANZA atelier設計的Serpentine Pavilion創造和聲與失諧。Curator OS把即興轉成人生中的現場回應方法。"
+    },
+    "rawText": "【來源事實】Serpentine於2026年10月2日至3日20:00呈現Shala Miller新委託作品《hideandseek》，由Miller、Dorothy Carlos與Samantha Feliciano進行即興人聲及弦樂實驗，並回應LANZA atelier設計的Pavilion；這是Miller作品首次在英國呈現。\n\n【推論】即興不是取消準備，而是在保留底線的前提下，讓下一步由現場訊號共同決定。\n\n【原創模擬】以一個錨點與三次五分鐘回應測試卡住的工作，事後才判斷保留、停止或延伸。\n\n來源：https://www.serpentinegalleries.org/whats-on/park-nights-2026-shala-miller/\n資料id：daily-2026-10-03-life"
+  },
+  {
+    "id": "daily-2026-10-03-participatory",
+    "daily": true,
+    "date": "2026-10-03",
+    "category": "國際民眾參與策展實作",
+    "lens": "共同願景",
+    "source": "National Gallery of Art官方資料（查證截至2026-10-03）",
+    "title": "每人做一格共同拼成未來，參與式作品如何保留衝突而不只展示共識？",
+    "summary": "以National Gallery of Art《Community Collage Quilt》為案例，檢查個人願望被拼成集體圖像時，差異、矛盾與少數意見是否仍可辨認，而非被漂亮的整體構圖消音。",
+    "questions": [
+      "參與者回答的是自己的未來、社區未來，還是機構預先設定的國家未來？",
+      "每一格在被拼入整體前，是否保留作者的語境與說明？",
+      "相互衝突的願望會並置、討論，還是由工作人員挑選與美化？",
+      "尺寸、材料與時間限制讓哪些人較容易做出醒目的作品？",
+      "不會寫字、不熟悉藝術語言或不想公開立場的人如何參與？",
+      "共同構圖的排列權掌握在參與者、藝術家還是機構手中？",
+      "作品完成後，觀眾能否追溯單格與整體之間的關係？",
+      "參與者是否知道作品將保存多久、在哪裡展示與如何被詮釋？",
+      "如果有人拒絕樂觀或質疑紀念框架，他的方格能否留下？",
+      "這幅共同作品最終改變了哪一項後續討論、資源分配或公共決定？"
+    ],
+    "strategy": "採用「一格一語境＋分歧索引」：每格保留作者可選擇公開的短句；組合時不依美觀消除矛盾，另列三組彼此衝突的願望；活動後公開排列規則、未採用內容及下一步回應。",
+    "task": "以你目前的一個公共藝術案做12格參與原型。邀請三人各填一格，再由你製作九個模擬立場；組合後標出至少兩組矛盾，禁止用投票把少數意見刪掉。",
+    "training": "進行45分鐘「共識拆解」：15分鐘收集願望，15分鐘標記受益者與代價承擔者，15分鐘為每組衝突設計並置方式與後續提問。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-03",
+      "country": "美國",
+      "location": "華盛頓特區",
+      "latestUpdate": "《Community Collage Quilt》於2026年10月3日10:00至15:00在National Gallery of Art東館中庭舉行，為免費親子友善現場活動。",
+      "references": [
+        {
+          "title": "Community Collage Quilt",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/first-saturday-festivals/community-collage-quilt?evd=202610031400",
+          "accessedAt": "2026-10-03"
+        }
+      ],
+      "title": "NGA《Community Collage Quilt》",
+      "context": "活動邀請觀眾思考未來的希望與夢想，製作獨特方格加入共同拼貼，並連結美國250週年與社區中的藝術創造力。Curator OS聚焦共同願景如何保留差異。"
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年10月3日10:00至15:00舉辦《Community Collage Quilt》，邀請觀眾回應未來的希望與夢想，製作一格加入共同拼貼；活動與美國250週年反思及社區創造力相連。\n\n【推論】個人作品被組成漂亮整體時，衝突與少數意見可能被視覺一致性掩蓋。\n\n【原創模擬】每格附一則可選擇公開的語境，另設分歧索引，保留互相矛盾的願望與未解問題。\n\n來源：https://www.nga.gov/calendar/first-saturday-festivals/community-collage-quilt?evd=202610031400\n資料id：daily-2026-10-03-participatory"
+  },
+  {
+    "id": "daily-2026-10-03-training",
+    "daily": true,
+    "date": "2026-10-03",
+    "category": "策展思考訓練",
+    "lens": "檔案與證詞",
+    "source": "Walker Art Center官方資料（查證截至2026-10-03）",
+    "title": "用家庭影像追索一位被失蹤的人，剪輯如何區分證詞、缺口與希望？",
+    "summary": "參照Bani Khoshnoudi《The Vanishing Point》運用電話、家庭影片、照片與街頭示威影像追索失蹤親人的方法，練習在檔案不足時保存不確定性，不讓情感強度冒充已證實事實。",
+    "questions": [
+      "哪一段材料是直接證詞，哪一段只是旁人的轉述？",
+      "家庭影片證明了事件，還是只證明某段關係曾經存在？",
+      "來源不明的網路影像需要哪些時間、地點與拍攝者資訊才能被使用？",
+      "剪輯順序是否暗示了原始材料無法支持的因果關係？",
+      "缺席者無法回應時，誰有權替他解釋沉默？",
+      "私人的哀悼如何與集體政治歷史相連，又不被後者吞沒？",
+      "哪些畫面即使真實，也可能因尊嚴、安全或家屬意願而不應公開？",
+      "觀眾應在哪裡明確看見未知、爭議與無法查證？",
+      "希望是來源材料呈現的態度，還是剪輯者添加的未來方向？",
+      "若刪除最煽情的一段，作品的證據鏈是否仍然成立？"
+    ],
+    "strategy": "建立「材料來源—可證明內容—不能證明內容—倫理限制」四欄。每一次剪接都寫一句關係說明：時間連續、主題對照、情感聯想或因果主張；只有最後一項必須提出額外證據。",
+    "task": "挑選五張個人或專案檔案，為每張寫下來源、日期、可證明內容與未知。排成兩個版本：一個依時間，一個依情緒；比較兩者各自偷偷增加了什麼結論。",
+    "training": "做30分鐘「無旁白剪輯」：先排列五份材料，再用三種色籤標出事實、推論與空缺。任何同時跨越兩層的轉場都必須拆開或補上來源。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-03",
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "latestUpdate": "《The Vanishing Point》於2026年10月3日19:00在Walker Cinema放映，由剪輯師Claire Atherton導言，片長103分鐘。",
+      "references": [
+        {
+          "title": "The Vanishing Point by Bani Khoshnoudi",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/the-vanishing-point-by-bani-khoshnoudi/",
+          "accessedAt": "2026-10-03"
+        }
+      ],
+      "title": "Bani Khoshnoudi《The Vanishing Point》",
+      "context": "影片以電話、家庭影片、家族照片、藝術家拍攝與網路取得的示威影像，追索導演表親在伊朗Evin監獄失蹤的事件。Curator OS把它轉為檔案證據與剪輯倫理訓練。"
+    },
+    "rawText": "【來源事實】Walker Art Center於2026年10月3日放映Bani Khoshnoudi 2025年影片《The Vanishing Point》。作品由電話、家庭影片、家族照片及街頭示威影像構成，追索導演失蹤的表親；片長103分鐘，由剪輯師Claire Atherton導言。\n\n【推論】私人檔案的情感真實不等於事件細節已被證實，剪輯可能在不知不覺間製造因果與完整性。\n\n【原創模擬】為每份材料建立「能證明／不能證明／倫理限制」卡，再比較時間版與情緒版兩種排序。\n\n來源：https://www.walkerart.org/whats-on/the-vanishing-point-by-bani-khoshnoudi/\n資料id：daily-2026-10-03-training"
   }
 ]
