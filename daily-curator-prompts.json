@@ -17549,5 +17549,220 @@
       "context": "影片以電話、家庭影片、家族照片、藝術家拍攝與網路取得的示威影像，追索導演表親在伊朗Evin監獄失蹤的事件。Curator OS把它轉為檔案證據與剪輯倫理訓練。"
     },
     "rawText": "【來源事實】Walker Art Center於2026年10月3日放映Bani Khoshnoudi 2025年影片《The Vanishing Point》。作品由電話、家庭影片、家族照片及街頭示威影像構成，追索導演失蹤的表親；片長103分鐘，由剪輯師Claire Atherton導言。\n\n【推論】私人檔案的情感真實不等於事件細節已被證實，剪輯可能在不知不覺間製造因果與完整性。\n\n【原創模擬】為每份材料建立「能證明／不能證明／倫理限制」卡，再比較時間版與情緒版兩種排序。\n\n來源：https://www.walkerart.org/whats-on/the-vanishing-point-by-bani-khoshnoudi/\n資料id：daily-2026-10-03-training"
+  },
+  {
+    "id": "daily-2026-10-04-curator",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "專業策展人提問思考課題",
+    "lens": "形式相似與歷史差異",
+    "source": "The Museum of Modern Art官方資料（查證截至2026-10-04）",
+    "title": "當兩位藝術家共享幾何語言，策展如何避免把形式相似誤寫成相同思想？",
+    "summary": "以MoMA「Circle and Square」展廳為案例，練習把相近的線、色與構圖拆回藝術家的移動路徑、團體關係與地域影響，避免形式比較抹平歷史差異。",
+    "questions": [
+      "觀眾先看見的相似，是形式、材料、年代，還是策展陳列製造的鄰近？",
+      "兩位藝術家曾共同參與的組織，能證明多少思想一致，哪些只是短期合作？",
+      "誰提出「建構」的定義，另一位是否以相同方式理解？",
+      "同一套幾何語彙進入歐洲與南美洲後，各自回應了什麼不同處境？",
+      "若只用作品外觀分組，哪些政治、語言與遷徙脈絡會消失？",
+      "展牆文字是否清楚區分團體宣言、藝術家個人主張與策展人的後見解釋？",
+      "較知名藝術家的敘事是否把另一位變成註腳或地方版本？",
+      "同展其他藝術家如何證明幾何抽象並非只有兩條主線？",
+      "作品排序是呈現影響關係、同時發生，還是純粹視覺節奏？",
+      "若拿掉兩位大師的名字，這個展廳還能提出什麼可驗證的歷史問題？"
+    ],
+    "strategy": "建立「共同條件／分歧條件／傳播路徑」三層比較：先列可由官方資料證實的共同組織與年代，再逐件記錄方法差異，最後追蹤觀念如何跨地區被改寫；展籤禁止用「同樣」「影響」而不附證據。",
+    "task": "挑兩位常被並列的藝術家，各選三件作品；製作一張六欄比較表，至少寫出三項相似、三項分歧與兩條無法證明的影響假設，最後刪掉一個只靠外觀成立的配對。",
+    "training": "進行60分鐘「去相似化」：20分鐘只描述形式，20分鐘補入地點、年份與團體網絡，20分鐘重寫一則120字展籤，使相似成為研究入口而非結論。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "MoMA五樓512展廳「Circle and Square, Joaquin Torres-Garcia and Piet Mondrian」於2026年10月4日最後展出，呈現兩人及相關藝術家的18件線上可查作品。",
+      "references": [
+        {
+          "title": "512: Circle and Square, Joaquin Torres-Garcia and Piet Mondrian",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/galleries/5267",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "MoMA「Circle and Square」展廳",
+      "context": "官方資料指出Torres-García、Mondrian與Michel Seuphor於1929年創立Cercle et Carré，聯盟匯集歐美八十多位抽象藝術家，主張幾何與分析方法，1930年解散；相關「建構」觀念後來影響南美洲藝術家。Curator OS用此檢驗形式比較的歷史責任。"
+    },
+    "rawText": "【來源事實】MoMA五樓512展廳「Circle and Square, Joaquin Torres-Garcia and Piet Mondrian」展至2026年10月4日。官方資料記載，Torres-García、Mondrian與Michel Seuphor於1929年創立Cercle et Carré，聯盟聚集歐美八十多位抽象藝術家，以幾何、分析與「建構」對照超現實主義；組織在一次展覽與同名雜誌後於1930年解散，其觀念其後在南美洲發揮作用。\n\n【推論】把作品放在一起雖能顯示形式共鳴，也可能讓較知名藝術家的敘事遮蔽跨地域改寫與個別差異。\n\n【原創模擬】建立「共同條件／分歧條件／傳播路徑」三層比較表，並刪除一組只能靠外觀相似成立的配對。\n\n來源：https://www.moma.org/calendar/galleries/5267\n資料id：daily-2026-10-04-curator"
+  },
+  {
+    "id": "daily-2026-10-04-training",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "策展思考訓練",
+    "lens": "尺度轉譯",
+    "source": "The Museum of Modern Art官方資料（查證截至2026-10-04）",
+    "title": "把十一萬年壓進一面螢幕，策展如何讓巨大尺度可感又不只剩震撼？",
+    "summary": "參照Peggy Weil《Core Memory》把冰芯、岩芯與深時間轉成垂直影像的方式，訓練每一次尺度壓縮都同時保留單位、來源、時間跨度與觀看者可核對的證據。",
+    "questions": [
+      "作品把多少距離與年代壓進多少分鐘或多少公尺的畫面？",
+      "觀眾能否分辨原始科學材料、藝術家編排與策展解釋？",
+      "垂直下潛的視覺隱喻如何影響我們對時間的理解？",
+      "震撼感來自數據本身、螢幕尺寸、聲音，還是播放速度？",
+      "若拿掉「十一萬年」這個數字，觀眾還能理解尺度差異嗎？",
+      "冰、氣體與沉積層各自能證明什麼，不能證明什麼？",
+      "格陵蘭冰芯與加州岩芯並置時，兩套取樣歷史是否被說清楚？",
+      "慢到難以察覺的變化，需要哪一個日常尺度作為校準？",
+      "沉浸式畫面是否讓觀眾誤以為已經理解複雜的氣候機制？",
+      "離場前，觀眾能帶走哪一個可複述、可查證而非只可感嘆的判斷？"
+    ],
+    "strategy": "採用「雙尺度標記」：每個沉浸段落同時顯示宏觀跨度與一個人體可理解的基準；旁邊列出材料來源、取樣時間、藝術處理與不可推論事項，讓感知強度不取代證據。",
+    "task": "選一個難以感知的議題（十年、十公里或一萬筆資料），做三張資訊卡：原始尺度、壓縮尺度、不可由此推論的內容；再設計一個30秒感知片段並讓同伴複述他真正理解的事實。",
+    "training": "做45分鐘「尺度換算」：15分鐘列單位與來源，15分鐘建立三種日常比喻，15分鐘刪去最戲劇化但最不準確的一個，保留可追溯版本。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Peggy Weil《Core Memory》於MoMA一樓24英尺沉浸式螢幕展出至2026年10月4日，呈現《88 Cores》與《18 Cores》兩件「underscapes」。",
+      "references": [
+        {
+          "title": "Peggy Weil: Core Memory",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5890",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "Peggy Weil《Core Memory》",
+      "context": "官方資料指出《88 Cores》沿格陵蘭冰層向下兩英里、跨越約十一萬年；《18 Cores》則組合1985至1986年自加州Salton Sea取得的岩芯影像。Curator OS聚焦巨大尺度如何在感知與證據間保持校準。"
+    },
+    "rawText": "【來源事實】Peggy Weil《Core Memory》在MoMA一樓24英尺螢幕展至2026年10月4日。《88 Cores》由新雪下降兩英里、跨越約十一萬年的格陵蘭冰層；《18 Cores》組合1985至1986年自加州Salton Sea取得的岩芯影像，呈現更新世頁岩、粉砂岩與砂岩。\n\n【推論】沉浸式壓縮能使慢速、不可見的變化變得可感，但也可能以震撼感取代對資料尺度、來源與限制的理解。\n\n【原創模擬】每段影像加上「宏觀跨度／人體基準／不可推論」三項標記，並用離場複述測試理解。\n\n來源：https://www.moma.org/calendar/exhibitions/5890\n資料id：daily-2026-10-04-training"
+  },
+  {
+    "id": "daily-2026-10-04-participatory",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "國際民眾參與策展實作",
+    "lens": "語言與詮釋權",
+    "source": "Solomon R. Guggenheim Museum官方資料（查證截至2026-10-04）",
+    "title": "當手語成為導覽的主要語言，博物館如何從提供翻譯走向重分配詮釋權？",
+    "summary": "以Guggenheim為聾人與重聽社群舉辦的《Guggenheim Pop》美國手語導覽為案例，設計一套讓語言使用者參與選題、節奏、空間與回饋的導覽權力檢查。",
+    "questions": [
+      "手語是活動的原生語言，還是口語內容完成後才被轉譯？",
+      "導覽主題由誰選擇，聾人社群是否能改變作品清單？",
+      "帶領者的文化經驗如何影響對普普藝術的詮釋？",
+      "展場照明、站位與視線是否讓所有人能持續看見手語？",
+      "移動中的導覽如何避免觀眾在看作品與看手語之間被迫二選一？",
+      "作品中的聲音、文字遊戲與流行文化梗要如何轉成可討論的經驗？",
+      "參與者能用什麼方式插入問題、修正術語或提出不同解讀？",
+      "活動是否只服務已熟悉博物館的人，初次到訪者有哪些進入門檻？",
+      "回饋會改變下一次導覽、展籤、數位內容或空間安排中的哪一項？",
+      "如果取消口語參照，這場導覽仍能作為完整的策展論述成立嗎？"
+    ],
+    "strategy": "使用「原生語言優先＋回饋有去處」：由目標社群參與選題與動線；先在手語中形成解釋，再決定是否加入口語或文字；活動後公開三項採納修改，避免可及性停在單次服務。",
+    "task": "選一段三分鐘導覽稿，不先做逐字翻譯；與一位不同語言或溝通方式的使用者共同重排作品、站位與提問節點，記錄他改變的三個決策。",
+    "training": "進行50分鐘「翻譯權力圖」：10分鐘列原稿決策者，15分鐘模擬視線與站位，15分鐘標出語言不可直譯處，10分鐘設定一項可由參與者改寫的後續制度。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Guggenheim於2026年10月4日18:00舉辦《Guggenheim Pop: 1960 to Now》美國手語導覽，由教育者Gina Marciona帶領，邀請D/deaf社群參與。",
+      "references": [
+        {
+          "title": "ASL Tour of Guggenheim Pop: 1960 to Now",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "Guggenheim《Guggenheim Pop》ASL導覽",
+      "context": "官方活動頁與日曆將此場列為面向D/deaf社群的美國手語活動。官方未宣稱共同策展；Curator OS因此把「由服務走向共決」明確標為待驗證與原創實作方向。"
+    },
+    "rawText": "【來源事實】Guggenheim於2026年10月4日18:00舉辦《Guggenheim Pop: 1960 to Now》美國手語導覽，由教育者Gina Marciona帶領，官方明確邀請D/deaf社群參與。\n\n【推論】使用手語能降低部分語言門檻，但單場可及導覽本身不能證明社群已參與展覽決策或獲得持續詮釋權。\n\n【原創模擬】讓目標社群共同決定作品清單、站位、提問節點與活動後三項制度修改；官方未宣稱此場已採用這套共決機制。\n\n來源：https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now\n資料id：daily-2026-10-04-participatory"
+  },
+  {
+    "id": "daily-2026-10-04-family",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "親子觀展教育訓練",
+    "lens": "感官與文化",
+    "source": "San Francisco Museum of Modern Art官方資料（查證截至2026-10-04）",
+    "title": "孩子用味覺選擇理解文化時，親子引導如何避免把飲食變成異國趣味？",
+    "summary": "參照SFMOMA與San Francisco Public Library的韓國飲食文化親子活動，練習從聞、嚐、混合與自選配方進入身份與記憶，同時避免把一種食物說成整個文化的固定代表。",
+    "questions": [
+      "孩子今天嚐到的是某位家庭的做法、活動設計，還是被誤稱為唯一正統？",
+      "成人會先告訴孩子應該喜歡什麼，還是允許他描述自己的感受？",
+      "辣、甜、酸等味覺詞在不同家庭與語言中是否有不同界線？",
+      "把泡菜與塔可組合時，我們是在談遷徙、創新、日常生活，還是只追求新奇？",
+      "誰有權解釋食材的文化意義，孩子能否提出不同聯想？",
+      "嗅覺、味覺敏感或有飲食限制的孩子如何等值參與？",
+      "自調醬汁的選擇能否連結到個人故事，而不被評成正確或錯誤？",
+      "讀本內容、現場食材與相關展覽之間的關係是否說得清楚？",
+      "活動結束後，家長可以用哪一個問題把「好不好吃」推進到文化理解？",
+      "孩子能否說出「我今天遇到一種做法」，而不是「某文化的人都這樣吃」？"
+    ],
+    "strategy": "使用「一口三層」親子句型：先說感官事實，再問個人記憶，最後補上文化不是單一答案；每次文化概括都改寫成「有些家庭／這位作者／今天的做法」。",
+    "task": "和孩子選一種熟悉食物，分別用聞、摸、嚐寫三個事實，再各說一段家庭記憶；最後共同列出兩種不同做法，禁止用「大家都」「真正的」概括。",
+    "training": "進行30分鐘「味覺不下結論」：10分鐘盲聞與描述，10分鐘調整一項甜辣比例，10分鐘把所有文化定論改成具體人物、地點與經驗。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "舊金山",
+      "latestUpdate": "SFMOMA「Awesome Sauce Pop-up」於2026年10月4日14:00至15:00舉行；活動免費但須預約，官方更新為額滿並設候補名單。",
+      "references": [
+        {
+          "title": "Awesome Sauce Pop-up with June Jo and Philip Lee",
+          "publisher": "San Francisco Museum of Modern Art",
+          "url": "https://www.sfmoma.org/event/awesome-sauce-pop-up-with-june-jo-and-philip-lee/",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "SFMOMA「Awesome Sauce Pop-up」",
+      "context": "活動與San Francisco Public Library合作，由June Jo Lee與Philip Lee帶領，包含《Kimchi Taco Time》朗讀、六種味覺探索及以Kewpie美乃滋與韓式辣椒醬自調醬汁。Curator OS把感官選擇轉為反刻板印象的親子方法。"
+    },
+    "rawText": "【來源事實】SFMOMA與San Francisco Public Library於2026年10月4日14:00至15:00舉辦「Awesome Sauce Pop-up」，由June Jo Lee與Philip Lee帶領，包含《Kimchi Taco Time》朗讀、六種味覺探索，以及用Kewpie美乃滋與韓式辣椒醬自調甜辣配方。活動免費但須預約，官方已標示額滿並設候補。\n\n【推論】感官選擇能讓孩子由身體經驗進入文化，但若缺少具體人物與家庭脈絡，也可能把韓國飲食簡化成新奇口味。\n\n【原創模擬】採「感官事實／個人記憶／多種做法」三層對話，將所有文化概括改寫成具體來源。\n\n來源：https://www.sfmoma.org/event/awesome-sauce-pop-up-with-june-jo-and-philip-lee/\n資料id：daily-2026-10-04-family"
+  },
+  {
+    "id": "daily-2026-10-04-life",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "人生策展課題",
+    "lens": "位置與判斷",
+    "source": "San Francisco Museum of Modern Art官方資料（查證截至2026-10-04）",
+    "title": "同一條通道因位置而變色，你能否把改變觀點視為校準而不是反覆？",
+    "summary": "借鏡Olafur Eliasson《One-way colour tunnel》讓色彩隨移動與折射改變的經驗，練習把人生判斷寫成「我從哪裡看、看見什麼、還缺什麼位置」，而非急著選一個永遠正確的答案。",
+    "questions": [
+      "我現在的判斷是由哪一個位置、角色與時間點形成？",
+      "如果向前走一步，哪一項資訊最可能改變顏色般的整體感受？",
+      "我把觀點改變誤認成沒有原則，還是它其實來自更完整的證據？",
+      "哪一個過去的決定在當時合理，如今需要重新校準？",
+      "我是否只站在最有利於自己的方向觀看同一件事？",
+      "哪一位利害關係人的位置最可能看見我目前忽略的面向？",
+      "我需要重新走一次，還是只需承認不同位置會產生不同經驗？",
+      "哪些核心價值不應隨位置改變，哪些策略可以調整？",
+      "若今天不做最終結論，我可以先記錄哪一個可逆的小判斷？",
+      "半年後回看時，我要用什麼證據區分成長、逃避與搖擺？"
+    ],
+    "strategy": "使用「位置—證據—校準」日誌：每個重要判斷先記當下角色與限制，再列支持與缺失證據，最後只決定可逆的下一步；新位置出現時更新版本，不抹除舊版本。",
+    "task": "挑一個最近反覆改變的決定，寫三張卡：原位置、另一人的位置、半年後的位置；每張只寫可見證據與盲點，最後選一個七天內可逆的小行動。",
+    "training": "做21分鐘「三次通道」：每七分鐘換一個角色閱讀同一問題，使用不同顏色標出不變價值、改變資訊與仍未知部分；禁止在最後一輪把差異硬合成單一答案。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "舊金山",
+      "latestUpdate": "SFMOMA《Olafur Eliasson: One-way colour tunnel》於2026年10月4日結束自2022年8月1日開始的展出；作品位於五樓，門票含於一般入場。",
+      "references": [
+        {
+          "title": "Olafur Eliasson: One-way colour tunnel",
+          "publisher": "San Francisco Museum of Modern Art",
+          "url": "https://www.sfmoma.org/exhibition/olafur-eliasson-one-way-colour-tunnel/",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "Olafur Eliasson《One-way colour tunnel》",
+      "context": "2007年作品以三角玻璃與壓克力板構成懸吊拱形通道，觀眾移動時經歷折射而變動的色彩。官方以此邀請觀眾主動投入空間與時間情境；Curator OS將其轉為人生判斷的原創比喻，不宣稱作品本身提供決策方法。"
+    },
+    "rawText": "【來源事實】SFMOMA《Olafur Eliasson: One-way colour tunnel》展期為2022年8月1日至2026年10月4日。這件2007年作品以三角玻璃與壓克力板構成懸吊拱形通道，觀眾移動時會看見折射、變動的鮮明色彩；官方將其連結到主動投入空間與時間情境。\n\n【推論】同一環境在不同位置呈現不同感知，可作為檢查個人判斷位置性的比喻，但不能由此證明所有觀點都同樣正確。\n\n【原創模擬】建立「位置—證據—校準」日誌，保留舊版本並只決定七天內可逆的下一步；此方法並非藝術家或館方主張。\n\n來源：https://www.sfmoma.org/exhibition/olafur-eliasson-one-way-colour-tunnel/\n資料id：daily-2026-10-04-life"
   }
 ]
