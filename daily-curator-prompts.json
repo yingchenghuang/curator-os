@@ -17594,92 +17594,6 @@
     "rawText": "【來源事實】MoMA五樓512展廳「Circle and Square, Joaquin Torres-Garcia and Piet Mondrian」展至2026年10月4日。官方資料記載，Torres-García、Mondrian與Michel Seuphor於1929年創立Cercle et Carré，聯盟聚集歐美八十多位抽象藝術家，以幾何、分析與「建構」對照超現實主義；組織在一次展覽與同名雜誌後於1930年解散，其觀念其後在南美洲發揮作用。\n\n【推論】把作品放在一起雖能顯示形式共鳴，也可能讓較知名藝術家的敘事遮蔽跨地域改寫與個別差異。\n\n【原創模擬】建立「共同條件／分歧條件／傳播路徑」三層比較表，並刪除一組只能靠外觀相似成立的配對。\n\n來源：https://www.moma.org/calendar/galleries/5267\n資料id：daily-2026-10-04-curator"
   },
   {
-    "id": "daily-2026-10-04-training",
-    "daily": true,
-    "date": "2026-10-04",
-    "category": "策展思考訓練",
-    "lens": "尺度轉譯",
-    "source": "The Museum of Modern Art官方資料（查證截至2026-10-04）",
-    "title": "把十一萬年壓進一面螢幕，策展如何讓巨大尺度可感又不只剩震撼？",
-    "summary": "參照Peggy Weil《Core Memory》把冰芯、岩芯與深時間轉成垂直影像的方式，訓練每一次尺度壓縮都同時保留單位、來源、時間跨度與觀看者可核對的證據。",
-    "questions": [
-      "作品把多少距離與年代壓進多少分鐘或多少公尺的畫面？",
-      "觀眾能否分辨原始科學材料、藝術家編排與策展解釋？",
-      "垂直下潛的視覺隱喻如何影響我們對時間的理解？",
-      "震撼感來自數據本身、螢幕尺寸、聲音，還是播放速度？",
-      "若拿掉「十一萬年」這個數字，觀眾還能理解尺度差異嗎？",
-      "冰、氣體與沉積層各自能證明什麼，不能證明什麼？",
-      "格陵蘭冰芯與加州岩芯並置時，兩套取樣歷史是否被說清楚？",
-      "慢到難以察覺的變化，需要哪一個日常尺度作為校準？",
-      "沉浸式畫面是否讓觀眾誤以為已經理解複雜的氣候機制？",
-      "離場前，觀眾能帶走哪一個可複述、可查證而非只可感嘆的判斷？"
-    ],
-    "strategy": "採用「雙尺度標記」：每個沉浸段落同時顯示宏觀跨度與一個人體可理解的基準；旁邊列出材料來源、取樣時間、藝術處理與不可推論事項，讓感知強度不取代證據。",
-    "task": "選一個難以感知的議題（十年、十公里或一萬筆資料），做三張資訊卡：原始尺度、壓縮尺度、不可由此推論的內容；再設計一個30秒感知片段並讓同伴複述他真正理解的事實。",
-    "training": "做45分鐘「尺度換算」：15分鐘列單位與來源，15分鐘建立三種日常比喻，15分鐘刪去最戲劇化但最不準確的一個，保留可追溯版本。",
-    "caseStudy": {
-      "realWorld": true,
-      "statusAsOf": "2026-10-04",
-      "country": "美國",
-      "location": "紐約",
-      "latestUpdate": "Peggy Weil《Core Memory》於MoMA一樓24英尺沉浸式螢幕展出至2026年10月4日，呈現《88 Cores》與《18 Cores》兩件「underscapes」。",
-      "references": [
-        {
-          "title": "Peggy Weil: Core Memory",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/exhibitions/5890",
-          "accessedAt": "2026-10-04"
-        }
-      ],
-      "title": "Peggy Weil《Core Memory》",
-      "context": "官方資料指出《88 Cores》沿格陵蘭冰層向下兩英里、跨越約十一萬年；《18 Cores》則組合1985至1986年自加州Salton Sea取得的岩芯影像。Curator OS聚焦巨大尺度如何在感知與證據間保持校準。"
-    },
-    "rawText": "【來源事實】Peggy Weil《Core Memory》在MoMA一樓24英尺螢幕展至2026年10月4日。《88 Cores》由新雪下降兩英里、跨越約十一萬年的格陵蘭冰層；《18 Cores》組合1985至1986年自加州Salton Sea取得的岩芯影像，呈現更新世頁岩、粉砂岩與砂岩。\n\n【推論】沉浸式壓縮能使慢速、不可見的變化變得可感，但也可能以震撼感取代對資料尺度、來源與限制的理解。\n\n【原創模擬】每段影像加上「宏觀跨度／人體基準／不可推論」三項標記，並用離場複述測試理解。\n\n來源：https://www.moma.org/calendar/exhibitions/5890\n資料id：daily-2026-10-04-training"
-  },
-  {
-    "id": "daily-2026-10-04-participatory",
-    "daily": true,
-    "date": "2026-10-04",
-    "category": "國際民眾參與策展實作",
-    "lens": "語言與詮釋權",
-    "source": "Solomon R. Guggenheim Museum官方資料（查證截至2026-10-04）",
-    "title": "當手語成為導覽的主要語言，博物館如何從提供翻譯走向重分配詮釋權？",
-    "summary": "以Guggenheim為聾人與重聽社群舉辦的《Guggenheim Pop》美國手語導覽為案例，設計一套讓語言使用者參與選題、節奏、空間與回饋的導覽權力檢查。",
-    "questions": [
-      "手語是活動的原生語言，還是口語內容完成後才被轉譯？",
-      "導覽主題由誰選擇，聾人社群是否能改變作品清單？",
-      "帶領者的文化經驗如何影響對普普藝術的詮釋？",
-      "展場照明、站位與視線是否讓所有人能持續看見手語？",
-      "移動中的導覽如何避免觀眾在看作品與看手語之間被迫二選一？",
-      "作品中的聲音、文字遊戲與流行文化梗要如何轉成可討論的經驗？",
-      "參與者能用什麼方式插入問題、修正術語或提出不同解讀？",
-      "活動是否只服務已熟悉博物館的人，初次到訪者有哪些進入門檻？",
-      "回饋會改變下一次導覽、展籤、數位內容或空間安排中的哪一項？",
-      "如果取消口語參照，這場導覽仍能作為完整的策展論述成立嗎？"
-    ],
-    "strategy": "使用「原生語言優先＋回饋有去處」：由目標社群參與選題與動線；先在手語中形成解釋，再決定是否加入口語或文字；活動後公開三項採納修改，避免可及性停在單次服務。",
-    "task": "選一段三分鐘導覽稿，不先做逐字翻譯；與一位不同語言或溝通方式的使用者共同重排作品、站位與提問節點，記錄他改變的三個決策。",
-    "training": "進行50分鐘「翻譯權力圖」：10分鐘列原稿決策者，15分鐘模擬視線與站位，15分鐘標出語言不可直譯處，10分鐘設定一項可由參與者改寫的後續制度。",
-    "caseStudy": {
-      "realWorld": true,
-      "statusAsOf": "2026-10-04",
-      "country": "美國",
-      "location": "紐約",
-      "latestUpdate": "Guggenheim於2026年10月4日18:00舉辦《Guggenheim Pop: 1960 to Now》美國手語導覽，由教育者Gina Marciona帶領，邀請D/deaf社群參與。",
-      "references": [
-        {
-          "title": "ASL Tour of Guggenheim Pop: 1960 to Now",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now",
-          "accessedAt": "2026-10-04"
-        }
-      ],
-      "title": "Guggenheim《Guggenheim Pop》ASL導覽",
-      "context": "官方活動頁與日曆將此場列為面向D/deaf社群的美國手語活動。官方未宣稱共同策展；Curator OS因此把「由服務走向共決」明確標為待驗證與原創實作方向。"
-    },
-    "rawText": "【來源事實】Guggenheim於2026年10月4日18:00舉辦《Guggenheim Pop: 1960 to Now》美國手語導覽，由教育者Gina Marciona帶領，官方明確邀請D/deaf社群參與。\n\n【推論】使用手語能降低部分語言門檻，但單場可及導覽本身不能證明社群已參與展覽決策或獲得持續詮釋權。\n\n【原創模擬】讓目標社群共同決定作品清單、站位、提問節點與活動後三項制度修改；官方未宣稱此場已採用這套共決機制。\n\n來源：https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now\n資料id：daily-2026-10-04-participatory"
-  },
-  {
     "id": "daily-2026-10-04-family",
     "daily": true,
     "date": "2026-10-04",
@@ -17766,6 +17680,92 @@
     "rawText": "【來源事實】SFMOMA《Olafur Eliasson: One-way colour tunnel》展期為2022年8月1日至2026年10月4日。這件2007年作品以三角玻璃與壓克力板構成懸吊拱形通道，觀眾移動時會看見折射、變動的鮮明色彩；官方將其連結到主動投入空間與時間情境。\n\n【推論】同一環境在不同位置呈現不同感知，可作為檢查個人判斷位置性的比喻，但不能由此證明所有觀點都同樣正確。\n\n【原創模擬】建立「位置—證據—校準」日誌，保留舊版本並只決定七天內可逆的下一步；此方法並非藝術家或館方主張。\n\n來源：https://www.sfmoma.org/exhibition/olafur-eliasson-one-way-colour-tunnel/\n資料id：daily-2026-10-04-life"
   },
   {
+    "id": "daily-2026-10-04-participatory",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "國際民眾參與策展實作",
+    "lens": "語言與詮釋權",
+    "source": "Solomon R. Guggenheim Museum官方資料（查證截至2026-10-04）",
+    "title": "當手語成為導覽的主要語言，博物館如何從提供翻譯走向重分配詮釋權？",
+    "summary": "以Guggenheim為聾人與重聽社群舉辦的《Guggenheim Pop》美國手語導覽為案例，設計一套讓語言使用者參與選題、節奏、空間與回饋的導覽權力檢查。",
+    "questions": [
+      "手語是活動的原生語言，還是口語內容完成後才被轉譯？",
+      "導覽主題由誰選擇，聾人社群是否能改變作品清單？",
+      "帶領者的文化經驗如何影響對普普藝術的詮釋？",
+      "展場照明、站位與視線是否讓所有人能持續看見手語？",
+      "移動中的導覽如何避免觀眾在看作品與看手語之間被迫二選一？",
+      "作品中的聲音、文字遊戲與流行文化梗要如何轉成可討論的經驗？",
+      "參與者能用什麼方式插入問題、修正術語或提出不同解讀？",
+      "活動是否只服務已熟悉博物館的人，初次到訪者有哪些進入門檻？",
+      "回饋會改變下一次導覽、展籤、數位內容或空間安排中的哪一項？",
+      "如果取消口語參照，這場導覽仍能作為完整的策展論述成立嗎？"
+    ],
+    "strategy": "使用「原生語言優先＋回饋有去處」：由目標社群參與選題與動線；先在手語中形成解釋，再決定是否加入口語或文字；活動後公開三項採納修改，避免可及性停在單次服務。",
+    "task": "選一段三分鐘導覽稿，不先做逐字翻譯；與一位不同語言或溝通方式的使用者共同重排作品、站位與提問節點，記錄他改變的三個決策。",
+    "training": "進行50分鐘「翻譯權力圖」：10分鐘列原稿決策者，15分鐘模擬視線與站位，15分鐘標出語言不可直譯處，10分鐘設定一項可由參與者改寫的後續制度。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Guggenheim於2026年10月4日18:00舉辦《Guggenheim Pop: 1960 to Now》美國手語導覽，由教育者Gina Marciona帶領，邀請D/deaf社群參與。",
+      "references": [
+        {
+          "title": "ASL Tour of Guggenheim Pop: 1960 to Now",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "Guggenheim《Guggenheim Pop》ASL導覽",
+      "context": "官方活動頁與日曆將此場列為面向D/deaf社群的美國手語活動。官方未宣稱共同策展；Curator OS因此把「由服務走向共決」明確標為待驗證與原創實作方向。"
+    },
+    "rawText": "【來源事實】Guggenheim於2026年10月4日18:00舉辦《Guggenheim Pop: 1960 to Now》美國手語導覽，由教育者Gina Marciona帶領，官方明確邀請D/deaf社群參與。\n\n【推論】使用手語能降低部分語言門檻，但單場可及導覽本身不能證明社群已參與展覽決策或獲得持續詮釋權。\n\n【原創模擬】讓目標社群共同決定作品清單、站位、提問節點與活動後三項制度修改；官方未宣稱此場已採用這套共決機制。\n\n來源：https://www.guggenheim.org/event/asl-tour-of-guggenheim-pop-1960-to-now\n資料id：daily-2026-10-04-participatory"
+  },
+  {
+    "id": "daily-2026-10-04-training",
+    "daily": true,
+    "date": "2026-10-04",
+    "category": "策展思考訓練",
+    "lens": "尺度轉譯",
+    "source": "The Museum of Modern Art官方資料（查證截至2026-10-04）",
+    "title": "把十一萬年壓進一面螢幕，策展如何讓巨大尺度可感又不只剩震撼？",
+    "summary": "參照Peggy Weil《Core Memory》把冰芯、岩芯與深時間轉成垂直影像的方式，訓練每一次尺度壓縮都同時保留單位、來源、時間跨度與觀看者可核對的證據。",
+    "questions": [
+      "作品把多少距離與年代壓進多少分鐘或多少公尺的畫面？",
+      "觀眾能否分辨原始科學材料、藝術家編排與策展解釋？",
+      "垂直下潛的視覺隱喻如何影響我們對時間的理解？",
+      "震撼感來自數據本身、螢幕尺寸、聲音，還是播放速度？",
+      "若拿掉「十一萬年」這個數字，觀眾還能理解尺度差異嗎？",
+      "冰、氣體與沉積層各自能證明什麼，不能證明什麼？",
+      "格陵蘭冰芯與加州岩芯並置時，兩套取樣歷史是否被說清楚？",
+      "慢到難以察覺的變化，需要哪一個日常尺度作為校準？",
+      "沉浸式畫面是否讓觀眾誤以為已經理解複雜的氣候機制？",
+      "離場前，觀眾能帶走哪一個可複述、可查證而非只可感嘆的判斷？"
+    ],
+    "strategy": "採用「雙尺度標記」：每個沉浸段落同時顯示宏觀跨度與一個人體可理解的基準；旁邊列出材料來源、取樣時間、藝術處理與不可推論事項，讓感知強度不取代證據。",
+    "task": "選一個難以感知的議題（十年、十公里或一萬筆資料），做三張資訊卡：原始尺度、壓縮尺度、不可由此推論的內容；再設計一個30秒感知片段並讓同伴複述他真正理解的事實。",
+    "training": "做45分鐘「尺度換算」：15分鐘列單位與來源，15分鐘建立三種日常比喻，15分鐘刪去最戲劇化但最不準確的一個，保留可追溯版本。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-04",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Peggy Weil《Core Memory》於MoMA一樓24英尺沉浸式螢幕展出至2026年10月4日，呈現《88 Cores》與《18 Cores》兩件「underscapes」。",
+      "references": [
+        {
+          "title": "Peggy Weil: Core Memory",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5890",
+          "accessedAt": "2026-10-04"
+        }
+      ],
+      "title": "Peggy Weil《Core Memory》",
+      "context": "官方資料指出《88 Cores》沿格陵蘭冰層向下兩英里、跨越約十一萬年；《18 Cores》則組合1985至1986年自加州Salton Sea取得的岩芯影像。Curator OS聚焦巨大尺度如何在感知與證據間保持校準。"
+    },
+    "rawText": "【來源事實】Peggy Weil《Core Memory》在MoMA一樓24英尺螢幕展至2026年10月4日。《88 Cores》由新雪下降兩英里、跨越約十一萬年的格陵蘭冰層；《18 Cores》組合1985至1986年自加州Salton Sea取得的岩芯影像，呈現更新世頁岩、粉砂岩與砂岩。\n\n【推論】沉浸式壓縮能使慢速、不可見的變化變得可感，但也可能以震撼感取代對資料尺度、來源與限制的理解。\n\n【原創模擬】每段影像加上「宏觀跨度／人體基準／不可推論」三項標記，並用離場複述測試理解。\n\n來源：https://www.moma.org/calendar/exhibitions/5890\n資料id：daily-2026-10-04-training"
+  },
+  {
     "id": "daily-2026-10-05-curator",
     "daily": true,
     "date": "2026-10-05",
@@ -17813,104 +17813,6 @@
       "context": "MoMA指出，藝術家把檔案影像、網路找到的影片與仿若名人的AI生成深偽影像並置，討論人權、自治、民族國家與泰米爾獨立運動。Curator OS據此提出證據分層方法；官方資料並未聲稱該作品採用本方法。"
     },
     "rawText": "【來源事實】MoMA於2026年10月5日舉辦「An Evening with Christopher Kulendran Thomas」。官方資料指出，藝術家的錄像結合檔案影像、網路找到的影片與AI生成的深偽影像，並討論人權、自治、民族國家及泰米爾獨立運動；放映內容包含《Being Human》（2019）、《The Finesse》（2022）節選與進行中作品片段。\n\n【推論】當不同來源被剪接成連續影像，觀眾可能把形式連續性誤認為證據連續性；涉及戰爭與族群政治時，這項風險尤其需要被策展語言明確處理。\n\n【原創模擬】「來源—處理—主張—風險」四層證據標籤與20格證據分鏡為Curator OS設計，並非藝術家或MoMA既有方法。\n\n來源：https://www.moma.org/calendar/events/11751\n來源：https://www.moma.org/calendar/galleries/5755\n資料id：daily-2026-10-05-curator"
-  },
-  {
-    "id": "daily-2026-10-05-thinking",
-    "daily": true,
-    "date": "2026-10-05",
-    "category": "策展思考訓練",
-    "lens": "流通基礎設施",
-    "source": "The Museum of Modern Art官方資料（查證截至2026-10-05）",
-    "title": "如果作品沒有入口，再好的選件還算完成策展嗎？",
-    "summary": "借鏡MoMA「Long Live Underground」呈現Film-Makers’ Cooperative與Millennium Film Workshop如何回應主流拒絕，將策展從內容選擇擴展為投稿、設備、保存、放映與回流的基礎設施設計。",
-    "questions": [
-      "目前有哪些作品不是品質不足，而是根本進不了我的徵件與觀看入口？",
-      "作品從創作者到觀眾之間要經過哪些人、設備、格式與費用？",
-      "哪一個環節最容易把低預算、非商業或非標準格式排除？",
-      "我是否只設計展覽終點，卻沒有設計創作者抵達終點的路徑？",
-      "開放投稿的承諾若沒有保存、技術與放映能力，會在哪裡失效？",
-      "我的評選標準是在判斷作品，還是在獎勵熟悉制度語言的人？",
-      "能否把一部分資源從宣傳移到設備共享、格式轉換或權利諮詢？",
-      "誰負責讓作品在展後仍可被借閱、研究或再次放映？",
-      "成功應以單場觀眾數衡量，還是以新作品獲得後續入口衡量？",
-      "若只能修補一個流通斷點，哪一個最能改變整體系統？"
-    ],
-    "strategy": "使用「創作—接收—保存—流通—放映—回流」六站圖，為每站標記門檻、負責人、失敗率與最低可行支援；策展預算至少保留一項能在展後持續運作的基礎設施。",
-    "task": "為手上一個計畫畫出六站流通路徑，訪談一位曾未能進入系統的創作者，找出一個非美學斷點，七天內做出可測試的入口，例如簡化投稿、格式轉換時段或公開借閱清單。",
-    "training": "做60分鐘「消失作品追蹤」：列十件你可能永遠看不到的作品，逐件判斷它消失在資訊、費用、設備、格式、評選或保存哪一站；最後把出現最多的斷點改寫成一項策展職責。",
-    "caseStudy": {
-      "realWorld": true,
-      "statusAsOf": "2026-10-05",
-      "country": "美國",
-      "location": "紐約",
-      "latestUpdate": "MoMA電影系列「Long Live Underground」展至2026年10月8日；10月5日下午4時放映「Diaries, Notes, and Sketches」，由15部作品組成，片長約88分鐘。",
-      "references": [
-        {
-          "title": "Long Live Underground: The 60th Anniversary of the Millennium Film Workshop",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/film/5931",
-          "accessedAt": "2026-10-05"
-        },
-        {
-          "title": "Diaries, Notes, and Sketches",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11638",
-          "accessedAt": "2026-10-05"
-        }
-      ],
-      "title": "Film-Makers’ Cooperative與Millennium Film Workshop",
-      "context": "MoMA指出，Film-Makers’ Cooperative（1961）與Millennium Film Workshop（1966）因實驗、非商業及低預算電影遭主流發行與放映體系拒絕而成立；前者接受藝術家寄存影片並協助流通，後者提供器材、後製空間與每週放映。Curator OS將其轉為六站流通訓練。"
-    },
-    "rawText": "【來源事實】MoMA「Long Live Underground」說明，Film-Makers’ Cooperative與Millennium Film Workshop分別成立於1961與1966年，回應實驗、非商業及低預算電影遭主流發行與放映體系拒絕的處境；兩個組織至今仍持續扶植、流通與放映相關作品。2026年10月5日的「Diaries, Notes, and Sketches」包含15部作品，約88分鐘。\n\n【推論】策展若只選內容卻不處理投稿、設備、保存與後續流通，可能反覆展示已能穿越制度門檻的人，而錯把可見性當成品質分布。\n\n【原創模擬】「創作—接收—保存—流通—放映—回流」六站圖與消失作品追蹤為Curator OS訓練，不是MoMA或兩個組織的官方評估模型。\n\n來源：https://www.moma.org/calendar/film/5931\n來源：https://www.moma.org/calendar/events/11638\n資料id：daily-2026-10-05-thinking"
-  },
-  {
-    "id": "daily-2026-10-05-participation",
-    "daily": true,
-    "date": "2026-10-05",
-    "category": "國際民眾參與策展實作",
-    "lens": "開放工作現場",
-    "source": "The Museum of Modern Art官方資料（查證截至2026-10-05）",
-    "title": "把展演場變成每日工作現場，觀眾何時才真正能影響正在生成的作品？",
-    "summary": "以Sarah Michelson《nowhere》把MoMA中庭作為每日工作空間、並於週五向舞蹈工作者與所有人開放為起點，區分旁觀、共處、回應與共同決策，避免把可進入直接宣稱為共同創作。",
-    "questions": [
-      "參與者目前能做的是觀看、停留、回應、加入，還是改變決策？",
-      "開放工作現場後，誰仍因時間、身體、語言或文化門檻無法進入？",
-      "藝術家每天工作所需的專注，與公眾提問的權利如何並存？",
-      "參與者的反應是否被記錄，誰決定哪些回應值得採納？",
-      "若觀眾只能影響氣氛而不能影響作品，我是否仍稱之為共同創作？",
-      "什麼改變能證明公眾輸入真的進入下一次排練或呈現？",
-      "不想表演、不想發言的人，是否仍有低暴露的參與方式？",
-      "場館與藝術家應如何公開拒絕某項建議的理由？",
-      "作品完成後，參與者能否看見自己留下的痕跡與決策路徑？",
-      "若開放性造成作品方向改變，藝術責任最後由誰承擔？"
-    ],
-    "strategy": "採用「觀看—共處—回應—協作—共同決策」五級參與標尺；每場活動只承諾實際能做到的級別，並用公開變更紀錄連結參與輸入、採納決定與下一次可觀察改動。",
-    "task": "為一個進行中計畫設計兩小時開放工作現場：提供安靜觀察、匿名回應與短時共作三條路徑；活動後24小時內發布一張「採納／暫緩／不採納」回應表，下一次呈現至少測試一項可追溯改動。",
-    "training": "進行90分鐘「參與後果測試」：把所有活動動詞依五級標尺分類，刪除超出真實權力的宣稱；再邀請三位未參與專案者以不同方式進場，觀察誰能改變什麼。",
-    "caseStudy": {
-      "realWorld": true,
-      "statusAsOf": "2026-10-05",
-      "country": "美國",
-      "location": "紐約",
-      "latestUpdate": "Sarah Michelson《nowhere》於MoMA展至2026年10月11日；2026年10月5日上午10時30分至下午5時30分在中庭進行每日舞蹈。官方並安排週五將中庭開放給舞蹈創作者、藝術工作者與所有人，無須預先登記。",
-      "references": [
-        {
-          "title": "Sarah Michelson: nowhere",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/exhibitions/5928",
-          "accessedAt": "2026-10-05"
-        },
-        {
-          "title": "Sarah Michelson: nowhere press page",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://press.moma.org/film-media/sarah-michelson-nowhere/",
-          "accessedAt": "2026-10-05"
-        }
-      ],
-      "title": "Sarah Michelson《nowhere》",
-      "context": "官方指出，Michelson把MoMA中庭視為每日工作空間，與輪替舞者共同演出，將舞蹈、思考與存在納入博物館日常；週五則成為由她與來賓主持的開放空間。官方沒有宣稱觀眾能共同決定編舞，故Curator OS明確把共同決策設為待測試機制。"
-    },
-    "rawText": "【來源事實】Sarah Michelson《nowhere》於2026年9月15日至10月11日在MoMA呈現。官方資料說明，她把中庭作為每日工作空間，與輪替舞者共同演出；週五中庭開放給舞蹈創作者、藝術工作者與所有人，無須預先登記。10月5日的每日舞蹈時段為10時30分至17時30分。\n\n【推論】讓公眾看見工作過程可以增加接近性，但開放進入、提供回應與共同決策不是同一種權力；若沒有可追溯的改動，不能直接把共處稱為共同創作。\n\n【原創模擬】五級參與標尺、三路徑開放現場與「採納／暫緩／不採納」回應表為Curator OS提出，並非Michelson或MoMA既有機制。\n\n來源：https://www.moma.org/calendar/exhibitions/5928\n來源：https://press.moma.org/film-media/sarah-michelson-nowhere/\n資料id：daily-2026-10-05-participation"
   },
   {
     "id": "daily-2026-10-05-family",
@@ -18009,5 +17911,348 @@
       "context": "官方行事曆指出，作曲家Missy Mazzoli與劇作家Royce Vavrek的新歌劇將於世界首演前公開節選與創作討論。作品取材自George Saunders以林肯11歲兒子Willie之死與「bardo」中間狀態為核心的小說。Curator OS把中間狀態轉為個人反思方法，不是醫療或心理治療建議。"
     },
     "rawText": "【來源事實】Guggenheim與Works & Process官方行事曆列出：2026年10月5日晚上7時呈現大都會歌劇院《Lincoln in the Bardo》節選，並討論作曲家Missy Mazzoli與劇作家Royce Vavrek的新歌劇，由Peter Gelb主持。作品改編自George Saunders同名小說，核心涉及林肯之子Willie的死亡與「bardo」中間狀態。\n\n【推論】藝術中的中間狀態可以作為容納未完成哀傷的比喻，但不能由作品推論出適用所有人的療癒步驟；嚴重或持續影響生活的困擾仍需要合格專業支持。\n\n【原創模擬】「可停留的中間室」、信封任務與三欄練習由Curator OS設計，並非歌劇創作者、Guggenheim或Works & Process提出的治療法。\n\n來源：https://www.guggenheim.org/calendar\n來源：https://www.worksandprocess.org/calendar\n資料id：daily-2026-10-05-life"
+  },
+  {
+    "id": "daily-2026-10-05-participation",
+    "daily": true,
+    "date": "2026-10-05",
+    "category": "國際民眾參與策展實作",
+    "lens": "開放工作現場",
+    "source": "The Museum of Modern Art官方資料（查證截至2026-10-05）",
+    "title": "把展演場變成每日工作現場，觀眾何時才真正能影響正在生成的作品？",
+    "summary": "以Sarah Michelson《nowhere》把MoMA中庭作為每日工作空間、並於週五向舞蹈工作者與所有人開放為起點，區分旁觀、共處、回應與共同決策，避免把可進入直接宣稱為共同創作。",
+    "questions": [
+      "參與者目前能做的是觀看、停留、回應、加入，還是改變決策？",
+      "開放工作現場後，誰仍因時間、身體、語言或文化門檻無法進入？",
+      "藝術家每天工作所需的專注，與公眾提問的權利如何並存？",
+      "參與者的反應是否被記錄，誰決定哪些回應值得採納？",
+      "若觀眾只能影響氣氛而不能影響作品，我是否仍稱之為共同創作？",
+      "什麼改變能證明公眾輸入真的進入下一次排練或呈現？",
+      "不想表演、不想發言的人，是否仍有低暴露的參與方式？",
+      "場館與藝術家應如何公開拒絕某項建議的理由？",
+      "作品完成後，參與者能否看見自己留下的痕跡與決策路徑？",
+      "若開放性造成作品方向改變，藝術責任最後由誰承擔？"
+    ],
+    "strategy": "採用「觀看—共處—回應—協作—共同決策」五級參與標尺；每場活動只承諾實際能做到的級別，並用公開變更紀錄連結參與輸入、採納決定與下一次可觀察改動。",
+    "task": "為一個進行中計畫設計兩小時開放工作現場：提供安靜觀察、匿名回應與短時共作三條路徑；活動後24小時內發布一張「採納／暫緩／不採納」回應表，下一次呈現至少測試一項可追溯改動。",
+    "training": "進行90分鐘「參與後果測試」：把所有活動動詞依五級標尺分類，刪除超出真實權力的宣稱；再邀請三位未參與專案者以不同方式進場，觀察誰能改變什麼。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-05",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Sarah Michelson《nowhere》於MoMA展至2026年10月11日；2026年10月5日上午10時30分至下午5時30分在中庭進行每日舞蹈。官方並安排週五將中庭開放給舞蹈創作者、藝術工作者與所有人，無須預先登記。",
+      "references": [
+        {
+          "title": "Sarah Michelson: nowhere",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/exhibitions/5928",
+          "accessedAt": "2026-10-05"
+        },
+        {
+          "title": "Sarah Michelson: nowhere press page",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/film-media/sarah-michelson-nowhere/",
+          "accessedAt": "2026-10-05"
+        }
+      ],
+      "title": "Sarah Michelson《nowhere》",
+      "context": "官方指出，Michelson把MoMA中庭視為每日工作空間，與輪替舞者共同演出，將舞蹈、思考與存在納入博物館日常；週五則成為由她與來賓主持的開放空間。官方沒有宣稱觀眾能共同決定編舞，故Curator OS明確把共同決策設為待測試機制。"
+    },
+    "rawText": "【來源事實】Sarah Michelson《nowhere》於2026年9月15日至10月11日在MoMA呈現。官方資料說明，她把中庭作為每日工作空間，與輪替舞者共同演出；週五中庭開放給舞蹈創作者、藝術工作者與所有人，無須預先登記。10月5日的每日舞蹈時段為10時30分至17時30分。\n\n【推論】讓公眾看見工作過程可以增加接近性，但開放進入、提供回應與共同決策不是同一種權力；若沒有可追溯的改動，不能直接把共處稱為共同創作。\n\n【原創模擬】五級參與標尺、三路徑開放現場與「採納／暫緩／不採納」回應表為Curator OS提出，並非Michelson或MoMA既有機制。\n\n來源：https://www.moma.org/calendar/exhibitions/5928\n來源：https://press.moma.org/film-media/sarah-michelson-nowhere/\n資料id：daily-2026-10-05-participation"
+  },
+  {
+    "id": "daily-2026-10-05-thinking",
+    "daily": true,
+    "date": "2026-10-05",
+    "category": "策展思考訓練",
+    "lens": "流通基礎設施",
+    "source": "The Museum of Modern Art官方資料（查證截至2026-10-05）",
+    "title": "如果作品沒有入口，再好的選件還算完成策展嗎？",
+    "summary": "借鏡MoMA「Long Live Underground」呈現Film-Makers’ Cooperative與Millennium Film Workshop如何回應主流拒絕，將策展從內容選擇擴展為投稿、設備、保存、放映與回流的基礎設施設計。",
+    "questions": [
+      "目前有哪些作品不是品質不足，而是根本進不了我的徵件與觀看入口？",
+      "作品從創作者到觀眾之間要經過哪些人、設備、格式與費用？",
+      "哪一個環節最容易把低預算、非商業或非標準格式排除？",
+      "我是否只設計展覽終點，卻沒有設計創作者抵達終點的路徑？",
+      "開放投稿的承諾若沒有保存、技術與放映能力，會在哪裡失效？",
+      "我的評選標準是在判斷作品，還是在獎勵熟悉制度語言的人？",
+      "能否把一部分資源從宣傳移到設備共享、格式轉換或權利諮詢？",
+      "誰負責讓作品在展後仍可被借閱、研究或再次放映？",
+      "成功應以單場觀眾數衡量，還是以新作品獲得後續入口衡量？",
+      "若只能修補一個流通斷點，哪一個最能改變整體系統？"
+    ],
+    "strategy": "使用「創作—接收—保存—流通—放映—回流」六站圖，為每站標記門檻、負責人、失敗率與最低可行支援；策展預算至少保留一項能在展後持續運作的基礎設施。",
+    "task": "為手上一個計畫畫出六站流通路徑，訪談一位曾未能進入系統的創作者，找出一個非美學斷點，七天內做出可測試的入口，例如簡化投稿、格式轉換時段或公開借閱清單。",
+    "training": "做60分鐘「消失作品追蹤」：列十件你可能永遠看不到的作品，逐件判斷它消失在資訊、費用、設備、格式、評選或保存哪一站；最後把出現最多的斷點改寫成一項策展職責。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-05",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "MoMA電影系列「Long Live Underground」展至2026年10月8日；10月5日下午4時放映「Diaries, Notes, and Sketches」，由15部作品組成，片長約88分鐘。",
+      "references": [
+        {
+          "title": "Long Live Underground: The 60th Anniversary of the Millennium Film Workshop",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/5931",
+          "accessedAt": "2026-10-05"
+        },
+        {
+          "title": "Diaries, Notes, and Sketches",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11638",
+          "accessedAt": "2026-10-05"
+        }
+      ],
+      "title": "Film-Makers’ Cooperative與Millennium Film Workshop",
+      "context": "MoMA指出，Film-Makers’ Cooperative（1961）與Millennium Film Workshop（1966）因實驗、非商業及低預算電影遭主流發行與放映體系拒絕而成立；前者接受藝術家寄存影片並協助流通，後者提供器材、後製空間與每週放映。Curator OS將其轉為六站流通訓練。"
+    },
+    "rawText": "【來源事實】MoMA「Long Live Underground」說明，Film-Makers’ Cooperative與Millennium Film Workshop分別成立於1961與1966年，回應實驗、非商業及低預算電影遭主流發行與放映體系拒絕的處境；兩個組織至今仍持續扶植、流通與放映相關作品。2026年10月5日的「Diaries, Notes, and Sketches」包含15部作品，約88分鐘。\n\n【推論】策展若只選內容卻不處理投稿、設備、保存與後續流通，可能反覆展示已能穿越制度門檻的人，而錯把可見性當成品質分布。\n\n【原創模擬】「創作—接收—保存—流通—放映—回流」六站圖與消失作品追蹤為Curator OS訓練，不是MoMA或兩個組織的官方評估模型。\n\n來源：https://www.moma.org/calendar/film/5931\n來源：https://www.moma.org/calendar/events/11638\n資料id：daily-2026-10-05-thinking"
+  },
+  {
+    "id": "daily-2026-10-06-curator",
+    "daily": true,
+    "date": "2026-10-06",
+    "category": "專業策展人提問思考課題",
+    "lens": "見證與感官倫理",
+    "source": "Serpentine官方資料（查證截至2026-10-06）",
+    "title": "當政治影像被做成冥想式環境，策展如何避免美感替證詞降噪？",
+    "summary": "以Amar Kanwar在Serpentine North把紀錄、遊記與視覺散文轉為低光、多銀幕、約三小時的感官環境為案例，練習讓形式支持見證而不抹平暴力、流離與分治歷史的具體性。",
+    "questions": [
+      "黑暗、慢速與沉浸感是在增加注意力，還是把政治痛苦美學化？",
+      "每一段影像指向的時間、地點、人物與事件是否仍可被辨認？",
+      "策展文字如何區分藝術家的見證、歷史資料與我的詮釋？",
+      "觀眾只停留十分鐘時，最可能帶走哪個被過度簡化的印象？",
+      "三件作品被並置後，我是否暗示它們共享相同的政治因果？",
+      "低光與完全黑暗對視覺、行動或感官敏感觀眾造成哪些門檻？",
+      "哪些內容需要警示，哪些警示又可能提前替觀眾決定感受？",
+      "冥想式節奏是否給予思考時間，也可能讓緊迫性被舒緩掉？",
+      "展覽如何讓受影響社群的語言不只成為氣氛素材？",
+      "離場資訊能否提供時間線、詞彙與延伸來源，讓感受回到可查證脈絡？"
+    ],
+    "strategy": "建立「感官—事實雙軌腳本」：一軌標記黑暗、聲音、時長與移動造成的身體效果；另一軌逐段標記事件、來源、責任主體與不可推論範圍。兩軌必須在入口、作品旁與離場資料中至少交會三次。",
+    "task": "選一件涉及暴力或流離的影像作品，畫出15分鐘觀展路徑；每三分鐘記錄觀眾接收的感官訊號與事實資訊，找出一段只有氣氛沒有脈絡的位置，補上一個不超過60字的查證入口。",
+    "training": "進行60分鐘「去配樂測試」：先只讀逐字稿與史實時間線，再只看影像與聲音，最後比較兩次理解差異；把被形式放大、遮蔽或模糊的主張分別標成綠、黃、紅。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-06",
+      "country": "英國",
+      "location": "倫敦",
+      "latestUpdate": "Amar Kanwar個展於2026年9月23日在Serpentine North開幕，展至2027年1月31日，免費入場；展覽在低光與部分全黑環境中呈現《Such a Morning》（2017）、《The Peacock’s Graveyard》（2023）及首度發表的七銀幕裝置《The Charcoal Man》（2026），完整觀看約三小時。",
+      "references": [
+        {
+          "title": "Amar Kanwar",
+          "publisher": "Serpentine",
+          "url": "https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/",
+          "accessedAt": "2026-10-06"
+        },
+        {
+          "title": "EXHIBITION | AMAR KANWAR",
+          "publisher": "Serpentine",
+          "url": "https://www.serpentinegalleries.org/about/press/amar-kanwar/",
+          "accessedAt": "2026-10-06"
+        }
+      ],
+      "title": "Amar Kanwar個展",
+      "context": "Serpentine指出，Kanwar的影像往返紀錄片、遊記與視覺散文，處理去殖民、1947年印巴分治、流離、權力、暴力、正義與記憶。Curator OS據此提出雙軌腳本；官方未聲稱展覽採用此方法。"
+    },
+    "rawText": "【來源事實】Serpentine於2026年9月23日至2027年1月31日呈現Amar Kanwar個展。官方說明展覽在低光與部分全黑空間呈現三件影片／多銀幕作品，總觀看時間約三小時；作品涉及去殖民、1947年印巴分治、流離、權力、暴力、正義與記憶。\n\n【推論】冥想式視聽環境可能延長注意力，也可能使具體政治歷史被觀眾接收為普遍而舒緩的感受；策展需同時維持感官經驗與可查證脈絡。\n\n【原創模擬】「感官—事實雙軌腳本」、15分鐘路徑與去配樂測試為Curator OS設計，並非Serpentine或Amar Kanwar的官方方法。\n\n來源：https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/\n來源：https://www.serpentinegalleries.org/about/press/amar-kanwar/\n資料id：daily-2026-10-06-curator"
+  },
+  {
+    "id": "daily-2026-10-06-family",
+    "daily": true,
+    "date": "2026-10-06",
+    "category": "親子觀展教育訓練",
+    "lens": "青少年自主與成人退場",
+    "source": "Solomon R. Guggenheim Museum官方資料（查證截至2026-10-06）",
+    "title": "當青少年想自己看展，成人如何從解說者退到可被需要的支援者？",
+    "summary": "借鏡Guggenheim免費的Teen Tuesdays讓13至19歲青少年自由加入、停留並與同儕透過藝術連結，訓練成人以安全邊界、可選提示與事後回應支持自主，而不把親子觀展變成知識考核。",
+    "questions": [
+      "這次看展由青少年選作品、路線與停留時間，還是成人預先決定？",
+      "成人能否先問要陪同、給提示，還是完全退後？",
+      "青少年沒有口頭分享時，我會不會把沉默誤判成沒有收穫？",
+      "同儕交流與家庭交流各需要什麼不同空間？",
+      "哪些安全、時間與集合規則必須清楚，哪些控制其實可以放手？",
+      "成人的藝術知識何時是資源，何時變成搶走詮釋權？",
+      "青少年能否隨時縮短停留、改路線或只做創作不看展？",
+      "活動對13至19歲開放，但不同年齡的自主與支持需求如何不被一概而論？",
+      "免費門票、點心與材料降低了哪些門檻，還有哪些交通與時間門檻？",
+      "離場後我能問哪個問題，讓青少年定義自己的經驗而不是接受測驗？"
+    ],
+    "strategy": "採用「三段式成人退場」：入場前共同確認安全與集合點；觀展中只提供青少年主動索取的提示卡；離場後由青少年先選擇要分享一件、畫一張或保持沉默。",
+    "task": "下一次親子觀展給青少年一張自主卡：選一件想靠近的作品、一件想略過的作品與一個想獨處五分鐘的位置；成人只記錄自己三次想插話卻選擇先問『你需要我嗎？』的時刻。",
+    "training": "做30分鐘「延遲解說」：成人看到作品後先沉默90秒，只能提出觀察問題不能補充背景；若青少年說不想談，練習以一句確認回應結束，不追問原因。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-06",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Guggenheim New York於2026年10月6日下午4時至5時30分舉辦免費Teen Tuesdays；活動面向13至19歲青少年，可自由加入並停留任意時長，免費入館、點心與藝術材料皆包含，無須既有經驗。",
+      "references": [
+        {
+          "title": "Teen Tuesdays",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/teen-tuesdays",
+          "accessedAt": "2026-10-06"
+        },
+        {
+          "title": "Guggenheim Calendar — October 6, 2026",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/calendar",
+          "accessedAt": "2026-10-06"
+        }
+      ],
+      "title": "Guggenheim Teen Tuesdays",
+      "context": "官方把Teen Tuesdays描述為每月一次、由青少年透過藝術相聚的免費活動，屬Teen Circle Membership的一部分。Curator OS將其轉為家庭中的成人退場訓練；這不是官方親職指引。"
+    },
+    "rawText": "【來源事實】Guggenheim於2026年10月6日16:00至17:30舉辦Teen Tuesdays，對13至19歲開放；參與者可自由加入、停留任意時長，不需既有經驗，免費入館、點心與藝術材料皆包含。官方稱其為青少年透過藝術連結、探索創意的每月聚會。\n\n【推論】把同儕空間與停留時間交還青少年，可能增加自主感；但不能由免費或自由加入直接推論每位青少年都感到安全、被代表或擁有決策權。\n\n【原創模擬】三段式成人退場、自主卡與延遲解說為Curator OS親子訓練，不是Guggenheim官方活動流程。\n\n來源：https://www.guggenheim.org/event/teen-tuesdays\n來源：https://www.guggenheim.org/calendar\n資料id：daily-2026-10-06-family"
+  },
+  {
+    "id": "daily-2026-10-06-life",
+    "daily": true,
+    "date": "2026-10-06",
+    "category": "人生策展課題",
+    "lens": "身後仍可被共同續寫的影響",
+    "source": "San Francisco Museum of Modern Art官方資料（查證截至2026-10-06）",
+    "title": "當你的作品在你不在場後仍被朋友續寫，什麼才算真正留下來？",
+    "summary": "從SFMOMA以朋友、家人與合作者共同回看Susan O’Malley的方法、同理與樂觀遺產出發，把人生留下的痕跡從物件清單擴展為他人仍能使用、修正與傳遞的關係方法。",
+    "questions": [
+      "如果不以職稱、獎項與作品數量計算，我希望別人仍能使用我的哪一種方法？",
+      "哪些人不只是見證者，而是真正共同塑造了我的工作？",
+      "我是否只保存完成品，卻沒有保存讓合作得以發生的做法？",
+      "哪些關係需要現在就被感謝、署名或補上資源回報？",
+      "我的樂觀是口號，還是一套在困難時仍可操作的行動？",
+      "若朋友用不同角度講述我，我能否容許版本彼此不完全一致？",
+      "哪些檔案需要整理，哪些私人內容應該保留不公開？",
+      "我希望下一代複製我的答案，還是延續我提問與照顧人的方式？",
+      "今天有哪一個尚未完成的合作需要留下足夠脈絡讓別人接手？",
+      "如果只做一件能讓影響繼續流動的小事，我會交出什麼？"
+    ],
+    "strategy": "製作「可續寫遺產包」：只收錄一項可複用方法、一段合作脈絡、一份署名與同意清單、一個仍開放的問題，以及誰有權補充、修正或停止公開。",
+    "task": "選一個你希望留下的方法，寫成一頁：它解決什麼、三個步驟、失敗過一次的例子、共同塑造它的人與允許別人修改的範圍；交給一位合作者試用並請他改寫一段。",
+    "training": "進行40分鐘「物件轉關係」：列出五件自認重要的成果，逐件追問誰使它成立、誰仍在使用、缺少誰的名字；今天補上一項署名或感謝，並保存對方可撤回公開的選擇。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-06",
+      "country": "美國",
+      "location": "舊金山",
+      "latestUpdate": "SFMOMA排定於2026年10月8日晚上6時舉辦「It Will Be More Beautiful Than You Could Ever Imagine: Susan O’Malley and Friends」，慶祝其生涯回顧專書出版；家人、朋友與合作者將從不同角度談她的方法、同理與樂觀，以及她對灣區藝術社群的影響。活動採0、10、20、30美元分級票價。",
+      "references": [
+        {
+          "title": "It Will Be More Beautiful Than You Could Ever Imagine: Susan O’Malley and Friends",
+          "publisher": "San Francisco Museum of Modern Art",
+          "url": "https://www.sfmoma.org/event/susan-omalley-and-friends/",
+          "accessedAt": "2026-10-06"
+        },
+        {
+          "title": "SFMOMA Events",
+          "publisher": "San Francisco Museum of Modern Art",
+          "url": "https://www.sfmoma.org/events/",
+          "accessedAt": "2026-10-06"
+        }
+      ],
+      "title": "Susan O’Malley and Friends",
+      "context": "官方活動邀請遺產管理者、藝術家家人與多位合作者分享O’Malley的非典型方法、同理、樂觀與影響。Curator OS據此提出可續寫遺產包；這是人生反思工具，不代表官方對其遺產的完整定義。"
+    },
+    "rawText": "【來源事實】SFMOMA將於2026年10月8日18:00舉辦「It Will Be More Beautiful Than You Could Ever Imagine: Susan O’Malley and Friends」，慶祝生涯回顧專書出版；遺產管理者、家人與多位合作者將談O’Malley的方法、同理、樂觀及其對灣區藝術社群的影響。活動採0至30美元分級票價。\n\n【推論】一個人的影響可能由物件、方法與關係共同構成；朋友的不同敘述能顯示影響如何被共同塑造，但不能取代完整檔案或所有關係人的觀點。\n\n【原創模擬】可續寫遺產包、物件轉關係與一頁方法交接為Curator OS設計，並非SFMOMA或Susan O’Malley Estate的官方保存框架。\n\n來源：https://www.sfmoma.org/event/susan-omalley-and-friends/\n來源：https://www.sfmoma.org/events/\n資料id：daily-2026-10-06-life"
+  },
+  {
+    "id": "daily-2026-10-06-participation",
+    "daily": true,
+    "date": "2026-10-06",
+    "category": "國際民眾參與策展實作",
+    "lens": "低門檻參與證據",
+    "source": "Solomon R. Guggenheim Museum官方資料（查證截至2026-10-06）",
+    "title": "一場自由加入的手作工作坊，如何證明參與不只留下完成件數？",
+    "summary": "以藝術家Davi Leventhal在Guggenheim Café Rebay帶領自由加入的fuxico手作快閃為起點，設計能同時記錄選擇、互助、故事與離場意願的低負擔證據，避免把作品數量直接等同參與品質。",
+    "questions": [
+      "參與者可以只觀看、試一針、完成一件或中途離開嗎？",
+      "沒有手作經驗、精細動作困難或不熟悉語言的人如何加入？",
+      "帶領者是在複製固定成品，還是讓參與者做出可見選擇？",
+      "作品數量之外，哪些互助、對話與自我修正值得被記錄？",
+      "fuxico的文化語境由誰說明，哪些內容仍需進一步查證？",
+      "自由加入是否真的沒有門檻，還是仍綁定博物館門票與抵達能力？",
+      "拍照與蒐集故事前，參與者是否能分別同意或拒絕？",
+      "參與者做出的物件歸誰，能否帶走、留下或匿名？",
+      "短暫活動結束後，參與者如何得知自己的回應改變了什麼？",
+      "若無法證明共同決策，我應把它誠實稱為工作坊、共學還是共同創作？"
+    ],
+    "strategy": "採用「四種微證據」：選擇卡記錄參與者決定、互助點記錄彼此支援、匿名一句話記錄意義、離場選項記錄帶走／留下／不被拍攝；不蒐集姓名也能看見參與品質。",
+    "task": "設計一場45分鐘自由加入手作站，提供觀看、試作、完成三種強度；每位參與者只需翻四張匿名卡之一留下反饋。活動後把件數與選擇、互助、故事、退出並列，寫出一項下次調整。",
+    "training": "進行60分鐘「件數失效測試」：假設今天完成100件卻無人交談、無人選擇、半數不舒服，判定活動是否成功；再為品質新增三個不需監控個人的可觀察指標。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-06",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Guggenheim New York於2026年10月6日下午1時舉辦「Maker-Led Pop-Ups: Fuxico by Davi Leventhal」；藝術家Davi Leventhal在Café Rebay帶領自由加入的fuxico手作工作坊，費用包含於博物館門票。",
+      "references": [
+        {
+          "title": "Maker-Led Pop-Ups: Fuxico by Davi Leventhal",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/maker-led-pop-ups-fuxico-by-davi-leventhal",
+          "accessedAt": "2026-10-06"
+        },
+        {
+          "title": "Guggenheim Calendar — October 6, 2026",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/calendar",
+          "accessedAt": "2026-10-06"
+        }
+      ],
+      "title": "Maker-Led Pop-Ups: Fuxico by Davi Leventhal",
+      "context": "官方確認藝術家、地點、自由加入形式與費用，但頁面未說明成品去向、評估方式或文化脈絡。Curator OS不替活動補寫未公開事實，而把這些空白轉為待驗證問題。"
+    },
+    "rawText": "【來源事實】Guggenheim官方行事曆列出2026年10月6日下午1時「Maker-Led Pop-Ups: Fuxico by Davi Leventhal」：藝術家Davi Leventhal在Café Rebay帶領自由加入的fuxico手作工作坊，費用包含於博物館門票。\n\n【推論】自由加入可降低承諾門檻，但仍不能由完成件數推論學習、歸屬或共同決策；門票、交通、手部動作與語言也可能形成隱性門檻。\n\n【原創模擬】四種微證據、匿名卡、三種參與強度與件數失效測試為Curator OS設計；官方未公開活動評估方法或成品安排。\n\n來源：https://www.guggenheim.org/event/maker-led-pop-ups-fuxico-by-davi-leventhal\n來源：https://www.guggenheim.org/calendar\n資料id：daily-2026-10-06-participation"
+  },
+  {
+    "id": "daily-2026-10-06-thinking",
+    "daily": true,
+    "date": "2026-10-06",
+    "category": "策展思考訓練",
+    "lens": "有限時間的知識編輯",
+    "source": "Solomon R. Guggenheim Museum官方資料（查證截至2026-10-06）",
+    "title": "如果只能用三十分鐘介紹一棟經典建築，你先刪掉哪一半知識？",
+    "summary": "借鏡Guggenheim在圓形大廳進行的30分鐘建築介紹，把短導覽視為選擇而非壓縮：先確定觀眾離場後能用的一個觀察方法，再刪除不能支撐它的背景知識。",
+    "questions": [
+      "這三十分鐘的唯一學習成果是記住資訊，還是獲得一種觀看建築的方法？",
+      "觀眾從所在位置此刻就能驗證哪三件事？",
+      "哪些年代、人物與術語重要，卻不必在第一次接觸全部說完？",
+      "如果只能保留一張圖、一個動作與一句話，我會留下什麼？",
+      "講者說話時間是否擠掉觀眾移動、仰看、觸感與提問？",
+      "經典地位會不會讓我只講成就而略過爭議、限制與維護現實？",
+      "輪椅使用者、兒童與不熟悉建築語彙者從同一位置能看到什麼不同？",
+      "導覽結束後，觀眾能否把方法帶去閱讀下一棟建築？",
+      "哪一段內容只是證明我知道很多，卻沒有增加觀眾判斷力？",
+      "若觀眾中途加入，前三分鐘能否讓他重新進入主線？"
+    ],
+    "strategy": "使用「一問、三證、一轉用」編輯法：先提出一個可在現場回答的核心問題，選三個可觀察證據，最後給一項能帶到其他場域的轉用練習；其餘資訊移到延伸閱讀。",
+    "task": "把一段60分鐘既有導覽縮成30分鐘：寫下所有段落並依「必要／可延伸／炫技」分類，刪除後兩類口述內容；用省下的十分鐘安排兩次安靜觀察與一次觀眾自行驗證。",
+    "training": "做45分鐘「刪除不降質」：錄下原講稿，剪成15、5、1分鐘三版；每版都必須保留同一核心問題與可觀察證據，測試三位聽者是否能在陌生空間複用方法。",
+    "caseStudy": {
+      "realWorld": true,
+      "statusAsOf": "2026-10-06",
+      "country": "美國",
+      "location": "紐約",
+      "latestUpdate": "Guggenheim New York於2026年10月6日下午2時安排「Curious about the Building?」，在圓形大廳樓層介紹博物館標誌性建築，時長30分鐘，費用包含於博物館門票。",
+      "references": [
+        {
+          "title": "Guggenheim Calendar — October 6, 2026",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/calendar",
+          "accessedAt": "2026-10-06"
+        },
+        {
+          "title": "Guggenheim New York",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/plan-your-visit/guggenheim-new-york",
+          "accessedAt": "2026-10-06"
+        }
+      ],
+      "title": "Curious about the Building?",
+      "context": "官方只說明活動在圓形大廳介紹Guggenheim建築，並未公開完整教案。Curator OS因此不推定實際導覽內容，而以30分鐘條件發展原創的知識編輯訓練。"
+    },
+    "rawText": "【來源事實】Guggenheim官方行事曆列出2026年10月6日下午2時的「Curious about the Building?」：在圓形大廳樓層了解博物館標誌性建築，時長30分鐘，免費包含於博物館門票。\n\n【推論】短導覽的品質不取決於把完整知識加速說完，而在於能否讓觀眾掌握可在現場驗證、之後可轉用的觀察方法。\n\n【原創模擬】「一問、三證、一轉用」、三版本剪輯與段落分類均為Curator OS訓練；官方頁面未提供實際教案，不能把此方法歸於Guggenheim。\n\n來源：https://www.guggenheim.org/calendar\n來源：https://www.guggenheim.org/plan-your-visit/guggenheim-new-york\n資料id：daily-2026-10-06-thinking"
   }
 ]
