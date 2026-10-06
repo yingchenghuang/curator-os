@@ -18257,6 +18257,7 @@
   },
   {
     "id": "daily-2026-10-07-curator",
+    "daily": true,
     "date": "2026-10-07",
     "category": "專業策展人提問思考課題",
     "lens": "重製文化與策展判準",
@@ -18311,6 +18312,7 @@
   },
   {
     "id": "daily-2026-10-07-family",
+    "daily": true,
     "date": "2026-10-07",
     "category": "親子觀展教育訓練",
     "lens": "幼兒主導的感官觀展",
@@ -18359,6 +18361,7 @@
   },
   {
     "id": "daily-2026-10-07-life",
+    "daily": true,
     "date": "2026-10-07",
     "category": "人生策展課題",
     "lens": "身體先於結論的小型試走",
@@ -18407,6 +18410,7 @@
   },
   {
     "id": "daily-2026-10-07-participation",
+    "daily": true,
     "date": "2026-10-07",
     "category": "國際民眾參與策展實作",
     "lens": "免費活動的名額公平",
@@ -18455,6 +18459,7 @@
   },
   {
     "id": "daily-2026-10-07-thinking",
+    "daily": true,
     "date": "2026-10-07",
     "category": "策展思考訓練",
     "lens": "分類標籤與形式閱讀",
