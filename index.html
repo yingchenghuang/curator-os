@@ -985,7 +985,10 @@ Promise.all([
   fetch(`curation-thinking.json?updated=${Date.now()}`, { cache: 'no-store' }).then((response) => response.json()),
   fetch(`daily-curator-prompts.json?updated=${Date.now()}`, { cache: 'no-store' }).then((response) => response.ok ? response.json() : [])
 ]).then(([library, daily]) => {
-  topics = library;
+  topics = library.map((topic, index) => ({
+    ...topic,
+    sourceIndex: topic.sourceIndex ?? index + 1
+  }));
   dailyPrompts = daily;
   const latestDaily = [...dailyPrompts].sort((a, b) => b.date.localeCompare(a.date))[0];
   $('#liveState').textContent = latestDaily ? `每日同步｜最新 ${latestDaily.date}` : '每日同步中';
