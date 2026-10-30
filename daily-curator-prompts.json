@@ -23225,5 +23225,659 @@
       ]
     },
     "rawText": "【來源事實】The Met正在Gallery 380展出《Defensive Display: Shields from The Met Collection》。官方說明此聚焦展覽同時考察盾牌的基本防禦用途與視覺展示角色，並比較風格、構造，以及形狀如何受區域與文化來源影響；2026年10月27日15時至15時30分舉行館員專題導覽。\n【事實／推論界線】官方可證實展覽主題、Gallery 380地點與10月27日導覽時間；官方頁面未提供所有展品的完整使用史，也不支持以裝飾程度直接判定儀式或戰鬥用途。「盾牌五證據矩陣」是Curator OS原創訓練。\n【原創模擬】策略、實驗與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-28-curator",
+    "daily": true,
+    "date": "2026-10-28",
+    "category": "專業策展人提問思考課題",
+    "lens": "證據分層與機構自我反身",
+    "source": "Walker Design Triennial: Beyond Materialism官方資料（查證截至2026-10-28）",
+    "title": "當設計三年展宣稱從物質消費轉向精神需求，策展如何證明作品真的改變了人與人的關係？",
+    "summary": "以作品的使用規則、參與權、維護成本與觀眾回饋檢驗「超越物質主義」的策展命題，避免讓精神性成為新的消費標語。",
+    "questions": [
+      "展覽中哪些作品真正讓觀眾採取行動？",
+      "策展文字裡的「精神需求」如何操作化？",
+      "共同參與的規則由誰決定？",
+      "哪一件作品可能只增加商品慾望？",
+      "哪些使用行為能被直接觀察？",
+      "作品的材料來源與維護由誰承擔？",
+      "展場允許不同意主題的觀眾留下意見嗎？",
+      "教育活動能否改變展覽的理解框架？",
+      "如果沒有訪客統計，還能收集什麼質性證據？",
+      "三個月後如何追蹤作品的社群效應？"
+    ],
+    "strategy": "建立設計影響四格表，將美學敘事與可觀察行為分開；為每件作品設定至少一個可反駁的效果指標。",
+    "task": "選三件展品，分別記錄其宣稱價值、可做的行動、誰能改變規則及一個可觀察指標；以300字提出反證。",
+    "training": "60分鐘：20分鐘讀官方策展文字、20分鐘對照作品使用方式、20分鐘重寫不依賴空泛「連結」語彙的展場標示。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國明尼亞波利斯",
+      "title": "Walker Design Triennial: Beyond Materialism",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "Walker Design Triennial《Beyond Materialism》展期為2026年10月17日至2027年2月14日，展出26位設計師或團體、來自13國的逾95件作品；官方提出設計從消費與利潤導向轉向社群、主體性與精神需求的命題。10月28日另舉辦面向K–12教師的免費教育活動，需報名。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Walker Design Triennial: Beyond Materialism",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/walker-design-triennial-beyond-materialism/",
+          "accessedAt": "2026-10-29"
+        },
+        {
+          "title": "Walker Art Center｜延伸官方資料",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/evening-for-educators-walker-design-triennial/",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Design Triennial《Beyond Materialism》展期為2026年10月17日至2027年2月14日，展出26位設計師或團體、來自13國的逾95件作品；官方提出設計從消費與利潤導向轉向社群、主體性與精神需求的命題。10月28日另舉辦面向K–12教師的免費教育活動，需報名。\n【事實／推論界線】官方展覽論述與活動資訊可核對；實際觀眾關係變化、參與成效與長期社會影響尚無足夠證據。\n【待驗證假設】可共同改寫使用規則的設計，比僅具象徵性的社群語彙更能增加參與者的主體性。\n【底層需求】讓公共設計提供可驗證的社群連結與行動能力。\n【現實限制】展場時間有限、參與者差異大，機構不一定公開使用與維護資料。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：將每件作品套入「使用者／決策權／維護者／退出權」四格審查。\n【官方來源】[https://www.walkerart.org/whats-on/walker-design-triennial-beyond-materialism/；https://www.walkerart.org/whats-on/evening-for-educators-walker-design-triennial/](https://www.walkerart.org/whats-on/walker-design-triennial-beyond-materialism/%EF%BC%9Bhttps://www.walkerart.org/whats-on/evening-for-educators-walker-design-triennial/)"
+  },
+  {
+    "id": "daily-2026-10-28-family",
+    "daily": true,
+    "date": "2026-10-28",
+    "category": "親子觀展教育訓練",
+    "lens": "親子共學與開放提問",
+    "source": "Family Story Time: Spaces and Places官方資料（查證截至2026-10-28）",
+    "title": "親子從故事走進「空間與地方」的展廳時，成人如何讓孩子用身體與路徑建立自己的空間地圖？",
+    "summary": "把MoMA的故事、動作、形狀與展廳探索串成親子自主路徑，減少成人替孩子決定觀看順序。",
+    "questions": [
+      "孩子先記得故事中的哪種空間？",
+      "走進展廳後哪個形狀吸引他？",
+      "他選擇的第一站與成人相同嗎？",
+      "哪些轉彎由孩子主動提出？",
+      "如何用身體姿勢描述作品的大小？",
+      "聲音與光線是否影響停留？",
+      "孩子想回頭時是否允許改路？",
+      "成人講解幾次打斷了觀察？",
+      "路線圖可以只用符號不寫字嗎？",
+      "孩子最後能說出最想再訪的地方嗎？"
+    ],
+    "strategy": "讓孩子先選三個想停留的點，成人只記錄轉彎、聲音、材質與孩子的理由。",
+    "task": "在一個展廳畫出孩子選擇的三站路線，與成人預設路線疊圖，找出兩個差異。",
+    "training": "15分鐘讀故事與找形狀、15分鐘孩子帶路、10分鐘共同回畫路線；不以看完展覽為驗收標準。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國紐約",
+      "title": "Family Story Time: Spaces and Places",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "MoMA於2026年10月28日10:30至11:00舉行Family Story Time；10月主題為Spaces and Places，活動包含繪本、動作、材料與形狀探索，之後提供活動單讓家庭自行走訪展廳；建議2歲以上幼兒與成人同行，名額有限。",
+      "references": [
+        {
+          "title": "The Museum of Modern Art｜Family Story Time: Spaces and Places",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11737",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年10月28日10:30至11:00舉行Family Story Time；10月主題為Spaces and Places，活動包含繪本、動作、材料與形狀探索，之後提供活動單讓家庭自行走訪展廳；建議2歲以上幼兒與成人同行，名額有限。\n【事實／推論界線】官方資料沒有指定每個家庭的行走路線、孩子選擇比例或學習成果；以下空間地圖為原創練習。\n【待驗證假設】讓孩子先選路徑與停留點，能提升其對空間的記憶與提問。\n【底層需求】建立兒童在展覽中的探索自主權。\n【現實限制】年齡差異、展廳安全、動線與疲勞會影響可行性。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：「選路／定點／回畫」三步驟可移植至任何博物館。\n【官方來源】[https://www.moma.org/calendar/events/11737](https://www.moma.org/calendar/events/11737)"
+  },
+  {
+    "id": "daily-2026-10-28-life",
+    "daily": true,
+    "date": "2026-10-28",
+    "category": "人生策展課題",
+    "lens": "生活策展與注意力配置",
+    "source": "Nocturnes官方資料（查證截至2026-10-28）",
+    "title": "當夜晚同時帶來平靜與不安，你如何用觀看與聲音紀錄自己的感受，而不急著替情緒命名？",
+    "summary": "借用《Nocturnes》攝影、音樂與低照度展場的多感官方法，練習辨認情緒隨環境改變的條件。",
+    "questions": [
+      "夜色讓你首先注意到什麼？",
+      "哪一個聲音改變了對空間的判斷？",
+      "光線變暗是否必然使你緊張？",
+      "哪些感受來自記憶而非眼前景象？",
+      "有什麼細節原本被白天的節奏掩蓋？",
+      "如果把畫面配樂拿掉，感受會怎麼變？",
+      "你能否容許矛盾情緒同時存在？",
+      "安全與好奇之間如何劃定界線？",
+      "隔天再看記錄時有何差異？",
+      "哪一種感官觀察能成為未來創作素材？"
+    ],
+    "strategy": "用夜間感官日誌，把外在刺激、身體反應、故事聯想分開，隔天再重新閱讀。",
+    "task": "選安全熟悉的夜間場所停留10分鐘，記三種聲音、兩種光線變化、一項身體反應，隔天比較記錄。",
+    "training": "10分鐘觀察、5分鐘寫三欄、5分鐘將情緒形容詞改成可辨識的身體或環境線索。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國華盛頓特區",
+      "title": "Nocturnes",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "美國國家藝廊《Nocturnes》展期2026年7月23日至2027年1月31日，呈現八位攝影家的夜間影像，搭配委託音樂與特殊燈光；官方邀請觀眾以故事、詩或反思回應。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Nocturnes",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/exhibitions/nocturnes",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】美國國家藝廊《Nocturnes》展期2026年7月23日至2027年1月31日，呈現八位攝影家的夜間影像，搭配委託音樂與特殊燈光；官方邀請觀眾以故事、詩或反思回應。\n【事實／推論界線】展覽提供感官經驗與創作邀請，但未宣稱具醫療效果；情緒變化屬個人記錄與原創練習。\n【待驗證假設】分開記錄聲音、光線與身體反應，可減少以單一詞語概括複雜情緒。\n【底層需求】發展對環境與內在狀態的精確覺察。\n【現實限制】個人安全、夜間可及性與不同感官敏感度。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：以「場景／感官／反應」三欄建立可回看日誌。\n【官方來源】[https://www.nga.gov/exhibitions/nocturnes](https://www.nga.gov/exhibitions/nocturnes)"
+  },
+  {
+    "id": "daily-2026-10-28-participation",
+    "daily": true,
+    "date": "2026-10-28",
+    "category": "國際民眾參與策展實作",
+    "lens": "參與權力與可驗證影響",
+    "source": "Prime Time Film Screening: Moonstruck官方資料（查證截至2026-10-28）",
+    "title": "當美術館為65歲以上觀眾安排電影與映後對話，參與品質如何超越出席人數與年齡標籤？",
+    "summary": "檢視高齡友善放映的參與設計，從時間、無障礙、對話主導權與記憶差異建立可評估的公共教育模型。",
+    "questions": [
+      "為何設定65歲以上的觀眾範圍？",
+      "免費與需登記如何同時影響可近性？",
+      "交通與場次時間會排除哪些人？",
+      "映後誰先發言，主持人如何分配時間？",
+      "不願談個人家庭經驗者如何參與？",
+      "字幕與聽覺協助有哪些需求？",
+      "電影中的家庭敘事是否可能引起相反回憶？",
+      "觀眾的回應如何影響下次選片？",
+      "活動如何避免把高齡者當成單一群體？",
+      "成功指標應如何包含沉默與退出權？"
+    ],
+    "strategy": "將放映活動拆成抵達、觀看、回應與後續回饋四階段，逐項設計選擇權。",
+    "task": "設計一場20人、60分鐘的高齡觀影對話，提出兩種非口語回饋方法及一項成效觀察表。",
+    "training": "模擬三種參與者：願意分享、需要較長回應時間、只想觀看；檢查主持規則是否同等尊重。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國紐約",
+      "title": "Prime Time Film Screening: Moonstruck",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "MoMA於2026年10月28日13:00安排Prime Time電影《Moonstruck》放映，面向65歲以上訪客，免費但需登記或回覆；官方說明放映後有交流對話，影片被納入家庭關係主題系列。",
+      "references": [
+        {
+          "title": "The Museum of Modern Art｜Prime Time Film Screening: Moonstruck",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11762",
+          "accessedAt": "2026-10-29"
+        },
+        {
+          "title": "The Museum of Modern Art｜延伸官方資料",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/programs/63",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年10月28日13:00安排Prime Time電影《Moonstruck》放映，面向65歲以上訪客，免費但需登記或回覆；官方說明放映後有交流對話，影片被納入家庭關係主題系列。\n【事實／推論界線】可核對放映日期、對象、報名與對話形式；公開頁面無法證明參與者實際感受、對話比例或活動成效。\n【待驗證假設】允許不同生活經驗改寫討論問題，比單向映後講座更能支持高齡觀眾的文化主體性。\n【底層需求】讓不同年齡的觀眾擁有可安全表達與被聽見的空間。\n【現實限制】名額、交通、聽覺、語速及映後時間可能限制參與。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：用「進場門檻／發言機會／回饋用途」三項評估活動。\n【官方來源】[https://www.moma.org/calendar/events/11762；https://www.moma.org/calendar/programs/63](https://www.moma.org/calendar/events/11762%EF%BC%9Bhttps://www.moma.org/calendar/programs/63)"
+  },
+  {
+    "id": "daily-2026-10-28-thinking",
+    "daily": true,
+    "date": "2026-10-28",
+    "category": "策展思考訓練",
+    "lens": "觀察、比較與策展判斷",
+    "source": "Sketchbook Club: Cecilia Beaux’s Sita and Sarita官方資料（查證截至2026-10-28）",
+    "title": "當肖像中的黑貓看向觀眾，策展分析如何分辨畫面構圖、觀看心理與後加的神祕敘事？",
+    "summary": "從 Cecilia Beaux 的《Sita and Sarita》出發，把可見的姿勢、視線、光線與物件關係和觀眾的心理投射分開記錄。",
+    "questions": [
+      "貓的眼神與人物視線指向何處？",
+      "光源落在人物與貓的哪些部分？",
+      "哪個物件最先吸引視線，為什麼？",
+      "畫面是否真的提供故事發生的時間？",
+      "「神祕」一詞能由哪項形式證據支持？",
+      "衣料與姿勢傳達哪些可以描述的差異？",
+      "描摹時自己省略了哪些元素？",
+      "如果去掉黑貓，作品的重心如何改變？",
+      "作品標題如何影響先入為主的閱讀？",
+      "什麼外部資料才能驗證畫家與模特的關係？"
+    ],
+    "strategy": "建立三欄圖像證據卡，先記錄構圖與視線，再提出互相競爭的解釋。",
+    "task": "觀察《Sita and Sarita》5分鐘，列出八項可見細節、三個相反敘事與兩項需查證的藝術史資訊。",
+    "training": "30分鐘限時素描，再用10分鐘對照自己畫出的細節與原圖；刪去沒有視覺證據的心理形容詞。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國華盛頓特區／線上",
+      "title": "Sketchbook Club: Cecilia Beaux’s Sita and Sarita",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "美國國家藝廊於2026年10月28日19:00至19:30安排線上Sketchbook Club，以Cecilia Beaux的《Sita and Sarita》為靈感畫黑貓；官方指出活動只需紙筆，面向不同年齡家庭。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Sketchbook Club: Cecilia Beaux’s Sita and Sarita",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/sketchbook-club/sketchbook-club-cecilia-beauxs-sita-and-sarita",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】美國國家藝廊於2026年10月28日19:00至19:30安排線上Sketchbook Club，以Cecilia Beaux的《Sita and Sarita》為靈感畫黑貓；官方指出活動只需紙筆，面向不同年齡家庭。\n【事實／推論界線】作品中的黑貓、人物與視線可由館方圖像及文字核對；「神祕」「孤獨」等情緒判讀是觀者推論，活動未宣稱此種心理結論。\n【待驗證假設】將觀察與聯想分欄，能提高策展圖像論述的可檢驗性。\n【底層需求】形成不依賴權威標籤的視覺分析能力。\n【現實限制】線上觀看受影像解析度、色差與螢幕限制。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：用「看到／推測／仍待查」三欄快速整理任何藝術圖像。\n【官方來源】[https://www.nga.gov/calendar/sketchbook-club/sketchbook-club-cecilia-beauxs-sita-and-sarita](https://www.nga.gov/calendar/sketchbook-club/sketchbook-club-cecilia-beauxs-sita-and-sarita)"
+  },
+  {
+    "id": "daily-2026-10-29-curator",
+    "daily": true,
+    "date": "2026-10-29",
+    "category": "專業策展人提問思考課題",
+    "lens": "證據分層與機構自我反身",
+    "source": "Back and Forth: Rozeal., Titian, Cezanne官方資料（查證截至2026-10-29）",
+    "title": "四幅相隔數百年的繪畫被放在一起時，策展如何區分形式巧合、藝術史影響與當代重新詮釋？",
+    "summary": "以Rozeal.、提香與塞尚的四幅畫作訓練跨時代策展比較，建立「看起來相似」與「有史料證據的影響」的清楚界線。",
+    "questions": [
+      "四件畫作的共同構圖是什麼？",
+      "人物視線和身體位置有何差異？",
+      "哪些相似可能源自廣泛的繪畫慣例？",
+      "畫家是否曾接觸彼此作品，有何證據？",
+      "年代差距如何影響「影響」的可能性？",
+      "展場順序是否暗示了單向傳承？",
+      "不同文化脈絡的符號能否直接對等？",
+      "哪一項官方說明主動限制了因果推論？",
+      "觀眾能否提出與策展不同的比較路徑？",
+      "如果刪除藝術家姓名，形式分析還成立嗎？"
+    ],
+    "strategy": "先只比較構圖與視線，再逐件查證年代、傳播渠道與藝術家接觸資料，明示未知。",
+    "task": "挑選兩組跨時代作品，各寫一段100字形式比較及一段100字證據限制，最後重寫一個展覽標題。",
+    "training": "60分鐘：20分鐘盲看四畫、20分鐘查來源與時間線、20分鐘將因果語句改為可被證明的陳述。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國華盛頓特區",
+      "title": "Back and Forth: Rozeal., Titian, Cezanne",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "美國國家藝廊《Back and Forth》展期為2025年4月26日至2027年1月3日，將Rozeal.、Titian與Cezanne的四件畫作並置。官方明確指出，畫作具有視覺相似性，卻不能因此推定Rozeal.作畫時想著Titian，或Cezanne作畫時想著Titian的特定作品。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Back and Forth: Rozeal., Titian, Cezanne",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/exhibitions/back-and-forth",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】美國國家藝廊《Back and Forth》展期為2025年4月26日至2027年1月3日，將Rozeal.、Titian與Cezanne的四件畫作並置。官方明確指出，畫作具有視覺相似性，卻不能因此推定Rozeal.作畫時想著Titian，或Cezanne作畫時想著Titian的特定作品。\n【事實／推論界線】作品並置與官方對影響關係的限制可查；觀眾自行推導的直接師承關係不能當作已證事實。\n【待驗證假設】同時展示形式相似與影響證據的缺口，可提高觀眾的藝術史判讀品質。\n【底層需求】讓比較展覽保有複雜性與不確定性。\n【現實限制】有限展牆文字難以完整呈現跨文化的流通路徑。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：建立「相似／接觸／證據／反證」四欄比較表。\n【官方來源】[https://www.nga.gov/exhibitions/back-and-forth](https://www.nga.gov/exhibitions/back-and-forth)"
+  },
+  {
+    "id": "daily-2026-10-29-family",
+    "daily": true,
+    "date": "2026-10-29",
+    "category": "親子觀展教育訓練",
+    "lens": "親子共學與開放提問",
+    "source": "I Spy Love，發現愛官方資料（查證截至2026-10-29）",
+    "title": "親子在美術館交換角色談「愛」時，如何讓孩子表達自己的感受，而不被要求給出大人期待的答案？",
+    "summary": "以北美館《I Spy Love，發現愛》為案例，把感官體驗、角色交換與情緒語言分開，讓孩子保有不分享的選擇。",
+    "questions": [
+      "孩子先注意到作品的哪一種感官線索？",
+      "成人是否先說出了自己的感受？",
+      "角色交換時誰決定情境？",
+      "孩子能否拒絕談私密記憶？",
+      "哪個動作比語言更能表達感受？",
+      "成人是否將「愛」預設成單一答案？",
+      "家庭經驗不同的觀眾如何被尊重？",
+      "孩子提出相反意見時怎麼回應？",
+      "作品與家庭經驗之間有哪些界線？",
+      "回家後可保留哪個由孩子提出的問題？"
+    ],
+    "strategy": "每輪先觀察作品，再交換視角，最後讓孩子選擇畫、說、動作或沉默。",
+    "task": "與孩子選一件作品，各自寫或畫一張角色交換卡；比較雙方說法，記下成人替孩子解釋的次數。",
+    "training": "30分鐘：10分鐘感官觀察、10分鐘角色交換、10分鐘自主表達；不評判感受是否正確。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "臺灣臺北",
+      "title": "I Spy Love，發現愛",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "臺北市立美術館兒藝中心《I Spy Love，發現愛》展期為2026年10月3日至2027年2月21日，集合四位藝術家，以聲音、攝影、雕塑、錄像與互動探索心跳、距離、記憶及關係；館方規劃角色對調情境卡與創作體驗。",
+      "references": [
+        {
+          "title": "臺北市立美術館｜I Spy Love，發現愛",
+          "publisher": "臺北市立美術館",
+          "url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=816",
+          "accessedAt": "2026-10-29"
+        },
+        {
+          "title": "臺北市立美術館｜延伸官方資料",
+          "publisher": "臺北市立美術館",
+          "url": "https://www.tfam.museum/News/News_page.aspx?ddlLang=zh-tw&id=2136",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】臺北市立美術館兒藝中心《I Spy Love，發現愛》展期為2026年10月3日至2027年2月21日，集合四位藝術家，以聲音、攝影、雕塑、錄像與互動探索心跳、距離、記憶及關係；館方規劃角色對調情境卡與創作體驗。\n【事實／推論界線】官方活動設計可核對；角色交換是否改善親子溝通屬待測試假設，不能預先宣稱效果。\n【待驗證假設】允許孩子拒答並選擇表達媒介，會提高親子對話的真實性。\n【底層需求】讓兒童在關係議題中保有安全與表達自主權。\n【現實限制】年齡、語言能力、家庭背景及展廳公共性會限制分享深度。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：「我看到／我感到／我願意說」三句可移植到家庭對話。\n【官方來源】[https://www.tfam.museum/Exhibition/Exhibition\\_Special.aspx?ddlLang=zh-tw&id=816；https://www.tfam.museum/News/News\\_page.aspx?ddlLang=zh-tw&id=2136](https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=816%EF%BC%9Bhttps://www.tfam.museum/News/News_page.aspx?ddlLang=zh-tw&id=2136)"
+  },
+  {
+    "id": "daily-2026-10-29-life",
+    "daily": true,
+    "date": "2026-10-29",
+    "category": "人生策展課題",
+    "lens": "生活策展與注意力配置",
+    "source": "Open Art Space: MoMA Teens Monster Mash官方資料（查證截至2026-10-29）",
+    "title": "當一個創作空間說「你可以做自己」，真正讓人敢留下來的條件是什麼？",
+    "summary": "從MoMA青少年自由創作活動檢視歸屬感的實際條件，區分宣傳語言、參與門檻與可持續的同儕支持。",
+    "questions": [
+      "第一次進入陌生創作空間時最在意什麼？",
+      "免費活動還可能有哪些隱形成本？",
+      "是否允許只觀看而不動手？",
+      "什麼樣的主持方式降低被評價的感覺？",
+      "服裝或怪物創作能否讓人安全表達？",
+      "誰可以拒絕被拍照或分享？",
+      "一次活動與每週持續開放有何差異？",
+      "遇到衝突時誰負責維持界線？",
+      "你如何辨認真正的同儕支持？",
+      "下一次參與時願意測試哪個微小改變？"
+    ],
+    "strategy": "盤點一個創作社群的加入成本、發言權、退出方式與回訪機制。",
+    "task": "選一個你參與的創作群體，訪談兩位成員何時覺得能做自己，提出一個可在下次聚會測試的改善。",
+    "training": "用20分鐘寫三欄：環境提供的支持、自己實際感受、尚未得到的選擇權；再設計一項可驗證的微調。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國紐約",
+      "title": "Open Art Space: MoMA Teens Monster Mash",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "MoMA於2026年10月29日16:00至18:00安排免費Open Art Space: MoMA Teens Monster Mash，以製作針氈怪物、服裝與交流為活動；Open Art Space是每週提供高中年齡青少年創作與連結的課後計畫，官方特別提到LGBTQ+青少年及其盟友，無需既有藝術經驗。",
+      "references": [
+        {
+          "title": "The Museum of Modern Art｜Open Art Space: MoMA Teens Monster Mash",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11679",
+          "accessedAt": "2026-10-29"
+        },
+        {
+          "title": "The Museum of Modern Art｜延伸官方資料",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/programs/199",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年10月29日16:00至18:00安排免費Open Art Space: MoMA Teens Monster Mash，以製作針氈怪物、服裝與交流為活動；Open Art Space是每週提供高中年齡青少年創作與連結的課後計畫，官方特別提到LGBTQ+青少年及其盟友，無需既有藝術經驗。\n【事實／推論界線】官方可證明開放形式與目標群體；活動對歸屬感的長期影響與每位參與者的安全感未有公開測量。\n【待驗證假設】持續性、退出自由與非競爭性的創作環境，比一次性宣稱包容更能支持歸屬。\n【底層需求】建立能夠持續探索身份與創作的支持關係。\n【現實限制】社交焦慮、身份揭露風險、活動時段與參與者差異。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：用「可加入／可拒絕／可再來」三項衡量社群空間。\n【官方來源】[https://www.moma.org/calendar/events/11679；https://www.moma.org/calendar/programs/199](https://www.moma.org/calendar/events/11679%EF%BC%9Bhttps://www.moma.org/calendar/programs/199)"
+  },
+  {
+    "id": "daily-2026-10-29-participation",
+    "daily": true,
+    "date": "2026-10-29",
+    "category": "國際民眾參與策展實作",
+    "lens": "參與權力與可驗證影響",
+    "source": "Art Club: Analog FYP官方資料（查證截至2026-10-29）",
+    "title": "當參與者不能使用對象的照片，卻要拼貼出他的社群檔案，策展如何揭露我們對他人的刻板想像？",
+    "summary": "透過Walker的Analog FYP活動，測試參與者如何以缺席圖像建構身份，並設計當事人可回應與修正的機制。",
+    "questions": [
+      "你用哪些符號替代了對象的照片？",
+      "這些符號來自觀察還是社群慣例？",
+      "誰有權決定檔案的標題？",
+      "拼貼能否讓當事人提出異議？",
+      "沒有直接圖像是否真的降低偏見？",
+      "哪些素材可能侵犯他人權益？",
+      "ASL支援如何改變參與方式？",
+      "材料先到先得會排除哪些訪客？",
+      "作品展示前需要何種同意？",
+      "活動結束後如何測量觀眾理解的改變？"
+    ],
+    "strategy": "以圖像來源標籤與匿名回應卡，區分觀察、推測與投射，允許撤回展示。",
+    "task": "選一個非真人的公共場所做九宮格拼貼，不使用該場所照片；邀請兩人猜測後記錄誤解來源。",
+    "training": "40分鐘：15分鐘拼貼、10分鐘交換解讀、10分鐘標記推測、5分鐘制定公開與撤回規則。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國明尼亞波利斯",
+      "title": "Art Club: Analog FYP",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "Walker Art Center於2026年10月29日17:00至20:00舉行免費Art Club: Analog FYP，邀請參與者用拼貼製作人物、地點或事物的社群檔案，但不得使用該對象本身的圖像；活動免報名、材料先到先得且數量有限，現場提供ASL手語翻譯。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Art Club: Analog FYP",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/art-club-analog-fyp/",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center於2026年10月29日17:00至20:00舉行免費Art Club: Analog FYP，邀請參與者用拼貼製作人物、地點或事物的社群檔案，但不得使用該對象本身的圖像；活動免報名、材料先到先得且數量有限，現場提供ASL手語翻譯。\n【事實／推論界線】官方活動規則可查，但沒有證據表明作品一定揭露偏見或改變參與者態度。\n【待驗證假設】禁止直接使用對象影像，會讓參與者更清楚察覺自己倚賴的聯想與偏見。\n【底層需求】讓公眾在創作中反省身份再現的權力。\n【現實限制】材料有限、作品可能冒犯對象、無法保證當事人同意公開。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：「先拼貼／再自評／由對象回應」三階段可複用。\n【官方來源】[https://www.walkerart.org/whats-on/art-club-analog-fyp/](https://www.walkerart.org/whats-on/art-club-analog-fyp/)"
+  },
+  {
+    "id": "daily-2026-10-29-thinking",
+    "daily": true,
+    "date": "2026-10-29",
+    "category": "策展思考訓練",
+    "lens": "觀察、比較與策展判斷",
+    "source": "Tours \\| Arts of Japan官方資料（查證截至2026-10-29）",
+    "title": "一小時日本藝術導覽橫跨繪畫、屏風與金工時，策展如何避免讓媒材分類遮蔽作品的使用情境？",
+    "summary": "以Smithsonian日本藝術導覽為基礎，練習同時從材質、身體尺度、移動方式與歷史用途閱讀作品。",
+    "questions": [
+      "屏風與掛軸的觀看姿態有何差異？",
+      "陶瓷原本可能如何被持握或使用？",
+      "金工物件的功能與裝飾是否可分？",
+      "季節主題會凸顯哪些作品又排除哪些？",
+      "原本的室內光線與展櫃光線有何差異？",
+      "不同媒材能否用同一套審美標準評價？",
+      "作品的移動與收藏歷史需要哪些證據？",
+      "一小時應保留幾件核心作品？",
+      "如何避免將日本文化寫成單一傳統？",
+      "觀眾可以用哪個問題反向改變導覽路線？"
+    ],
+    "strategy": "先挑三種媒材，對照觀看距離、原用途與展櫃限制，再用一條季節線索串接。",
+    "task": "以一件屏風、一件陶瓷、一件版畫設計15分鐘導覽，為每件加入一項與生活使用相關的問題。",
+    "training": "用30分鐘練習媒材卡：每張卡記錄物件用途、身體尺度、展示限制與尚未查證之處。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "美國華盛頓特區",
+      "title": "Tours \\| Arts of Japan",
+      "statusAsOf": "2026-10-29",
+      "latestUpdate": "Smithsonian國立亞洲藝術博物館於2026年10月29日12:00至13:00提供免費日本藝術導覽，無須報名；館方列出繪畫、版畫、屏風、陶瓷、金工等多種媒材，並以季節變化作為觀看入口。",
+      "references": [
+        {
+          "title": "Smithsonian National Museum of Asian Art｜Tours \\| Arts of Japan",
+          "publisher": "Smithsonian National Museum of Asian Art",
+          "url": "https://asia.si.edu/whats-on/events/search/event%3A206667579/",
+          "accessedAt": "2026-10-29"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Smithsonian國立亞洲藝術博物館於2026年10月29日12:00至13:00提供免費日本藝術導覽，無須報名；館方列出繪畫、版畫、屏風、陶瓷、金工等多種媒材，並以季節變化作為觀看入口。\n【事實／推論界線】館方只列出導覽範圍與形式，沒有公開逐件選品、實際導覽詞與觀眾回應。\n【待驗證假設】將物件原有使用方式納入導覽，能修正單靠美術媒材分類造成的理解偏差。\n【底層需求】建立跨媒材且對生活情境敏感的策展語彙。\n【現實限制】一小時內物件多、歷史脈絡龐雜，容易落入概括式文化敘事。\n【原創模擬】策略、實驗與訓練為Curator OS原創教學設計；可複用方法：每件物件問「誰用／在哪用／怎麼移動／如何保存」。\n【官方來源】[https://asia.si.edu/whats-on/events/search/event%3A206667579/](https://asia.si.edu/whats-on/events/search/event%3A206667579/)"
+  },
+  {
+    "id": "daily-2026-10-30-curator",
+    "daily": true,
+    "date": "2026-10-30",
+    "category": "專業策展人提問思考課題",
+    "lens": "證據分層與機構自我反身",
+    "source": "Book Talk: Colorstruck! Painting, Pigment, Affect官方資料（查證截至2026-10-30）",
+    "title": "當「色彩」同時涉及顏料、身體感受與自由政治，策展如何建立證據鏈，避免把情感效應寫成無法檢驗的口號？",
+    "summary": "以《Colorstruck! Painting, Pigment, Affect》講座為例，將色彩拆成材料、形式、歷史語境與觀眾感受四層，逐項標示證據來源及仍待驗證的推論。",
+    "questions": [
+      "展覽中的色彩主張究竟指顏料物質、視覺關係、文化符號，還是身體感受？",
+      "哪些論點可由作品材料、製作技術與保存資料直接支持？",
+      "「自由」與「重新取回」等政治語彙，連結到哪些具體作品、人物與歷史事件？",
+      "觀眾受到色彩觸動的描述，是研究結果、個人證詞，還是策展預設？",
+      "不同膚色、照明、印刷與螢幕再現會如何改變同一色彩的意義？",
+      "策展文字是否把藝術家的色彩選擇簡化成單一身份象徵？",
+      "講者、策展人與觀眾對色彩的命名權是否被清楚區分？",
+      "哪些跨作品比較具有可追蹤的歷史關係，哪些只屬形式上的相似？",
+      "書籍、講座與展場物件之間的證據層級應如何標示？",
+      "觀眾離場後能否指出一項可驗證證據與一項仍待查的推論？"
+    ],
+    "strategy": "建立「色彩四層證據表」：材料事實、形式觀察、歷史脈絡、觀眾反應；每一項主張都附來源、反證與不確定性。",
+    "task": "選三件以強烈色彩著稱的作品，各寫一條材料證據、一條形式觀察、一條歷史脈絡及一條觀眾假設，再刪除無法追溯來源的形容詞。",
+    "training": "做60分鐘色彩證據訓練：15分鐘只記色相與位置，15分鐘查材料，15分鐘查歷史語境，最後15分鐘把情感語句改寫成可被反駁的假設。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "華盛頓特區",
+      "title": "Book Talk: Colorstruck! Painting, Pigment, Affect",
+      "statusAsOf": "2026-10-30",
+      "latestUpdate": "美國國家藝廊於2026年10月30日14:00至15:30舉行Richard J. Powell新書《Colorstruck! Painting, Pigment, Affect》對談，由非裔美國與非洲離散藝術副策展人Kanitra Fletcher參與；館方指出研究關注色彩如何連結藝術與生活中的自由及重新取回，內容源自2022年A. W. Mellon藝術講座，對談後安排簽書。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Book Talk: Colorstruck! Painting, Pigment, Affect",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/book-talk-colorstruck-painting-pigment-affect",
+          "accessedAt": "2026-10-30"
+        }
+      ]
+    },
+    "rawText": "【來源事實】美國國家藝廊於2026年10月30日14:00至15:30舉行Richard J. Powell新書《Colorstruck! Painting, Pigment, Affect》對談，由Kanitra Fletcher參與；內容源自2022年A. W. Mellon藝術講座。\n【事實／推論界線】官方資料可證明時間、講者、書籍與研究主題；色彩必然造成特定政治或情緒效果，仍需作品、歷史與觀眾研究支持。\n【原創模擬】色彩四層證據表、任務與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-30-family",
+    "daily": true,
+    "date": "2026-10-30",
+    "category": "親子觀展教育訓練",
+    "lens": "親子共學與開放提問",
+    "source": "Family Art Making: Make a Mask官方資料（查證截至2026-10-30）",
+    "title": "親子一起製作面具時，成人如何讓「遮住、誇張或變身」成為孩子的選擇，而不把作品接管成萬聖節標準答案？",
+    "summary": "把面具製作當成親子協商練習，讓孩子決定看見與隱藏的部分、材料與角色，成人只協助安全、工具及提問。",
+    "questions": [
+      "孩子希望面具遮住哪一部分，又希望留下哪一部分可見？",
+      "他選擇的角色來自作品、節慶、媒體，還是自己的想像？",
+      "成人提供的範例是否變成必須模仿的標準答案？",
+      "紙板、拼貼與洞口的位置如何影響觀看與呼吸？",
+      "孩子想只做半張面具或不戴上時，成人能否接受？",
+      "誰決定顏色與材料的搭配？",
+      "面具完成後是否必須公開表演或拍照？",
+      "成人何時協助切割最安全，何時已接管造型？",
+      "孩子能否為面具設定一項能力與一項界線？",
+      "活動結束後，孩子如何說明一個自己做的決定？"
+    ],
+    "strategy": "採用「孩子決定、成人協助、共同回看」三段法；先約定安全範圍，再由孩子選擇遮蔽、材料與是否展示。",
+    "task": "與孩子共同製作一件20分鐘紙板拼貼面具，成人只能問五個開放問題；完成後分別畫出兩人認為最重要的部分並比較。",
+    "training": "記錄成人每一次伸手修改作品的衝動，改用提問或工具示範；最後由孩子選擇是否佩戴、拍照或保存。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "紐約",
+      "title": "Family Art Making: Make a Mask",
+      "statusAsOf": "2026-10-30",
+      "latestUpdate": "MoMA將於2026年10月31日11:00至13:30舉行Family Art Making: Make a Mask，邀請親子以館內作品相關材料與技法製作紙板拼貼面具；每個月推出新計畫，單次通常需20至30分鐘，由教學藝術家介紹後讓家庭自主探索。兒童與成人共同參與，16歲以下兒童免費，現場可依需求提供無靠背摺疊椅及助聽設備。",
+      "references": [
+        {
+          "title": "The Museum of Modern Art｜Family Art Making: Make a Mask",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11759",
+          "accessedAt": "2026-10-30"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA將於2026年10月31日11:00至13:30舉行親子紙板拼貼面具活動；單次製作約20至30分鐘，兒童與成人共同參與，並提供部分座位與助聽支援。\n【事實／推論界線】官方未指定孩子與成人如何分配決策權，也未要求所有人佩戴或公開展示；三段協商法是原創教學設計。\n【原創模擬】策略、任務與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-30-life",
+    "daily": true,
+    "date": "2026-10-30",
+    "category": "人生策展課題",
+    "lens": "生活策展與注意力配置",
+    "source": "Dorothée Munyaneza: Toi, moi, Tituba...官方資料（查證截至2026-10-30）",
+    "title": "當歷史只留下對一名被奴役女性的審判紀錄，你如何在觀看表演時分辨追索、想像與替她說話之間的界線？",
+    "summary": "從Dorothée Munyaneza以身體、聲音、陰影與檔案追索Tituba的表演出發，練習在個人記憶與歷史缺口中標示已知、感受與不可代言之處。",
+    "questions": [
+      "你對Tituba的認識來自哪些史料、作品或後世敘事？",
+      "表演中的身體、歌聲與光影提供了什麼證據，又創造了什麼想像？",
+      "當檔案由審判者留下時，被記錄者的聲音如何被扭曲？",
+      "你在哪一刻產生同情，這份感受是否被舞台形式引導？",
+      "重新喚回一個歷史人物與替她發言之間的界線在哪裡？",
+      "有限座位與觀眾同台如何改變觀看者的責任感？",
+      "燈光與聲音變化對你的身體造成何種反應？",
+      "哪些沉默應被保留，哪些缺口需要繼續研究？",
+      "你的個人經驗能與歷史人物共鳴到什麼程度？",
+      "離場後你願意查證哪一項資料，修正哪一個直覺判斷？"
+    ],
+    "strategy": "使用「檔案／演繹／我的反應／不可代言」四欄觀看筆記，允許感受存在，同時標出它不能替代的歷史證據。",
+    "task": "觀看一段處理歷史缺席者的表演或影像，完成四欄筆記；選一段最強烈的感受，追查其舞台線索與史料來源。",
+    "training": "做45分鐘慢看：15分鐘記身體與聲音，10分鐘記檔案線索，10分鐘記自身投射，最後10分鐘寫下一句保留未知的結論。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "明尼亞波利斯",
+      "title": "Dorothée Munyaneza: Toi, moi, Tituba...",
+      "statusAsOf": "2026-10-30",
+      "latestUpdate": "Walker Art Center於2026年10月28日至30日19:30在McGuire Theater演出Dorothée Munyaneza的《Toi, moi, Tituba...》。館方說明作品以動作、陰影、歌聲與霓虹光重新喚起Tituba，一名在薩勒姆女巫審判中最早被指控的被奴役女性；演出採有限容量與舞台座席，場地無障礙，並提醒燈光與聲音會間歇變化。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Dorothée Munyaneza: Toi, moi, Tituba...",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/dorothee-munyaneza-toi-moi-tituba/",
+          "accessedAt": "2026-10-30"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center於2026年10月28日至30日19:30演出《Toi, moi, Tituba...》，作品以動作、陰影、歌聲與霓虹光追索Tituba；演出有限容量、觀眾坐在舞台上，並有燈光與聲音變化提醒。\n【事實／推論界線】官方敘述可證明表演形式與歷史指涉，不能證明作品還原了Tituba的完整生命或她本人的聲音。\n【原創模擬】四欄觀看筆記、任務與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-30-participation",
+    "daily": true,
+    "date": "2026-10-30",
+    "category": "國際民眾參與策展實作",
+    "lens": "參與權力與可驗證影響",
+    "source": "2026 Fall Teen Fest: Imagining Futures官方資料（查證截至2026-10-30）",
+    "title": "當青少年節以「想像未來」邀請創作，參與式策展如何把想像轉成可追蹤的機構決定，而不讓未來只停在一次性的漂亮作品？",
+    "summary": "先讓青少年定義要改變的具體條件，再把作品提案連到空間、節目或資源中的一項真實決策；機構設定回覆期限，公開採納、試行與不採納理由。",
+    "questions": [
+      "「未來」由青少年定義還是由機構命題？",
+      "創作活動對應哪個現實問題？",
+      "參與者能改變空間、節目還是預算？",
+      "哪些提案可在30天內低成本試行？",
+      "誰負責回覆，期限是何時？",
+      "不採納時是否提供可理解的限制與替代方案？",
+      "未成年人作品與影像如何取得逐項同意？",
+      "無法到場或不擅長製作的人如何參與？",
+      "一次節慶後是否有回返與共同檢查？",
+      "成功以作品數、參與人數還是真實改變衡量？"
+    ],
+    "strategy": "建立「想像—決定轉換表」：每件提案寫下問題、所需權力、可試行範圍、負責人、回覆日與結果；至少挑一項30天內執行，否則不宣稱共同創造。",
+    "task": "設計一場兩小時青少年未來工作坊，預先列出三項機構願意交出的決策；活動後把每項提案填入轉換表，七天內回覆，30天內公開一項試行結果。",
+    "training": "做90分鐘「未來要落地」：20分鐘定義問題、20分鐘形成提案、20分鐘辨認所需權力、15分鐘由機構回應限制，最後15分鐘寫出負責人與時間表。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "紐約",
+      "title": "2026 Fall Teen Fest: Imagining Futures",
+      "statusAsOf": "2026-10-30",
+      "latestUpdate": "Guggenheim New York於2026年10月30日16時舉行《2026 Fall Teen Fest: Imagining Futures》。官方日曆將活動列為隨門票免費的特別活動，說明青少年可透過展覽與聚焦轉化、想像的創作活動探索未來可能性。",
+      "references": [
+        {
+          "title": "Guggenheim｜Calendar: October 30, 2026",
+          "publisher": "Guggenheim",
+          "url": "https://www.guggenheim.org/",
+          "accessedAt": "2026-10-30"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Guggenheim New York於2026年10月30日16時舉行《2026 Fall Teen Fest: Imagining Futures》。官方日曆將活動列為隨門票免費的特別活動，說明青少年可透過展覽與聚焦轉化、想像的創作活動探索未來可能性。\n\n【事實／推論界線】官方可證實日期、時間、對象、費用類型與活動主題；公開頁面未說明青少年能改變哪些機構決策，也未證明一次創作活動會產生持續影響。轉換表與30天試行為原創參與模型。\n\n【原創模擬】策略、任務、訓練與提問由Curator OS原創設計；它們是可測試的方法，不是來源機構已驗證的成效。"
+  },
+  {
+    "id": "daily-2026-10-30-thinking",
+    "daily": true,
+    "date": "2026-10-30",
+    "category": "策展思考訓練",
+    "lens": "觀察、比較與策展判斷",
+    "source": "Drop-in Drawing官方資料（查證截至2026-10-30）",
+    "title": "當所有年齡都可直接在展廳畫畫，策展訓練如何把素描變成觀察證據，而不滑向臨摹得像不像？",
+    "summary": "以MoMA展廳自由素描為例，把畫畫轉化為選擇、遺漏、比例與觀看時間的紀錄，訓練參與者說明自己如何看見作品。",
+    "questions": [
+      "第一筆線條記錄了作品的哪個關係，而非哪個物件？",
+      "你在三十秒、五分鐘與二十分鐘時看見的重點有何改變？",
+      "畫面中哪些部分被放大、縮小或省略，原因是什麼？",
+      "座位位置與觀看距離如何改變比例判斷？",
+      "示範教學是否讓參與者模仿教師的風格而減少自主觀察？",
+      "「畫得像」是否真的等於看得仔細？",
+      "沒有繪畫經驗者可用哪些記號保存觀察？",
+      "英語與西班牙語提示是否提供相同程度的開放性？",
+      "不同年齡的參與者能否用同一標準評估觀察成果？",
+      "素描完成後，哪一條線最能說明你的觀看決定？"
+    ],
+    "strategy": "使用「三輪素描法」：30秒畫關係、5分鐘畫比例、15分鐘畫遺漏；每輪後寫一句可被他人核對的觀察。",
+    "task": "選一件作品完成三張不同時間尺度的素描，圈出每張新增與消失的元素，再寫150字說明觀看如何改變。",
+    "training": "在40分鐘內完成三輪素描與同伴互評；互評只問證據、視角與選擇，暫時不評論技巧與美感。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "",
+      "location": "紐約",
+      "title": "Drop-in Drawing",
+      "statusAsOf": "2026-10-30",
+      "latestUpdate": "MoMA於2026年10月30日17:30至19:30在David Geffen Wing四樓Gallery 413舉行Drop-in Drawing。活動由教學藝術家與館員引導，提供自主繪畫提示及短示範；所有年齡皆可參與，現場提供材料與座位，不要求經驗、能力或預約，提示備有英語與西班牙語版本。",
+      "references": [
+        {
+          "title": "The Museum of Modern Art｜Drop-in Drawing",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11586",
+          "accessedAt": "2026-10-30"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年10月30日17:30至19:30在Gallery 413舉行Drop-in Drawing，提供材料、座位、自主提示與短示範；活動面向所有年齡，不要求經驗或預約，提示有英語與西班牙語版本。\n【事實／推論界線】官方資料未證明素描必然提高觀察力，也未公布各年齡參與成果；三輪素描法是訓練假設。\n【原創模擬】策略、任務與訓練由Curator OS設計。"
   }
 ]
