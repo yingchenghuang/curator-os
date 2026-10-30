@@ -23879,5 +23879,233 @@
       ]
     },
     "rawText": "【來源事實】MoMA於2026年10月30日17:30至19:30在Gallery 413舉行Drop-in Drawing，提供材料、座位、自主提示與短示範；活動面向所有年齡，不要求經驗或預約，提示有英語與西班牙語版本。\n【事實／推論界線】官方資料未證明素描必然提高觀察力，也未公布各年齡參與成果；三輪素描法是訓練假設。\n【原創模擬】策略、任務與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-31-curator",
+    "daily": true,
+    "date": "2026-10-31",
+    "category": "專業策展人提問思考課題",
+    "lens": "跨時序策展與政治語境",
+    "source": "MoMA Sergei Loznitsa影展與2026年10月31日日曆官方資料（查證截至2026-10-31）",
+    "title": "當同一位導演以《Maidan》與《The Invasion》記錄相距十年的烏克蘭，策展如何比較拍攝位置與歷史語境，而不把兩部片壓成單一戰爭敘事？",
+    "summary": "以時間、拍攝者位置、素材來源、敘事方法與作品完成時的政治條件建立雙片對照；先說明差異，再討論連續性，避免用後來事件替早期作品補上它當時尚未知道的結論。",
+    "questions": [
+      "兩部片各自在哪一年、哪個政治條件下完成？",
+      "導演在兩次拍攝中的位置與可接近範圍有何不同？",
+      "哪些畫面來自現場觀察，哪些依賴後來編排？",
+      "長鏡頭、剪輯與聲音如何改變事件時間感？",
+      "早期作品有哪些不應由後來戰事倒推的意義？",
+      "相同人物、地點或口號是否真的構成歷史連續性？",
+      "缺席的地區、族群與政治立場有哪些？",
+      "策展標籤如何區分影片事實、導演觀點與機構詮釋？",
+      "同日放映順序會讓觀眾先相信哪一種因果？",
+      "若交換放映順序，展覽核心論點會如何改變？"
+    ],
+    "strategy": "建立「跨時序五欄表」：事件時間、製作時間、拍攝位置、形式方法、後見風險；每項連續性判斷都需列出一項差異與一項反證。",
+    "task": "選同一創作者相隔五年以上的兩件作品，完成跨時序五欄表；寫一段先談差異、再談連續性的120字標籤，刪除兩個由後見之明產生的因果詞。",
+    "training": "做90分鐘「不要把十年剪成一條線」：20分鐘建立雙時間軸、20分鐘比較拍攝位置、20分鐘分析形式、15分鐘列缺席視角，最後15分鐘重排放映順序並改寫論點。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Sergei Loznitsa：Maidan / The Invasion",
+      "statusAsOf": "2026-10-31",
+      "latestUpdate": "MoMA的Sergei Loznitsa回顧影展持續至2026年11月24日；官方日曆排定2026年10月31日16時放映2014年的《Maidan》，19時放映2024年的《The Invasion》，同日另有《Donbass》與短片節目。",
+      "references": [
+        {
+          "title": "MoMA｜Sergei Loznitsa",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/5937",
+          "accessedAt": "2026-10-31"
+        },
+        {
+          "title": "MoMA｜Events, October 31, 2026",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/?date=2026-10-31&happening_filter=All+events",
+          "accessedAt": "2026-10-31"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA的Sergei Loznitsa回顧影展持續至2026年11月24日；官方日曆排定2026年10月31日16時放映2014年的《Maidan》，19時放映2024年的《The Invasion》，同日另有《Donbass》與短片節目。\n【事實／推論界線】官方資料可證實系列期間、片名、年份與10月31日放映時間；兩片之間的歷史連續性、導演位置與政治因果仍需回到影片、製作資料及多方史料判斷。\n【原創模擬】跨時序五欄表、任務與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-31-family",
+    "daily": true,
+    "date": "2026-10-31",
+    "category": "親子觀展教育訓練",
+    "lens": "材料選擇與親子共同觀察",
+    "source": "Guggenheim Art Cart官方資料（查證截至2026-10-31）",
+    "title": "當Art Cart把材料直接推進展廳，親子如何讓「選什麼工具」也成為觀察的一部分，而不是先做完手作再回頭替作品找理由？",
+    "summary": "先由孩子從作品找一個需要測試的線索，再依線條、重量、透明或連接方式選材料；製作中保留換工具與不完成的權利，最後回到作品檢查材料選擇帶來的新發現。",
+    "questions": [
+      "孩子想測試作品的哪一個具體線索？",
+      "為什麼選這種材料，而不是另一種？",
+      "工具的阻力、透明與重量改變了什麼觀察？",
+      "成人是否先決定了成品類型？",
+      "孩子能否中途換工具、拆掉或停止？",
+      "創作桌與原作之間是否有回看路徑？",
+      "材料活動會不會讓注意力離開作品太久？",
+      "不同年齡與手部能力有哪些替代工具？",
+      "親子各自選的材料透露了哪些觀看差異？",
+      "離場時能否說出一個新發現，而不只帶走成品？"
+    ],
+    "strategy": "使用「線索—材料—回看」卡：先寫作品線索，再預測材料能測到什麼，製作後回看並記錄支持、推翻或無關；成品不作為成功標準。",
+    "task": "和孩子選一件作品及三種不同阻力的材料，先各自預測哪一種最能回應作品線索；試作後回看原作，記錄一次換工具與一個被推翻的想法。",
+    "training": "做45分鐘「材料要回答問題」：10分鐘無材料觀看、10分鐘選材與預測、15分鐘試作、5分鐘回看，最後5分鐘由孩子決定保留成品還是只保留發現。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Art Cart",
+      "statusAsOf": "2026-10-31",
+      "latestUpdate": "Guggenheim New York官方日曆列出2026年10月31日10時30分與15時兩場全齡Art Cart。館方將Art Cart描述為在展廳透過動手創作探索館藏與當期展覽的家庭活動，隨博物館門票免費參加。",
+      "references": [
+        {
+          "title": "Guggenheim｜Art Cart",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/art-cart",
+          "accessedAt": "2026-10-31"
+        },
+        {
+          "title": "Guggenheim｜For Families",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/event_series/for-families",
+          "accessedAt": "2026-10-31"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Guggenheim New York官方日曆列出2026年10月31日10時30分與15時兩場全齡Art Cart。館方將Art Cart描述為在展廳透過動手創作探索館藏與當期展覽的家庭活動，隨博物館門票免費參加。\n【事實／推論界線】官方可證實日期、兩個時段、全齡、展廳創作與票務條件；公開頁面未提供10月31日特定作品、材料清單或親子對話成效。\n【原創模擬】線索—材料—回看卡、換工具規則與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-31-life",
+    "daily": true,
+    "date": "2026-10-31",
+    "category": "人生策展課題",
+    "lens": "安靜時段與注意力邊界",
+    "source": "MoMA Member Early Hour官方日曆資料（查證截至2026-10-31）",
+    "title": "當會員晨間專場用較早的一小時換取較少干擾，你如何判斷自己需要的是慢速觀看、身份特權，還是可以自行建立的注意力邊界？",
+    "summary": "把晨間專場的價值拆成安靜、時間、社交、身份與費用五欄；比較一次會員時段與一次自行安排的離峰觀看，只保留真正改善身體與注意力的條件。",
+    "questions": [
+      "較少干擾真的讓你多看見了什麼？",
+      "提早到館對睡眠與交通造成什麼成本？",
+      "你需要的是安靜、座位、時間還是被優先對待？",
+      "會員身份帶來支持感還是比較焦慮？",
+      "同樣效果能否用平日離峰或減少行程取得？",
+      "你停留更久，還是只是更急著利用專屬時段？",
+      "與一般時段相比，身體疲勞有何差異？",
+      "專場讓哪些人更容易進入，又排除哪些人？",
+      "付費會籍有多少實際使用、多少身份訊號？",
+      "下一次你能建立哪一條不需購買的注意力邊界？"
+    ],
+    "strategy": "建立「慢看五欄帳」：安靜、時間、身體、身份、費用；用兩次對照觀看記錄實際差異，不把專屬感直接當成專注。",
+    "task": "安排一次專屬或付費離峰時段與一次自行選擇的普通離峰時段，各記錄停留時間、看見細節、身體疲勞與花費；一週後決定真正需要保留的條件。",
+    "training": "做兩週「安靜不一定要購買」：第一週記專屬時段，第二週自行設計慢看邊界；最後比較注意力收益、費用與身份焦慮，只留一項可持續習慣。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Member Early Hour",
+      "statusAsOf": "2026-10-31",
+      "latestUpdate": "MoMA官方日曆列出2026年10月31日9時30分至10時30分的Member Early Hour，作為會員在一般開館前進入館舍的時段。",
+      "references": [
+        {
+          "title": "MoMA｜Events, October 31, 2026",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/?date=2026-10-31&happening_filter=All+events",
+          "accessedAt": "2026-10-31"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA官方日曆列出2026年10月31日9時30分至10時30分的Member Early Hour，作為會員在一般開館前進入館舍的時段。\n【事實／推論界線】官方日曆可證實日期、時間與會員對象；它未證明人流一定較少、觀看一定更深，也未說明個別會員的注意力或歸屬成效。\n【原創模擬】慢看五欄帳、兩次對照與生活訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-10-31-participation",
+    "daily": true,
+    "date": "2026-10-31",
+    "category": "國際民眾參與策展實作",
+    "lens": "青少年共看與議程權",
+    "source": "Middle School Movie Club: Edward Scissorhands官方資料（查證截至2026-10-31）",
+    "title": "當中學生電影俱樂部以《Edward Scissorhands》共看，參與式策展如何讓青少年決定問題、討論規則與回應形式，而不只回答成人設計的觀後題？",
+    "summary": "把選片理由、討論問題、發言規則與回應媒介各交出一部分決定權；允許畫、寫、沉默或離場，並記錄哪一項青少年意見會改變下一場。",
+    "questions": [
+      "青少年能否理解並質疑本次選片理由？",
+      "第一個討論問題由成人還是參與者提出？",
+      "怪物、異類與社區等標籤會讓誰被簡化？",
+      "不想發言的人能用哪些方式留下回應？",
+      "討論規則能否在現場由青少年修改？",
+      "片中性別、階級與郊區形象如何避免被當成常識？",
+      "誰決定哪些意見被記錄或公開？",
+      "參與者能否提名或投票下一部片？",
+      "安全與分級限制如何透明說明？",
+      "哪一項今日意見會在下一場看見可驗證改變？"
+    ],
+    "strategy": "建立「四權電影俱樂部」：選片權、提問權、規則權、後續權；每場至少把其中兩項交給青少年，並於下一場開頭回報採納與未採納理由。",
+    "task": "設計一場60分鐘共看討論，只預先準備一個成人問題；讓參與者匿名提出問題、共同選兩題、修改一條規則，並投票決定下一次回應媒介。",
+    "training": "做75分鐘「觀後不考試」：15分鐘說明選片與界線、20分鐘觀看片段、15分鐘匿名出題、15分鐘共議規則，最後10分鐘完成下一場承諾表。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "title": "Middle School Movie Club: Edward Scissorhands",
+      "statusAsOf": "2026-10-31",
+      "latestUpdate": "Walker Art Center官方節目頁將《Middle School Movie Club: Edward Scissorhands》列於2026年10月31日，作為面向中學生的電影俱樂部放映活動。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Middle School Movie Club: Edward Scissorhands",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/middle-school-movie-club-edward-scissorhands/",
+          "accessedAt": "2026-10-31"
+        },
+        {
+          "title": "Walker Art Center｜Calendar",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/calendar/",
+          "accessedAt": "2026-10-31"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center官方節目頁將《Middle School Movie Club: Edward Scissorhands》列於2026年10月31日，作為面向中學生的電影俱樂部放映活動。\n【事實／推論界線】官方資料可證實日期、節目名稱、影片與中學生對象；公開摘要不足以證明青少年實際掌握選片、提問或後續決策權，這些是本條目提出的待驗證參與設計。\n【原創模擬】四權電影俱樂部、承諾表與訓練流程由Curator OS原創。"
+  },
+  {
+    "id": "daily-2026-10-31-thinking",
+    "daily": true,
+    "date": "2026-10-31",
+    "category": "策展思考訓練",
+    "lens": "專家知識與證據分層",
+    "source": "Before-Hours Tours with an Art Historian官方日曆資料（查證截至2026-10-31）",
+    "title": "當藝術史家在開館前帶領一小時導覽，策展訓練如何把專家說明拆成作品證據、歷史來源與個人詮釋，而不是整包當成標準答案？",
+    "summary": "聽導覽時同步做三色筆記：作品現場可驗證、需外部來源支持、講者提出的詮釋；導覽後只追查一個關鍵來源，並保留一項合理不同意。",
+    "questions": [
+      "哪一句能直接由眼前作品確認？",
+      "哪一句需要年代、書信、技術或展覽史來源？",
+      "講者使用了哪些推論詞與價值判斷？",
+      "作品標籤與口頭說明是否互相支持？",
+      "專家是否說明資料的不確定性或爭議？",
+      "你最先看見的細節是否被導覽保留？",
+      "團體移動與時間限制讓哪些作品被忽略？",
+      "不同學派會如何解釋同一證據？",
+      "你合理不同意的一句話依據是什麼？",
+      "導覽後最值得回查的原始來源是哪一項？"
+    ],
+    "strategy": "使用「三色導覽筆記」：綠色記現場可驗證、藍色記需查來源、橘色記詮釋與疑問；結束後只選一項藍色資料回查，避免資訊堆積。",
+    "task": "聽一段20分鐘線上或現場導覽，至少記下三項作品證據、三項外部事實與三項詮釋；回查一個來源，寫出一項同意與一項保留。",
+    "training": "做60分鐘「專家也要標示證據」：15分鐘先看作品、20分鐘聽導覽做三色筆記、15分鐘回查一項來源，最後10分鐘把一段說明改寫成證據與詮釋分層版本。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Before-Hours Tours with an Art Historian",
+      "statusAsOf": "2026-10-31",
+      "latestUpdate": "MoMA官方日曆列出2026年10月31日9時30分至10時30分的《Before-Hours Tours with an Art Historian》，安排在一般開館前由藝術史家帶領參觀。",
+      "references": [
+        {
+          "title": "MoMA｜Events, October 31, 2026",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/?date=2026-10-31&happening_filter=All+events",
+          "accessedAt": "2026-10-31"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA官方日曆列出2026年10月31日9時30分至10時30分的《Before-Hours Tours with an Art Historian》，安排在一般開館前由藝術史家帶領參觀。\n【事實／推論界線】官方日曆可證實日期、時間、導覽形式與帶領者類型；公開日曆未提供當日完整路線、逐句來源或觀眾學習成效，因此不能推定專家說明均為唯一解釋。\n【原創模擬】三色導覽筆記、不同意練習與回查任務由Curator OS設計。"
   }
 ]
