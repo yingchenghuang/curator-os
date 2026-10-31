@@ -24107,5 +24107,251 @@
       ]
     },
     "rawText": "【來源事實】MoMA官方日曆列出2026年10月31日9時30分至10時30分的《Before-Hours Tours with an Art Historian》，安排在一般開館前由藝術史家帶領參觀。\n【事實／推論界線】官方日曆可證實日期、時間、導覽形式與帶領者類型；公開日曆未提供當日完整路線、逐句來源或觀眾學習成效，因此不能推定專家說明均為唯一解釋。\n【原創模擬】三色導覽筆記、不同意練習與回查任務由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-01-curator",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "專業策展人提問思考課題",
+    "lens": "被邊緣化音樂史與策展權威",
+    "source": "Walker Art Center《Mack Lecture: Rhiannon Giddens》官方資料（查證截至2026-11-01）",
+    "title": "當Rhiannon Giddens以講座重述美國流行音樂史，策展人如何放大被邊緣化的聲音，又不把一位藝術家變成整段歷史的唯一代言人？",
+    "summary": "把講者論述拆成個人經驗、可查史實、作品證據與策展框架；同時標出她能代表與不能代表的範圍，為未出場的地域、族群、技藝與爭議預留第二組來源。",
+    "questions": [
+      "講者是在以研究者、表演者、當事人還是策展合作人的位置發言？",
+      "哪些歷史主張可由檔案、錄音、樂譜或其他研究交叉查證？",
+      "哪些內容屬於講者的生命經驗，不能被外推為整體社群經驗？",
+      "「被忽略」是指未進入館藏、出版史、市場，還是主流敘事？",
+      "Black Americana、roots、country與blues等類別由誰命名與維持？",
+      "講座形式讓哪些音樂只能被描述，無法被實際聽見或感受？",
+      "策展文字是否把一位知名藝術家的權威擴張成唯一真相？",
+      "哪些地域、世代、性別或原住民音樂脈絡仍然缺席？",
+      "觀眾如何知道史實、藝術家觀點與機構詮釋之間的邊界？",
+      "下一個節目應邀請誰來補充、反駁或改寫今天的敘事？"
+    ],
+    "strategy": "建立「四層聲音譜」：個人經驗、作品證據、可查史實、機構推論；每一項宏大歷史主張至少配置一個獨立來源與一個未被代表的位置。",
+    "task": "選一場藝術家講座，逐句標示四層聲音；挑出三個跨越個人經驗到集體歷史的句子，為每句補一項檔案來源、一項可能反例與一位後續對話者。",
+    "training": "做90分鐘「不要讓代言取代歷史」：20分鐘畫講者位置圖、25分鐘拆分史實與經驗、20分鐘列缺席聲音、15分鐘找獨立來源，最後10分鐘重寫一段不過度授權的策展引言。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼亞波利斯",
+      "title": "Mack Lecture: Rhiannon Giddens",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "Walker Art Center官方排定2026年11月1日19時於Walker Cinema舉行Rhiannon Giddens的Mack Lecture。館方將其描述為深入美國流行音樂的歷史與演變，並指出她的實踐追溯美國音樂史、放大長期被置於邊緣的聲音，跨越Black Americana、roots、country、blues以及歌劇、電影與舞蹈。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Mack Lecture: Rhiannon Giddens",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/mack-lecture-rhiannon-giddens/",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "Walker Art Center｜Calendar",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/calendar/",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center官方排定2026年11月1日19時於Walker Cinema舉行Rhiannon Giddens的Mack Lecture。館方將其描述為深入美國流行音樂的歷史與演變，並指出她的實踐追溯美國音樂史、放大長期被置於邊緣的聲音，跨越Black Americana、roots、country、blues以及歌劇、電影與舞蹈。\n【事實／推論界線】官方頁面可證實時間、地點、票價與館方對講座內容的描述；它不等於講座中的每項歷史主張都已被獨立驗證，也不能證明一位藝術家足以代表所有被邊緣化的美國音樂傳統。\n【原創模擬】四層聲音譜、缺席位置審核與訓練流程由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-01-thinking",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "策展思考訓練",
+    "lens": "改編、影響與比較證據",
+    "source": "MoMA《Sundays with Steven》及兩版《The War of the Worlds》官方資料（查證截至2026-11-01）",
+    "title": "當MoMA把1953與2005兩版《The War of the Worlds》排成雙片，策展思考如何區分共同原著、直接影響與形式相似，而不把並置本身當成因果證據？",
+    "summary": "先建立共同原著、製作脈絡、形式特徵、可證影響與策展推論五欄；只有訪談、檔案或創作者陳述能支持直接影響，其餘相似性保留為可比較但未證實的假設。",
+    "questions": [
+      "兩部影片共同承襲H. G. Wells原著的哪些敘事骨架？",
+      "1953與2005年的戰爭、媒體與科技語境有何不同？",
+      "哪些相似來自原著，哪些可能來自電影類型慣例？",
+      "是否有Spielberg或製作團隊明確談及1953版本的資料？",
+      "攝影、聲音、特效與家庭視角有哪些可觀察差異？",
+      "並置順序如何引導觀眾先看成傳承還是斷裂？",
+      "策展標題中的「influential」對每組片單有多強證據？",
+      "哪一項相似最容易被誤寫成直接致敬？",
+      "若取消創作者名望，雙片比較仍能成立的證據是什麼？",
+      "你能提出哪個替代配對來反駁目前的影響敘事？"
+    ],
+    "strategy": "使用「五欄影響矩陣」：共同來源、歷史脈絡、可見形式、直接證據、策展推論；禁止僅憑相似鏡頭或同場放映使用「影響」「致敬」等因果詞。",
+    "task": "選兩件常被說成互相影響的作品，填完五欄矩陣；找不到直接證據的句子改寫成「可比較」「呼應」或「策展假設」，再提出一個競爭性來源。",
+    "training": "做80分鐘「相似不等於影響」：15分鐘拆共同來源、20分鐘逐項看形式、20分鐘找創作者一手資料、15分鐘寫反方配對，最後10分鐘把三個因果句降級為證據相稱的語氣。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Sundays with Steven：兩版《The War of the Worlds》雙片",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "MoMA《Sundays with Steven》系列於2026年11月1日至12月6日以六個星期日雙片放映，把Steven Spielberg作品與館方稱為具影響或啟發性的影片並置。11月1日14時放映Byron Haskin執導的1953年《The War of the Worlds》，16時放映Spielberg執導的2005年版本；兩片都改編自H. G. Wells作品。",
+      "references": [
+        {
+          "title": "MoMA｜Sundays with Steven",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/5939",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "MoMA｜The War of the Worlds (1953)",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11589",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "MoMA｜War of the Worlds (2005)",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11590",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA《Sundays with Steven》系列於2026年11月1日至12月6日以六個星期日雙片放映，把Steven Spielberg作品與館方稱為具影響或啟發性的影片並置。11月1日14時放映Byron Haskin執導的1953年《The War of the Worlds》，16時放映Spielberg執導的2005年版本；兩片都改編自H. G. Wells作品。\n【事實／推論界線】官方頁面可證實系列期間、放映時間、導演、年份與共同原著；同場配對本身不能證明2005年版本的每項形式直接受1953年影片影響，仍需一手訪談、製作檔案或其他證據。\n【原創模擬】五欄影響矩陣、因果詞降級與反方配對由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-01-participation",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "國際民眾參與策展實作",
+    "lens": "對話式導覽與可追蹤影響",
+    "source": "Whitney Museum《A Closer Look: Guided Close-Looking Through Dialogue》官方資料（查證截至2026-11-01）",
+    "title": "當Whitney用45分鐘對話只細看一件作品，參與式導覽如何讓觀眾的問題改變討論路徑，而不只是輪流回答講解員預設的答案？",
+    "summary": "把選題、第一問、追問、沉默與結尾各分配明確參與權；記錄觀眾提出後真正改變的討論方向，並把未採納問題帶到下一次節目或公開回覆。",
+    "questions": [
+      "今天的一件作品由誰選擇，選擇理由是否透明？",
+      "第一個問題能否由參與者提出而非講解員設定？",
+      "講解員如何區分追問與把答案拉回既定腳本？",
+      "沉默、慢讀與不發言是否被視為合法參與？",
+      "20人容量讓誰較容易進入，誰可能被排除？",
+      "先到先得是否與可近性、交通或照顧時間衝突？",
+      "觀眾的生活經驗何時成為證據，何時需要保留界線？",
+      "相互衝突的詮釋如何被保留而非迅速統一？",
+      "哪個觀眾問題實際改變了時間分配或作品焦點？",
+      "活動後哪些意見會影響下一場導覽設計？"
+    ],
+    "strategy": "採用「五權對話卡」：選題權、第一問權、追問權、沉默權、後續權；每場至少開放三項，並以路徑紀錄表標記觀眾發言造成的可觀察改變。",
+    "task": "設計一場45分鐘單件作品對話，只預寫一個安全開場；把第一個核心問題交給參與者，記錄三次討論轉向，結尾公開哪一個問題會帶入下一場。",
+    "training": "做60分鐘「對話不是輪流作答」：10分鐘安靜觀看、10分鐘匿名出題、25分鐘由參與者選題並追問、10分鐘畫討論路徑，最後5分鐘寫下採納與未採納理由。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "Whitney Museum官方排定2026年11月1日12時舉行《A Closer Look: Guided Close-Looking Through Dialogue》。節目約45分鐘，由館方講解員聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論；隨入館免費、無需預約，20人額滿，先到先得。",
+      "references": [
+        {
+          "title": "Whitney Museum｜A Closer Look: Guided Close-Looking Through Dialogue",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/a-closer-look-guided-close-looking-through-dialogue",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "Whitney Museum｜Events, November 1, 2026",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events?date=2026-11-01",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Whitney Museum官方排定2026年11月1日12時舉行《A Closer Look: Guided Close-Looking Through Dialogue》。節目約45分鐘，由館方講解員聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論；隨入館免費、無需預約，20人額滿，先到先得。\n【事實／推論界線】官方資料可證實日期、形式、容量與參與方式；「鼓勵共同思考」不等於觀眾擁有選題或後續決策權，實際權力分配仍需現場觀察與參與者回饋。\n【原創模擬】五權對話卡、路徑紀錄表與後續承諾由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-01-family",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "親子觀展教育訓練",
+    "lens": "活態文化、親子參與與文化協作",
+    "source": "Museum of the Moving Image《Day of the Dead 2026》官方資料（查證截至2026-11-01）",
+    "title": "當Museum of the Moving Image以舞蹈、數位活動、彩繪與ofrenda邀請親子參與亡靈節，家庭教育如何分清文化實踐、節慶展示與可自由製作的部分？",
+    "summary": "先辨識活動由哪些文化夥伴、藝術家與社群主持，再把觀看、詢問、製作與公開分享分級；孩子可以創作，但不把神聖符號、祖先記憶或特定儀式簡化成通用裝飾。",
+    "questions": [
+      "活動由哪些墨西哥、原住民、藝術家或文化機構共同呈現？",
+      "ofrenda在此脈絡中的功能是什麼，而不只是視覺造型？",
+      "哪些內容適合孩子觀看，哪些需要先詢問再參與？",
+      "臉部彩繪與服飾的歷史角色如何被說明？",
+      "數位媒體活動是否連回文化脈絡，而非只做可愛圖像？",
+      "家庭能否分清文化欣賞、文化交流與挪用？",
+      "孩子想分享逝者記憶時有哪些隱私與同意界線？",
+      "成人是否把「真實」當成單一固定版本？",
+      "不同家庭的宗教、死亡觀與哀悼方式如何被尊重？",
+      "離場後能否說出一位文化實踐者及一項需要繼續查證的內容？"
+    ],
+    "strategy": "使用「四區參與圖」：可觀看、可詢問、受邀可做、不可自行複製；每項活動先標出文化主持者與脈絡，再由孩子選擇一種尊重且不必產出成品的參與方式。",
+    "task": "和孩子參加或模擬一場活態文化節慶，先找出三位具名文化夥伴；為舞蹈、祭壇、彩繪與數位活動各填四區圖，最後只選一項可被帶回家的學習，不複製神聖符號。",
+    "training": "做50分鐘「不是每個漂亮符號都能帶走」：10分鐘找主持者、10分鐘分文化實踐與展示、15分鐘完成四區圖、10分鐘向孩子練習詢問同意，最後5分鐘用自己的語言說一項尊重界線。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約皇后區",
+      "title": "Day of the Dead 2026",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "Museum of the Moving Image官方排定2026年11月1日16時至18時於Kaufman Courtyard舉行免費《Day of the Dead 2026》，由Mexican Cultural Institute共同呈現。內容包括Aztec Mexica舞蹈、Yayauhki Tezcatlipoka原住民舞團音樂、Mexican Folkloric Ballet of New York、親子數位媒體活動、免費臉部彩繪，以及由藝術家與歷史學者Rosa Ruíz與Catrinamía呈現的公共ofrenda；適合全年齡。",
+      "references": [
+        {
+          "title": "Museum of the Moving Image｜Day of the Dead 2026",
+          "publisher": "Museum of the Moving Image",
+          "url": "https://movingimage.org/event/day-of-the-dead-2026/",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "Museum of the Moving Image｜Open Worlds 2026",
+          "publisher": "Museum of the Moving Image",
+          "url": "https://movingimage.org/series/open-worlds-2026/",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Museum of the Moving Image官方排定2026年11月1日16時至18時於Kaufman Courtyard舉行免費《Day of the Dead 2026》，由Mexican Cultural Institute共同呈現。內容包括Aztec Mexica舞蹈、Yayauhki Tezcatlipoka原住民舞團音樂、Mexican Folkloric Ballet of New York、親子數位媒體活動、免費臉部彩繪，以及由藝術家與歷史學者Rosa Ruíz與Catrinamía呈現的公共ofrenda；適合全年齡。\n【事實／推論界線】官方頁面可證實日期、時間、地點、合作單位、活動內容、免費與全年齡；它未證明每位家庭已理解符號脈絡，也不能僅因館方使用「authentic」就推定文化內部沒有差異或爭議。\n【原創模擬】四區參與圖、文化主持者辨識與親子同意練習由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-01-life",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "人生策展課題",
+    "lens": "感官可近性與個人環境需求",
+    "source": "Barbican《Relaxed Conservatory Opening》官方資料（查證截至2026-11-01）",
+    "title": "當Barbican以低容量、較安靜的Relaxed Conservatory Opening服務神經多樣性訪客，你如何把「我需要什麼環境」說清楚，而不必先把自己變成一個診斷標籤？",
+    "summary": "把需求拆成聲音、人流、光線、移動、停留與退出六項環境條件；先測試哪一項真正改善身體與注意力，再提出具體調整，而不是用「我不適合公共場所」概括自己。",
+    "questions": [
+      "人流、聲音、光線、溫度與氣味中，哪一項最影響你？",
+      "你需要較少刺激、較慢節奏，還是可隨時退出？",
+      "低容量對你帶來安全、孤立還是兩者並存？",
+      "哪些需求可以直接描述，不必附上診斷理由？",
+      "同行者如何協助，又不替你決定感受？",
+      "空間的限制資訊是否足以讓你預先判斷風險？",
+      "安靜環境是否也可能排除需要移動或發聲的人？",
+      "你能否在普通開放時段自行建立部分條件？",
+      "一次舒服的經驗是否足以推論長期需要？",
+      "下一次你要向機構提出哪一個具體、可執行的調整？"
+    ],
+    "strategy": "建立「六項環境需求卡」：聲音、人流、光線、移動、停留、退出；每次只測一項變化，記錄身體反應、注意力與恢復時間，形成不依賴診斷標籤的需求句。",
+    "task": "選一個文化空間，先查看感官與進出限制；在一般時段與較安靜時段各停留30分鐘，記錄六項條件與恢復時間，最後寫一封只提出一項具體調整的回饋。",
+    "training": "做兩週「把不舒服翻成環境語言」：第一週記錄三次過載或疲勞，第二週各調整一個條件；比較前後差異，保留一條自我安排與一條對機構的合理請求。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦",
+      "title": "Relaxed Conservatory Opening",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "Barbican官方於2026年11月1日安排Relaxed Conservatory Opening，專為神經多樣性訪客及任何受益於放鬆環境的人提供較安靜、低容量、可依自己速度參觀的時段。官方亦預先說明可進入樓層、僅導盲犬可入內，以及大型包袋、行李、嬰兒車與推車限制。",
+      "references": [
+        {
+          "title": "Barbican｜Relaxed Conservatory Opening",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/whats-on/2026/event/relaxed-conservatory-opening",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "Barbican｜Rest, reflect and recharge",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/whats-on/series/rest-reflect-and-recharge",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Barbican官方於2026年11月1日安排Relaxed Conservatory Opening，專為神經多樣性訪客及任何受益於放鬆環境的人提供較安靜、低容量、可依自己速度參觀的時段。官方亦預先說明可進入樓層、僅導盲犬可入內，以及大型包袋、行李、嬰兒車與推車限制。\n【事實／推論界線】官方資料可證實活動對象、較安靜與低容量安排及進入限制；它未證明所有神經多樣性訪客有相同需求，也不能保證每位參與者的感官負荷或福祉一定改善。\n【原創模擬】六項環境需求卡、兩時段對照與需求句訓練由Curator OS設計。"
   }
 ]
