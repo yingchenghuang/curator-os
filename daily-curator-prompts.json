@@ -24353,5 +24353,263 @@
       ]
     },
     "rawText": "【來源事實】Barbican官方於2026年11月1日安排Relaxed Conservatory Opening，專為神經多樣性訪客及任何受益於放鬆環境的人提供較安靜、低容量、可依自己速度參觀的時段。官方亦預先說明可進入樓層、僅導盲犬可入內，以及大型包袋、行李、嬰兒車與推車限制。\n【事實／推論界線】官方資料可證實活動對象、較安靜與低容量安排及進入限制；它未證明所有神經多樣性訪客有相同需求，也不能保證每位參與者的感官負荷或福祉一定改善。\n【原創模擬】六項環境需求卡、兩時段對照與需求句訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-02-curator",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "專業策展人提問思考課題",
+    "lens": "未完成建築、檔案與推測性再現",
+    "source": "MoMA《An Evening with Joyce Joumaa》與Modern Mondays官方資料（查證截至2026-11-02）",
+    "title": "當Joyce Joumaa以檔案、當代影像與重演追索一座因內戰停工的國際博覽會基地，策展如何呈現政治失敗留下的物質痕跡，而不把未完成建築浪漫化成廢墟美學？",
+    "summary": "把基地現況、建造檔案、政治事件、藝術家推測與策展敘事分層；每一段重演都標出可證事實與想像起點，並讓仍在使用或承受後果的人不被建築形式遮蔽。",
+    "questions": [
+      "這座基地在1962年的原始委託、功能與政治願景是什麼？",
+      "工程停滯可由哪些檔案、日期與制度決定證實？",
+      "當代影像記錄的是現況，還是攝影機選擇後的空間印象？",
+      "藝術家如何區分檔案缺口與推測性重演？",
+      "誰在停工後仍使用、維護、避開或承受這座基地？",
+      "策展文字是否把內戰與社經危機簡化成建築背景？",
+      "未完成表面為何容易被觀看成美感而不是治理結果？",
+      "哪些聲音能反駁「失敗建築」這個單一命名？",
+      "放映與對談如何揭露作品方法，而不只強化作者權威？",
+      "展覽結束後，觀眾能追查哪一條仍未封閉的現實責任？"
+    ],
+    "strategy": "建立「五層未完成地圖」：現地事實、歷史檔案、政治條件、藝術推測、機構敘事；每一項美學描述必須連回一項物質後果與一位仍受影響的人。",
+    "task": "選一座未完成或廢棄建築，蒐集一張歷史圖、一張現況圖與一項使用者證詞；將300字敘事分成可證事實、合理推論與藝術想像，刪除兩個把衰敗美化的形容詞。",
+    "training": "做90分鐘「廢墟不是風格」：20分鐘建時間線、20分鐘找現場使用者、20分鐘拆影像選擇、15分鐘標示推測，最後15分鐘把一段形式描述改寫成責任與後果並存的標籤。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "An Evening with Joyce Joumaa",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "MoMA於2026年11月2日19時舉行《An Evening with Joyce Joumaa》，放映這位黎巴嫩裔加拿大藝術家的短片。官方指出《To Remain in the No Longer》重訪她故鄉的未完成Oscar Niemeyer博覽會基地：該基地1962年由國家委託，黎巴嫩內戰期間停工；作品以檔案研究與當代影像追索政治力量及失敗如何刻入地景。《Disappearance Is Not Death》則透過推測與重演檢視這些歷史。",
+      "references": [
+        {
+          "title": "MoMA｜An Evening with Joyce Joumaa",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11832",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "MoMA｜Modern Mondays",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://press.moma.org/film-media/modern-mondays/",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月2日19時舉行《An Evening with Joyce Joumaa》，放映這位黎巴嫩裔加拿大藝術家的短片。官方指出《To Remain in the No Longer》重訪她故鄉的未完成Oscar Niemeyer博覽會基地：該基地1962年由國家委託，黎巴嫩內戰期間停工；作品以檔案研究與當代影像追索政治力量及失敗如何刻入地景。《Disappearance Is Not Death》則透過推測與重演檢視這些歷史。\n【事實／推論界線】官方頁面可證實放映時間、作品方法與館方提供的基地歷史摘要；「廢墟美學」「政治失敗如何被觀眾理解」及當地社群的實際感受仍需作品、檔案與在地來源交叉查證。\n【原創模擬】五層未完成地圖、反浪漫化改寫與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-02-thinking",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "策展思考訓練",
+    "lens": "材料作用、製作痕跡與作者意圖",
+    "source": "Asian Art Museum《Ha Chong-Hyun: Retrospective》與2026年11月2日導覽官方資料（查證截至2026-11-02）",
+    "title": "當河鍾賢以壓力、重力、火與日常工具改變麻布上的顏料，策展分析如何從材料痕跡推回製作行為，又不把每一道阻力直接解讀成藝術家的情緒或歷史寓言？",
+    "summary": "先描述表面、滲透方向、重量、工具痕與燒灼等可見證據，再提出多個可能製程；只有藝術家陳述、工作室紀錄或技術研究能支持意圖，情緒與歷史詮釋保留為待驗證假設。",
+    "questions": [
+      "畫面上哪些痕跡能直接觀察，不需先知道藝術家生平？",
+      "顏料從正面或背面作用會造成哪些不同表面證據？",
+      "壓力與重力如何留下方向、厚度與邊緣變化？",
+      "火、刀具或日常器具的痕跡能否區分製程先後？",
+      "哪些材料判斷需要作品保存或技術報告支持？",
+      "可見勞動是否必然代表抵抗、創傷或政治立場？",
+      "藝術家陳述與作品表面不一致時應如何記錄？",
+      "回顧展的年代排序會不會把實驗誤寫成線性進步？",
+      "與西方極簡藝術比較時，哪些相似只是形式層級？",
+      "觀眾能設計哪一個小型材料測試來反證自己的解讀？"
+    ],
+    "strategy": "採用「痕跡—動作—證據梯」：第一層只寫可見痕跡，第二層列至少兩種可能動作，第三層才加入技術資料與作者陳述；禁止由單一痕跡直接跳到心理或政治結論。",
+    "task": "選一件厚塗、滲透或燒灼作品，記錄十個不含情緒詞的表面事實；為三個痕跡各提出兩種製程假設，再查一項一手技術資料，標記支持與被推翻的假設。",
+    "training": "做75分鐘「先看材料怎麼做」：15分鐘無標籤觀察、20分鐘畫製程假設、20分鐘查藝術家或保存資料、10分鐘做競爭解釋，最後10分鐘重寫一段不把痕跡心理化的說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "舊金山",
+      "title": "Ha Chong-Hyun: Retrospective",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "Asian Art Museum的《Ha Chong-Hyun: Retrospective》展期為2026年9月25日至2027年1月25日，並於11月2日11時安排免費展覽導覽。官方稱展覽回顧河鍾賢六十多年抽象創作，指出他以壓力、重力，以及火焰與日常器具等工具改變大型畫布表面；展覽含逾50件繪畫，是其首個北美大型博物館回顧展。",
+      "references": [
+        {
+          "title": "Asian Art Museum｜Ha Chong-Hyun: Retrospective",
+          "publisher": "Asian Art Museum",
+          "url": "https://exhibitions.asianart.org/exhibitions/ha-chong-hyun-retrospective/",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "Asian Art Museum｜Ha Chong-Hyun Retrospective Press Release",
+          "publisher": "Asian Art Museum",
+          "url": "https://about.asianart.org/press/ha-chong-hyun-retrospective/",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "Asian Art Museum｜Calendar",
+          "publisher": "Asian Art Museum",
+          "url": "https://calendar.asianart.org/events/series/ha-chong-hyun/",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Asian Art Museum的《Ha Chong-Hyun: Retrospective》展期為2026年9月25日至2027年1月25日，並於11月2日11時安排免費展覽導覽。官方稱展覽回顧河鍾賢六十多年抽象創作，指出他以壓力、重力，以及火焰與日常器具等工具改變大型畫布表面；展覽含逾50件繪畫，是其首個北美大型博物館回顧展。\n【事實／推論界線】官方資料可證實展期、導覽時間、作品數量與館方對材料方法的描述；由表面痕跡推論具體工具、情緒或政治意涵仍需作品技術檢查、藝術家陳述與歷史研究。\n【原創模擬】痕跡—動作—證據梯、競爭製程假設與訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-02-participation",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "國際民眾參與策展實作",
+    "lens": "抽籤入場、機會公平與參與門檻",
+    "source": "National Gallery of Art《National Gallery Nights: Gratitude》與抽籤制度官方資料（查證截至2026-11-02）",
+    "title": "當National Gallery Nights以抽籤回應熱門夜間活動，參與式策展如何判斷「每人一次機會」是否真的公平，並看見通知、時間、交通與候補造成的第二層門檻？",
+    "summary": "把名額分配拆成得知、登記、等待、確認、抵達與現場候補六段；除了中籤率，還要比較不同群體完成每一步所需的時間、設備、交通與風險，並公開未中籤者可獲得的替代參與。",
+    "questions": [
+      "誰能在抽籤開放前得知日期與規則？",
+      "登記是否需要穩定網路、特定語言或可立即使用的裝置？",
+      "抽籤期間長短對輪班、照顧者與跨時區者有何影響？",
+      "中籤通知後需要多快確認，錯過會如何遞補？",
+      "一人可登記多少同行者，會如何分配實際機會？",
+      "現場先到先得名額是否把成本轉成排隊與交通？",
+      "未中籤者能否參與線上、館內其他時段或後續內容？",
+      "機構是否公開申請數、中籤率、失效票與候補使用率？",
+      "活動中的共同馬賽克、詩作與感謝物最後如何被保存或回返？",
+      "下一場要調整哪一個步驟，才能降低而非轉移門檻？"
+    ],
+    "strategy": "建立「六段進入漏斗」：得知、登記、等待、確認、抵達、參與；每段記錄退出人數、時間成本與可替代路徑，避免只用隨機抽籤宣稱公平。",
+    "task": "為一場100人熱門活動設計抽籤與候補方案，列出六段進入漏斗；模擬輪班者、照顧者、無智慧型手機者與外地訪客，至少新增兩種替代參與並設定公開回報指標。",
+    "training": "做70分鐘「公平不是只靠隨機」：15分鐘畫申請流程、20分鐘做四種使用者壓力測試、15分鐘計算失效與候補、10分鐘設計替代參與，最後10分鐘寫公開透明說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "National Gallery Nights: Gratitude",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "National Gallery of Art的《National Gallery Nights: Gratitude》定於2026年11月12日18時至21時舉行，抽籤登記於11月2日10時開放、11月5日中午截止。館方表示夜間活動因熱門而採抽籤，所有申請者於活動前一個星期五得知結果；現場另於17時30分提供先到先得名額。節目包含感謝物製作、共同馬賽克、詩作、藝術活動與舞蹈。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜National Gallery Nights: Gratitude",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/national-gallery-nights/national-gallery-nights-gratitude?evd=202611122300",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "National Gallery of Art｜National Gallery Nights",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/national-gallery-nights",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "National Gallery of Art｜National Gallery Nights Returns This Fall",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/press/national-gallery-nights-press",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art的《National Gallery Nights: Gratitude》定於2026年11月12日18時至21時舉行，抽籤登記於11月2日10時開放、11月5日中午截止。館方表示夜間活動因熱門而採抽籤，所有申請者於活動前一個星期五得知結果；現場另於17時30分提供先到先得名額。節目包含感謝物製作、共同馬賽克、詩作、藝術活動與舞蹈。\n【事實／推論界線】官方可證實活動、抽籤與現場票規則；「每人機會均等」是否轉化為不同群體的實際可參與性，仍需申請、確認、抵達與候補數據檢驗。\n【原創模擬】六段進入漏斗、四種使用者壓力測試與透明指標由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-02-family",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "親子觀展教育訓練",
+    "lens": "沉浸科技、文物觀察與親子可近性",
+    "source": "國立故宮博物院Children’s Gallery官方資料（查證截至2026-11-02）",
+    "title": "當故宮兒童學藝中心以數位互動把文物轉成沉浸劇場，親子如何讓科技成為回看真實器物的橋，而不是讓螢幕刺激取代觀察？",
+    "summary": "每次互動前先找一個真實文物線索，互動後回到圖像、材質、用途或展櫃證據驗證；讓孩子決定停留與退出，並把親子設施視為可近性條件，而不是學習成果本身。",
+    "questions": [
+      "這個互動裝置連結到哪一件或哪一類真實文物？",
+      "孩子操作前已觀察到哪個形狀、紋樣、材料或用途？",
+      "動畫加入了哪些原物沒有的動作、聲音與情節？",
+      "互動後孩子能否回到文物找出一項支持或矛盾？",
+      "成人是否因為想完成所有關卡而接管操作？",
+      "沉浸效果會讓哪些孩子投入，又讓誰感到過度刺激？",
+      "座位、哺乳室、全性別廁所與推車停放如何影響停留？",
+      "十歲以下須成人陪同時，陪同者應協助安全還是提供答案？",
+      "孩子能否選擇只看、不觸碰、重複或提前離開？",
+      "離場時能否說出一項來自文物的發現，而不只記得裝置？"
+    ],
+    "strategy": "使用「文物—互動—回看」三步卡：先記一項原物證據，再寫科技新增的轉譯，最後回到文物判斷支持、誇張或虛構；每次只完成一個循環。",
+    "task": "和孩子選一個數位互動及其對應文物，操作前畫一個細節，操作後用不同顏色補上科技新增內容；回看原物後圈出一項被證實與一項只是想像的部分。",
+    "training": "做45分鐘「螢幕要把眼睛帶回文物」：10分鐘看原物、10分鐘操作、10分鐘回看、10分鐘比較真實與轉譯，最後5分鐘讓孩子決定下一次要停在文物還是互動。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "臺灣",
+      "location": "臺北",
+      "title": "National Palace Museum Children’s Gallery",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "國立故宮博物院官方將Children’s Gallery列為第一展覽區地下一樓的常設空間，免費入場並隨第一展覽區開放；適合全年齡，十歲以下兒童須由成人陪同。館方表示空間以數位互動科技與實體教具形成沉浸式劇場，並設有親子廁所、哺乳室、全性別廁所、座位與嬰兒車停放區。",
+      "references": [
+        {
+          "title": "National Palace Museum｜Children’s Gallery",
+          "publisher": "National Palace Museum",
+          "url": "https://www.npm.gov.tw/Courtyard-Space.aspx?l=2&sno=05012646",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "National Palace Museum｜Kids & Family",
+          "publisher": "National Palace Museum",
+          "url": "https://www.npm.gov.tw/Education-Promotion.aspx?l=2&sno=04012602",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "National Palace Museum｜Hours",
+          "publisher": "National Palace Museum",
+          "url": "https://www.npm.gov.tw/Articles.aspx?l=2&sno=02007001",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】國立故宮博物院官方將Children’s Gallery列為第一展覽區地下一樓的常設空間，免費入場並隨第一展覽區開放；適合全年齡，十歲以下兒童須由成人陪同。館方表示空間以數位互動科技與實體教具形成沉浸式劇場，並設有親子廁所、哺乳室、全性別廁所、座位與嬰兒車停放區。\n【事實／推論界線】官方可證實位置、票務、陪同規則、互動形式與設施；數位互動是否提升文物觀察、是否造成過度刺激或如何影響親子分工，仍需現場觀察與家庭回饋。\n【原創模擬】文物—互動—回看卡、雙色比較與親子訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-02-life",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "人生策展課題",
+    "lens": "等待、能動性與長期處境",
+    "source": "MoMA《The Samurai and the Prisoner》官方放映資料（查證截至2026-11-02）",
+    "title": "當《The Samurai and the Prisoner》用四季描寫圍城、囚禁與權力轉移，你如何分辨自己的等待是在累積下一步、保護重要事物，還是只是被一段關係或制度困住？",
+    "summary": "把長期等待拆成期限、可控行動、資訊更新、退出成本與受益者五欄；只有能產生新證據、選項或能力的等待才保留，沒有期限且持續消耗的部分要設停止線。",
+    "questions": [
+      "這段等待有明確期限，還是一直被推遲？",
+      "你在等待期間能主動完成哪些可驗證行動？",
+      "每次更新帶來新資訊，還是只是重複安撫？",
+      "誰因你的等待獲得時間、資源或控制權？",
+      "退出的金錢、關係、身份與心理成本各是多少？",
+      "耐心是否被用來要求你承受不對等？",
+      "你正在保護的核心價值是什麼，仍然存在嗎？",
+      "四季過去後，你增加了能力、選項還是只有疲勞？",
+      "哪一項外部證據會讓你決定繼續或停止？",
+      "本週能設定哪一條日期明確的重新判斷線？"
+    ],
+    "strategy": "建立「等待五欄表」：期限、可控行動、資訊更新、退出成本、受益者；每兩週只根據新證據重新判斷，拒絕把時間已投入當成繼續的理由。",
+    "task": "選一件正在等待的工作、關係或申請，填完五欄表；設定一個重新判斷日期、兩項繼續條件與一項停止條件，並安排等待期間仍能完成的30分鐘行動。",
+    "training": "做四週「等待不是停住」：每週記一次新證據、可控行動與恢復成本；第四週比較能力、選項與疲勞，依事先寫好的條件選擇繼續、改道或退出。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "The Samurai and the Prisoner",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "MoMA於2026年11月2日19時放映黑澤清2026年作品《The Samurai and the Prisoner》。官方介紹指出，故事發生於16世紀日本：荒木村重反叛織田信長並固守有岡城等待援軍，又將勸降使者黑田官兵衛囚於城內。影片以四季的緩慢節奏描寫人物間不斷轉移的權力關係，片長147分鐘。",
+      "references": [
+        {
+          "title": "MoMA｜The Samurai and the Prisoner",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11795",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "MoMA｜Events, November 2, 2026",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/?date=2026-11-02&happening_filter=All+events",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月2日19時放映黑澤清2026年作品《The Samurai and the Prisoner》。官方介紹指出，故事發生於16世紀日本：荒木村重反叛織田信長並固守有岡城等待援軍，又將勸降使者黑田官兵衛囚於城內。影片以四季的緩慢節奏描寫人物間不斷轉移的權力關係，片長147分鐘。\n【事實／推論界線】官方頁面可證實放映、劇情摘要、形式描述與片長；將影片轉成個人等待決策模型是Curator OS的應用推論，不能視為導演本人提出的人生方法。\n【原創模擬】等待五欄表、停止線與四週訓練由Curator OS設計。"
   }
 ]
