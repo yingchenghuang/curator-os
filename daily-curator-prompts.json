@@ -25043,5 +25043,227 @@
       ]
     },
     "rawText": "【來源事實】MoMA於2026年11月4日18時30分放映Sergei Loznitsa編導的2012年電影《In the Fog》，片長127分鐘，改編自Vasil Bykaŭ短篇小說。官方摘要描述納粹占領白俄羅斯期間，一名鐵路工人與破壞者一同被捕後獲釋，因此被當地游擊隊懷疑為合作者；長鏡頭使每個決定中的威脅與不信任持續累積。\n【事實／推論界線】官方頁面可證實放映、製作資訊與劇情摘要；將電影轉成日常判斷工具，是Curator OS的應用推論，不等於角色處境與一般人際衝突具有同等風險。\n【原創模擬】霧中判斷表、24小時重評與七天延後定罪訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-05-curator",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "專業策展人提問思考課題",
+    "lens": "跨時代並置中的引用強度與因果邊界",
+    "source": "National Gallery of Art《Back and Forth: Rozeal., Titian, Cezanne》官方資料（查證截至2026-11-05）",
+    "title": "當National Gallery of Art以四幅跨越六世紀的畫作討論藝術家如何混用與重組參照，策展如何區分直接引用、可能影響、共享母題與後見之明的相似，而不把並置本身誤寫成歷史因果？",
+    "summary": "建立「關係強度梯」為跨時代並置標示證據等級，讓視覺相似成為可追問的起點，而不是未經證明的影響史。",
+    "questions": [
+      "兩件作品的相似來自構圖、姿態、媒材、題材還是展示語境？",
+      "是否存在藝術家看過前作的文獻、旅行、收藏或出版證據？",
+      "如果沒有接觸證據，應使用引用、影響、呼應還是相似？",
+      "共享的圖像傳統是否比單一藝術家影響更能解釋關係？",
+      "六世紀的跨度中，哪些政治、宗教與觀看制度不能被省略？",
+      "當代作品回看舊作時，是否正在批判、挪用、致敬或重新編碼？",
+      "展示順序會不會讓較早作品自動成為原點、較晚作品成為回應？",
+      "哪一件作品因比較而失去自己的獨立問題？",
+      "觀眾能否看見策展推論的證據強弱，而不只接受關係線？",
+      "什麼新資料出現時，策展標籤必須降低或提高關係強度？"
+    ],
+    "strategy": "使用「關係強度梯」：可見相似／共享傳統／可證接觸／藝術家自述／直接引用。每條比較關係標示所在層級，並附一項可能的替代解釋。",
+    "task": "選三件年代相隔很遠的作品，先只寫可見相似；再查藝術家接觸、出版與收藏史，將每條關係標成五個層級之一，最後刪除一條證據不足卻最吸引人的因果句。",
+    "training": "做90分鐘「相似不等於影響」：20分鐘形式比較，20分鐘找接觸證據，20分鐘補共享傳統，15分鐘寫替代解釋，最後15分鐘讓另一位讀者為每條關係降級或升級。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Exhibition Tour—Back and Forth: Rozeal., Titian, Cezanne",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "National Gallery of Art於2026年11月5日14時至14時45分舉辦《Back and Forth: Rozeal., Titian, Cezanne》互動式導覽。官方指出藝術史並非線性，活動以四幅跨越六世紀的畫作討論藝術家如何跨越時間與地域混合、重組參照，並藉比較重新觀看作品。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Exhibition Tour—Back and Forth: Rozeal., Titian, Cezanne",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/exhibition-tour-back-and-forth-rozeal-titian-cezanne?evd=202508141800",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月5日14時至14時45分舉辦《Back and Forth: Rozeal., Titian, Cezanne》互動式導覽。官方指出藝術史並非線性，活動以四幅跨越六世紀的畫作討論藝術家如何跨越時間與地域混合、重組參照，並藉比較重新觀看作品。\n【事實／推論界線】官方資料可證實活動時間、形式、作品數與館方的非線性藝術史框架；任兩件作品是否存在直接影響，仍須藝術家接觸、出版、收藏或自述證據。\n【原創模擬】關係強度梯、證據分級與刪除因果句訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-05-thinking",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "策展思考訓練",
+    "lens": "展示角度、物件背面與完整性假設",
+    "source": "The Metropolitan Museum of Art《Flip Sides: Seeing Korean Art Anew》官方資料（查證截至2026-11-05）",
+    "title": "當The Met刻意展示韓國藝術的內部、背面與難以觀看之處，策展分析如何判斷「最佳角度」是物件原有功能、歷史展示慣例，還是博物館為了製造完整形象而建立的正面？",
+    "summary": "以正面、背面、內部、使用面與修復面五種視角重做物件觀察，辨認展示技術如何決定觀眾以為作品是什麼。",
+    "questions": [
+      "物件在原本使用情境中，哪一面朝向誰？",
+      "博物館目前的正面由底座、燈光、標籤還是照片決定？",
+      "背面與內部能提供哪些製作、功能或修補證據？",
+      "旋轉物件會增加理解，還是破壞原有觀看秩序？",
+      "鏡面、數位模型與多視角攝影各自遺失了哪些尺度感？",
+      "所謂隱藏細節是歷史上不可見，還是現代展櫃使它不可見？",
+      "修復痕跡應被隱藏、標示，還是成為作品歷史的一部分？",
+      "一件宗教或實用物件的內部是否適合被完全公開？",
+      "觀眾看到更多角度後，是否真的更接近完整理解？",
+      "哪一個看不見的位置應保留未知，而不是以重建圖補滿？"
+    ],
+    "strategy": "建立「五面觀察圖」：展示正面／歷史使用面／背面／內部／修復面；逐面記錄可見證據、展示技術與倫理限制，禁止把多視角直接等同於完整真相。",
+    "task": "選一件器物，只看館方主圖寫100字；再找背面、底部或內部影像重寫100字，列出三項改判與兩項仍未知，最後提出一個不必翻動原件也能增加理解的展示方法。",
+    "training": "做60分鐘「作品不只一面」：10分鐘正面描述，15分鐘多視角比對，15分鐘畫使用方向，10分鐘辨認修復與底座介入，最後10分鐘寫一段承認觀看限制的標籤。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Flip Sides: Seeing Korean Art Anew",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "The Met的《Flip Sides: Seeing Korean Art Anew》展出約50件館藏韓國藝術，超過半數首次展出，並透過內部、背面與難以觀看角度呈現金屬、木、陶瓷、織物與漆器的構造及功能。第二輪展件於2026年10月31日至2027年5月31日展出，館方並於2026年11月5日15時舉行專家導覽。",
+      "references": [
+        {
+          "title": "The Met｜Flip Sides: Seeing Korean Art Anew",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/exhibitions/flip-sides-seeing-korean-art-anew",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met的《Flip Sides: Seeing Korean Art Anew》展出約50件館藏韓國藝術，超過半數首次展出，並透過內部、背面與難以觀看角度呈現金屬、木、陶瓷、織物與漆器的構造及功能。第二輪展件於2026年10月31日至2027年5月31日展出，館方並於2026年11月5日15時舉行專家導覽。\n【事實／推論界線】官方頁面可證實件數、展示策略、材質範圍、輪替與活動時間；更多視角是否等於更完整或更尊重物件，仍需結合原始功能、宗教文化與保存倫理判斷。\n【原創模擬】五面觀察圖、多視角改寫與觀看限制標籤由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-05-participation",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "國際民眾參與策展實作",
+    "lens": "青少年安全空間與規則共同治理",
+    "source": "MoMA《Open Art Space: Taking Back Our Space》官方資料（查證截至2026-11-05）",
+    "title": "當MoMA把Open Art Space描述為讓所有青少年感到安全、被支持且能做自己的空間，參與式策展如何把「安全」從機構承諾變成青少年可共同修改的規則、退出方式與回饋權？",
+    "summary": "把安全空間拆成可觀察的進入、同意、影像使用、拒絕、求助與改規則機制，讓青少年不只被照顧，也能共同治理活動。",
+    "questions": [
+      "誰定義安全，青少年能否不同意機構的定義？",
+      "拍攝Polaroid前，參與者如何同意被拍與照片後續使用？",
+      "不想談性別、權力或自我形象的人能否等值參與？",
+      "走進活動後，能否暫停、離開再回來而不必解釋？",
+      "工作人員、藝術家與同儕之間的權力差如何被說明？",
+      "OMNY卡、點心與材料解決哪些實際門檻，還遺漏哪些？",
+      "青少年能否改變問題、材料、空間配置或分享規則？",
+      "發生不舒服的互動時，求助路徑是否私密且可預測？",
+      "回饋是否只評價活動，還能改變下一週的規則？",
+      "機構要公開哪一項因青少年意見而做出的真實修改？"
+    ],
+    "strategy": "建立「青少年安全六權」：知情權／拒絕權／影像同意權／退出與返回權／求助權／改規則權。每場結束公開一項採納、一項未採納及原因。",
+    "task": "為一場90分鐘青少年影像活動寫六權卡，邀請三位青少年逐句刪改；再模擬被拍攝、拒絕分享、臨時離場與求助四種情境，修正一條最不清楚的規則。",
+    "training": "做75分鐘「安全不是形容詞」：15分鐘列風險，15分鐘寫六權卡，20分鐘角色演練，15分鐘設計匿名回饋與申訴路徑，最後10分鐘決定下次必須由參與者表決的一件事。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Open Art Space: Taking Back Our Space",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "MoMA於2026年11月5日16時至18時舉辦免費高中生工作坊《Open Art Space: Taking Back Our Space》。參與者先探索關於性別、權力與再現的攝影展，再使用道具創作Polaroid影像。官方說明RSVP受鼓勵但接受現場加入，無需藝術經驗，並提供點心、OMNY交通卡與材料；Open Art Space自述為讓青少年感到安全、被支持並能做自己的空間。",
+      "references": [
+        {
+          "title": "MoMA｜Open Art Space: Taking Back Our Space",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11828",
+          "accessedAt": "2026-11-05"
+        },
+        {
+          "title": "MoMA｜Open Art Space",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/programs/199",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月5日16時至18時舉辦免費高中生工作坊《Open Art Space: Taking Back Our Space》。參與者先探索關於性別、權力與再現的攝影展，再使用道具創作Polaroid影像。官方說明RSVP受鼓勵但接受現場加入，無需藝術經驗，並提供點心、OMNY交通卡與材料；Open Art Space自述為讓青少年感到安全、被支持並能做自己的空間。\n【事實／推論界線】官方可證實活動、對象、資源與機構承諾；參與者是否實際感到安全、是否能改變規則，必須由匿名回饋、事件紀錄與後續修改驗證。\n【原創模擬】青少年安全六權、四情境演練與採納公開機制由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-05-family",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "親子觀展教育訓練",
+    "lens": "親子共作中的決策輪替與合作證據",
+    "source": "Walker Art Center《Free First Saturday: Designing Together》官方資料（查證截至2026-11-05）",
+    "title": "當Walker以Designing Together邀請家庭透過設計連結作品、自己與他人，親子如何讓共作真的包含輪流提案、協商與改稿，而不是成人負責設計、孩子只負責著色？",
+    "summary": "用提案權、選擇權、修改權與說明權四種角色輪替，讓家庭作品留下可以辨認的合作決策，而不只是一張共同完成的成品。",
+    "questions": [
+      "作品開始前，誰提出第一個問題而不是第一個答案？",
+      "孩子與成人各擁有哪些不可被接管的選擇？",
+      "意見不同時，家庭是投票、輪替、合併還是分開測試？",
+      "成人修正孩子技術時，是否也改掉了孩子的概念？",
+      "材料配置是否讓年幼者能主動拿取與改變？",
+      "共作過程中哪一次決定真正因另一個人的意見而改變？",
+      "作品看起來不完整時，成人能否忍住代為完成？",
+      "如何讓不想動手的家人以觀察、提問或記錄參與？",
+      "活動結束時應展示成品，還是展示三次改稿的路徑？",
+      "回家後家庭能否指出一條共同形成、而非成人宣布的規則？"
+    ],
+    "strategy": "使用「四權輪替卡」：提案／選擇／修改／說明，每10分鐘交換一次角色；保留至少三張過程照片或草圖，最後由孩子與成人各說一項自己因對方而改變的決定。",
+    "task": "用紙板與膠帶做一個能改善家中小問題的模型，分四輪交換角色；每輪必須保留一個被否決方案與理由，最後只評估合作決策，不評美觀。",
+    "training": "做50分鐘「不代做的共作」：10分鐘找問題，30分鐘四權輪替，5分鐘並列三版，最後5分鐘互相說明哪一個決定被改變，以及誰保留了不同意。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "title": "Free First Saturday: Designing Together",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "Walker Art Center將於2026年11月7日10時至15時舉行《Free First Saturday: Designing Together》，畫廊免費開放至17時。官方以設計師與藝術家試圖讓世界更好為起點，安排連結展出作品、自己與他人的家庭活動；活動免費但要求登記，免費入場票可事先線上或活動當日至大廳取得。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Free First Saturday: Designing Together",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/free-first-saturday-designing-together/",
+          "accessedAt": "2026-11-05"
+        },
+        {
+          "title": "Walker Art Center｜Free First Saturday",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/visit/free-first-saturday/",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center將於2026年11月7日10時至15時舉行《Free First Saturday: Designing Together》，畫廊免費開放至17時。官方以設計師與藝術家試圖讓世界更好為起點，安排連結展出作品、自己與他人的家庭活動；活動免費但要求登記，免費入場票可事先線上或活動當日至大廳取得。\n【事實／推論界線】官方可證實日期、時段、免費、登記與活動主題；家庭是否真正共同決策，不能由共同成品或活動名稱推定，需觀察角色與改稿過程。\n【原創模擬】四權輪替卡、三版過程證據與不代做共作訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-05-life",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "人生策展課題",
+    "lens": "發展提案、在地知識與同意條件",
+    "source": "Walker Art Center《Evil Does Not Exist》官方資料（查證截至2026-11-05）",
+    "title": "當《Evil Does Not Exist》描寫開發者把山村視為豪華露營基地、居民則看見長期生態後果，你面對一個被包裝成進步的機會時，如何確認自己不是只被要求接受，而是真的能改變條件？",
+    "summary": "把願景、代價、在地知識、可修改條款與退出機制分開檢查，判斷協商是否具有實質影響，而不只是在決定後補做溝通。",
+    "questions": [
+      "提案中的好處由誰定義，代價由誰承擔？",
+      "哪些在地知識沒有出現在簡報、預算與時程中？",
+      "諮詢發生在決定之前，還是只在執行方式上徵求意見？",
+      "提出反對的人能改變範圍、位置、規模或是否進行嗎？",
+      "短期收益與長期生態、關係及維護成本如何被比較？",
+      "哪些承諾可以寫成可驗收條款，而不是善意語句？",
+      "若預測錯誤，誰負責修復，資源從哪裡來？",
+      "我是否因害怕錯失機會，而忽略退出與重新談判權？",
+      "最小可逆試驗能否取代一次性全面承諾？",
+      "什麼條件若無法取得，我願意明確說不？"
+    ],
+    "strategy": "建立「真正同意五問」：能否提早知道／能否改變核心／能否拒絕／能否退出／出錯能否修復。五項中少於三項成立，就把協商標為資訊告知而非共同決策。",
+    "task": "選一個正在考慮的合作或工作機會，把好處、代價、未知與不可逆處各列五項；寫出三個必須修改的條件、一個最小試行方案與一條退出條款，再判斷自己是否真的有談判權。",
+    "training": "做七天「機會條件化」：每天挑一個看似有利的提案，寫下誰獲益、誰承擔、誰能改；至少一次把立即答應改成條件式答覆，週末檢查哪些界線讓合作更清楚。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "title": "Evil Does Not Exist",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "Walker Art Center將於2026年11月6日19時放映濱口竜介2023年電影《Evil Does Not Exist》，片長105分鐘，日語發音、英文字幕。官方摘要描述單親父親巧與女兒住在日本山村，東京開發商Playtime計畫興建豪華露營設施，居民因而面對社區長期生態後果；放映票價15美元、會員與長者12美元、學生免費。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Evil Does Not Exist by Ryūsuke Hamaguchi",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/evil-does-not-exist-by-ryusuke-hamaguchi/",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center將於2026年11月6日19時放映濱口竜介2023年電影《Evil Does Not Exist》，片長105分鐘，日語發音、英文字幕。官方摘要描述單親父親巧與女兒住在日本山村，東京開發商Playtime計畫興建豪華露營設施，居民因而面對社區長期生態後果；放映票價15美元、會員與長者12美元、學生免費。\n【事實／推論界線】官方頁面可證實放映、製作資料、票價與劇情摘要；把電影轉成合作條件與同意工具，是Curator OS的應用推論，不能把虛構衝突直接視為所有開發或職涯機會的證據。\n【原創模擬】真正同意五問、最小試行方案與七天機會條件化訓練由Curator OS設計。"
   }
 ]
