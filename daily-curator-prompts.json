@@ -25265,5 +25265,221 @@
       ]
     },
     "rawText": "【來源事實】Walker Art Center將於2026年11月6日19時放映濱口竜介2023年電影《Evil Does Not Exist》，片長105分鐘，日語發音、英文字幕。官方摘要描述單親父親巧與女兒住在日本山村，東京開發商Playtime計畫興建豪華露營設施，居民因而面對社區長期生態後果；放映票價15美元、會員與長者12美元、學生免費。\n【事實／推論界線】官方頁面可證實放映、製作資料、票價與劇情摘要；把電影轉成合作條件與同意工具，是Curator OS的應用推論，不能把虛構衝突直接視為所有開發或職涯機會的證據。\n【原創模擬】真正同意五問、最小試行方案與七天機會條件化訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-06-curator",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "專業策展人提問思考課題",
+    "lens": "工作室協作、署名權與成品神話",
+    "source": "The Metropolitan Museum of Art《Designing the Gilded Age》官方資料（查證截至2026-11-06）",
+    "title": "當The Met以近120件Tiffany工作室設計圖揭露名作背後由受僱藝術家、移民與女性共同完成的流程，策展如何重新分配署名與解說篇幅，而不只是把無名協作者變成大師故事的註腳？",
+    "summary": "以角色、決策、勞動、證據與署名五欄重建工作室製作鏈，讓成品不再只指向單一名家，也避免在缺乏證據時替協作者杜撰身份。",
+    "questions": [
+      "一件成品從委託到完成經過哪些角色與決策節點？",
+      "哪些設計圖有簽名、工坊標記、薪資或檔案證據？",
+      "Tiffany的願景與受僱藝術家的具體形式決定如何區分？",
+      "女性與移民協作者的缺名是資料遺失、制度慣例還是刻意抹除？",
+      "無法確認姓名時，策展應如何描述勞動而不製造虛假精確？",
+      "設計圖與成品並置後，哪些改動能顯示協商或材料限制？",
+      "作品標籤的第一行是否必須仍以名家姓名開始？",
+      "修復研究如何改變我們對作者、工坊與製程的判斷？",
+      "觀眾是否能看見收入、職位與決策權的不對等？",
+      "什麼證據足以讓資料庫正式新增一位協作者，而非只在文章提及？"
+    ],
+    "strategy": "建立「協作署名鏈」：角色／可證決策／勞動痕跡／檔案依據／署名層級。對已知姓名正式署名；對未知者標示職能與證據缺口，並保留可更新欄位。",
+    "task": "挑一件以單一名家署名的工作室作品，畫出至少五個製作角色；為每一角色找一項實物或檔案證據，重寫150字標籤，並說明哪些姓名目前仍不能確定。",
+    "training": "做90分鐘「把大師拆成製作鏈」：20分鐘列角色，25分鐘查檔案，20分鐘比對設計與成品，15分鐘重排署名，最後10分鐘標示未知與後續查證責任。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Designing the Gilded Age: Drawings from the Studios of Louis C. Tiffany",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "The Met的《Designing the Gilded Age》展出近120件Tiffany工作室水彩設計圖，並把部分圖稿與彩繪玻璃、馬賽克、琺瑯與燈具成品並置。官方指出工作坊作品幾乎都來自協作流程，受Tiffany僱用、經常包括移民與女性的藝術家將其願景轉為設計；展覽亦建立於長期修復研究，展期至2027年2月7日。",
+      "references": [
+        {
+          "title": "The Met｜Designing the Gilded Age: Drawings from the Studios of Louis C. Tiffany",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/exhibitions/designing-the-gilded-age-drawings-from-the-studios-of-louis-c-tiffany",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met的《Designing the Gilded Age》展出近120件Tiffany工作室水彩設計圖，並把部分圖稿與彩繪玻璃、馬賽克、琺瑯與燈具成品並置。官方指出工作坊作品幾乎都來自協作流程，受Tiffany僱用、經常包括移民與女性的藝術家將其願景轉為設計；展覽亦建立於長期修復研究，展期至2027年2月7日。\n【事實／推論界線】官方可證實展件數量、協作性、受僱者概況與修復脈絡；個別作品究竟由誰設計、製作或修改，仍需逐件檔案證據，不能由群體描述直接推定。\n【原創模擬】協作署名鏈、五角色調查與重排署名訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-06-thinking",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "策展思考訓練",
+    "lens": "風景畫、知識系統與缺席的土地關係",
+    "source": "The Metropolitan Museum of Art《Landscape Painting and Indigenous Plant Knowledge》官方資料（查證截至2026-11-06）",
+    "title": "當The Met以原住民族植物知識重新觀看美國風景畫，策展分析如何從畫面中的植物、照護與土地關係提出新問題，又不把活態知識降為替既有名畫補充物種名稱的註解？",
+    "summary": "把可見植物、土地使用、知識來源、照護實踐與畫面缺席分開分析，讓另一套知識系統真正改變問題，而非只增加資訊。",
+    "questions": [
+      "畫面中哪些植物可辨認，哪些只是類型化的綠色背景？",
+      "藝術家如何取得、忽略或轉譯當地土地知識？",
+      "作品呈現的是荒野、農耕、照護、移除還是殖民改造？",
+      "誰的季節、採集、燃燒與照護實踐沒有進入畫面？",
+      "植物名稱之外，知識還包含哪些關係、責任與使用規則？",
+      "專家解說是否改變作品核心問題，還是只增加旁註？",
+      "策展如何說明知識提供者的社群、權限與引用方式？",
+      "作品創作年代的土地狀態與今日有何不同？",
+      "哪些判斷來自畫面，哪些來自口述、科學或社群史料？",
+      "觀眾離開後能否指出一項自己原本看不見的土地關係？"
+    ],
+    "strategy": "使用「土地知識五層表」：畫面證據／物種辨識／使用與照護／歷史權力／當代責任。每加入一項外部知識，都說明來源、授權與它改變了哪個原問題。",
+    "task": "選一幅風景畫，先只記錄畫面可見植物與土地痕跡；再查一個在地社群的官方或授權資料，重寫三個問題，禁止只新增物種名稱，必須改變對土地使用或照護的理解。",
+    "training": "做75分鐘「從風景到關係」：15分鐘無資料觀看，20分鐘辨認植物與地表，20分鐘查知識來源，10分鐘標記缺席者，最後10分鐘寫出一項當代責任而非浪漫感想。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Landscape Painting and Indigenous Plant Knowledge",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "The Met於2026年11月6日18時在美國館舉辦《Landscape Painting and Indigenous Plant Knowledge》。官方說明由Caroline Gillaspie與Chenae Bullock帶領觀看風景畫，討論人與自然關係，以及美洲原住民族照護土地的實踐；活動免費隨門票參加。",
+      "references": [
+        {
+          "title": "The Met｜Native American and Indigenous Heritage Month",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/hubs/native-american-and-indigenous-heritage-month",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met於2026年11月6日18時在美國館舉辦《Landscape Painting and Indigenous Plant Knowledge》。官方說明由Caroline Gillaspie與Chenae Bullock帶領觀看風景畫，討論人與自然關係，以及美洲原住民族照護土地的實踐；活動免費隨門票參加。\n【事實／推論界線】官方可證實活動時間、講者、觀看對象與討論方向；特定畫作如何被重新理解、哪些知識可公開引用，須依活動內容、社群來源與授權判斷。\n【原創模擬】土地知識五層表、三問題重寫與當代責任訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-06-participation",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "國際民眾參與策展實作",
+    "lens": "自助提示、短講介入與參與路徑自主",
+    "source": "MoMA《Drop-in Drawing》官方資料（查證截至2026-11-06）",
+    "title": "當MoMA的Drop-in Drawing同時提供自助提示與短時間示範，參與式策展如何讓初學者獲得支持，又不讓示範者的畫法變成隱形標準，壓縮參與者選擇觀看、略過或另畫的自由？",
+    "summary": "把支持拆成可選提示、可跳過示範、不同難度入口與無成品退出，評估參與者是否能選擇路徑，而非是否畫得像。",
+    "questions": [
+      "參與者能否完全不看示範而仍取得材料與座位？",
+      "示範被描述為一種可能，還是正確畫法？",
+      "英文與西班牙文提示是否在內容與難度上等值？",
+      "不熟悉繪畫工具的人最先需要的是技法、時間還是允許試錯？",
+      "參與者可否只觀察、只畫局部或中途離開？",
+      "工作人員如何提供協助而不直接修改他人的圖？",
+      "不同提示是否涵蓋輪廓、空間、材質、記憶與身體感？",
+      "誰會因公開作畫與作品被看見而感到壓力？",
+      "活動應記錄完成張數，還是參與者選擇過的路徑？",
+      "哪一條提示因參與者的非預期使用而值得改寫？"
+    ],
+    "strategy": "建立「四路徑 drawing menu」：自由畫／文字提示／示範跟做／只看與口述；參與者可隨時切換，工作人員只記錄路徑選擇與切換原因，不評作品完成度。",
+    "task": "設計同一件雕塑的四種繪畫入口，邀請八人自由選擇與切換；記錄誰跳過示範、誰只觀察、誰改寫提示，最後刪除一條最像標準答案的指令。",
+    "training": "做60分鐘「示範不是答案」：15分鐘寫四路徑，15分鐘測試不同語言，15分鐘演練不接管的協助，10分鐘觀察退出，最後5分鐘依非預期用法改寫提示。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Drop-in Drawing—Brancusi: The Artist and His Studio",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "MoMA於2026年11月6日17時30分至19時30分在《Brancusi: The Artist and His Studio》展廳舉辦Drop-in Drawing。官方說明活動向所有年齡開放，無需經驗、能力門檻或預約，提供材料與座位，並設有自助繪畫提示及藝術家帶領的短示範；提示提供英文與西班牙文版本。",
+      "references": [
+        {
+          "title": "MoMA｜Drop-in Drawing",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11763",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月6日17時30分至19時30分在《Brancusi: The Artist and His Studio》展廳舉辦Drop-in Drawing。官方說明活動向所有年齡開放，無需經驗、能力門檻或預約，提供材料與座位，並設有自助繪畫提示及藝術家帶領的短示範；提示提供英文與西班牙文版本。\n【事實／推論界線】官方可證實時間、地點、開放條件、資源與提示形式；示範是否形成壓力、雙語提示是否等值及參與者是否具有路徑自主，需要現場觀察與回饋。\n【原創模擬】四路徑drawing menu、八人切換測試與不接管協助訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-06-family",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "親子觀展教育訓練",
+    "lens": "感官友善參觀的預告、調節與家庭主導",
+    "source": "Walker Art Center《Sensory Friendly Sunday》官方資料（查證截至2026-11-06）",
+    "title": "當Walker在一般開館前提供安靜展廳、休息空間、感官工具與社會敘事，親子如何把「友善安排」轉成孩子能自己預告、選擇與調節的參觀計畫，而不是由成人替他決定什麼刺激必須避開？",
+    "summary": "用到館前預告、孩子選擇、即時訊號、休息與重新加入五步驟，讓感官支持成為可主動使用的工具，而非固定的保護腳本。",
+    "questions": [
+      "孩子在到館前需要知道哪些聲音、光線、人流與規則？",
+      "社會敘事是提供預測，還是在要求孩子照腳本行動？",
+      "孩子能否自己選擇耳罩、墨鏡、觸覺工具或不用工具？",
+      "成人如何辨認不舒服訊號，而不把所有興奮都當成失控？",
+      "安靜空間是休息處，還是把差異隔離出展廳？",
+      "離開後能否重新加入，而不被視為參觀失敗？",
+      "口罩規則與無法耐受的調整如何事先說明？",
+      "家人與朋友共同參加時，誰的節奏決定路徑？",
+      "短片字幕、燈光與座位是否提供等值參與？",
+      "參觀結束後，孩子能否指出下次想保留與改變的條件？"
+    ],
+    "strategy": "建立「感官導航卡」：我想先知道／我選擇的工具／我的暫停訊號／休息位置／回來方式。由孩子圈選或用圖示表達，成人只協助實現，不替代選擇。",
+    "task": "參觀前共同查看場館社會敘事，讓孩子用圖示選兩個想嘗試的區域、一項工具與一個暫停訊號；現場至少讓孩子做一次改路決定，離館後記錄下次要調整的一項條件。",
+    "training": "做45分鐘「支持不等於接管」：10分鐘預告，10分鐘工具試用，10分鐘模擬暫停與返回，10分鐘孩子改路，最後5分鐘由成人寫下自己沒有代替決定的時刻。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "title": "Sensory Friendly Sunday",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "Walker Art Center將於2026年11月8日8時至11時舉行免費且需登記的Sensory Friendly Sunday。活動時段展廳不對一般大眾開放，為具有感官處理差異、自閉症或發展障礙的各年齡訪客及親友提供安靜環境、休息空間、指尖玩具、墨鏡等支持；短片有英文字幕，並提供到訪前社會敘事。活動由Walker與Autism Society of Minnesota及明尼蘇達大學職能治療計畫協商建立。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Sensory Friendly Sunday",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/sensory-friendly-sunday-november-2026/",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center將於2026年11月8日8時至11時舉行免費且需登記的Sensory Friendly Sunday。活動時段展廳不對一般大眾開放，為具有感官處理差異、自閉症或發展障礙的各年齡訪客及親友提供安靜環境、休息空間、指尖玩具、墨鏡等支持；短片有英文字幕，並提供到訪前社會敘事。活動由Walker與Autism Society of Minnesota及明尼蘇達大學職能治療計畫協商建立。\n【事實／推論界線】官方可證實時段、對象、支持工具、字幕、社會敘事與協作機構；個別孩子需要哪些工具、安靜時段是否足夠及家庭是否感到被支持，須由本人選擇與回饋判斷。\n【原創模擬】感官導航卡、暫停與返回演練及孩子改路任務由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-06-life",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "人生策展課題",
+    "lens": "敬畏感、情緒期待與日常微小尺度",
+    "source": "National Gallery of Art《Finding Awe: Agnes Martin’s Untitled #2》官方資料（查證截至2026-11-06）",
+    "title": "當National Gallery of Art以Agnes Martin作品邀請觀眾緩慢觀看並練習敬畏，你如何讓自己有機會被細小事物打開，又不把「必須感動、平靜或獲得療癒」變成另一項表現壓力？",
+    "summary": "把敬畏理解為可被邀請但不能被命令的注意狀態，記錄身體、尺度與觀點變化，同時允許沒有感覺、分心或離開。",
+    "questions": [
+      "我期待自己出現的是驚嘆、平靜、眼淚還是某種正確反應？",
+      "作品中哪一個細節真正改變了我的注意尺度？",
+      "沒有強烈感受時，我是否急著模仿別人的語言？",
+      "緩慢觀看對我此刻是支持、無聊還是負擔？",
+      "敬畏與美、巨大、神聖或陌生之間有何差別？",
+      "群體分享會擴大感受，還是使我開始表演感受？",
+      "我能否只描述身體與注意力變化，而不先命名情緒？",
+      "日常裡哪個微小事物曾讓時間感改變？",
+      "若今天沒有被打開，我能否把它視為有效結果？",
+      "什麼練習能增加遇見敬畏的機會，卻不保證結果？"
+    ],
+    "strategy": "使用「無成果敬畏記錄」：看見／身體變化／時間感／觀點位移／沒有發生。只記錄可觀察變化，不以感動程度評分，並保留空白作為合法答案。",
+    "task": "選一件作品或一個日常物件，安靜觀看12分鐘；每三分鐘記一次視線、呼吸與時間感，最後分開寫「確實發生」與「我期待發生」，若沒有敬畏也完整保留。",
+    "training": "做七天「微小敬畏」：每天12分鐘觀察一個不起眼對象，不拍照、不分享；只在第七天比較注意尺度與日常節奏，不追求每天產生情緒高峰。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Finding Awe: Agnes Martin’s Untitled #2",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "National Gallery of Art於2026年11月6日14時至15時30分舉辦《Finding Awe: Agnes Martin’s Untitled #2》。官方將其設計為90分鐘日常暫停，邀請觀眾緩慢、正念地觀看Agnes Martin的1981年作品、共同討論並帶走可用於日常的敬畏練習；現場提供座椅與助聽設備，需登記。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Finding Awe: Agnes Martin’s Untitled #2",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/finding-awe/finding-awe-agnes-martins-untitled-2?evd=202611061900",
+          "accessedAt": "2026-11-06"
+        },
+        {
+          "title": "National Gallery of Art｜Finding Awe",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/finding-awe",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月6日14時至15時30分舉辦《Finding Awe: Agnes Martin’s Untitled #2》。官方將其設計為90分鐘日常暫停，邀請觀眾緩慢、正念地觀看Agnes Martin的1981年作品、共同討論並帶走可用於日常的敬畏練習；現場提供座椅與助聽設備，需登記。\n【事實／推論界線】官方可證實活動形式、時間、作品、設備與館方對敬畏研究的應用；個別觀眾是否感到敬畏、療癒或更具同理心，不能由參加活動直接推定。\n【原創模擬】無成果敬畏記錄、12分鐘觀察與七天微小敬畏訓練由Curator OS設計。"
   }
 ]
