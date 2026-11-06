@@ -25481,5 +25481,221 @@
       ]
     },
     "rawText": "【來源事實】National Gallery of Art於2026年11月6日14時至15時30分舉辦《Finding Awe: Agnes Martin’s Untitled #2》。官方將其設計為90分鐘日常暫停，邀請觀眾緩慢、正念地觀看Agnes Martin的1981年作品、共同討論並帶走可用於日常的敬畏練習；現場提供座椅與助聽設備，需登記。\n【事實／推論界線】官方可證實活動形式、時間、作品、設備與館方對敬畏研究的應用；個別觀眾是否感到敬畏、療癒或更具同理心，不能由參加活動直接推定。\n【原創模擬】無成果敬畏記錄、12分鐘觀察與七天微小敬畏訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-07-curator",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "專業策展人提問思考課題",
+    "lens": "巡展轉譯、地方回歸與機構自我歷史",
+    "source": "MCA Chicago《Rashid Johnson: A Poem for Deep Thinkers》官方資料（查證截至2026-11-07）",
+    "title": "當Rashid Johnson近三十年創作巡迴至其出生城市、並成為他在MCA Chicago的第三次個展時，策展如何同時呈現藝術家長期變化、巡展共同架構與芝加哥機構自身收藏史，而不把「回到故鄉」包裝成單一路徑的成功傳記？",
+    "summary": "以作品年代、巡展版本與地方關係三條時間線交叉檢查，讓回顧展既保留共同研究，也公開每一站新增、刪除與重新命名的地方判斷。",
+    "questions": [
+      "哪些作品構成各巡展版本不可替代的共同核心？",
+      "MCA版本新增、刪除或改變了哪些作品與空間關係？",
+      "藝術家2002年、2012年與2026年在MCA的三次個展如何被並列？",
+      "出生城市與長期居住地之間，哪一個關係有實際檔案或合作證據？",
+      "機構早期收藏是否影響今日回顧展對藝術家重要性的敘述？",
+      "近三十年創作應依年代、材料、母題還是心理狀態分段？",
+      "巡展主策展人與在地策展人各自改變了什麼決定？",
+      "「回到故鄉」會遮蔽哪些中斷、矛盾或跨城市網絡？",
+      "地方觀眾能否看見芝加哥脈絡，而非只接收一套移動中的標準版本？",
+      "展覽結束後，哪一項版本差異應被保留在公開檔案中？"
+    ],
+    "strategy": "建立「巡展三線表」：作品與母題的長期變化／前站共同研究／本站地方關係。每一項展陳決定都標記沿用、改寫或新增，並附上證據與責任人。",
+    "task": "選一個曾巡迴兩站以上的回顧展，對照兩份作品清單、平面或新聞稿，找出三項版本差異；為每一差異判斷是場地限制、地方脈絡還是策展立場，寫成一頁版本說明。",
+    "training": "做90分鐘「巡展不是複製」：20分鐘畫共同核心，20分鐘比對版本，20分鐘整理地方檔案，20分鐘重寫開場牆文，最後10分鐘列出尚無證據、不能寫成地方神話的部分。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "芝加哥",
+      "title": "Rashid Johnson: A Poem for Deep Thinkers",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "MCA Chicago於2026年11月7日至2027年4月25日展出《Rashid Johnson: A Poem for Deep Thinkers》，涵蓋藝術家近三十年、超過70件作品。這是出生於芝加哥的Johnson繼2002年與2012年後第三次在MCA舉辦個展；展覽由Guggenheim與Modern Art Museum of Fort Worth策展團隊組織，MCA版本由Jack Schneider與Korina Hernandez負責。",
+      "references": [
+        {
+          "title": "MCA Chicago｜Rashid Johnson: A Poem for Deep Thinkers",
+          "publisher": "Museum of Contemporary Art Chicago",
+          "url": "https://mcachicago.org/whats-on/exhibitions/rashid-johnson-a-poem-for-deep-thinkers/",
+          "accessedAt": "2026-11-07"
+        },
+        {
+          "title": "MCA Chicago｜Talk: Rashid Johnson and Jack Schneider",
+          "publisher": "Museum of Contemporary Art Chicago",
+          "url": "https://mcachicago.org/whats-on/events/talk-rashid-johnson-and-jack-schneider/",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MCA Chicago於2026年11月7日至2027年4月25日展出《Rashid Johnson: A Poem for Deep Thinkers》，涵蓋藝術家近三十年、超過70件作品。這是出生於芝加哥的Johnson繼2002年與2012年後第三次在MCA舉辦個展；展覽由Guggenheim與Modern Art Museum of Fort Worth策展團隊組織，MCA版本由Jack Schneider與Korina Hernandez負責。\n【事實／推論界線】官方可證實展期、作品規模、藝術家與MCA的展覽歷史及策展分工；各巡展站具體新增或刪除哪些作品，仍須逐站比對清單與展場資料。\n【原創模擬】巡展三線表、版本差異調查與重寫牆文訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-07-thinking",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "策展思考訓練",
+    "lens": "歷史激進性、當代經典化與證據時態",
+    "source": "National Gallery of Art《Impressionism and 19th-Century France》官方資料（查證截至2026-11-07）",
+    "title": "當National Gallery of Art以「印象派當年為何激進」帶領觀眾重看今日已成經典的Monet、Cassatt與Van Gogh，策展分析如何重建作品在十九世紀的制度衝突，而不把後來的名聲倒灌成當時人人都看得見的革命？",
+    "summary": "把作品形式、當時展覽制度、同期評價與後來經典化分成四層，要求每一個「激進」判斷回到當時可見的規則與反應。",
+    "questions": [
+      "作品挑戰了當時哪一條可具體指認的題材、技法或展覽規則？",
+      "哪些形式今日看來熟悉，卻在創作當時違反觀看慣例？",
+      "同期評論、沙龍制度或銷售資料提供了什麼證據？",
+      "藝術家本人是否使用「激進」語言，還是後來史家加上的分類？",
+      "Monet、Cassatt與Van Gogh面對的制度位置是否能被放在同一尺度比較？",
+      "哪些拒絕或爭議後來被成功傳記過度放大？",
+      "博物館的收藏與展示如何把曾經邊緣的作品變成必看經典？",
+      "若拿掉今日知名度，觀眾還能從畫面辨認哪些歷史斷裂？",
+      "導覽中的「當時」與「後來」是否被清楚標示？",
+      "哪一項反證會迫使我們把「革命」改寫成漸進、混合或局部變化？"
+    ],
+    "strategy": "使用「歷史時態四層卡」：作品可見證據／當時制度／同期反應／後來經典化。禁止用後來的高知名度證明當時的突破，並為每個形容詞標出證據年代。",
+    "task": "挑一件今日被視為經典的現代藝術作品，寫下三個常見的「突破」說法；為每個說法補一項同期證據與一項反證，再把其中一個過大的形容詞改成有時態、有範圍的判斷。",
+    "training": "做75分鐘「把革命放回當時」：15分鐘只看形式，20分鐘查制度規則，20分鐘讀同期反應，10分鐘追蹤後來收藏史，最後10分鐘用兩個不同時態重寫同一張標籤。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Impressionism and 19th-Century France",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "National Gallery of Art於2026年11月7日15時至16時舉行《Impressionism and 19th-Century France》導覽。官方以Monet、Cassatt與Van Gogh等藝術家為例，透過細看與對話討論印象派如何以現代題材與新技法挑戰十九世紀藝術體制；活動在西館進行。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Impressionism and 19th-Century France",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/impressionism-and-19th-century-france?evd=202611072000",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月7日15時至16時舉行《Impressionism and 19th-Century France》導覽。官方以Monet、Cassatt與Van Gogh等藝術家為例，透過細看與對話討論印象派如何以現代題材與新技法挑戰十九世紀藝術體制；活動在西館進行。\n【事實／推論界線】官方可證實活動時間、方法、藝術家例子與主題方向；每件作品在創作當時究竟遭遇何種拒絕或爭議，須另以同期檔案逐件查證。\n【原創模擬】歷史時態四層卡、同期證據與反證練習由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-07-participation",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "國際民眾參與策展實作",
+    "lens": "功能顛覆、共同提示與可及性痕跡",
+    "source": "MoMA《The Impossible Book: Pamphlets as Sculptural Objects》官方資料（查證截至2026-11-07）",
+    "title": "當MoMA讓參與者以機會操作與材料遊戲共同製作不可讀、甚至不可用的書，參與式策展如何保留對書之功能的顛覆，又不讓「看不懂」成為排除仰賴清楚文字、觸覺順序或輔助閱讀者的新門檻？",
+    "summary": "將實驗物件與可及性痕跡雙軌保存：參與者可以破壞書的慣常功能，但仍留下製作規則、材料路徑與替代描述供他人進入。",
+    "questions": [
+      "誰決定一本書何時從可讀物變成雕塑？",
+      "參與者共同生成提示時，誰的語言最容易成為預設規則？",
+      "機會操作是真正分配決策權，還是把選擇交給隨機？",
+      "不可讀對識字者是遊戲，對仰賴清楚文字者可能是什麼？",
+      "觸覺、聲音或口述能否提供不依賴印刷文字的進入路徑？",
+      "三孔裝訂技法是必要支架，還是會限制對書的想像？",
+      "參與者能否拒絕某條提示、修改它或保留可用性？",
+      "合作成品如何標示每個人的決定而不強迫個別署名？",
+      "活動應保存最終物件、提示生成過程，還是失敗版本？",
+      "哪一項替代描述能增加可及性，又不把作品翻譯成單一答案？"
+    ],
+    "strategy": "建立「雙軌不可能書」：A軌允許破壞閱讀順序、材料與用途；B軌保留提示來源、操作順序、觸覺或聲音描述及可拒絕條款。評估重點是參與者是否改寫規則，而非成品是否奇特。",
+    "task": "邀請六人各寫一條讓書變得不可能的提示，隨機抽取三條製作原型；第二輪讓另一組人只靠替代描述理解操作，記錄無法進入的位置，最後由原作者決定修改提示或保留障礙並說明理由。",
+    "training": "做75分鐘「顛覆功能但不封閉入口」：15分鐘學裝訂，15分鐘共同寫提示，20分鐘機會操作，15分鐘做替代描述，最後10分鐘由未參與製作的人測試並回饋。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "The Impossible Book: Pamphlets as Sculptural Objects",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "MoMA於2026年11月7日9時至11時舉辦免費但須登記、名額有限的《The Impossible Book》工作坊。藝術家kathy wu帶領成人與青少年參考超現實主義書籍與雕塑，學習三孔裝訂製作16頁小冊，並共同創造提示，以機會操作與材料遊戲把書轉成不可讀或可能不可用的物件。",
+      "references": [
+        {
+          "title": "MoMA｜The Impossible Book: Pamphlets as Sculptural Objects",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11857",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月7日9時至11時舉辦免費但須登記、名額有限的《The Impossible Book》工作坊。藝術家kathy wu帶領成人與青少年參考超現實主義書籍與雕塑，學習三孔裝訂製作16頁小冊，並共同創造提示，以機會操作與材料遊戲把書轉成不可讀或可能不可用的物件。\n【事實／推論界線】官方可證實時間、對象、名額條件、技法、參照作品與提示方法；不可讀是否造成排除、參與者是否能改寫提示及替代描述是否存在，須以現場觀察與參與者回饋判斷。\n【原創模擬】雙軌不可能書、六人提示測試與替代描述訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-07-family",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "親子觀展教育訓練",
+    "lens": "建築觀看、身體尺度與親子證據分工",
+    "source": "MoMA《Family Gallery Talks: Exploring Architecture》官方資料（查證截至2026-11-07）",
+    "title": "當MoMA以三至四件作品、繪畫、書寫與身體活動帶領11至14歲親子探索建築，成人如何讓孩子先用尺度、路徑與姿勢建立空間判斷，而不急著用風格名稱與建築師故事替他完成理解？",
+    "summary": "用看見、身體推演、使用假設與資料查證四步驟探索建築，讓孩子的空間證據先成立，成人再補充專有名詞與歷史背景。",
+    "questions": [
+      "孩子從圖像或模型中首先看見的是尺度、材料、光線還是形狀？",
+      "哪些空間判斷可以用站立、轉身、伸手或行走模擬？",
+      "平面圖、照片與模型各自遺漏了什麼身體經驗？",
+      "成人何時應補充建築名詞，何時應先追問孩子的證據？",
+      "孩子與成人是否能各自提出一條不同的使用路徑？",
+      "繪畫、書寫與動作中，孩子最能用哪一種方式表達空間？",
+      "一件建築作品的美感與實際使用能否被分開討論？",
+      "坐在地上或使用無靠背折凳會如何影響參與者的觀察？",
+      "如果孩子不同意建築師的意圖，成人能否保留這個判斷？",
+      "離開展廳後，家庭能否在真實建築中重做一次同樣的證據練習？"
+    ],
+    "strategy": "使用「建築四證據卡」：我看見／我的身體會怎麼移動／誰可能使用／資料證實或修正。先完成前三欄，成人最後才補第四欄，並保留孩子與資料不一致的部分。",
+    "task": "挑一張建築照片或一件模型，讓孩子先畫一條身體路徑、標出一個想停留和一個不舒服的位置；成人不得先說建築師或風格，直到孩子提出三項可見證據後才一起查資料。",
+    "training": "做60分鐘「先用身體讀建築」：15分鐘細看，15分鐘用動作模擬尺度，10分鐘畫路徑，10分鐘交換使用假設，最後10分鐘查資料並分開記錄被證實、被修正與仍未知的判斷。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Family Gallery Talks: Exploring Architecture",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "MoMA於2026年11月7日12時至13時15分舉辦11至14歲親子參與的《Family Gallery Talks: Exploring Architecture》。教育者帶領家庭細看三至四件館藏或展覽作品，並以分享觀察、藝術家與技法資訊、繪畫、書寫及動作探索建築；孩子與成人共同參加。",
+      "references": [
+        {
+          "title": "MoMA｜Family Gallery Talks: Exploring Architecture",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11744",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月7日12時至13時15分舉辦11至14歲親子參與的《Family Gallery Talks: Exploring Architecture》。教育者帶領家庭細看三至四件館藏或展覽作品，並以分享觀察、藝術家與技法資訊、繪畫、書寫及動作探索建築；孩子與成人共同參加。\n【事實／推論界線】官方可證實年齡、時間、作品數量、活動媒介與親子共同參加；孩子實際掌握多少發言與路徑決定權，須由現場互動與回饋判斷。\n【原創模擬】建築四證據卡、身體路徑與延後補充術語訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-07-life",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "人生策展課題",
+    "lens": "人物類型、日常秩序與未知的選擇",
+    "source": "MoMA《Portrait／Settlement》官方放映資料（查證截至2026-11-07）",
+    "title": "當Loznitsa的《Portrait》以正面靜止姿態凝視農村人物、《Settlement》則以遠距鏡頭觀看機構中的日常秩序，你如何辨認自己何時把一個人的表情、工作或診斷誤當成他的全部，又如何為變化與未被看見的選擇保留位置？",
+    "summary": "把對人的判斷拆成可見行為、所處條件、自己的投射、未知部分與可能反例，避免一個標籤吞掉仍在變化的完整生命。",
+    "questions": [
+      "我最常用哪一個詞快速描述這個人？",
+      "這個詞來自他可見的行為，還是我的期待與恐懼？",
+      "一張表情或一段日常能證明什麼，又不能證明什麼？",
+      "制度提供的秩序何時是支持，何時可能限制選擇？",
+      "我是否把沉默、順從或固定作息誤讀成平靜？",
+      "這個人在哪些情境中可能呈現完全不同的一面？",
+      "診斷、職業與家庭角色各自遮蔽了哪些個人差異？",
+      "如果不能替他解釋，我還能描述哪些具體證據？",
+      "哪一個未知應被保留，而不是急著用故事填滿？",
+      "我能做什麼小行動，讓對方有機會修正我對他的描述？"
+    ],
+    "strategy": "使用「人物五格」：可見行為／環境條件／我的投射／未知／反例。任何整體判斷至少需要兩種情境與當事人可修正的入口，否則只保留為暫時觀察。",
+    "task": "選一位你常用單一詞描述的人，不公開姓名；寫下三項可觀察行為、三項未知條件與一個可能反例。若適合且安全，下一次對話只問一個能讓對方修正你理解的開放問題。",
+    "training": "做七天「不把人定格」：每天記錄同一關係中的一項新證據，禁止使用個性形容詞；第七天比較最初標籤，保留仍成立、已被推翻與無法判斷的部分。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Portrait／Settlement",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "MoMA於2026年11月7日13時30分放映Sergei Loznitsa的《Portrait》（2002，28分鐘、無對白）與《Settlement》（2001，80分鐘）。前者以正面姿態記錄俄羅斯農村人物與季節變化；後者觀察Oksochi一所鄉間精神醫療機構中身心障礙者的日常勞動、閱讀與用餐，同時呈現集體化、限制與制度歷史的較暗線索。",
+      "references": [
+        {
+          "title": "MoMA｜Portrait／Settlement",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11711",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月7日13時30分放映Sergei Loznitsa的《Portrait》（2002，28分鐘、無對白）與《Settlement》（2001，80分鐘）。前者以正面姿態記錄俄羅斯農村人物與季節變化；後者觀察Oksochi一所鄉間精神醫療機構中身心障礙者的日常勞動、閱讀與用餐，同時呈現集體化、限制與制度歷史的較暗線索。\n【事實／推論界線】官方可證實影片年份、片長、形式、拍攝對象與館方摘要；人物是否感到平靜、受限或被理解，不能只由影像姿態與策展文字直接推定。\n【原創模擬】人物五格、開放問題與七天不把人定格訓練由Curator OS設計。"
   }
 ]
