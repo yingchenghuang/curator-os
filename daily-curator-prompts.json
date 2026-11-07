@@ -25697,5 +25697,293 @@
       ]
     },
     "rawText": "【來源事實】MoMA於2026年11月7日13時30分放映Sergei Loznitsa的《Portrait》（2002，28分鐘、無對白）與《Settlement》（2001，80分鐘）。前者以正面姿態記錄俄羅斯農村人物與季節變化；後者觀察Oksochi一所鄉間精神醫療機構中身心障礙者的日常勞動、閱讀與用餐，同時呈現集體化、限制與制度歷史的較暗線索。\n【事實／推論界線】官方可證實影片年份、片長、形式、拍攝對象與館方摘要；人物是否感到平靜、受限或被理解，不能只由影像姿態與策展文字直接推定。\n【原創模擬】人物五格、開放問題與七天不把人定格訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-08-curator",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "專業策展人提問思考課題",
+    "lens": "匿名主角、證據鏈與敘事權力",
+    "source": "Guggenheim《Taryn Simon: Father Country I Do Love You》官方資料（查證截至2026-11-08）",
+    "title": "當Taryn Simon以42件作品追索一位未具名聯邦探員的行動與不行動，並把照片、文字、影像與雕塑鋪滿Guggenheim圓形大廳時，策展如何讓觀眾追蹤證據鏈，又不讓匿名、規模與國家敘事替作品自動製造權威？",
+    "summary": "把可核對事件、藝術家編排、機構展示與觀眾推論分成四層，讓匿名保護與敘事責任同時可見。",
+    "questions": [
+      "這42件作品各自提供的是原始證據、藝術家轉述、象徵物，還是後來重構？",
+      "未具名保護了誰，又使誰失去回應或被質疑的可能？",
+      "哪些資訊來自聯邦探員，哪些來自藝術家或第三方資料？",
+      "圓形大廳的連續動線會不會讓分散事件看似具有單一因果？",
+      "作品的巨大規模如何影響觀眾對證據可信度的感受？",
+      "行動與不行動的後果應以何種時間線並列？",
+      "國家、家庭與個人忠誠在展覽中何時互相衝突？",
+      "互動裝置讓觀眾增加判斷權，還是只增加沉浸感？",
+      "哪些受影響者的聲音不在42件作品之中？",
+      "哪一項關鍵主張若無法追溯來源，應被標示為推論而非事實？"
+    ],
+    "strategy": "建立「四層證據牆」：事件可核對資料／藝術家選材與排列／機構的空間放大／觀眾生成的推論。每一條因果箭頭都附來源、缺口與可反駁條件。",
+    "task": "選一件使用檔案或真實人物的展覽，抽出五項核心主張；為每項標記原始資料、轉述者、展陳放大效果與缺席者，再刪除一條只有規模感、沒有證據鏈的因果句。",
+    "training": "做90分鐘「匿名證據壓力測試」：20分鐘畫來源鏈，20分鐘標匿名造成的保護與盲點，20分鐘移除空間與語氣效果重讀主張，20分鐘加入反證，最後10分鐘重寫一段牆文。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Taryn Simon: Father Country I Do Love You",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "Guggenheim New York於2026年9月18日至2027年3月14日展出《Father Country I Do Love You》。官方稱此計畫歷時近十年，以42件作品追索一位未具名聯邦探員的真實人生，結合照片、文字、影像與雕塑形成占滿圓形大廳的互動裝置；館方並稱這是首個由攝影為基礎藝術家在圓形大廳舉辦的個展，也是該館規模最大的全新作品首展。",
+      "references": [
+        {
+          "title": "Guggenheim｜Mind’s Eye: Taryn Simon: Father Country I Do Love You",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/minds-eye-taryn-simonfather-countryi-do-love-you",
+          "accessedAt": "2026-11-08"
+        },
+        {
+          "title": "Guggenheim｜2026 exhibitions schedule",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2025/10/press-release-srgm-2026-schedule-of-exhibitions-10092025.pdf",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Guggenheim New York於2026年9月18日至2027年3月14日展出《Father Country I Do Love You》。官方稱計畫歷時近十年，以42件作品追索一位未具名聯邦探員的真實人生，結合照片、文字、影像與雕塑形成占滿圓形大廳的互動裝置。\n【事實／推論界線】官方可證實展期、媒材、作品數、主角匿名及空間規模；匿名是否增加權威感、動線是否暗示因果，以及缺席者如何被代表，需由展場、作品來源與受影響者資料另行檢驗。\n【原創模擬】四層證據牆、匿名證據壓力測試與刪除無來源因果句由Curator OS設計。",
+    "notion": {
+      "fact": "Guggenheim於2026年9月18日至2027年3月14日展出此計畫，42件作品以照片、文字、影像與雕塑追索一位未具名聯邦探員。",
+      "hypothesis": "若把事件、藝術家編排、機構展示與觀眾推論分層，觀眾較能辨識敘事權威從何而來。",
+      "need": "在保護匿名者的同時，維持真實人物展覽的可追溯性、可反駁性與敘事責任。",
+      "constraint": "未具名主角、跨媒材巨型裝置與漫長時間線，可能使來源缺口被沉浸感與規模掩蓋。",
+      "leverage": "四層證據牆：事件／編排／展示／推論。",
+      "domain": [
+        "策展",
+        "藝術"
+      ],
+      "priority": "P1"
+    }
+  },
+  {
+    "id": "daily-2026-11-08-thinking",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "策展思考訓練",
+    "lens": "場域關係、季節變量與可重複觀察",
+    "source": "National Gallery of Art《Sculpture Garden Tours》官方資料（查證截至2026-11-08）",
+    "title": "當National Gallery of Art以戶外導覽討論二十多件現當代雕塑與景觀的關係，而且行程會因過熱或下雨取消時，策展分析如何把光線、植栽、天氣與身體路徑視為可變證據，而不是把場域關係寫成永遠不變的作品屬性？",
+    "summary": "用同點重訪、變量紀錄與不變條件三步驟，區分作品本身、基地配置與當日環境共同產生的觀看結果。",
+    "questions": [
+      "哪些判斷來自雕塑本身，哪些來自它目前的位置與朝向？",
+      "光線改變後，哪些體量、孔洞或表面才開始可見？",
+      "植栽的季節變化會遮擋、框景或改寫哪些關係？",
+      "雨、熱與風如何改變停留時間與可接近性？",
+      "導覽路徑是否把某一面固定成作品的正面？",
+      "身高、移動速度與輔具會產生哪些不同視線？",
+      "作品移至室內後，哪一項判斷仍成立？",
+      "哪些景觀關係是策展配置，哪些只是當日巧合？",
+      "如何用照片、時間、方位與天氣留下可比較紀錄？",
+      "至少重訪幾次，才足以把一次感受寫成場域判斷？"
+    ],
+    "strategy": "建立「場域變量紀錄表」：固定觀察點、時間、方位與身體路徑，再分別記錄光、植栽、溫度、風雨與人流；把重複出現的關係與單日偶發效果分開。",
+    "task": "選一件戶外作品，在同一天早晚或兩個不同天氣各觀察20分鐘；用同一取景點記錄五項變化，最後只保留跨兩次觀察仍成立的兩項場域判斷。",
+    "training": "做70分鐘「同點重訪」：10分鐘畫方位，兩輪各20分鐘觀察，10分鐘比較變量，最後10分鐘把一個過度固定的形容詞改寫成帶有時間與條件的句子。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Sculpture Garden Tours",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "National Gallery of Art於2026年11月8日14時至15時舉行戶外雕塑花園導覽，介紹二十多件現代與當代雕塑、作品故事及其與景觀環境的關係。官方說明導覽為季節性活動，並可能因過熱或下雨取消。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Sculpture Garden Tours",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/sculpture-garden-tours?evd=202611081900",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月8日14時至15時舉行戶外雕塑花園導覽，介紹二十多件現代與當代雕塑、作品故事及其與景觀環境的關係；活動為季節性，可能因過熱或下雨取消。\n【事實／推論界線】官方可證實時間、作品數量範圍、導覽主題與天候條件；光線、植栽、人流如何改變每件作品，須以多時段現場紀錄逐件驗證。\n【原創模擬】場域變量紀錄表、同點重訪與條件式改寫由Curator OS設計。",
+    "notion": {
+      "fact": "NGA於2026年11月8日舉行一小時雕塑花園導覽，園內有二十多件現當代雕塑；活動季節性進行，可能因過熱或雨天取消。",
+      "hypothesis": "重訪同一觀察點並記錄天候、植栽與人流，能避免把單次環境效果誤寫為作品固定屬性。",
+      "need": "建立可被重複觀察的場域判斷，而不是依賴一次理想天氣的觀看印象。",
+      "constraint": "戶外條件持續變動，且導覽路徑、身體差異與天候可能使不同觀眾看見完全不同的作品關係。",
+      "leverage": "場域變量紀錄表：固定點／時間／方位／身體路徑／環境變量。",
+      "domain": [
+        "策展",
+        "公共藝術"
+      ],
+      "priority": "P2"
+    }
+  },
+  {
+    "id": "daily-2026-11-08-participation",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "國際民眾參與策展實作",
+    "lens": "ASL原生詮釋、語言權力與回饋閉環",
+    "source": "Guggenheim《ASL Tour of Taryn Simon: Father Country I Do Love You》官方資料（查證截至2026-11-08）",
+    "title": "當Guggenheim邀請D／聾社群以美國手語探索Taryn Simon展覽，參與式策展如何把ASL視為能生成空間、節奏與意義的原生詮釋，而不是把既有口語導覽縮短後翻成手語？",
+    "summary": "讓ASL使用者在選件、停留節奏、術語與回饋上擁有決定權，並把手語導覽產生的新問題回寫到一般展覽詮釋。",
+    "questions": [
+      "ASL使用者是否參與選擇作品與安排導覽順序？",
+      "哪些概念需要由手語建立，而不是逐句對應英文術語？",
+      "圓形大廳的視線、距離與站位是否支持同時看見手語與作品？",
+      "誰決定每一站的停留節奏與提問方式？",
+      "參與者可以打斷、改寫或補充導覽敘事嗎？",
+      "活動資訊與報名流程是否以D／聾社群可直接使用的方式提供？",
+      "若作品含聲音或文字，替代資訊是否保留其結構而非只給摘要？",
+      "手語導覽產生的觀點會不會回到牆文、網站或一般導覽？",
+      "如何避免把一次專場當成機構已完成可及性的證明？",
+      "活動後由誰判斷成功，參與者的標準如何被保存？"
+    ],
+    "strategy": "採用「ASL先行迴路」：共同選件與站位／以ASL生成概念／現場可改變節奏／收集社群判準／把新詮釋回寫到公開資源。避免只測量到場人數。",
+    "task": "為一場五站導覽製作雙版本腳本：先以視覺注意、站位與手語節奏設計，再與原口語腳本比較；找出三處不能逐句翻譯的概念，邀請ASL使用者決定替代結構。",
+    "training": "做80分鐘「不是翻譯附加層」：20分鐘檢查站位與視線，20分鐘拆解術語，20分鐘模擬可中斷的導覽，10分鐘建立回饋問題，最後10分鐘指定一項會回寫到全館詮釋的改變。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "ASL Tour of Taryn Simon: Father Country I Do Love You",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "Guggenheim於2026年11月8日18時舉辦《Father Country I Do Love You》ASL導覽，官方邀請D／聾社群與教育者Joyce Hom以美國手語探索展覽。當日活動屬館方無障礙導覽計畫，展覽本身涵蓋照片、文字、影像與雕塑。",
+      "references": [
+        {
+          "title": "Guggenheim｜Calendar: ASL Tour of Taryn Simon",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/",
+          "accessedAt": "2026-11-08"
+        },
+        {
+          "title": "Guggenheim｜Mind’s Eye: Taryn Simon: Father Country I Do Love You",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/minds-eye-taryn-simonfather-countryi-do-love-you",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Guggenheim於2026年11月8日18時舉辦《Father Country I Do Love You》ASL導覽，官方邀請D／聾社群與教育者Joyce Hom以美國手語探索展覽。\n【事實／推論界線】官方可證實日期、時間、對象、語言、教育者與展覽；ASL使用者是否共同選件、能否改變節奏，以及新觀點是否回寫到一般詮釋，須由活動設計與參與者回饋查證。\n【原創模擬】ASL先行迴路、雙版本腳本與全館回寫機制由Curator OS設計。",
+    "notion": {
+      "fact": "Guggenheim於2026年11月8日18時邀請D／聾社群與教育者Joyce Hom，以ASL探索Taryn Simon展覽。",
+      "hypothesis": "若ASL使用者能共同決定選件、站位、節奏與術語，導覽會產生新的策展詮釋，而不只是口語內容的轉譯。",
+      "need": "讓D／聾參與者擁有直接理解、提問與改變詮釋的語言權與空間條件。",
+      "constraint": "圓形大廳的視線與站位、跨媒材作品及既有口語腳本，都可能把ASL壓縮成附加服務。",
+      "leverage": "ASL先行迴路：共選／原生詮釋／現場改變／社群判準／全館回寫。",
+      "domain": [
+        "策展",
+        "教學"
+      ],
+      "priority": "P2"
+    }
+  },
+  {
+    "id": "daily-2026-11-08-family",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "親子觀展教育訓練",
+    "lens": "技法拆解、世代協作與反模仿",
+    "source": "Whitney Museum《All Ages Printmaking: Roy Lichtenstein with Blackburn Printshop》官方資料（查證截至2026-11-08）",
+    "title": "當Whitney邀請全年齡家庭跟隨專業版畫師操作網版印刷與pochoir、製作受Roy Lichtenstein啟發的托特包時，親子如何學會圖像被分色、套印與複製的機制，又不把「像不像名作」變成唯一成果標準？",
+    "summary": "把共同製作拆成觀察印刷結構、分配技術角色、保留個人變體與比較多版本，讓孩子理解複製技術同時也能做出選擇。",
+    "questions": [
+      "孩子能從作品中辨認哪些網點、色層、輪廓與筆觸？",
+      "網版印刷與pochoir各自如何留下不同邊緣與重複痕跡？",
+      "成人與孩子可以如何輪流負責選色、定位、印刷與檢查？",
+      "哪一個步驟具有安全或技術限制，必須由專業者支援？",
+      "如果套印偏移，家庭會把它視為錯誤、證據還是新選擇？",
+      "參考Lichtenstein時，哪些形式可以研究，哪些不必照抄？",
+      "托特包成品是否會讓裝飾效果壓過對印刷機制的理解？",
+      "每位家庭成員能否保留一個不被共同決定覆蓋的變體？",
+      "比較兩次印刷時，孩子能說出哪一個決定造成差異嗎？",
+      "離開工作坊後，家庭如何用家中簡單材料重做分色與套印？"
+    ],
+    "strategy": "使用「四層印刷卡」：圖像拆層／角色輪替／版本偏差／選擇說明。評量不看成品像不像，而看孩子能否指出一個技術步驟與一個自己的決定。",
+    "task": "親子選一張簡單圖像拆成兩個色層，用紙模或海綿各印兩版；第一版追求對齊，第二版故意改色或偏移。由孩子比較四張結果，說出差異來自技術限制還是主動選擇。",
+    "training": "做70分鐘「複製不是照抄」：15分鐘看印刷結構，15分鐘拆色，20分鐘角色輪替製版與印刷，10分鐘比較版本，最後10分鐘各自選一個要保留的偏差並命名。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "All Ages Printmaking: Roy Lichtenstein with Blackburn Printshop",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "Whitney Museum於2026年11月8日13時30分至17時，在《Roy Lichtenstein: Like New》開幕日舉辦全年齡版畫活動。Robert Blackburn Printmaking Workshop的專業版畫師帶領參與者實驗網版印刷與pochoir，製作受Lichtenstein啟發的托特包；活動納入Free Second Sundays，免費但需門票且容量極有限。",
+      "references": [
+        {
+          "title": "Whitney Museum｜All Ages Printmaking: Roy Lichtenstein with Blackburn Printshop",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/all-ages-printmaking-nov8",
+          "accessedAt": "2026-11-08"
+        },
+        {
+          "title": "Whitney Museum｜Free Second Sundays",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/visit/free-admission/second-sundays",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Whitney Museum於2026年11月8日13時30分至17時，在《Roy Lichtenstein: Like New》開幕日舉辦全年齡版畫活動。Robert Blackburn Printmaking Workshop的專業版畫師帶領參與者實驗網版印刷與pochoir，製作受Lichtenstein啟發的托特包；活動免費但需門票且容量有限。\n【事實／推論界線】官方可證實時間、對象、合作單位、技法、成品與容量條件；親子實際如何分配角色、是否以模仿程度評價成果及偏移能否被保留，須由現場教學與參與者回饋判斷。\n【原創模擬】四層印刷卡、兩版對照與保留偏差練習由Curator OS設計。",
+    "notion": {
+      "fact": "Whitney於2026年11月8日舉辦全年齡活動，專業版畫師帶領網版印刷與pochoir實驗，製作Lichtenstein啟發的托特包；免費但容量極有限。",
+      "hypothesis": "若親子分工並比較多個版本，孩子能把複製理解為一連串技術與選擇，而不只是模仿名作。",
+      "need": "讓孩子在專業技法、安全限制與家庭協作中仍保有可辨識的決定權。",
+      "constraint": "技術門檻、成人代勞、名作崇拜與有限名額，可能讓活動只剩完成一件相似商品。",
+      "leverage": "四層印刷卡：拆層／輪替／偏差／說明。",
+      "domain": [
+        "教學",
+        "藝術"
+      ],
+      "priority": "P2"
+    }
+  },
+  {
+    "id": "daily-2026-11-08-life",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "人生策展課題",
+    "lens": "返鄉邊界、舊關係網與自由移動",
+    "source": "MoMA《The Dreamed Adventure》官方放映資料（查證截至2026-11-08）",
+    "title": "當《The Dreamed Adventure》讓兩位久別返鄉者在邊境城鎮重逢，過往、地方勢力與舊情同時被挖出，你如何判斷一次「回去」是在重新選擇歸屬，還是又被舊角色、舊人情與熟悉恐懼限制了移動？",
+    "summary": "用路徑、代價、可逆性與退出權檢查返鄉決定，讓熟悉感不再自動等於安全或應當留下。",
+    "questions": [
+      "我想回去的是一個地方、一段關係，還是過去的自己？",
+      "哪些人期待我恢復以前的角色？",
+      "我目前知道的風險是事實、傳聞，還是身體記憶？",
+      "留下與離開各自需要支付什麼現實代價？",
+      "我是否擁有自己的金錢、住處、交通與資訊？",
+      "哪一項承諾一旦做出就很難撤回？",
+      "熟悉感何時提供支持，何時讓警訊看起來正常？",
+      "我能否設定一個有期限、可撤回的試住或合作版本？",
+      "誰能在我改變主意時提供不帶評判的支援？",
+      "如果自由移動是底線，下一個最小退出路徑是什麼？"
+    ],
+    "strategy": "建立「返鄉自由地圖」：吸引力／舊角色／實際限制／可逆選項／退出資源。先設計能撤回的短期版本，再決定是否把熟悉關係轉成長期承諾。",
+    "task": "針對一個想重新進入的地方或關係，畫出三條路徑：短期探訪、條件式合作、長期回歸；為每條標示期限、不可接受條件與退出方式，只先執行最可逆的一條。",
+    "training": "做七天「熟悉不等於自由」：每天記錄一項支持、一項限制與一個身體反應；第七天只用可觀察證據比較留下、調整與離開三種選項，不用虧欠、命運或應該作為理由。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Das geträumte Abenteuer (The Dreamed Adventure)",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "MoMA於2026年11月8日17時放映Valeska Grisebach的2026年電影《The Dreamed Adventure》。故事位於保加利亞、希臘與土耳其交界的Svilengrad，兩位久別返鄉者Said與Veska偶然重逢；Veska是負責附近考古挖掘的考古學家，地方勢力、舊帳與舊情使她必須協商自己在危險領域中自由移動的欲望。影片使用幾乎全由非職業演員組成的群戲，並獲坎城影展評審團獎。",
+      "references": [
+        {
+          "title": "MoMA｜Das geträumte Abenteuer (The Dreamed Adventure)",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11800",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月8日17時放映Valeska Grisebach的2026年電影《The Dreamed Adventure》。官方摘要指出故事位於保加利亞、希臘與土耳其交界的Svilengrad，兩位久別返鄉者重逢，地方勢力、舊帳與舊情使Veska必須協商自己在危險領域中自由移動的欲望；影片使用幾乎全由非職業演員組成的群戲，並獲坎城影展評審團獎。\n【事實／推論界線】官方可證實放映資訊、場景、角色關係、敘事衝突、演員構成與獲獎；「回去」在任何真實人生中是否安全或值得，不能由電影情節代替當事人的資源與風險評估。\n【原創模擬】返鄉自由地圖、三路徑任務與七天紀錄由Curator OS設計。",
+    "notion": {
+      "fact": "MoMA於2026年11月8日放映此片；故事位於保加利亞邊境城鎮，久別返鄉者重逢，Veska須在舊勢力與危險地帶中協商自由移動。",
+      "hypothesis": "若把返鄉拆成短期、條件式與長期三種可逆程度，人較能分辨歸屬選擇與舊角色束縛。",
+      "need": "在保留關係與地方連結的同時，維持改變主意、離開與重新談條件的自由。",
+      "constraint": "熟悉感、舊人情、經濟與交通依賴，會讓風險看似正常，也讓退出成本被低估。",
+      "leverage": "返鄉自由地圖：吸引／角色／限制／可逆／退出。",
+      "domain": [
+        "生活觀察",
+        "藝術"
+      ],
+      "priority": "P2"
+    }
   }
 ]
