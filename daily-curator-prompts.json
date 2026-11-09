@@ -26135,5 +26135,227 @@
       ]
     },
     "rawText": "【來源事實】Barbican於2026年11月7日至9日安排《La Bola Negra》親子場；官方資料記載影片為2026年西班牙製作、片長2小時35分、由Javier Ambrossi與Javier Calvo執導，以1932、1937與2017三個時段構成三聯作，2017段由歷史學者意外繼承祖父文件展開，探索酷兒身分、傳承與慾望。票價6英鎊並提供口述影像。\n【事實／推論界線】官方可證實放映、製作與情節資料；任何真實家族的文件、沉默或傳聞都不能套用電影結論，人物身分與創傷尤其需要同意、獨立佐證與隱私判斷。\n【原創模擬】五層檔案、一頁來源卡與七日保留不知道訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-10-curator",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "專業策展人課題",
+    "lens": "動態作品、版本紀錄與環境責任",
+    "source": "Serpentine Galleries《Justin Caguiat: Change Ringing》官方展覽資料（查證截至2026-11-10）",
+    "title": "當Justin Caguiat的熱致變色繪畫隨溫度與光線持續顯露、隱藏不同形體，花朵與種子造型的銅鐘又依序列機械鳴響時，策展如何保存作品的變化規則與環境條件，而不把某一次照片誤當成作品的固定版本？",
+    "summary": "以狀態、條件、規則與例外建立動態作品紀錄，讓展覽保存變化的邏輯，而不是只保存最上鏡的一刻。",
+    "questions": [
+      "作品哪些部分是固定物質，哪些部分由熱、光、聲音與時間共同生成？",
+      "觀眾看到的顏色是當下狀態、預定階段，還是不可重現的偶發結果？",
+      "展場溫度與照度由誰設定，這些設定是否等同策展編輯？",
+      "鐘聲的序列、速度、間隔與空間反射應如何被記錄？",
+      "攝影與影片會優先保存哪一種狀態，又會遮蔽哪些變化？",
+      "作品的正常變化、材料老化與技術故障如何區分？",
+      "觀眾能否知道自己何時正影響作品的溫度、光線或聲場？",
+      "若作品移至另一棟建築，哪些環境差異必須被保留為版本資訊？",
+      "藝術家、作曲者、建築與技術團隊各自決定了哪一層變化規則？",
+      "典藏的是物件、控制參數、變化範圍，還是一套能重新啟動的關係？"
+    ],
+    "strategy": "建立「固定構件／可變輸入／輸出狀態／允許範圍／異常判準」五層版本表；每日在相同時段記錄溫度、照度、聲序與影像，並把策展人調整環境的行為納入版本紀錄。",
+    "task": "選一件受光、風、熱、濕度或觀眾影響的作品，連續三次在相同角度記錄狀態；每次補上環境數值、控制者與變化原因，最後寫出一份不以單張照片代表全貌的120字作品說明。",
+    "training": "做七日「變化不是瑕疵」：每天觀察同一物件的一項狀態差異，分別標記預定變化、環境反應、使用痕跡、老化與故障；第七天重寫維護規則，說清楚哪些變化應被保留。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦",
+      "title": "Justin Caguiat: Change Ringing",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "Serpentine South於2026年10月8日至2027年1月10日免費展出Justin Caguiat首個英國機構個展《Change Ringing》。展覽結合繪畫、雕塑、版畫、聲音與影像；新作以熱致變色顏料回應溫度與光線，花朵與種子造型的銅鐘則依Lily Pickett創作、源自英格蘭change ringing原理的序列機械鳴響，並由建築牆面聚集與放大聲音。",
+      "references": [
+        {
+          "title": "Serpentine｜Justin Caguiat: Change Ringing",
+          "publisher": "Serpentine Galleries",
+          "url": "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Serpentine South於2026年10月8日至2027年1月10日免費展出Justin Caguiat首個英國機構個展《Change Ringing》。官方說明展覽結合繪畫、雕塑、版畫、聲音與影像；熱致變色作品回應溫度與光線，銅鐘依Lily Pickett創作的序列機械鳴響，建築牆面則聚集與放大聲音。\n【事實／推論界線】官方可證實展期、媒材、環境反應與聲音機制；哪些狀態應被視為作品版本、老化或故障，仍需藝術家、技術與典藏文件共同界定。\n【原創模擬】五層版本表、三次環境紀錄任務與七日訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-10-thinking",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "策展思考訓練",
+    "lens": "可演奏典藏、保存界線與聲音證據",
+    "source": "The Metropolitan Museum of Art〈The Appleton Performance Series with Organist Marco Jimenez〉及Appleton Organ官方資料（查證截至2026-11-10）",
+    "title": "當The Met讓1830年的Appleton管風琴由Marco Jimenez現場演奏時，策展分析如何區分「作為歷史物件被保存」與「作為樂器被使用」的價值，並說明每一次調音、供風與演奏如何改變觀眾所理解的原貌？",
+    "summary": "用物件狀態、功能啟動、現代介入與聽覺證據四層閱讀可使用典藏，避免把沉默等同保存、把發聲等同原貌。",
+    "questions": [
+      "這件管風琴的哪部分來自1830年，哪些部分在後來遷移或擴充？",
+      "現場演奏讓觀眾理解了哪些靜態展示無法提供的功能？",
+      "演奏前的調音、修復與安全檢查改變了什麼？",
+      "手動風箱與博物館加裝的電動鼓風機會產生何種不同證據？",
+      "曲目、編曲與演奏風格是否符合樂器原始使用年代？",
+      "今日展廳的聲學與原先教堂空間有何差異？",
+      "為了保存而限制音量、頻率或演奏次數，會失去哪些使用知識？",
+      "演奏造成的磨耗如何被衡量，又由誰決定可接受範圍？",
+      "觀眾聽到的是歷史聲音、當代重建，還是兩者共同生成的版本？",
+      "策展文字如何同時說明真實材料、後來改造與今日表演選擇？"
+    ],
+    "strategy": "建立「原始構件／歷史改造／博物館介入／當次演奏」四層時間表；每個聲音判斷都連回構件、供風方式、空間與曲目，避免使用「原汁原味」等無法驗證的說法。",
+    "task": "挑一件仍可操作的歷史物件或技術，分別寫出靜態展示與啟用展示各能證明的3件事；再列出啟用所需的現代介入，完成一張保存與使用的取捨表。",
+    "training": "進行四次「先看後聽」：先只從外觀推測功能，再閱讀結構資料、觀看操作、最後聆聽結果；每階段記錄一項被修正的判斷，練習不讓最終聲音抹去物件的改造史。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "The Appleton Performance Series with Organist Marco Jimenez",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "The Met於2026年11月10日13時在第五大道館舍安排Marco Jimenez演奏館藏Appleton管風琴，活動隨門票免費參加。館方資料指出這件1830年管風琴是Thomas Appleton現存最早作品，後來曾移至另一座教堂並增設27鍵腳踏板；1983年正式安裝於The Met，現有836支音管，供風可使用手動風箱或館方加裝的電動鼓風機。",
+      "references": [
+        {
+          "title": "The Met｜Events Calendar—The Appleton Performance Series with Organist Marco Jimenez",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/events/calendar",
+          "accessedAt": "2026-11-10"
+        },
+        {
+          "title": "The Met｜The Met's Mighty Pipe Organ",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/pt/perspectives/appleton-organ-2",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met於2026年11月10日13時安排Marco Jimenez演奏館藏Appleton管風琴，活動隨門票免費參加。館方另記載此琴製於1830年，是Thomas Appleton現存最早作品；後來曾遷移、增設27鍵腳踏板，1983年安裝於The Met，現有836支音管，可由手動風箱或館方加裝的電動鼓風機供風。\n【事實／推論界線】官方可證實活動、年代、遷移、改造與結構資料；當日曲目、供風方式、調音狀態及磨耗程度若未另有紀錄，不能預先推定。\n【原創模擬】四層時間表、保存與使用取捨表及先看後聽訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-10-participation",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "國際民眾參與實作",
+    "lens": "參與方法、知識回饋與再使用權",
+    "source": "Serpentine Education and Civic《How We Hold: Rehearsals for Art and Social Change》官方資源（查證截至2026-11-10）",
+    "title": "當Serpentine把十年公民與教育計畫中的專案筆記、對話、文件與練習整理成免費資源《How We Hold》，參與式策展如何讓社群方法被他人使用，又不把兒童、勞工、移民與照護者的經驗抽成機構可自由複製的工具包？",
+    "summary": "用貢獻、同意、脈絡、再使用與回饋五項協議公開參與方法，讓知識能流動，也讓原參與者保有署名、限制與修正權。",
+    "questions": [
+      "哪些練習由誰發明，哪些是在共同工作中逐步形成？",
+      "專案筆記被出版前，參與者是否看過並能修正自己的描述？",
+      "兒童、勞工、移民與照護者的經驗如何避免被化成抽象案例？",
+      "免費下載是否也清楚說明署名、引用與改作條件？",
+      "新使用者需要知道哪些政治、制度與地方脈絡才能安全採用方法？",
+      "一套在危機中形成的練習，移到別處可能造成什麼傷害？",
+      "機構如何把銷售、流量或聲譽回饋給原貢獻者？",
+      "反對與異議是否保留原本的張力，還是被編輯成一致的成功故事？",
+      "使用者能否回報失敗、修改與新版本，形成雙向更新？",
+      "哪些內容應保持不可複製、限情境使用或不公開？"
+    ],
+    "strategy": "為每一項參與方法附「來源者／形成脈絡／同意範圍／可再使用條件／回饋路徑」卡；採用者必須記錄修改與結果，回傳原社群或資源維護者，不能只下載後斷開關係。",
+    "task": "挑一套公開參與工具，找出其中3項未標明的脈絡或權利問題；補寫一張五項協議卡，並設計一個能把使用結果回到原貢獻者的具體管道。",
+    "training": "做五次「方法不是無主物」檢查：每次使用一個他人設計的活動前，先寫來源、目的、受益者、不能照搬之處與回饋方式；完成後記錄一項失敗與一項修改。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦／線上",
+      "title": "How We Hold: Rehearsals for Art and Social Change",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "Serpentine Education and Civic持續免費提供《How We Hold: Rehearsals for Art and Social Change》。官方說明出版品直接取材自十年藝術家與不同群體共同生成的計畫，收錄專案筆記、文件、對話、委託文章與練習，涵蓋幼兒、勞工組織者、教育者、照護者、青年與移民制度中的人；資源既可供機構使用，也設計為批判博物館與藝術組織之新自由主義及殖民教育、行政模式的工具。",
+      "references": [
+        {
+          "title": "Serpentine｜How We Hold: Rehearsals for Art and Social Change",
+          "publisher": "Serpentine Galleries",
+          "url": "https://www.serpentinegalleries.org/whats-on/how-we-hold-rehearsals-for-art-and-social-change-resource/",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Serpentine Education and Civic持續免費提供《How We Hold》。官方說明資源直接取材自十年共同計畫，收錄專案筆記、文件、對話、委託文章與練習，參與者涵蓋幼兒、勞工組織者、教育者、照護者、青年與移民制度中的人；出版品也用來批判博物館與藝術組織的教育、行政模式。\n【事實／推論界線】官方可證實資源形式、取材範圍、貢獻者類型與公開目的；個別參與者的同意、報酬、修正權及再使用限制需由完整出版品與專案協議逐項查核。\n【原創模擬】五項協議卡、回饋任務與方法不是無主物訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-10-family",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "親子觀展訓練",
+    "lens": "幼兒遊戲、材料分類與成人退場",
+    "source": "National Gallery of Art〈Playtime〉官方活動資料（查證截至2026-11-10）",
+    "title": "當National Gallery of Art把東館中庭設成讓幼兒自由玩、搭建、分類與堆疊的免費空間，親子如何從孩子反覆選材、改規則與拆掉重來的行為讀出思考，而不是由成人示範一個「正確作品」再要求孩子完成？",
+    "summary": "把幼兒遊戲視為可觀察的研究過程，以等待、描述與追問取代示範，讓孩子保有材料、規則與結束方式的決定權。",
+    "questions": [
+      "孩子第一個主動選擇的是材料、位置、同伴還是動作？",
+      "他如何判斷物件可以搭、疊、排、分或滾動？",
+      "同一分類規則維持多久，又在什麼時刻被自己推翻？",
+      "成人何時因擔心混亂而過早示範或修正？",
+      "孩子拆掉成果是在失敗、測試，還是準備另一種玩法？",
+      "不同年齡與身體能力的孩子能否取得相同材料與空間？",
+      "一起玩的孩子如何協商輪流、借用與共同規則？",
+      "成人能否只描述看見的動作，不替孩子命名作品？",
+      "沒有帶成品回家時，家庭如何記住過程中的發現？",
+      "離場由時間、成人或孩子決定，孩子是否有完成與收尾的訊號？"
+    ],
+    "strategy": "採用「等30秒／描述動作／問一個問題／再退一步」成人介入節奏；只在安全、資源衝突或孩子主動求助時提供具體協助，並用三張過程照片或口述記錄替代成品評分。",
+    "task": "用家中10件安全物件做20分鐘自由分類與堆疊；成人每次想示範時先等待30秒，只記錄孩子改過的3條規則與一次拆掉重來，不要求留下完整成品。",
+    "training": "連續五天做「一材多用」：每天給同一組物件，由孩子決定玩法；成人只回答孩子提出的問題，最後請孩子指出今天和昨天規則有何不同。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Playtime",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "National Gallery of Art於2026年11月10日10時至13時在東館一樓中庭舉行Playtime。官方把活動定位為最年幼藝術愛好者的動手空間，提供玩耍、搭建、分類與堆疊；活動免費、無須登記、可隨時加入，兒童須由成人陪同。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Playtime",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/playtime-0?evd=202611101500",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月10日10時至13時在東館一樓中庭舉行Playtime，提供幼兒玩耍、搭建、分類與堆疊；活動免費、無須登記、可隨時加入，兒童須由成人陪同。\n【事實／推論界線】官方可證實時間、地點、費用、登記方式、對象與活動動詞；材料配置、成人介入方式、孩子是否能改規則及過程如何記錄，需由現場觀察驗證。\n【原創模擬】四步成人介入節奏、家庭20分鐘任務與五日一材多用訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-10-life",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "人生策展課題",
+    "lens": "暫時修復、洩漏訊號與持續照護",
+    "source": "Barbican《Yuko Mohri: In Concert》官方展覽與數位指南（查證截至2026-11-10）",
+    "title": "當Yuko Mohri以漏水、濕度、空氣、重力與回收物件組成持續變動的裝置，並把臨時修補視為拒絕丟棄的照護時，你如何分辨生活中的裂縫需要永久重建、暫時承接，還是先讓它發出訊號，而不再假裝一切從未損壞？",
+    "summary": "把修復拆成止損、觀察、暫時承接、結構重建與共同維護，讓不完美成為資訊，而不是羞恥或永遠拖延的理由。",
+    "questions": [
+      "目前的裂縫正在傷害人、消耗資源，還是只是暴露舊結構？",
+      "最先需要停止的是漏失本身，還是掩蓋漏失的習慣？",
+      "一個臨時修補能安全維持多久，誰負責再次檢查？",
+      "我想恢復的是原本功能、外觀，還是關係中的信任？",
+      "哪些問題可由手邊材料先承接，哪些必須找專業協助？",
+      "暫時方案是否讓真正的結構問題更容易被遺忘？",
+      "不完美留下的聲音、痕跡與限制正在告訴我什麼？",
+      "誰長期做著匿名修補，卻沒有得到時間、資源與署名？",
+      "何時繼續修理的成本已高於重新設計或放手？",
+      "修復完成後，哪一套維護節奏能避免責任再次落回同一個人？"
+    ],
+    "strategy": "建立「止損／訊號／暫時承接／結構修復／維護交接」五階段表；每個臨時方案都寫明期限、風險、負責人與升級條件，避免暫時變成無限期。",
+    "task": "挑一個反覆出現的小問題，先記錄它的觸發條件與目前代價；設計一個48小時止損方案與一個30天結構方案，為兩者分別指定檢查日期與求助對象。",
+    "training": "做七日「聽見洩漏」：每天記錄一個被忽略的小訊號、一次臨時修補與其承擔者；第七天選一項從個人補洞升級為共同維護流程。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦",
+      "title": "Yuko Mohri: In Concert",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "Barbican The Curve於2026年10月1日至2027年1月24日免費展出Yuko Mohri的場域回應委託《In Concert》。作品運用回收的Barbican物件、光、聲音、動力雕塑，以及磁力、濕度、空氣、水與重力等不穩定元素。官方指南說明三件裝置以聲、光與水形成持續變動的「洩漏輸出」，並把修復理解為拒絕快速丟棄、堅持時間、延續與共存的行動。",
+      "references": [
+        {
+          "title": "Barbican｜Yuko Mohri: In Concert",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert",
+          "accessedAt": "2026-11-10"
+        },
+        {
+          "title": "Barbican｜Yuko Mohri: In Concert—Exhibition Guide",
+          "publisher": "Barbican Centre",
+          "url": "https://www.barbican.org.uk/exhibition-guides/yuko-mohri-exhibition-guide",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Barbican The Curve於2026年10月1日至2027年1月24日免費展出Yuko Mohri《In Concert》。官方資料記載作品運用回收物件、光、聲音、動力雕塑及磁力、濕度、空氣、水、重力等不穩定元素；指南把三件裝置描述為具有聲、光與水的持續變動洩漏輸出，並把修復連結到拒絕快速丟棄、時間、延續與共存。\n【事實／推論界線】官方可證實作品媒材、場域關係與修復論述；把藝術方法轉用到個人生活屬策展式推論，不能取代建築、醫療、法律或心理專業評估。\n【原創模擬】五階段修復表、48小時與30天任務及七日訓練由Curator OS設計。"
   }
 ]
