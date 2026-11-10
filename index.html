@@ -320,6 +320,7 @@ footer{background:#152630}footer .sec-in{padding:50px 20px;line-height:1.9}foote
 @media(max-width:1050px){.today-five{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:600px){.today-five{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.daily-image{height:94px}.daily-content{padding:12px}.daily-content h4{font-size:15px}.today-five-heading{align-items:start;flex-direction:column}}
 
 </style>
+<link rel="stylesheet" href="assets/mobile-20261110.css?v=2" media="all">
 </head>
 <body>
 <a class="skip-link" href="#today">跳至主要內容</a>
@@ -645,8 +646,18 @@ var STEPS = [
 ];
 function saveS() { store.set('cos.project', S); drawSteps(); }
 function drawSteps() {
+  var strip = $('#steps'), oldScroll = strip.scrollLeft;
   var done = STEPS.filter(function (s) { return s.done(); }).length;
   $('#steps').innerHTML = STEPS.map(function (s, i) { return '<button type="button" role="tab" data-step="' + i + '" class="' + (s.done() ? 'done' : '') + '"' + (i === stepNow ? ' aria-current="step"' : '') + '><b>0' + (i + 1) + '</b><span>' + s.n + '</span><i aria-label="' + (s.done() ? '已完成' : '未完成') + '"></i></button>'; }).join('') + '<div class="meter">完成 ' + done + ' / 7<div class="bar"><span style="width:' + Math.round(done / 7 * 100) + '%"></span></div></div>';
+  strip.scrollLeft = oldScroll;
+  if (window.innerWidth <= 900) {
+    var active = strip.querySelector('button[aria-current="step"]');
+    if (active) {
+      var left = active.offsetLeft - strip.offsetLeft;
+      if (left < strip.scrollLeft || left + active.offsetWidth > strip.scrollLeft + strip.clientWidth)
+        strip.scrollTo({left: Math.max(0, left - strip.clientWidth / 3), behavior: 'smooth'});
+    }
+  }
 }
 function drawPane() {
   var s = STEPS[stepNow];

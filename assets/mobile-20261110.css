@@ -1,0 +1,66 @@
+/* CURATOR OS 2.0 | mobile editorial layout hotfix, 2026-11-10 */
+@media (max-width: 900px) {
+  /* Restore one-column workbench after the V2 desktop grid override. */
+  #guide .bench { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  #guide .bench > div { min-width: 0; }
+  #guide .steps { position: relative; display: flex; flex-wrap: nowrap; width: 100%; max-width: 100%; overflow-x: auto; overflow-y: hidden; overscroll-behavior-x: contain; -webkit-overflow-scrolling: touch; scroll-snap-type: x proximity; }
+  #guide .steps button { flex: 0 0 130px; width: 130px; min-width: 130px; scroll-snap-align: start; }
+  #guide .steps .meter { flex: 0 0 156px; min-width: 156px; }
+  #guide .pane, #guide .share { min-width: 0; max-width: 100%; }
+  #guide .share { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 600px) {
+  html { scroll-padding-top: 116px; }
+  .top-in { display: flex; flex-direction: column; align-items: stretch; gap: 0; min-height: 0; padding: 10px 16px 0; }
+  .top .brand { align-self: flex-start; font-size: 15px; line-height: 30px; }
+  .top nav { margin: 4px 0 0; padding: 0; width: 100%; max-width: 100%; flex: 0 0 auto; gap: 8px; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .top nav a { flex: 0 0 auto; padding: 10px 8px 12px; font-size: 13px; line-height: 22px; min-height: 44px; }
+  .sec-in { padding: 54px 18px; }
+  .head { gap: 12px; margin-bottom: 24px; }
+  .head h2 { font-size: clamp(27px, 7.2vw, 35px); line-height: 1.32; }
+  .head p.lead { font-size: 15px; line-height: 1.85; }
+  #guide .head h2 { max-width: 12em; }
+  #guide .bench { gap: 16px; }
+  #guide .steps { border-radius: 7px; }
+  #guide .steps button { flex-basis: 124px; width: 124px; min-width: 124px; grid-template-columns: 28px minmax(0, 1fr) 10px; gap: 4px; padding: 14px 10px; min-height: 60px; font-size: 14px; }
+  #guide .steps button b { font-size: 18px; }
+  #guide .steps button[aria-current="step"] { box-shadow: inset 0 -4px var(--accent); }
+  #guide .steps .meter { flex-basis: 150px; min-width: 150px; }
+  #guide .pane { padding: 22px 20px; min-height: 0; border-radius: 7px; }
+  #guide .pane h3 { font-size: 26px; line-height: 1.4; }
+  #guide .pane .why { font-size: 15px; line-height: 1.85; }
+  #guide .field { margin-bottom: 20px; }
+  #guide .field label, #guide .field .lab { font-size: 15px; }
+  #guide .field textarea, #guide .field input[type="text"], #guide .field select, #guide .field input[type="number"] { max-width: 100%; min-height: 48px; font-size: 16px; line-height: 1.65; border-radius: 4px; }
+  #guide .field textarea { min-height: 100px; }
+  #guide .pane-foot { gap: 12px; }
+  #guide .pane-foot .btn { flex: 1 1 125px; min-height: 46px; }
+  #guide .share { padding: 22px 18px; border-radius: 7px; }
+  #guide .share .row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  #guide .share .btn { width: 100%; min-height: 48px; padding: 11px 9px; line-height: 1.45; white-space: normal; }
+  .path-grid { grid-template-columns: minmax(0, 1fr); }
+  .path-card { min-height: 0; padding: 20px; }
+  .path-card strong { font-size: 19px; }
+  .today-five { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+  .daily-card { flex-direction: row; min-height: 160px; }
+  .daily-image { flex: 0 0 34%; width: 34%; height: auto; min-height: 160px; }
+  .daily-content { padding: 15px; gap: 8px; }
+  .daily-content h4 { font-size: 16px; }
+  .daily-content p { font-size: 13px; }
+  .daily-modal article { padding: 18px; }
+  .diagnostic-layout, .compare-grid, .news-grid, .lessons, .radar, .space { grid-template-columns: minmax(0, 1fr); }
+  .path-result, .compare-panel, .diagnostic-card, .news-panel, .space .txt, .pane, .topic, .sec-in { min-width: 0; }
+  .space .txt { padding: 20px; }
+  .space .txt h3 { font-size: 24px; }
+  .bi { grid-template-columns: minmax(0, 1fr); }
+  .hero .row .btn { min-height: 48px; }
+}
+@media (max-width: 380px) {
+  .sec-in { padding-left: 16px; padding-right: 16px; }
+  #guide .pane { padding: 20px 16px; }
+  #guide .share .row { grid-template-columns: minmax(0, 1fr); }
+  .top .brand { font-size: 14px; }
+}
+@media (max-width: 900px) {
+  #guide .head::after { content: "← 左右滑動，切換七個提案步驟 →"; display: block; grid-column: 1 / -1; color: var(--blue); font-size: 12px; font-weight: 600; letter-spacing: .04em; margin-top: 4px; }
+}
