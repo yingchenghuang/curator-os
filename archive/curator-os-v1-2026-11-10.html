@@ -1,0 +1,1061 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CURATOR OS｜策展思維工作台</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@500;600;700&display=swap" rel="stylesheet" />
+  <style>:root {
+  --ink: #152630;
+  --muted: #536873;
+  --paper: #f5f4ef;
+  --card: #fffdf9;
+  --line: #c8d5d6;
+  --accent: #c83c42;
+  --leaf: #e8f1f0;
+  --blue: #087d9b;
+  --serif: "Noto Serif TC", serif;
+  --sans: "Noto Sans TC", sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: 18px; line-height: 1.85; }
+button, input, textarea { font: inherit; }
+button { cursor: pointer; }
+a { color: inherit; }
+
+.topbar { height: 70px; padding: 0 max(24px, calc((100vw - 1240px) / 2)); display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 10; background: #fbfaf5eb; border-bottom: 1px solid #b8cbcc; backdrop-filter: blur(12px); }
+.topbar-overlay { position: absolute; width: 100%; background: #fbfaf5e0; border: 0; backdrop-filter: blur(10px); }
+.brand { font-size: 15px; font-weight: 700; text-decoration: none; letter-spacing: .06em; }
+.brand span { font-size: 13px; color: var(--muted); font-weight: 400; margin-left: 12px; letter-spacing: 0; }
+.topbar-overlay .brand, .topbar-overlay nav a { color: var(--ink); }
+.topbar-overlay .brand span { color: var(--muted); }
+.topbar nav { display: flex; gap: 28px; }
+.topbar nav a { font-size: 14px; text-decoration: none; color: var(--muted); transition: color .2s, text-shadow .2s; }
+.topbar nav a:hover { color: var(--blue); text-shadow: none; }
+
+.hero-scene { min-height: 780px; height: calc(100vh - 4px); position: relative; overflow: hidden; color: var(--ink); display: flex; align-items: end; isolation: isolate; background: #e9eef0; }
+.hero-scene::after { content: ""; position: absolute; z-index: 0; inset: 0; opacity: .12; background-image: linear-gradient(#087d9b1c 1px, transparent 1px); background-size: 100% 7px; mix-blend-mode: multiply; animation: scanline-scroll 7s linear infinite; pointer-events: none; }
+.scene-backdrop { position: absolute; inset: -5%; background-image: none; background-color: #e9eef0; background-position: center; background-size: cover; transform: translate(var(--scene-x, 0), var(--scene-y, 0)) scale(1.08); animation: camera-drift 16s ease-in-out infinite alternate, chromatic-shift 7s steps(1, end) infinite; will-change: transform, filter; }
+.scene-shade { position: absolute; inset: 0; background: linear-gradient(90deg, #f9f7f1ee 0%, #f9f7f1d9 39%, #f9f7f177 68%, #f9f7f12e 100%); }
+.scene-lines { position: absolute; z-index: 0; inset: 0; opacity: .32; background-image: linear-gradient(90deg, transparent 0 23%, #087d9b55 23.1% 23.2%, transparent 23.3% 70%, #c83c4244 70.1% 70.25%, transparent 70.3%); transform: translateX(-8%); animation: line-drift 13s ease-in-out infinite alternate; pointer-events: none; }
+.scene-beam { position: absolute; z-index: 0; width: 20%; height: 165%; left: 47%; bottom: -88%; border-left: 1px solid #087d9b99; border-right: 1px solid #c83c4266; box-shadow: 0 0 34px #087d9b33; transform: rotate(25deg); animation: beam-sweep 8s ease-in-out infinite; pointer-events: none; }
+.hero-content { position: relative; z-index: 1; width: min(1240px, 100%); margin: 0 auto; padding: 156px 28px 102px; }
+.eyebrow { font-size: 13px; color: var(--muted); letter-spacing: .12em; font-weight: 700; margin: 0; }
+.eyebrow.light { color: var(--blue); }
+.hero-content h1, .section h2, .topic-card h3, dialog h2 { font-family: var(--serif); font-weight: 600; }
+.hero-content h1 { font-size: 76px; line-height: 1.16; max-width: 820px; margin: 20px 0; letter-spacing: 0; text-shadow: 2px 1px 0 #ffffffcc; animation: title-glitch 8s steps(1, end) infinite; }
+.mentor-prompt { max-width: 680px; margin: 0 0 32px; font-size: 22px; line-height: 1.85; color: #273b45; text-shadow: 0 1px 0 #ffffffbb; transition: opacity .2s, transform .2s; }
+.lens-control { display: flex; border: 1px solid #9cc1c6; width: min(680px, 100%); background: #fffdf9b8; box-shadow: 0 8px 24px #15263018; }
+.lens-button { width: 25%; min-height: 76px; background: transparent; color: var(--ink); border: 0; border-right: 1px solid #b8cbcc; padding: 15px 12px; text-align: left; font-size: 15px; line-height: 1.45; transition: background-color .25s, color .25s, transform .25s, box-shadow .25s; }
+.lens-button:last-child { border-right: 0; }
+.lens-button:hover { background: #e5f3f4; box-shadow: inset 0 -3px var(--blue); transform: translateY(-3px); }
+.lens-button span { font-size: 12px; color: var(--muted); }
+.lens-button.active { background: var(--accent); color: #fff; box-shadow: none; }
+.lens-button.active span { color: #fff7f5; }
+.hero-action { display: inline-flex; gap: 20px; align-items: center; margin-top: 32px; color: var(--blue); text-decoration: none; font-size: 17px; font-weight: 700; border-bottom: 1px solid var(--blue); padding-bottom: 6px; text-shadow: none; }
+.hero-action span { font-size: 25px; animation: arrow-breathe 1.7s ease-in-out infinite; }
+.hero-live { position: absolute; z-index: 1; right: max(28px, calc((100vw - 1240px) / 2)); bottom: 52px; display: flex; align-items: center; gap: 10px; font-size: 14px; letter-spacing: .04em; }
+.hero-live { color: var(--ink); text-shadow: 0 1px #fff; }
+.hero-live i { width: 9px; height: 9px; border-radius: 50%; background: var(--blue); box-shadow: 0 0 0 0 #087d9b66; animation: sync-pulse 2s ease-out infinite; }
+
+.section { max-width: 1240px; margin: auto; padding: 100px 28px; border-top: 1px solid var(--line); }
+.section-head { display: flex; justify-content: space-between; align-items: end; gap: 36px; margin-bottom: 36px; }
+.section-head h2 { font-size: 50px; line-height: 1.25; margin: 10px 0 0; letter-spacing: 0; }
+.section-head > p { max-width: 430px; font-size: 17px; line-height: 1.85; color: var(--muted); margin: 0; }
+.icon-button { border: 1px solid var(--blue); background: #fffdf9; color: var(--blue); width: 48px; height: 48px; font-size: 26px; transition: transform .25s, background-color .25s, color .25s, box-shadow .25s; }
+.icon-button:hover { background: var(--blue); color: #fff; box-shadow: 0 8px 18px #087d9b33; transform: rotate(75deg); }
+
+.topic-card { border: 1px solid #bdd1d2; border-left: 6px solid var(--accent); padding: 52px; background: var(--card); max-width: 940px; box-shadow: 8px 9px 0 #087d9b12, 0 12px 30px #1526300c; }
+.topic-meta { display: flex; justify-content: space-between; gap: 18px; font-size: 14px; color: var(--blue); font-weight: 700; }
+.daily-source { min-height: 24px; margin: 16px 0 0; color: var(--blue); font-size: 14px; }
+.topic-card h3 { font-size: 52px; line-height: 1.3; margin: 22px 0 16px; letter-spacing: 0; }
+.topic-card > p { font-size: 21px; line-height: 1.9; max-width: 800px; margin: 0; }
+.question-list { display: grid; gap: 0; margin: 36px 0; }
+.question { border-top: 1px solid #d4dedc; padding: 17px 0; display: flex; gap: 18px; line-height: 1.85; font-size: 19px; }
+.question b { color: var(--accent); font-size: 14px; padding-top: 4px; }
+.case-question { width: 100%; text-align: left; border-right: 0; border-bottom: 0; border-left: 0; background: transparent; color: inherit; cursor: pointer; transition: background-color .2s, padding-left .2s; }
+.case-question:hover, .case-question:focus-visible { background: #e9f4f3; padding-left: 12px; outline: 2px solid var(--blue); outline-offset: -2px; }
+.primary, .secondary { border: 1px solid var(--blue); padding: 14px 20px; background: var(--blue); color: #fff; text-decoration: none; font-size: 16px; transition: transform .2s, background-color .2s, color .2s, box-shadow .2s; }
+.primary:hover, .secondary:hover { transform: translateY(-2px); }
+.secondary { background: transparent; color: var(--blue); }
+.primary:hover, .secondary:hover { box-shadow: 0 8px 20px #087d9b2c; }
+
+.project-actions { display: flex; gap: 18px; align-items: center; margin-top: 32px; }
+.text-button { background: none; border: 0; color: var(--blue); font-size: 16px; padding: 0; }
+.export-control { position: relative; }
+.export-menu { position: absolute; z-index: 5; left: 0; bottom: calc(100% + 12px); min-width: 184px; padding: 6px; border: 1px solid var(--line); background: #fffdf9; box-shadow: 0 12px 28px #15263024; }
+.export-menu button { display: block; width: 100%; border: 0; padding: 10px 12px; background: transparent; color: var(--ink); text-align: left; font-size: 14px; }
+.export-menu button:hover { background: var(--leaf); color: var(--blue); }
+.principle { max-width: none; background: var(--leaf); padding-left: max(28px, calc((100vw - 1240px) / 2)); padding-right: max(28px, calc((100vw - 1240px) / 2)); }
+.principle-grid, .project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); }
+.principle-grid label, .project-grid label { padding: 28px; background: #fffdf9; display: flex; flex-direction: column; gap: 12px; }
+.principle-grid span, .project-grid span { font-size: 17px; font-weight: 700; }
+.principle-grid textarea, .project-grid textarea { border: 0; outline: 0; background: transparent; min-height: 128px; resize: vertical; font-size: 17px; line-height: 1.85; }
+.principle-case { margin-top: 34px; border: 1px solid var(--line); background: #fffdf9; }
+.principle-case-head { display: flex; align-items: end; justify-content: space-between; gap: 24px; padding: 28px; border-bottom: 1px solid var(--line); }
+.principle-case-head h3 { margin: 5px 0 0; font-family: var(--serif); font-size: clamp(27px, 3vw, 40px); line-height: 1.18; }
+.principle-case-head > p { max-width: 430px; margin: 0; color: var(--muted); line-height: 1.75; }
+.principle-case-context { padding: 28px; background: var(--ink); color: #fffdf9; }
+.principle-case-context span { color: #9ed4dc; font-size: 12px; font-weight: 800; letter-spacing: .13em; }
+.principle-case-context h4 { max-width: 880px; margin: 10px 0 8px; font-family: var(--serif); font-size: clamp(24px, 3vw, 36px); line-height: 1.3; }
+.principle-case-context p { max-width: 920px; margin: 0; color: #dce7e7; line-height: 1.8; }
+.principle-case-meta { margin-top: 22px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,.2); color: #eef6f6; }
+.principle-realworld-head { display: flex; flex-wrap: wrap; align-items: center; gap: 9px 14px; margin-bottom: 12px; }
+.principle-realworld-head b { padding: 5px 9px; border-radius: 999px; background: #9ed4dc; color: var(--ink); font-size: 12px; letter-spacing: .08em; }
+.principle-realworld-head span { color: #dce7e7; font-size: 13px; }
+.principle-case-meta h5 { margin: 18px 0 8px; font-size: 15px; color: #fff; }
+.principle-case-meta ul { margin: 8px 0 0; padding-left: 20px; }
+.principle-case-meta li { margin: 7px 0; line-height: 1.55; }
+.principle-case-meta a { color: #9ed4dc; text-underline-offset: 3px; }
+.principle-plan-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; margin-top: 12px; }
+.principle-plan-grid div { padding: 12px; border: 1px solid rgba(255,255,255,.16); background: rgba(255,255,255,.05); }
+.principle-plan-grid b { display: block; margin-bottom: 5px; color: #9ed4dc; font-size: 12px; letter-spacing: .05em; }
+.principle-plan-grid p { font-size: 14px; }
+.principle-perspectives { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-bottom: 1px solid var(--line); }
+.principle-perspective { min-height: 112px; padding: 20px; border: 0; border-right: 1px solid var(--line); background: #fffdf9; color: var(--ink); text-align: left; }
+.principle-perspective:last-child { border-right: 0; }
+.principle-perspective b, .principle-perspective span { display: block; }
+.principle-perspective b { margin-bottom: 7px; font-size: 16px; }
+.principle-perspective span { color: var(--muted); font-size: 13px; line-height: 1.5; }
+.principle-perspective:hover { background: var(--leaf); }
+.principle-perspective.active { box-shadow: inset 0 -4px var(--accent); background: #f8eeee; }
+.principle-perspective-detail { padding: 30px 28px 28px; }
+.perspective-voice { display: grid; grid-template-columns: minmax(150px, .4fr) minmax(0, 1.6fr); gap: 24px; align-items: start; margin-bottom: 24px; }
+.perspective-voice p { margin: 0; color: var(--accent); font-size: 13px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.perspective-voice blockquote { margin: 0; font-family: var(--serif); font-size: clamp(23px, 2.5vw, 31px); line-height: 1.5; }
+.perspective-detail-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+.perspective-detail-grid div { padding: 22px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.perspective-detail-grid b { display: block; margin-bottom: 8px; color: var(--blue); font-size: 13px; letter-spacing: .08em; }
+.perspective-detail-grid p { margin: 0; color: var(--muted); line-height: 1.75; }
+.principle-case-actions { display: flex; align-items: center; gap: 18px; margin: 0 28px 28px; }
+.principle-case-actions small { color: var(--muted); line-height: 1.5; }
+.project-grid { grid-template-columns: repeat(5, 1fr); }
+.project-grid label { min-height: 250px; }
+.project-grid b { font-family: var(--serif); font-size: 28px; color: var(--accent); }
+#saveState { font-size: 14px; color: var(--muted); }
+
+.library { padding-bottom: 124px; }
+.library-search { width: min(460px, 100%); min-height: 54px; display: flex; align-items: center; border: 1px solid var(--line); background: #fffdf9; transition: border-color .2s, box-shadow .2s; }
+.library-search:focus-within { border-color: var(--blue); box-shadow: 0 0 0 3px #087d9b1f; }
+.search-mark { color: var(--blue); font-size: 24px; line-height: 1; padding-left: 16px; }
+#search { min-width: 0; flex: 1; width: 100%; border: 0; background: transparent; padding: 12px 14px; outline: 0; font-size: 16px; color: var(--ink); }
+#search::placeholder { color: #71838a; opacity: 1; }
+.search-clear { width: 42px; height: 42px; margin-right: 5px; border: 0; background: transparent; color: var(--blue); font-size: 28px; line-height: 1; }
+.search-clear:hover { background: var(--leaf); }
+.search-state { min-height: 28px; margin: -9px 0 18px; color: var(--muted); font-size: 14px; }
+.search-empty { grid-column: 1 / -1; padding: 28px; margin: 0; color: var(--muted); background: #fffdf9; border-bottom: 1px solid var(--line); }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.filters { display: flex; gap: 9px; overflow: auto; margin-bottom: 28px; }
+.filters button { white-space: nowrap; border: 1px solid var(--line); color: var(--muted); background: transparent; padding: 10px 13px; font-size: 14px; transition: background-color .2s, color .2s, box-shadow .2s; }
+.filters button.active { background: var(--blue); border-color: var(--blue); color: #fff; box-shadow: 0 6px 16px #087d9b2c; }
+.topic-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-top: 1px solid var(--line); }
+.topic-tile { padding: 28px; border: 0; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: transparent; text-align: left; min-height: 242px; transition: background-color .25s, transform .25s; }
+.topic-tile:hover { background: #fffdf9; box-shadow: inset 0 3px var(--blue); transform: translateY(-4px); }
+.topic-tile:nth-child(3n) { border-right: 0; }
+.topic-tile small { display: block; color: var(--blue); font-size: 13px; margin-bottom: 18px; line-height: 1.55; }
+.topic-tile strong { display: block; font-family: var(--serif); font-size: 28px; line-height: 1.42; font-weight: 600; letter-spacing: 0; }
+.topic-tile p { font-size: 16px; line-height: 1.8; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+dialog { border: 0; padding: 0; width: min(800px, 100%); max-width: none; margin: 0 0 0 auto; height: 100%; background: transparent; }
+dialog::backdrop { background: #15263066; }
+dialog article { min-height: 100%; background: #fffdf9; padding: 78px max(30px, 6vw); overflow: auto; border-left: 4px solid var(--blue); }
+.dialog-close { position: absolute; top: 20px; right: 24px; border: 1px solid var(--blue); color: var(--blue); background: #fffdf9; border-radius: 50%; width: 42px; height: 42px; font-size: 28px; }
+.dialog-summary, .preline { white-space: pre-line; line-height: 1.9; }
+.dialog-summary { font-size: 19px; }
+.preline { font-size: 17px; color: var(--ink); }
+#detailRaw { white-space: normal; max-width: 680px; }
+#detailRaw p { margin: 0 0 1.4em; }
+#detailRaw h4 { margin: 2.25em 0 .8em; color: var(--blue); font-size: 18px; line-height: 1.55; }
+#detailRaw ul { margin: 0 0 1.4em; padding-left: 1.35em; }
+#detailRaw li + li { margin-top: .5em; }
+dialog h2 { font-size: 58px; line-height: 1.3; margin: 14px 0; letter-spacing: 0; }
+dialog h3 { font-size: 18px; margin-top: 42px; }
+.case-companion { display: grid; grid-template-columns: 72px minmax(0, 1fr); gap: 18px; align-items: center; margin: 32px 0 38px; padding: 20px; border: 1px solid #94bdc1; border-left: 4px solid var(--blue); background: #eef6f5; box-shadow: 6px 7px 0 #087d9b12; }
+.case-robot { position: relative; width: 62px; height: 62px; isolation: isolate; }
+.case-robot-face { position: absolute; inset: 14px 10px; display: flex; align-items: center; justify-content: center; gap: 6px; border: 1px solid #087d9b; border-radius: 14px 14px 9px 9px; background: #17323d; box-shadow: inset 0 0 14px #2bd4ff44; animation: robot-float 2.8s ease-in-out infinite; }
+.case-robot-face::before { content: ""; position: absolute; top: -8px; width: 1px; height: 8px; background: var(--accent); }
+.case-robot-face::after { content: ""; position: absolute; top: -11px; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 10px #c83c42; }
+.case-robot-face i { width: 6px; height: 6px; border-radius: 50%; background: #9df7ff; box-shadow: 0 0 9px #2bd4ff; animation: robot-blink 4.5s step-end infinite; }
+.case-robot-face b { position: absolute; bottom: 6px; width: 12px; height: 2px; border-radius: 2px; background: #c4f8fa; opacity: .8; }
+.case-robot-orbit { position: absolute; inset: 0; border: 1px dashed #087d9b99; border-radius: 50%; animation: robot-orbit 9s linear infinite; }
+.case-companion.is-thinking .case-robot { animation: companion-response .65s ease-out; }
+.case-companion.is-thinking .case-robot-face { filter: brightness(1.22) saturate(1.1); }
+.case-companion-content { min-width: 0; }
+.case-companion .companion-message { font-size: 16px; line-height: 1.72; }
+.case-companion-actions { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; margin-top: 13px; }
+.case-companion-guide { border: 0; border-bottom: 1px solid var(--muted); padding: 0 0 3px; background: transparent; color: var(--muted); font-size: 14px; font-weight: 700; }
+.case-companion-guide:hover, .case-companion-guide:focus-visible { color: var(--accent); border-color: var(--accent); }
+.renaissance-roundtable { margin-top: 48px; padding: 30px; border: 1px solid #9fc8cc; background: #eef6f5; }
+.roundtable-head { display: flex; justify-content: space-between; gap: 24px; align-items: end; margin-bottom: 24px; }
+.roundtable-head h3 { font-family: var(--serif); font-size: 30px; line-height: 1.35; margin: 8px 0 0; }
+.roundtable-head > p { max-width: 220px; margin: 0; color: var(--muted); font-size: 13px; line-height: 1.65; }
+.renaissance-views { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; border: 1px solid #c3d9da; background: #c3d9da; }
+.renaissance-voice { padding: 20px; background: #fffdf9; border: 0; color: inherit; text-align: left; cursor: pointer; transition: background-color .2s, transform .2s; }
+.renaissance-voice:hover, .renaissance-voice:focus-visible { background: #f4fbfa; transform: translateY(-2px); outline: 2px solid var(--blue); outline-offset: -2px; }
+.renaissance-voice p { margin: 0; font-size: 16px; line-height: 1.8; }
+.renaissance-voice p:first-child { margin-bottom: 12px; color: var(--blue); }
+.renaissance-voice b { font-family: var(--serif); font-size: 19px; }
+.renaissance-voice span { margin-left: 9px; color: var(--muted); font-size: 13px; }
+.roundtable-dialogue { margin-top: 24px; padding: 24px; border-left: 4px solid var(--accent); background: #fffdf9; }
+.roundtable-dialogue > .eyebrow { margin-bottom: 12px; }
+.roundtable-dialogue div { display: grid; gap: 12px; }
+.roundtable-dialogue p { display: grid; grid-template-columns: 84px minmax(0, 1fr); gap: 12px; margin: 0; font-size: 16px; line-height: 1.8; }
+.roundtable-dialogue b { color: var(--accent); }
+.roundtable-dialogue span { color: var(--ink); }
+footer { border-top: 1px solid var(--line); padding: 34px max(28px, calc((100vw - 1240px) / 2)); font-size: 15px; font-weight: 700; letter-spacing: .05em; }
+footer span { display: block; margin-top: 9px; color: var(--muted); font-size: 12px; font-weight: 400; letter-spacing: 0; }
+.site-network { display: flex; flex-wrap: wrap; gap: 10px 24px; margin-top: 20px; }
+.site-network a { color: var(--blue); font-size: 13px; font-weight: 700; letter-spacing: .02em; text-decoration: none; border-bottom: 1px solid var(--blue); }
+.site-network a:hover { color: var(--accent); border-color: var(--accent); }
+.copyright-notice { position: fixed; z-index: 19; right: 108px; bottom: 14px; max-width: min(760px, calc(100vw - 156px)); margin: 0; padding: 7px 12px; color: #52656b; background: #fbfaf5e8; border: 1px solid #c8d5d6; box-shadow: 0 4px 12px #15263012; font-size: 11px; font-weight: 400; line-height: 1.55; letter-spacing: 0; }
+
+.reading-companion { position: fixed; z-index: 20; right: 28px; bottom: 26px; display: flex; align-items: end; gap: 12px; pointer-events: none; }
+.companion-panel { width: min(310px, calc(100vw - 118px)); padding: 18px 20px; border: 1px solid #94bdc1; background: #fffdf9f5; box-shadow: 0 16px 32px #15263024; transform: translateX(14px) scale(.96); transform-origin: right bottom; opacity: 0; visibility: hidden; transition: opacity .22s, transform .22s, visibility .22s; pointer-events: auto; }
+.reading-companion.is-open .companion-panel { opacity: 1; visibility: visible; transform: translateX(0) scale(1); }
+.companion-label { margin: 0 0 7px; color: var(--blue); font-size: 12px; font-weight: 700; letter-spacing: .08em; }
+.companion-message { margin: 0; color: var(--ink); font-size: 16px; line-height: 1.65; }
+.companion-use { margin-top: 12px; border: 0; border-bottom: 1px solid var(--blue); padding: 0 0 3px; background: transparent; color: var(--blue); font-size: 14px; font-weight: 700; }
+.companion-use:hover { color: var(--accent); border-color: var(--accent); }
+.companion-toggle { position: relative; isolation: isolate; flex: 0 0 64px; width: 64px; height: 64px; border: 1px solid var(--blue); border-radius: 50%; background: #fffdf9; box-shadow: 0 10px 24px #087d9b2e; pointer-events: auto; transition: transform .2s, box-shadow .2s, background-color .2s; }
+.companion-toggle:hover { transform: translateY(-3px) rotate(-4deg); background: #e8f1f0; box-shadow: 0 14px 28px #087d9b42; }
+.robot-face { position: absolute; inset: 17px 13px; display: flex; align-items: center; justify-content: center; gap: 7px; border: 1px solid #087d9b; border-radius: 15px 15px 10px 10px; background: #17323d; box-shadow: inset 0 0 14px #2bd4ff44; animation: robot-float 2.8s ease-in-out infinite; }
+.robot-face::before { content: ""; position: absolute; top: -8px; width: 1px; height: 8px; background: var(--accent); }
+.robot-face::after { content: ""; position: absolute; top: -11px; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 10px #c83c42; }
+.robot-face i { width: 7px; height: 7px; border-radius: 50%; background: #9df7ff; box-shadow: 0 0 9px #2bd4ff; animation: robot-blink 4.5s step-end infinite; }
+.robot-face b { position: absolute; bottom: 7px; width: 13px; height: 2px; border-radius: 2px; background: #c4f8fa; opacity: .8; }
+.robot-orbit { position: absolute; z-index: -1; inset: -7px; border: 1px dashed #087d9b99; border-radius: 50%; animation: robot-orbit 9s linear infinite; }
+.reading-companion.is-open .robot-orbit { border-color: #c83c42aa; }
+.reading-companion.is-thinking .companion-toggle { animation: companion-response .65s ease-out; }
+.reading-companion.is-thinking .robot-face { filter: brightness(1.22) saturate(1.1); }
+
+@keyframes camera-drift { from { transform: translate(-.7%, -.45%) scale(1.08); } to { transform: translate(.7%, .5%) scale(1.13); } }
+@keyframes line-drift { from { transform: translateX(-8%); } to { transform: translateX(8%); } }
+@keyframes beam-sweep { 0%, 100% { opacity: .04; transform: rotate(25deg) translateX(-24vw); } 50% { opacity: .45; transform: rotate(25deg) translateX(24vw); } }
+@keyframes arrow-breathe { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(5px); } }
+@keyframes sync-pulse { 0% { box-shadow: 0 0 0 0 #2bd4ff7a; } 70% { box-shadow: 0 0 0 11px #2bd4ff00; } 100% { box-shadow: 0 0 0 0 #2bd4ff00; } }
+@keyframes scanline-scroll { from { background-position-y: 0; } to { background-position-y: 100px; } }
+@keyframes chromatic-shift { 0%, 92%, 100% { filter: saturate(1.08) contrast(1.05); } 93% { filter: saturate(1.4) contrast(1.16) hue-rotate(8deg); } 95% { filter: saturate(1.12) contrast(1.08) hue-rotate(-8deg); } }
+@keyframes title-glitch { 0%, 91%, 100% { transform: translate(0); } 92% { transform: translate(2px, -1px); } 94% { transform: translate(-2px, 1px); } 96% { transform: translate(0); } }
+@keyframes robot-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+@keyframes robot-orbit { to { transform: rotate(360deg); } }
+@keyframes robot-blink { 0%, 92%, 100% { transform: scaleY(1); } 94%, 96% { transform: scaleY(.12); } }
+@keyframes companion-response { 0% { transform: scale(1); box-shadow: 0 10px 24px #087d9b2e; } 45% { transform: scale(1.1) rotate(-5deg); box-shadow: 0 0 0 9px #087d9b1c, 0 16px 30px #087d9b45; } 100% { transform: scale(1); box-shadow: 0 10px 24px #087d9b2e; } }
+@media (prefers-reduced-motion: reduce) { .scene-backdrop, .scene-lines, .scene-beam, .hero-action span, .hero-scene::after, .hero-content h1, .hero-live i, .robot-face, .robot-orbit, .case-robot-face, .case-robot-orbit { animation: none; } .lens-button, .topic-tile, .icon-button, .companion-toggle, .companion-panel { transition: none; } }
+@media (max-width: 800px) {
+  body { font-size: 16px; }
+  .topbar nav { display: none; }
+  .hero-scene { min-height: 700px; height: auto; }
+  .hero-content { padding: 154px 22px 158px; }
+  .hero-content h1 { font-size: 48px; }
+  .mentor-prompt { font-size: 18px; }
+  .lens-button { min-height: 70px; font-size: 13px; padding: 12px 8px; }
+  .hero-live { left: 22px; right: auto; bottom: 40px; }
+  .section, .principle { padding: 66px 22px; }
+  .section-head { align-items: start; flex-direction: column; gap: 16px; }
+  .section-head h2 { font-size: 38px; }
+  .library-search { width: 100%; }
+  .topic-card { padding: 30px 24px; border-left-width: 4px; }
+  .topic-meta { flex-direction: column; gap: 2px; }
+  .topic-card h3 { font-size: 38px; }
+  .topic-card > p { font-size: 18px; }
+  .question { font-size: 17px; }
+  .principle-grid, .project-grid, .topic-grid { grid-template-columns: 1fr; }
+  .principle-case-head { align-items: start; flex-direction: column; }
+  .principle-perspectives { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .principle-perspective:nth-child(2) { border-right: 0; }
+  .principle-perspective:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+  .perspective-voice, .perspective-detail-grid { grid-template-columns: 1fr; }
+  .principle-case-actions { align-items: stretch; flex-direction: column; }
+  .principle-case-actions .primary { width: 100%; }
+  .topic-tile:nth-child(n) { border-right: 0; }
+  .project-grid label { min-height: 180px; }
+  .topbar { padding: 0 20px; }
+  dialog article { padding: 68px 26px; }
+  dialog h2 { font-size: 42px; }
+  .dialog-summary, .preline { font-size: 17px; }
+  .case-companion { grid-template-columns: 58px minmax(0, 1fr); gap: 14px; padding: 17px; }
+  .case-robot { width: 52px; height: 52px; }
+  .case-robot-face { inset: 12px 8px; }
+  .renaissance-roundtable { padding: 22px; }
+  .roundtable-head { align-items: start; flex-direction: column; gap: 10px; }
+  .renaissance-views { grid-template-columns: 1fr; }
+  .roundtable-dialogue { padding: 20px; }
+  .roundtable-dialogue p { grid-template-columns: 1fr; gap: 2px; }
+  .reading-companion { right: 16px; bottom: 16px; gap: 9px; }
+  .copyright-notice { right: 86px; bottom: 12px; max-width: calc(100vw - 108px); font-size: 10px; line-height: 1.45; }
+  .companion-toggle { flex-basis: 58px; width: 58px; height: 58px; }
+  .robot-face { inset: 15px 11px; }
+}
+</style>
+</head>
+<body>
+  <header class="topbar topbar-overlay">
+    <a class="brand" href="#top">CURATOR OS <span>策展思維工作台</span></a>
+    <nav><a href="#today">今日思考</a><a href="#project">我的專案</a><a href="#library">課題庫</a><a href="https://yingchenghuang.github.io/raum-portfolio/" target="_blank" rel="noopener noreferrer">RAUM+ 作品集 ↗</a><a href="https://yingchenghuang.github.io/desktop-tutorial/" target="_blank" rel="noopener noreferrer">公共藝術檔案 ↗</a></nav>
+  </header>
+
+  <main id="top">
+    <section id="scene" class="hero-scene" aria-label="文藝復興思考場景">
+      <div class="scene-backdrop" aria-hidden="true"></div>
+      <div class="scene-shade" aria-hidden="true"></div>
+      <div class="scene-lines" aria-hidden="true"></div>
+      <div class="scene-beam" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="eyebrow light">RENAISSANCE THINKING ROOM</p>
+        <h1>讓四種眼光<br>推動你的下一個策展。</h1>
+        <p id="mentorPrompt" class="mentor-prompt">先像達文西一樣觀察：你真正看見的是什麼，而不是你已經知道什麼？</p>
+        <div class="lens-control" role="group" aria-label="選擇思考視角">
+          <button class="lens-button active" data-lens="observe">達文西<br><span>觀察</span></button>
+          <button class="lens-button" data-lens="form">米開朗基羅<br><span>張力</span></button>
+          <button class="lens-button" data-lens="relation">拉斐爾<br><span>關係</span></button>
+          <button class="lens-button" data-lens="imagine">波提切利<br><span>想像</span></button>
+        </div>
+        <a class="hero-action" href="#today">把這個問題帶入今天的思考 <span>↓</span></a>
+      </div>
+      <div class="hero-live"><i></i><span id="liveState">每日同步中</span></div>
+    </section>
+
+    <section id="today" class="section today">
+      <div class="section-head"><div><p class="eyebrow">01 / DAILY PROMPT</p><h2>今日策展問題</h2></div><button id="nextTopic" class="icon-button" title="換一個課題" aria-label="換一個課題">↻</button></div>
+      <article class="topic-card">
+        <div class="topic-meta"><span id="topicCategory"></span><span id="topicCount"></span></div>
+        <p id="dailySource" class="daily-source"></p>
+        <h3 id="topicTitle"></h3><p id="topicSummary"></p><div id="questionList" class="question-list"></div>
+        <button id="useInProject" class="secondary">用這個課題開啟專案 →</button>
+      </article>
+    </section>
+
+    <section class="section principle">
+      <div class="section-head"><div><p class="eyebrow">02 / FIRST PRINCIPLES</p><h2>第一性原理拆解</h2></div><p>先把既有答案放到一旁，只留下可驗證的事實。</p></div>
+      <div class="principle-grid">
+        <label><span>我真正想改變什麼？</span><textarea id="problem" placeholder="例如：高溫下，人們無法停留在城市公共空間。"></textarea></label>
+        <label><span>這件事成立的事實是什麼？</span><textarea id="facts" placeholder="寫下觀察、數據、使用者行為與已知限制。"></textarea></label>
+        <label><span>哪些是我暫時的假設？</span><textarea id="assumptions" placeholder="辨識尚未證實的想法，避免直接把它當結論。"></textarea></label>
+        <label><span>如果從零開始，我會設計什麼？</span><textarea id="rebuild" placeholder="不受原本展覽形式限制，重新提出介入方法。"></textarea></label>
+      </div>
+      <article class="principle-case" aria-labelledby="principleCaseHeading">
+        <div class="principle-case-head"><div><p class="eyebrow">CASE STUDY / 4 PERSPECTIVES</p><h3 id="principleCaseHeading">同一個案例，四種第一性思考</h3></div><p>案例會跟著目前的策展課題更新。先選一位角色，看他如何分開問題、事實、假設與重建。</p></div>
+        <div class="principle-case-context"><span>具體案例</span><h4 id="principleCaseTitle"></h4><p id="principleCaseContext"></p><div id="principleCaseMeta" class="principle-case-meta" hidden></div></div>
+        <div id="principlePerspectives" class="principle-perspectives" role="group" aria-label="選擇案例觀點"></div>
+        <div id="principlePerspectiveDetail" class="principle-perspective-detail" aria-live="polite"></div>
+        <div class="principle-case-actions"><button id="applyPrinciplePerspective" class="primary" type="button">填入這個視角的拆解示範</button><small>按下後會將示範內容帶入上方四個欄位，仍可自由修改。</small></div>
+      </article>
+    </section>
+
+    <section id="project" class="section project">
+      <div class="section-head"><div><p class="eyebrow">03 / PROJECT BUILDER</p><h2>把思考推進成專案</h2></div><span id="saveState">本機草稿</span></div>
+      <div class="project-grid">
+        <label><b>01</b><span>問題</span><textarea data-project="problem" placeholder="為什麼現在需要這個計畫？"></textarea></label>
+        <label><b>02</b><span>洞察</span><textarea data-project="insight" placeholder="你看見了什麼關係或矛盾？"></textarea></label>
+        <label><b>03</b><span>概念</span><textarea data-project="concept" placeholder="用一句話說出核心思想。"></textarea></label>
+        <label><b>04</b><span>方法</span><textarea data-project="method" placeholder="作品、場域、參與和研究如何發生？"></textarea></label>
+        <label><b>05</b><span>影響</span><textarea data-project="impact" placeholder="展後會留下什麼可被驗證的改變？"></textarea></label>
+      </div>
+      <div class="project-actions"><button id="saveProject" class="primary">儲存專案草稿</button><div class="export-control"><button id="exportProject" class="text-button" type="button" aria-expanded="false" aria-controls="exportMenu">匯出專案</button><div id="exportMenu" class="export-menu" hidden><button id="downloadText" type="button">下載文字檔 .txt</button><button id="downloadWord" type="button">下載 Word .doc</button></div></div></div>
+    </section>
+
+    <section id="library" class="section library">
+      <div class="section-head"><div><p class="eyebrow">04 / KNOWLEDGE LIBRARY</p><h2>備忘錄策展課題庫</h2></div><div class="library-search" role="search"><label class="sr-only" for="search">搜尋策展資料庫</label><span class="search-mark" aria-hidden="true">&#8981;</span><input id="search" type="search" autocomplete="off" placeholder="輸入關鍵字：人生、AI、關係..." /><button id="clearSearch" class="search-clear" type="button" aria-label="清除關鍵字" title="清除關鍵字" hidden>&times;</button></div></div>
+      <div id="filters" class="filters"></div><p id="searchState" class="search-state" aria-live="polite"></p><div id="topicGrid" class="topic-grid"></div>
+    </section>
+  </main>
+
+  <dialog id="detailDialog"><article><button id="closeDialog" class="dialog-close" aria-label="關閉">×</button><p id="detailCategory" class="eyebrow"></p><h2 id="detailTitle"></h2><p id="detailSummary" class="dialog-summary"></p><aside id="caseCompanion" class="case-companion" aria-label="案例伴讀機器人"><div class="case-robot" aria-hidden="true"><span class="case-robot-orbit"></span><span class="case-robot-face"><i></i><i></i><b></b></span></div><div class="case-companion-content"><p class="companion-label">案例伴讀機器人</p><p id="caseCompanionMessage" class="companion-message">我會依這個案例陪你閱讀。</p><div class="case-companion-actions"><button id="caseCompanionGuide" class="case-companion-guide" type="button">從第一題開始</button><button id="caseCompanionUse" class="companion-use" type="button">帶入這個課題</button></div></div></aside><h3>策展人提問</h3><div id="detailQuestions" class="question-list"></div><section class="renaissance-roundtable" aria-labelledby="roundtableTitle"><div class="roundtable-head"><div><p class="eyebrow">RENAISSANCE ROUND TABLE</p><h3 id="roundtableTitle">四傑思維圓桌</h3></div><p>創作性思維角色，不是歷史原話。</p></div><div id="renaissanceViews" class="renaissance-views"></div><div class="roundtable-dialogue"><p class="eyebrow">THEIR DIALOGUE</p><div id="renaissanceDialogue"></div></div></section><h3>策略方針</h3><p id="detailStrategy" class="preline"></p><h3>學徒任務</h3><p id="detailTask" class="preline"></p><section id="trainingSection"><h3>策展思考訓練</h3><p id="detailTraining" class="preline"></p></section><h3>完整備忘錄內容</h3><p id="detailRaw" class="preline"></p></article></dialog>
+  <footer>CURATOR OS <span>每日策展思考課題與訓練同步至 Notion 與本站。</span><nav class="site-network" aria-label="黃英誠網站連結"><a href="https://yingchenghuang.github.io/raum-portfolio/" target="_blank" rel="noopener noreferrer">RAUM+ 作品集 ↗</a><a href="https://yingchenghuang.github.io/desktop-tutorial/" target="_blank" rel="noopener noreferrer">公共藝術檔案 ↗</a></nav><small class="copyright-notice">本文著作權歸藝術家黃英誠所有。引用或轉載本文內容時，請完整註明作者姓名及資料出處。未經作者書面授權，不得將本文內容用於任何商業用途。</small></footer>
+
+  <aside id="readingCompanion" class="reading-companion" aria-label="伴讀助手">
+    <div class="companion-panel" aria-live="polite">
+      <p class="companion-label">伴讀提示</p>
+      <p id="companionMessage" class="companion-message">先選一個你真正想看清楚的細節。</p>
+      <button id="companionUse" class="companion-use" type="button">帶入專案</button>
+    </div>
+    <button id="companionToggle" class="companion-toggle" type="button" aria-expanded="false" aria-controls="readingCompanion">
+      <span class="robot-orbit" aria-hidden="true"></span>
+      <span class="robot-face" aria-hidden="true"><i></i><i></i><b></b></span>
+      <span class="sr-only">開啟伴讀助手</span>
+    </button>
+  </aside>
+  <script>const $ = (selector) => document.querySelector(selector);
+
+let topics = [];
+let dailyPrompts = [];
+let activeCategory = '全部';
+let activeTopic = 0;
+let companionAction = null;
+let companionPulseTimer = null;
+let activePrinciplePerspective = 0;
+
+const projectKey = 'curator-os-project-v1';
+const lenses = {
+  observe: '先像達文西一樣觀察：你真正看見的是什麼，而不是你已經知道什麼？',
+  form: '像米開朗基羅一樣找張力：這個命題最不能妥協的核心是什麼？',
+  relation: '像拉斐爾一樣安排關係：誰、什麼場域、什麼時間必須在同一個畫面裡？',
+  imagine: '像波提切利一樣想像：當現實條件放寬，你希望觀眾帶走哪一種新的可能？'
+};
+
+function esc(value = '') {
+  return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+}
+
+function safeHref(value = '') {
+  const href = String(value).trim();
+  return /^https:\/\//i.test(href) ? href : '#';
+}
+
+function highlightText(value = '') {
+  return esc(value);
+}
+
+function questionList(list = []) {
+  return list.map((question, index) => `<div class="question"><b>${String(index + 1).padStart(2, '0')}</b><span>${highlightText(question)}</span></div>`).join('');
+}
+
+function caseQuestionList(list = []) {
+  return list.map((question, index) => `<button class="question case-question" type="button" data-case-question="${index}"><b>${String(index + 1).padStart(2, '0')}</b><span>${highlightText(question)}</span></button>`).join('');
+}
+
+function shortText(value = '', limit = 78) {
+  const text = String(value).replace(/\s+/g, ' ').trim();
+  return text.length > limit ? `${text.slice(0, limit)}...` : text;
+}
+
+function renaissanceRoundtable(topic) {
+  const subject = shortText(topic.title, 48);
+  const focus = shortText(topic.questions?.[0] || topic.summary || topic.title, 72);
+  const context = shortText(topic.summary || topic.rawText || topic.title, 86);
+  const voices = [
+    {
+      name: '達文西',
+      lens: '觀察',
+      view: `先把「${subject}」放回真實現場。不要急著替它命名，先記錄誰正在經歷什麼、哪些細節反覆出現，以及「${focus}」是否真是觀眾的問題。`
+    },
+    {
+      name: '米開朗基羅',
+      lens: '張力',
+      view: `這個課題的力量不在於面面俱到，而在於敢不敢保留衝突。把「${subject}」最難共存的兩種立場並置，讓形式承受它，而不是替它過早和解。`
+    },
+    {
+      name: '拉斐爾',
+      lens: '關係',
+      view: `策展要重新安排關係。從「${context}」出發，思考作品、參與者、場域與時間如何彼此照見；少一個位置，整個命題會如何改變？`
+    },
+    {
+      name: '波提切利',
+      lens: '想像',
+      view: `先允許一個尚未存在的畫面。若「${subject}」不只是在說明現況，它能讓觀眾帶走什麼新的感受、儀式或未來可能？`
+    }
+  ];
+  const dialogue = [
+    { name: '達文西', text: `我們先回到現場：${focus}` },
+    { name: '米開朗基羅', text: `現場之外，還要找出它最不能被抹平的衝突。` },
+    { name: '拉斐爾', text: `那就把衝突交給關係來回答，讓人、物與場域彼此發聲。` },
+    { name: '波提切利', text: `最後，別只留下答案。讓觀眾看見一種可以繼續生長的可能。` }
+  ];
+  return { voices, dialogue };
+}
+
+function principleCaseStudy(topic) {
+  const subject = shortText(topic.title, 58);
+  const focus = shortText(topic.questions?.[0] || topic.summary || topic.title, 96);
+  const context = shortText(topic.summary || topic.rawText || topic.title, 150);
+  const dailyCase = topic.caseStudy;
+  const defaultPerspectives = [
+      {
+        name: '林策展人', role: '命題與證據', label: '策展視角',
+        voice: `我先確認「${subject}」究竟要改變哪一種理解，而不是先挑作品。`,
+        problem: `讓「${subject}」從抽象主題，變成觀眾能在展場辨認、比較並回應的核心問題。`,
+        facts: `查核「${focus}」是否有現場觀察、資料或當事人敘事支持；並盤點現有作品與場域真正能證明什麼。`,
+        assumptions: '相關作品放在一起，觀眾就會理解策展命題；策展人的分類也能代表所有人的經驗。',
+        rebuild: '先做一條「證據—作品—觀眾回應」的最小測試動線，邀請少量觀眾走讀，再依回應決定完整展覽。'
+      },
+      {
+        name: '楊藝術家', role: '形式與感知', label: '創作者視角',
+        voice: '我關心的不是怎麼替命題做插圖，而是材料能不能讓問題真的被身體感受到。',
+        problem: `讓「${subject}」不只被說明，而能透過尺度、聲音、光線與觀看時間成為一段可感知的經驗。`,
+        facts: '實測材料、空間尺度、聲場、光線與觀看時間；觀察觀眾是否真的停留、靠近、避開或產生新的行為。',
+        assumptions: '形式越強烈就越能傳達議題；藝術家的原意一定會被觀眾接收到。',
+        rebuild: '以同一件作品做兩種低成本呈現，分別測試「閱讀理解」與「身體感受」，保留更能觸發觀察與提問的版本。'
+      },
+      {
+        name: '陳社群協作者', role: '經驗與權利', label: '觀眾／社群視角',
+        voice: '如果受影響的人只能被描述、不能決定如何被看見，展覽就還沒有碰到核心。',
+        problem: `讓與「${subject}」相關的人不只是素材提供者，也能影響敘事、語言與參與方式。`,
+        facts: '訪談不同背景的使用者，記錄理解障礙、停留行為、語言需求與是否感到被錯誤代表；確認同意與撤回機制。',
+        assumptions: '所有觀眾都有相同文化背景；被邀請參與就等於充分授權；一次意見蒐集能代表整個社群。',
+        rebuild: '開展前辦兩次共讀與現場走查，讓社群能修改關鍵文字、刪除不願公開的內容，並保留展期中的回饋入口。'
+      },
+      {
+        name: '吳製作人', role: '資源與維護', label: '執行視角',
+        voice: '一個不能安全運作、無人維護的概念，還不是可以成立的策展方案。',
+        problem: `讓「${subject}」在預算、工期、安全、版權與日常維護下仍能持續成立。`,
+        facts: '列出可用人力、設備、授權、運輸、無障礙與每日維護時間；找出一旦失效就會破壞核心體驗的單點風險。',
+        assumptions: '一次性裝置能穩定運作六週；志工可補足專業人力；開幕完成就等於專案完成。',
+        rebuild: '把展覽拆成最小可行版本，先保住一個核心體驗，為設備故障、內容更新與人力交接設計可替換的備援方案。'
+      }
+  ];
+  return {
+    title: dailyCase?.title || `地方文化館要把「${subject}」做成一場六週實驗展`,
+    context: dailyCase?.context || `團隊只剩四週準備，預算只夠完成一個主要介入。眼前材料指出：${context}。他們不能先決定展覽形式，必須回答「${focus}」，再用可驗證的證據選擇怎麼做。`,
+    perspectives: dailyCase?.perspectives?.length === 4 ? dailyCase.perspectives : defaultPerspectives,
+    realWorld: dailyCase?.realWorld === true,
+    country: dailyCase?.country || '',
+    location: dailyCase?.location || '',
+    statusAsOf: dailyCase?.statusAsOf || '',
+    latestUpdate: dailyCase?.latestUpdate || '',
+    references: Array.isArray(dailyCase?.references) ? dailyCase.references : [],
+    applicablePlan: dailyCase?.applicablePlan || null,
+    participatory: dailyCase?.participatory === true,
+    workshopDesign: dailyCase?.workshopDesign || null,
+    familyTraining: topic.familyTraining || dailyCase?.familyTraining || null,
+    lifeCuration: topic.lifeCuration || dailyCase?.lifeCuration || null
+  };
+}
+
+function showPrinciplePerspective(topic, index) {
+  const study = principleCaseStudy(topic);
+  const safeIndex = Math.max(0, Math.min(index, study.perspectives.length - 1));
+  const view = study.perspectives[safeIndex];
+  activePrinciplePerspective = safeIndex;
+  document.querySelectorAll('.principle-perspective').forEach((button, buttonIndex) => {
+    const active = buttonIndex === safeIndex;
+    button.classList.toggle('active', active);
+    button.setAttribute('aria-pressed', String(active));
+  });
+  $('#principlePerspectiveDetail').innerHTML = `<div class="perspective-voice"><p>${esc(view.label)}的判斷</p><blockquote>「${esc(view.voice)}」</blockquote></div><div class="perspective-detail-grid"><div><b>01｜真正要改變</b><p>${esc(view.problem)}</p></div><div><b>02｜可驗證事實</b><p>${esc(view.facts)}</p></div><div><b>03｜必須拆掉的假設</b><p>${esc(view.assumptions)}</p></div><div><b>04｜從零重建</b><p>${esc(view.rebuild)}</p></div></div>`;
+}
+
+function renderPrincipleCase(topic) {
+  const study = principleCaseStudy(topic);
+  activePrinciplePerspective = 0;
+  $('#principleCaseTitle').textContent = study.title;
+  $('#principleCaseContext').textContent = study.context;
+  const meta = $('#principleCaseMeta');
+  const plan = study.applicablePlan;
+  const workshop = study.workshopDesign;
+  const family = study.familyTraining;
+  const life = study.lifeCuration;
+  const familyHtml = family ? `<h5>${esc('親子觀展操作卡')}</h5><div class='principle-plan-grid'><div><b>適合年齡</b><p>${esc(family.ageRange || '')}</p></div><div><b>活動時間</b><p>${esc(family.duration || '')}</p></div><div><b>訓練目標</b><p>${esc(family.goal || '')}</p></div><div><b>孩子可見產出</b><p>${esc(family.childOutput || '')}</p></div></div><h5>家長提問腳本</h5><ol>${(family.parentScript || []).map((line) => `<li>${esc(line)}</li>`).join('')}</ol><h5>親子操作流程</h5><ol>${(family.steps || []).map((step) => typeof step === 'string' ? `<li>${esc(step)}</li>` : `<li><b>${esc(step.time || '')}</b>｜${esc(step.action || '')}${step.output ? `<br><b>產出：</b>${esc(step.output)}` : ''}</li>`).join('')}</ol><div class='principle-plan-grid'><div><b>成功證據</b><p>${esc((family.successEvidence || []).join('；'))}</p></div><div><b>停止或調整條件</b><p>${esc((family.stopConditions || []).join('；'))}</p></div></div>` : '';
+  const lifeHtml = life ? `<h5>${esc('人生策展操作卡')}</h5><div class='principle-plan-grid'><div><b>人生階段</b><p>${esc(life.stage || '')}</p></div><div><b>操作時間</b><p>${esc(life.duration || '')}</p></div><div><b>材料</b><p>${esc((life.materials || []).join('、'))}</p></div><div><b>七日實驗</b><p>${esc(life.sevenDayExperiment || '')}</p></div></div><h5>保留、封存、交接與停止</h5><ol>${(life.steps || []).map((step) => `<li><b>${esc(step.time || '')}</b>｜${esc(step.action || '')}<br><b>產出：</b>${esc(step.output || '')}</li>`).join('')}</ol><div class='principle-plan-grid'><div><b>完整產出</b><p>${esc((life.outputs || []).join('、'))}</p></div><div><b>成功證據</b><p>${esc((life.successEvidence || []).join('；'))}</p></div><div><b>停止或調整條件</b><p>${esc((life.stopConditions || []).join('；'))}</p></div></div>` : '';
+  const referenceHtml = study.references.map((reference) => `<li><a href="${esc(safeHref(reference.url))}" target="_blank" rel="noopener noreferrer">${esc(reference.title || reference.publisher || reference.url)}</a>${reference.publisher ? `｜${esc(reference.publisher)}` : ''}${reference.publishedAt || reference.accessedAt ? `｜${esc(reference.publishedAt || `查閱 ${reference.accessedAt}`) }` : ''}</li>`).join('');
+  const planHtml = plan ? `<h5>${esc(plan.title || '可運用方案')}</h5><p>${esc(plan.derivedFrom || '')}</p><div class="principle-plan-grid"><div><b>適用條件</b><p>${esc(plan.suitableWhen || '')}</p></div><div><b>不適用條件</b><p>${esc(plan.unsuitableWhen || '')}</p></div><div><b>三個步驟</b><p>${esc((plan.steps || []).join(' → '))}</p></div><div><b>角色與資源</b><p>${esc(plan.rolesAndResources || '')}</p></div><div><b>七日實驗</b><p>${esc(plan.sevenDayExperiment || '')}</p></div><div><b>成功／停止條件</b><p>${esc(plan.successEvidence || '')}；${esc(plan.stopConditions || '')}</p></div></div>` : '';
+  const workshopHtml = workshop ? `<h5>${esc(workshop.title || '民眾參與工作坊')}</h5><div class="principle-plan-grid"><div><b>參與目標</b><p>${esc(workshop.participationGoal || '')}</p></div><div><b>參與者／規模</b><p>${esc(workshop.participantProfile || '')}｜${esc(workshop.groupSize || '')}</p></div><div><b>時間</b><p>${esc(workshop.duration || '')}</p></div><div><b>帶領角色</b><p>${esc(workshop.facilitatorRoles || '')}</p></div><div><b>事前準備</b><p>${esc(workshop.preparation || '')}</p></div><div><b>材料</b><p>${esc(workshop.materials || '')}</p></div></div><h5>實際操作流程</h5><ol>${(workshop.steps || []).map((step) => `<li><b>${esc(step.time || '')}</b>｜帶領：${esc(step.facilitatorAction || '')}<br>參與：${esc(step.participantAction || '')}<br><b>產出：</b>${esc(step.visibleOutput || step.output || '')}</li>`).join('')}</ol><div class="principle-plan-grid"><div><b>完整產出</b><p>${esc(workshop.outputs || '')}</p></div><div><b>紀錄方式</b><p>${esc(workshop.documentation || '')}</p></div><div><b>同意與照顧</b><p>${esc(workshop.consentAndCare || '')}</p></div><div><b>調整方式</b><p>${esc(workshop.adaptationNotes || '')}</p></div><div><b>成功證據</b><p>${esc(workshop.successEvidence || '')}</p></div><div><b>停止條件</b><p>${esc(workshop.stopConditions || '')}</p></div></div>${Array.isArray(workshop.debriefQuestions) && workshop.debriefQuestions.length ? `<h5>會後反思</h5><ol>${workshop.debriefQuestions.map((question) => `<li>${esc(question)}</li>`).join('')}</ol>` : ''}` : '';
+  if (study.realWorld || plan || workshop || family || life) {
+    meta.hidden = false;
+    meta.innerHTML = `${study.realWorld ? `<div class="principle-realworld-head"><b>國外實際案例</b><span>${esc(study.country)}｜${esc(study.location)}｜查證截至 ${esc(study.statusAsOf)}</span></div><p>${esc(study.latestUpdate)}</p>${referenceHtml ? `<h5>查證來源</h5><ul>${referenceHtml}</ul>` : ''}` : '<div class="principle-realworld-head"><b>應用訓練</b><span>明確標示的模擬／轉譯案例</span></div>'}${planHtml}${workshopHtml}${familyHtml}${lifeHtml}`;
+  } else {
+    meta.hidden = true;
+    meta.innerHTML = '';
+  }
+  $('#principlePerspectives').innerHTML = study.perspectives.map((view, index) => `<button class="principle-perspective${index === 0 ? ' active' : ''}" type="button" data-principle-perspective="${index}" aria-pressed="${index === 0}"><b>${esc(view.name)}</b><span>${esc(view.role)}</span></button>`).join('');
+  showPrinciplePerspective(topic, 0);
+}
+
+function bindPrincipleCase() {
+  $('#principlePerspectives').addEventListener('click', (event) => {
+    const button = event.target.closest('[data-principle-perspective]');
+    if (!button) return;
+    showPrinciplePerspective(currentTopic(), Number(button.dataset.principlePerspective));
+  });
+  $('#applyPrinciplePerspective').addEventListener('click', () => {
+    const view = principleCaseStudy(currentTopic()).perspectives[activePrinciplePerspective];
+    $('#problem').value = view.problem;
+    $('#facts').value = view.facts;
+    $('#assumptions').value = view.assumptions;
+    $('#rebuild').value = view.rebuild;
+    setCompanionFeedback(`已帶入「${view.name}」的案例拆解。現在請把其中一句改成你自己的現場觀察。`, {
+      label: '開始修改',
+      action: () => $('#problem').focus()
+    });
+    $('#problem').focus();
+  });
+}
+
+function taipeiDate() {
+  return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Taipei' }).format(new Date());
+}
+
+function displayText(topic) {
+  return String(topic.rawText || topic.summary || '')
+    .replace(/^來源：[^\n]+\n+\n?/, '')
+    .trim();
+}
+
+function dailyTopicList() {
+  const newest = [...dailyPrompts].sort((a, b) => b.date.localeCompare(a.date));
+  const today = newest.filter((topic) => topic.date === taipeiDate());
+  return [...(today.length ? today : newest), ...topics.filter((topic) => topic.questions?.length)];
+}
+
+function currentTopic() {
+  const list = dailyTopicList();
+  return list[activeTopic % list.length] || topics[0];
+}
+
+function showToday() {
+  const topic = currentTopic();
+  const isDaily = Boolean(topic.daily);
+  const dailyTasks = dailyPrompts.filter((item) => item.date === topic.date);
+  const taskPosition = dailyTasks.findIndex((item) => item.id === topic.id) + 1;
+  $('#topicCategory').textContent = isDaily ? `${topic.category}｜${topic.lens}` : topic.category;
+  $('#topicCount').textContent = isDaily ? `${topic.date}｜今日任務 ${taskPosition}/${dailyTasks.length}` : `${topic.questions.length} 個提問`;
+  $('#dailySource').textContent = '';
+  $('#topicTitle').textContent = topic.title;
+  $('#topicSummary').textContent = topic.summary;
+  $('#questionList').innerHTML = questionList(topic.questions.slice(0, 10));
+  renderPrincipleCase(topic);
+  updateCompanion(topic, false);
+}
+
+function companionPrompt(topic) {
+  const opening = topic?.questions?.[0] || topic?.summary || '先選一個你真正想看清楚的細節。';
+  const prompts = {
+    '觀察': `先不急著回答。帶著「${opening}」去找一個具體現場、行為或細節。`,
+    '張力': `把「${opening}」裡最難共存的兩件事留下來，不要太快替它們和解。`,
+    '關係': `問一問：在「${opening}」裡，誰的經驗還沒有被放進畫面？`,
+    '想像': `試著把「${opening}」改寫成一個觀眾能走進去的未來畫面。`
+  };
+  return prompts[topic?.lens] || `今天先陪你停在這一題：${opening}`;
+}
+
+function setCompanionFeedback(message, { label = '帶入專案', action = useTopic, open = true } = {}) {
+  const companion = $('#readingCompanion');
+  const toggle = $('#companionToggle');
+  const messageElement = $('#companionMessage');
+  const actionButton = $('#companionUse');
+  const caseCompanion = $('#caseCompanion');
+  const caseMessageElement = $('#caseCompanionMessage');
+  const caseActionButton = $('#caseCompanionUse');
+  if (!messageElement || !actionButton) return;
+
+  messageElement.textContent = message;
+  actionButton.textContent = label;
+  if (caseMessageElement && caseActionButton) {
+    caseMessageElement.textContent = message;
+    caseActionButton.textContent = label;
+  }
+  companionAction = action;
+  if (open && companion && toggle) {
+    companion.classList.add('is-open');
+    toggle.setAttribute('aria-expanded', 'true');
+    toggle.querySelector('.sr-only').textContent = '收合伴讀助手';
+  }
+  if (companion) {
+    companion.classList.remove('is-thinking');
+    caseCompanion?.classList.remove('is-thinking');
+    window.clearTimeout(companionPulseTimer);
+    requestAnimationFrame(() => {
+      companion.classList.add('is-thinking');
+      caseCompanion?.classList.add('is-thinking');
+    });
+    companionPulseTimer = window.setTimeout(() => {
+      companion.classList.remove('is-thinking');
+      caseCompanion?.classList.remove('is-thinking');
+    }, 650);
+  }
+}
+
+function updateCompanion(topic, open = false) {
+  setCompanionFeedback(companionPrompt(topic), {
+    label: '帶入專案',
+    action: useTopic,
+    open
+  });
+}
+
+function bindCompanion() {
+  const companion = $('#readingCompanion');
+  const toggle = $('#companionToggle');
+  if (!companion || !toggle) return;
+  const setOpen = (open) => {
+    companion.classList.toggle('is-open', open);
+    toggle.setAttribute('aria-expanded', String(open));
+    toggle.querySelector('.sr-only').textContent = open ? '收合伴讀助手' : '開啟伴讀助手';
+  };
+  toggle.addEventListener('click', () => setOpen(!companion.classList.contains('is-open')));
+  $('#companionUse').addEventListener('click', () => {
+    (companionAction || useTopic)();
+    setOpen(false);
+  });
+}
+
+function libraryItems() {
+  return [...dailyPrompts, ...topics];
+}
+
+function normalizeSearch(value = '') {
+  return String(value).toLowerCase().replace(/\s+/g, ' ').trim();
+}
+
+function topicSearchText(topic) {
+  return normalizeSearch([
+    topic.title,
+    topic.category,
+    topic.summary,
+    topic.source,
+    topic.lens,
+    topic.strategy,
+    topic.task,
+    topic.training,
+    topic.rawTitle,
+    topic.rawText,
+    ...(topic.questions || [])
+  ].filter(Boolean).join(' '));
+}
+
+function renderFilters() {
+  const items = libraryItems();
+  const categories = ['全部', ...new Set(items.map((topic) => topic.category))];
+  $('#filters').innerHTML = categories.map((category) => `<button class="${category === activeCategory ? 'active' : ''}" data-category="${esc(category)}">${esc(category)} ${category === '全部' ? items.length : items.filter((topic) => topic.category === category).length}</button>`).join('');
+}
+
+function renderLibrary() {
+  const query = normalizeSearch($('#search').value);
+  const terms = query.split(' ').filter(Boolean);
+  const list = libraryItems().filter((topic) => {
+    const searchable = topicSearchText(topic);
+    return (activeCategory === '全部' || topic.category === activeCategory) && terms.every((term) => searchable.includes(term));
+  });
+  $('#clearSearch').hidden = !query;
+  $('#searchState').textContent = query
+    ? `關鍵字「${query}」找到 ${list.length} 筆課題`
+    : `顯示 ${list.length} 筆課題`;
+  $('#topicGrid').innerHTML = list.map((topic) => {
+    const reference = topic.daily ? `${topic.date}｜每日更新` : `文件 #${topic.sourceIndex}${topic.versionCount > 1 ? ` · 同標題 ${topic.versionCount} 筆` : ''}`;
+    return `<button class="topic-tile" data-id="${topic.id}"><small>${esc(topic.category)} · ${reference}</small><strong>${esc(topic.title)}</strong><p>${esc(topic.summary)}</p></button>`;
+  }).join('') || '<p class="search-empty">找不到符合的課題。試試更短的關鍵字，或改用「人生」、「AI」、「關係」。</p>';
+  return { list, query };
+}
+
+function openDetail(id) {
+  const topic = libraryItems().find((item) => item.id === id);
+  if (!topic) return;
+  const roundtable = renaissanceRoundtable(topic);
+  $('#detailDialog').dataset.topicId = topic.id;
+  $('#detailCategory').textContent = topic.daily ? `${topic.category}｜${topic.date}｜${topic.lens}` : `${topic.category}｜文件 #${topic.sourceIndex}`;
+  $('#detailTitle').textContent = topic.title;
+  $('#detailSummary').textContent = topic.summary;
+  $('#detailQuestions').innerHTML = caseQuestionList(topic.questions);
+  $('#detailStrategy').innerHTML = highlightText(topic.strategy || '保留原始備忘錄，待後續補充策略。');
+  $('#detailTask').innerHTML = highlightText(topic.task || '從上方提問選一題，完成一張「問題、洞察、概念、方法、影響」草稿。');
+  $('#detailTraining').innerHTML = highlightText(topic.training || '');
+  $('#trainingSection').hidden = !topic.training;
+  $('#detailRaw').innerHTML = topic.readableHtml || highlightText(displayText(topic));
+  $('#renaissanceViews').innerHTML = roundtable.voices.map((voice, index) => `<button class="renaissance-voice" type="button" data-case-voice="${index}"><p><b>${esc(voice.name)}</b><span>${esc(voice.lens)}</span></p><p>${esc(voice.view)}</p></button>`).join('');
+  $('#renaissanceDialogue').innerHTML = roundtable.dialogue.map((line) => `<p><b>${esc(line.name)}</b><span>${esc(line.text)}</span></p>`).join('');
+  $('#detailDialog').showModal();
+  setCompanionFeedback(`你正在閱讀「${topic.title}」。先選一個提問，把它帶進專案草稿。`, {
+    label: '帶入這個課題',
+    action: () => {
+      document.querySelector('[data-project="problem"]').value = topic.summary;
+      document.querySelector('[data-project="concept"]').value = `以策展回應「${topic.title}」`;
+      $('#detailDialog').close();
+      location.hash = 'project';
+      setCompanionFeedback('課題已帶入專案。現在補上你觀察到的第一個具體細節。', {
+        label: '聚焦洞察欄',
+        action: () => document.querySelector('[data-project="insight"]').focus()
+      });
+    }
+  });
+}
+
+function bringCaseIntoProject(topic, { problem, insight, concept } = {}) {
+  const projectProblem = document.querySelector('[data-project="problem"]');
+  const projectInsight = document.querySelector('[data-project="insight"]');
+  const projectConcept = document.querySelector('[data-project="concept"]');
+  projectProblem.value = problem || topic.summary;
+  if (insight) projectInsight.value = insight;
+  projectConcept.value = concept || `以策展回應「${topic.title}」`;
+  $('#detailDialog').close();
+  location.hash = 'project';
+  setCompanionFeedback(`已把「${topic.title}」帶入專案。現在用你自己的現場觀察改寫洞察。`, {
+    label: '開始寫洞察',
+    action: () => projectInsight.focus()
+  });
+}
+
+function bindDetailCompanion() {
+  const dialog = $('#detailDialog');
+  const guideButton = $('#caseCompanionGuide');
+  const caseActionButton = $('#caseCompanionUse');
+  caseActionButton.addEventListener('click', () => (companionAction || useTopic)());
+  guideButton.addEventListener('click', () => {
+    const firstQuestion = dialog.querySelector('[data-case-question="0"]');
+    if (!firstQuestion) return;
+    firstQuestion.focus();
+    firstQuestion.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setCompanionFeedback('從第一題開始。先選一個你能用現場觀察回答的細節，再決定要不要帶入專案。', {
+      label: '帶入這個課題',
+      action: companionAction || useTopic
+    });
+  });
+  dialog.addEventListener('click', (event) => {
+    const questionButton = event.target.closest('[data-case-question]');
+    const voiceButton = event.target.closest('[data-case-voice]');
+    const topic = libraryItems().find((item) => item.id === dialog.dataset.topicId);
+    if (!topic) return;
+
+    if (questionButton) {
+      const question = topic.questions[Number(questionButton.dataset.caseQuestion)];
+      setCompanionFeedback(`這一題值得停下來：「${question}」先寫下一個你親眼看見的例子，再決定立場。`, {
+        label: '帶入這一題',
+        action: () => bringCaseIntoProject(topic, { problem: question, insight: `我觀察到：` })
+      });
+      return;
+    }
+
+    if (voiceButton) {
+      const voice = renaissanceRoundtable(topic).voices[Number(voiceButton.dataset.caseVoice)];
+      const focusField = ({ '觀察': 'insight', '張力': 'problem', '關係': 'method', '想像': 'concept' })[voice.lens] || 'insight';
+      setCompanionFeedback(`${voice.name}的${voice.lens}視角：${voice.view}`, {
+        label: `用${voice.lens}寫草稿`,
+        action: () => {
+          bringCaseIntoProject(topic, { concept: `以${voice.lens}回應「${topic.title}」` });
+          document.querySelector(`[data-project="${focusField}"]`).focus();
+        }
+      });
+    }
+  });
+}
+
+function loadProject() {
+  const saved = JSON.parse(localStorage.getItem(projectKey) || '{}');
+  document.querySelectorAll('[data-project]').forEach((element) => { element.value = saved[element.dataset.project] || ''; });
+}
+
+function saveProject() {
+  const data = {};
+  document.querySelectorAll('[data-project]').forEach((element) => { data[element.dataset.project] = element.value; });
+  localStorage.setItem(projectKey, JSON.stringify(data));
+  $('#saveState').textContent = '已儲存於這台裝置';
+  setCompanionFeedback('專案草稿已儲存。下一步，檢查「方法」是否能讓觀眾實際參與。', {
+    label: '聚焦方法欄',
+    action: () => document.querySelector('[data-project="method"]').focus()
+  });
+}
+
+function useTopic() {
+  const topic = currentTopic();
+  document.querySelector('[data-project="problem"]').value = topic.summary;
+  document.querySelector('[data-project="concept"]').value = `以策展回應「${topic.title}」`;
+  location.hash = 'project';
+  setCompanionFeedback('課題已帶入專案。請把你第一個具體觀察寫進「洞察」。', {
+    label: '開始寫洞察',
+    action: () => document.querySelector('[data-project="insight"]').focus()
+  });
+}
+
+function projectExportItems() {
+  return [...document.querySelectorAll('[data-project]')].map((element) => ({
+    label: element.previousElementSibling.textContent,
+    value: element.value.trim() || '尚未填寫'
+  }));
+}
+
+function projectExportText() {
+  return ['CURATOR OS｜策展專案草稿', `匯出日期：${new Intl.DateTimeFormat('zh-TW', { dateStyle: 'long', timeZone: 'Asia/Taipei' }).format(new Date())}`, '', ...projectExportItems().flatMap((item) => [item.label, item.value, ''])].join('\n').trim();
+}
+
+function downloadProject(content, filename, type) {
+  const url = URL.createObjectURL(new Blob([content], { type }));
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function downloadText() {
+  downloadProject(projectExportText(), 'curator-os-project.txt', 'text/plain;charset=utf-8');
+  $('#saveState').textContent = '已下載文字檔';
+  setCompanionFeedback('文字檔已建立，方便你快速保存或貼到其他筆記工具。', {
+    label: '繼續完善專案',
+    action: () => document.querySelector('[data-project="impact"]').focus()
+  });
+}
+
+function downloadWord() {
+  const items = projectExportItems().map((item) => `<h2>${esc(item.label)}</h2><p>${esc(item.value).replaceAll('\n', '<br>')}</p>`).join('');
+  const documentHtml = `<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>CURATOR OS｜策展專案草稿</title><style>body{font-family:"Noto Sans TC",Arial,sans-serif;color:#152630;line-height:1.8;margin:42px}h1{font-family:"Noto Serif TC",serif;font-size:30px}h2{font-size:18px;margin:28px 0 6px;color:#087d9b}p{margin:0}</style></head><body><h1>CURATOR OS｜策展專案草稿</h1><p>匯出日期：${new Intl.DateTimeFormat('zh-TW', { dateStyle: 'long', timeZone: 'Asia/Taipei' }).format(new Date())}</p>${items}</body></html>`;
+  downloadProject(documentHtml, 'curator-os-project.doc', 'application/msword;charset=utf-8');
+  $('#saveState').textContent = '已下載 Word 文件';
+  setCompanionFeedback('Word 文件已建立。回到專案後，可再補上預期造成的影響。', {
+    label: '補上影響',
+    action: () => document.querySelector('[data-project="impact"]').focus()
+  });
+}
+
+function bindExport() {
+  const button = $('#exportProject');
+  const menu = $('#exportMenu');
+  const setOpen = (open) => {
+    menu.hidden = !open;
+    button.setAttribute('aria-expanded', String(open));
+  };
+  button.addEventListener('click', () => {
+    setOpen(menu.hidden);
+    setCompanionFeedback('選擇要保存的格式：文字檔適合快速紀錄，Word 適合後續整理與分享。', {
+      label: '返回專案',
+      action: () => document.querySelector('[data-project="problem"]').focus()
+    });
+  });
+  $('#downloadText').addEventListener('click', () => { downloadText(); setOpen(false); });
+  $('#downloadWord').addEventListener('click', () => { downloadWord(); setOpen(false); });
+  document.addEventListener('click', (event) => {
+    if (!event.target.closest('.export-control')) setOpen(false);
+  });
+}
+
+function bindScene() {
+  const scene = $('#scene');
+  scene.addEventListener('pointermove', (event) => {
+    const x = (event.clientX / window.innerWidth - 0.5) * 1.5;
+    const y = (event.clientY / window.innerHeight - 0.5) * 1.2;
+    scene.style.setProperty('--scene-x', `${x}%`);
+    scene.style.setProperty('--scene-y', `${y}%`);
+  });
+  scene.addEventListener('pointerleave', () => {
+    scene.style.setProperty('--scene-x', '0%');
+    scene.style.setProperty('--scene-y', '0%');
+  });
+  document.querySelectorAll('[data-lens]').forEach((button) => {
+    button.addEventListener('click', () => {
+      document.querySelectorAll('[data-lens]').forEach((item) => item.classList.toggle('active', item === button));
+      $('#mentorPrompt').textContent = lenses[button.dataset.lens];
+      setCompanionFeedback(lenses[button.dataset.lens], {
+        label: '把視角帶入專案',
+        action: useTopic
+      });
+    });
+  });
+}
+
+function bindRealtimeCompanion() {
+  const navFeedback = {
+    '#today': ['今日思考有十個提問。先從最讓你停下來的一題開始。', '閱讀今日提問', () => $('#questionList').scrollIntoView({ behavior: 'smooth', block: 'center' })],
+    '#project': ['這裡會把靈感變成可執行的策展草稿。先寫下問題，而不是急著找答案。', '開始寫問題', () => document.querySelector('[data-project="problem"]').focus()],
+    '#library': ['課題庫可用關鍵字找回你的素材。試試一個人名、場域或情緒。', '開始搜尋', () => $('#search').focus()]
+  };
+  document.querySelectorAll('.topbar nav a').forEach((link) => {
+    const feedback = navFeedback[link.getAttribute('href')];
+    if (!feedback) return;
+    const respond = () => setCompanionFeedback(feedback[0], { label: feedback[1], action: feedback[2] });
+    link.addEventListener('focus', respond);
+    link.addEventListener('mouseenter', respond);
+    link.addEventListener('click', respond);
+  });
+
+  const principlePrompts = {
+    problem: ['先把問題縮到一個可被觀察的情境。什麼正在發生？', '聚焦事實', () => $('#facts').focus()],
+    facts: ['把能被驗證的事實與感受分開，才看得見真正的限制。', '檢查假設', () => $('#assumptions').focus()],
+    assumptions: ['列出你以為理所當然的前提，再問：它真的成立嗎？', '重新組裝', () => $('#rebuild').focus()],
+    rebuild: ['用最少的條件重組一個做法，讓它能被測試而不只是被想像。', '帶入專案', useTopic]
+  };
+  Object.entries(principlePrompts).forEach(([id, feedback]) => {
+    const input = $(`#${id}`);
+    if (!input) return;
+    input.addEventListener('focus', () => setCompanionFeedback(feedback[0], { label: feedback[1], action: feedback[2] }));
+    input.addEventListener('input', () => {
+      if (input.value.trim()) setCompanionFeedback(`已記下 ${input.value.trim().length} 個字。保留具體描述，讓下一步能據此行動。`, { label: feedback[1], action: feedback[2], open: false });
+    });
+  });
+
+  document.querySelectorAll('[data-project]').forEach((input) => {
+    const label = input.previousElementSibling?.textContent || '這一欄';
+    input.addEventListener('focus', () => setCompanionFeedback(`正在撰寫「${label}」。不用完整，先留下一句可繼續修改的話。`, {
+      label: '儲存草稿',
+      action: saveProject
+    }));
+    input.addEventListener('input', () => {
+      if (input.value.trim()) setCompanionFeedback(`「${label}」已有 ${input.value.trim().length} 個字。寫完一個句子後，按一下儲存草稿。`, {
+        label: '儲存草稿',
+        action: saveProject,
+        open: false
+      });
+    });
+  });
+}
+
+Promise.all([
+  fetch(`curation-thinking.json?updated=${Date.now()}`, { cache: 'no-store' }).then((response) => response.json()),
+  fetch(`daily-curator-prompts.json?updated=${Date.now()}`, { cache: 'no-store' }).then((response) => response.ok ? response.json() : [])
+]).then(([library, daily]) => {
+  topics = library.map((topic, index) => ({
+    ...topic,
+    sourceIndex: topic.sourceIndex ?? index + 1
+  }));
+  dailyPrompts = daily;
+  const latestDaily = [...dailyPrompts].sort((a, b) => b.date.localeCompare(a.date))[0];
+  $('#liveState').textContent = latestDaily ? `每日同步｜最新 ${latestDaily.date}` : '每日同步中';
+  showToday();
+  renderFilters();
+  renderLibrary();
+  loadProject();
+  bindScene();
+  bindCompanion();
+  bindDetailCompanion();
+  bindRealtimeCompanion();
+  bindPrincipleCase();
+  $('#nextTopic').onclick = () => {
+    activeTopic = (activeTopic + 1) % dailyTopicList().length;
+    showToday();
+    setCompanionFeedback(`已切換課題：「${currentTopic().title}」。先讀第一個提問，再決定是否帶入專案。`, {
+      label: '帶入專案',
+      action: useTopic
+    });
+  };
+  $('#useInProject').onclick = useTopic;
+  $('#filters').onclick = (event) => {
+    const button = event.target.closest('button');
+    if (!button) return;
+    activeCategory = button.dataset.category;
+    renderFilters();
+    const { list } = renderLibrary();
+    setCompanionFeedback(`已切換到「${activeCategory}」，目前有 ${list.length} 筆可閱讀課題。`, {
+      label: '開始搜尋',
+      action: () => $('#search').focus()
+    });
+  };
+  const updateSearch = () => {
+    const { list, query } = renderLibrary();
+    if (query) {
+      setCompanionFeedback(`「${query}」找到 ${list.length} 筆課題。選一筆展開，就能讀到完整十個提問與四傑對話。`, {
+        label: list.length ? '查看第一筆' : '清除搜尋',
+        action: list.length ? () => openDetail(list[0].id) : () => $('#clearSearch').click(),
+        open: false
+      });
+    }
+  };
+  $('#search').oninput = updateSearch;
+  $('#search').onsearch = updateSearch;
+  $('#clearSearch').onclick = () => {
+    $('#search').value = '';
+    renderLibrary();
+    $('#search').focus();
+    setCompanionFeedback('搜尋已清除，現在可從全部課題開始瀏覽。', {
+      label: '選一個課題',
+      action: () => $('#topicGrid').querySelector('[data-id]')?.focus()
+    });
+  };
+  $('#topicGrid').onclick = (event) => {
+    const button = event.target.closest('[data-id]');
+    if (button) openDetail(button.dataset.id);
+  };
+  $('#closeDialog').onclick = () => {
+    $('#detailDialog').close();
+    setCompanionFeedback('已回到課題庫。你可以繼續搜尋，或把剛才的問題帶入專案。', {
+      label: '開始搜尋',
+      action: () => $('#search').focus()
+    });
+  };
+  $('#saveProject').onclick = saveProject;
+  bindExport();
+}).catch(() => { $('#topicGrid').textContent = '資料載入失敗。'; });
+</script>
+</body>
+</html>
