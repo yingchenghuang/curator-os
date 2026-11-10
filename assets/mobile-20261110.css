@@ -41,13 +41,18 @@
   .path-grid { grid-template-columns: minmax(0, 1fr); }
   .path-card { min-height: 0; padding: 20px; }
   .path-card strong { font-size: 19px; }
-  .today-five { grid-template-columns: minmax(0, 1fr); gap: 12px; }
-  .daily-card { flex-direction: row; min-height: 160px; }
-  .daily-image { flex: 0 0 34%; width: 34%; height: auto; min-height: 160px; }
-  .daily-content { padding: 15px; gap: 8px; }
-  .daily-content h4 { font-size: 16px; }
-  .daily-content p { font-size: 13px; }
+  .today-five-heading { gap: 8px; margin: 32px 0 16px; }
+  .today-five-heading h3 { font-size: 25px; line-height: 1.35; }
+  .today-five { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .daily-card { flex-direction: column; min-height: 0; border-radius: 8px; overflow: hidden; }
+  .daily-image { flex: none; width: 100%; height: 190px; min-height: 190px; }
+  .daily-content { padding: 18px; gap: 10px; }
+  .daily-content small { font-size: 12px; }
+  .daily-content h4 { display: block; overflow: visible; font-size: 18px; line-height: 1.55; -webkit-line-clamp: unset; }
+  .daily-content p { display: block; overflow: visible; font-size: 14px; line-height: 1.8; -webkit-line-clamp: unset; }
+  .daily-content strong { font-size: 13px; padding-top: 2px; }
   .daily-modal article { padding: 18px; }
+  .daily-modal .daily-cover { height: 190px; }
   .diagnostic-layout, .compare-grid, .news-grid, .lessons, .radar, .space { grid-template-columns: minmax(0, 1fr); }
   .path-result, .compare-panel, .diagnostic-card, .news-panel, .space .txt, .pane, .topic, .sec-in { min-width: 0; }
   .space .txt { padding: 20px; }
