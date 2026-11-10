@@ -26357,5 +26357,260 @@
       ]
     },
     "rawText": "【來源事實】Barbican The Curve於2026年10月1日至2027年1月24日免費展出Yuko Mohri《In Concert》。官方資料記載作品運用回收物件、光、聲音、動力雕塑及磁力、濕度、空氣、水、重力等不穩定元素；指南把三件裝置描述為具有聲、光與水的持續變動洩漏輸出，並把修復連結到拒絕快速丟棄、時間、延續與共存。\n【事實／推論界線】官方可證實作品媒材、場域關係與修復論述；把藝術方法轉用到個人生活屬策展式推論，不能取代建築、醫療、法律或心理專業評估。\n【原創模擬】五階段修復表、48小時與30天任務及七日訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-11-curator",
+    "date": "2026-11-11",
+    "category": "專業策展人課題",
+    "lens": "知識倫理｜在地知識、形式借用與署名責任",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "Why the Vernacular Today?",
+      "url": "https://www.moma.org/calendar/events/11348",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "地方形式被帶進美術館時，策展如何避免把活的知識變成漂亮標本？",
+    "summary": "以「來源社群仍是否擁有解釋權、署名權與回應權」檢查地方知識的展示倫理，而不只判斷形式是否吸引人。",
+    "questions": [
+      "策展論述中的「地方」指的是地理、社群、技術，還是被想像出的風格？",
+      "這項知識目前由誰實際使用、維護與傳承？",
+      "展示抽取了哪些形式，卻省略了哪些生活條件與勞動？",
+      "原知識持有人是否被具名，還是只剩模糊的文化標籤？",
+      "誰有權指出策展翻譯錯誤，機構又如何公開修正？",
+      "觀眾會不會把暫時性的生存策略誤讀成永恆傳統？",
+      "策展是否把貧困、氣候風險或資源限制浪漫化？",
+      "展示回饋了社群什麼：費用、能見度、檔案、使用權，還是長期合作？",
+      "如果移除設計師或美術館的名字，地方作者仍然清楚可見嗎？",
+      "展覽結束後，誰仍能存取研究資料與影像？"
+    ],
+    "strategy": "建立「來源—轉譯—權利」三欄追蹤表：逐項記錄知識持有人、被轉譯內容、署名、授權、報酬、修正機制與展後存取權；任何無法回答的欄位都視為策展風險，而非文字潤飾問題。",
+    "task": "選一件以民間技術或地方形式為核心的展品，90 分鐘內完成知識來源圖、權利缺口表與一段不浪漫化限制條件的新版標籤。",
+    "training": "先用 20 分鐘圈出文本中「傳統、原始、自然、智慧、永續」等詞；再用 30 分鐘逐詞補上具體人名、地點、年代與限制；最後 40 分鐘讓一位假想的知識持有人從署名、解釋權、收益與修正權四面向反駁策展。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國／孟加拉",
+      "location": "紐約 MoMA；案例影像拍攝於孟加拉 Chandpur",
+      "title": "MoMA｜Why the Vernacular Today?",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "MoMA 於 2026 年 11 月 11 日舉辦免費論壇，作為多年期 vernacular 研究的首場活動，明確提出如何向地方建築學習而不異國化或浪漫化；官方活動圖為 Marina Tabassum 的 Khudi Bari。",
+      "references": [
+        "https://www.moma.org/calendar/events/11348"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMTkvOWtwNmZjcTNkNV8xNjEuMjAyNC4xX1RhYmFzc3VtX0Z1bGxfc2l6ZV9KUEVHX01DLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/161.2024.1_Tabassum-Full-size-JPEG_MC.jpg?sha=c0d09c9b7134f762",
+          "caption": "Marina Tabassum，《Khudi Bari (tiny house)》，Chandpur, Bangladesh，2021。",
+          "credit": "The Museum of Modern Art, New York；Photo: Asif Salman",
+          "sourceUrl": "https://www.moma.org/calendar/events/11348",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 地方形式被帶進美術館時，策展如何避免把活的知識變成漂亮標本？\n\n【來源事實】\nMoMA 的 2026 年 11 月 11 日論壇是多年期地方建築研究的首場活動，官方提問包括如何學習 vernacular 而不把它異國化或浪漫化；活動頁使用 Marina Tabassum 的 Khudi Bari 官方影像。\n\n【策展推論】\n地方形式一旦離開原本的生活、氣候與治理條件，容易被策展壓縮成可消費的風格。專業判準應從形式相似度轉向知識持有人是否保有署名、解釋、修正與展後存取權。\n\n【原創模擬】\n模擬一件地方構法展品的權利稽核；這是訓練方法，不是 MoMA 官方做法。\n\n查證日期：2026-11-11"
+  },
+  {
+    "id": "daily-2026-11-11-thinking",
+    "date": "2026-11-11",
+    "category": "策展思考訓練",
+    "lens": "媒介考古｜作品、來源媒材、放映拷貝與播放系統",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "It’s Alive! An Afternoon with Jeff Scher",
+      "url": "https://www.moma.org/calendar/events/11364",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "同一部動畫換了載體還是同一件作品嗎？用四層版本表拆開保存與展示",
+    "summary": "把作品內容、原始媒材、現存拷貝與當下播放系統分開記錄，避免用「已數位化」掩蓋版本差異與展示決策。",
+    "questions": [
+      "作品的原始創作媒材是什麼，哪些痕跡只存在於該媒材？",
+      "目前展出的到底是原件、放映拷貝、數位轉檔還是重製版？",
+      "幀率、畫幅、色彩、聲音與播放速度是否與作者版本一致？",
+      "媒材轉換修復了哪些問題，又製造了哪些新差異？",
+      "觀眾是否被告知自己看到的是哪個版本？",
+      "版本差異會改變作品的節奏、尺度或身體感嗎？",
+      "保存決策由誰做，藝術家或權利人是否參與？",
+      "若原始播放設備失效，什麼條件不可妥協？",
+      "不同版本的放映紀錄與技術參數是否可追溯？",
+      "策展文本是在描述作品，還是在把技術決策偽裝成中性事實？"
+    ],
+    "strategy": "為每件時間媒體作品建立四層版本卡：作品概念、來源媒材、展示拷貝、播放環境；所有差異都用「保留／改變／未知」標記，再決定哪些差異必須向觀眾公開。",
+    "task": "挑一件影像或聲音作品，製作一頁四層版本卡，列出至少 8 個技術差異，並寫出 80 字觀眾版版本說明。",
+    "training": "15 分鐘辨識原始媒材；20 分鐘追查現有拷貝；20 分鐘測試不同螢幕、投影與聲音設備；20 分鐘標記不可逆差異；15 分鐘重寫標籤，禁止只寫「數位檔」。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA",
+      "title": "MoMA｜It’s Alive! An Afternoon with Jeff Scher",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "MoMA 於 2026 年 11 月 11 日安排超過百部 Jeff Scher 短片，官方說明涵蓋手繪、混合媒材、再利用 16mm／35mm、顏料與轉描，節目同時列出類比與 DCP 放映格式。",
+      "references": [
+        "https://www.moma.org/calendar/events/11364"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDcvN3JsOXRmam8xY19TY3JlZW5fU2hvdF8yMDI2XzEwXzA3X2F0XzEuMzYuNDhfUE0ucG5nIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/Screen%20Shot%202026-10-07%20at%201.36.48%20PM.png?sha=ca5a6b59d6051383",
+          "caption": "Jeff Scher，《Garden of Regrets》，USA，1994。",
+          "credit": "MoMA 官方活動影像；攝影者／個別影像版權未標示",
+          "sourceUrl": "https://www.moma.org/calendar/events/11364",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 同一部動畫換了載體還是同一件作品嗎？用四層版本表拆開保存與展示\n\n【來源事實】\nMoMA 的 Jeff Scher 節目於 2026 年 11 月 11 日放映逾百部短片；官方列出手繪、混合媒材、再利用 16mm／35mm、顏料與轉描等技法，並同時出現類比與 DCP 格式。\n\n【策展推論】\n只寫作品名稱與年份不足以交代觀眾實際看到的版本。把來源媒材、展示拷貝與播放系統拆開，可讓保存與策展決策被檢查。\n\n【原創模擬】\n四層版本卡與 8 項差異清單是原創訓練工具，不是 MoMA 官方保存流程。\n\n查證日期：2026-11-11"
+  },
+  {
+    "id": "daily-2026-11-11-participation",
+    "date": "2026-11-11",
+    "category": "國際民眾參與實作",
+    "lens": "參與倫理｜感恩、退出權與共同作品的編輯治理",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "National Gallery Nights: Gratitude",
+      "url": "https://www.nga.gov/calendar/national-gallery-nights-gratitude",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "邀請大家表達感謝，如何避免參與活動變成強迫正向？",
+    "summary": "把參與者的匿名、保留、撤回與不表態權寫進活動規則，讓共同創作不以公開情緒作為入場代價。",
+    "questions": [
+      "誰可能因悲傷、憤怒或關係壓力而不願表達感謝？",
+      "參與者可以匿名、跳過或只觀看嗎？",
+      "活動是否暗示正向情緒比複雜經驗更值得被看見？",
+      "寫下的內容會被誰閱讀、拍攝、編輯與保存？",
+      "參與者能否在展示前或展後撤回自己的貢獻？",
+      "共同作品的排序、刪除與再製權由誰掌握？",
+      "活動如何處理涉及私人關係、創傷或敏感資訊的內容？",
+      "沒有留下文字的人是否仍被視為完整參與者？",
+      "活動結束後，成果會回到參與者手中還是只成為機構宣傳素材？",
+      "我們能否讓感謝與質疑、哀悼、未完成同時存在？"
+    ],
+    "strategy": "採用「四種參與入口」：公開署名、匿名貢獻、私密帶走、只觀看；入口旁清楚說明拍攝、保存、編輯、撤回與再利用規則，並預留不必正向表態的內容區。",
+    "task": "把一個共同留言或拼貼活動改成四入口版本，寫出 120 字權利告知，並用 3 位不同情境的參與者做退出流程測試。",
+    "training": "20 分鐘列出活動要求參與者交出的情緒、資料與勞動；20 分鐘設計匿名與撤回；20 分鐘模擬敏感內容；20 分鐘檢查成果編輯權；10 分鐘刪除所有帶有道德壓力的提示語。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區 National Gallery of Art",
+      "title": "National Gallery Nights: Gratitude",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "National Gallery of Art 公布 2026 年 11 月 12 日 18:00–21:00 的 Gratitude 夜間活動，包含感謝信物、共同馬賽克、詩、藝術與舞蹈，入場採抽籤制度。",
+      "references": [
+        "https://www.nga.gov/calendar/national-gallery-nights-gratitude"
+      ],
+      "photos": [
+        {
+          "url": "https://api.nga.gov/iiif/2419a265-6673-48c5-9498-1a1daad7d69b__4000/full/!2560,1440/0/default.jpg",
+          "caption": "National Gallery Nights: Gratitude 官方活動影像。",
+          "credit": "National Gallery of Art；攝影者未標示",
+          "sourceUrl": "https://www.nga.gov/calendar/national-gallery-nights-gratitude",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 邀請大家表達感謝，如何避免參與活動變成強迫正向？\n\n【來源事實】\nNational Gallery of Art 公布 2026 年 11 月 12 日的 Gratitude 夜間活動，內容包含感謝信物、共同馬賽克、詩、藝術與舞蹈，入場採抽籤。\n\n【策展推論】\n以感恩為主題的參與活動可能讓不願公開情緒的人感到被排除。參與設計需把匿名、只觀看、撤回與不正向表態視為正式權利。\n\n【原創模擬】\n四種參與入口與退出流程測試是原創模擬方案，不代表 National Gallery of Art 現場既有流程。\n\n查證日期：2026-11-11"
+  },
+  {
+    "id": "daily-2026-11-11-family",
+    "date": "2026-11-11",
+    "category": "親子觀展訓練",
+    "lens": "材料教育｜讓重量、阻力、聲音與接合先於成品",
+    "source": {
+      "name": "Museum of Contemporary Art Chicago",
+      "title": "Family Day | Knock on Wood",
+      "url": "https://mcachicago.org/events/family-day-knock-on-wood/",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "親子活動一定要完成作品嗎？先讓材料帶孩子提出問題",
+    "summary": "把「做出像樣成品」改成觀察材料反應，讓孩子從重量、紋理、聲音與接合失敗建立自己的推理。",
+    "questions": [
+      "孩子先注意到材料的重量、溫度、氣味、聲音還是表面？",
+      "成人是否太快示範唯一正確的做法？",
+      "材料可以被彎、疊、敲、連接或拆解到什麼程度？",
+      "哪一次失敗最能讓孩子看見材料的限制？",
+      "孩子的問題是否比完成品更值得被記錄？",
+      "活動是否容許不同年齡與身體能力用不同方式參與？",
+      "工具與材料的安全規則是否清楚但不過度控制？",
+      "成人能否只描述看到的現象，而不立即評分好壞？",
+      "沒有做出可帶走物件的孩子，仍能說出自己發現了什麼嗎？",
+      "展後如何把材料觀察延伸到家中或街道，而不必購買新材料？"
+    ],
+    "strategy": "使用「四感—三動作—一發現」卡：先記錄重量、紋理、聲音、溫度，再自由選擇彎、敲、接三種動作，最後由孩子說出一個出乎意料的發現；成人只追問證據。",
+    "task": "用紙板、木片或回收材料設計 30 分鐘無成品任務，記錄孩子提出的 5 個問題與成人忍住沒有代答的 3 個時刻。",
+    "training": "10 分鐘安靜摸材；10 分鐘測試三種動作；5 分鐘畫下材料如何改變；5 分鐘孩子口述發現。成人全程避免「應該做成什麼」與示範成品。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "芝加哥 Museum of Contemporary Art Chicago",
+      "title": "MCA Chicago Family Day | Knock on Wood",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "MCA Chicago 公布 2026 年 11 月 14 日 11:00–15:00 Family Day，活動以 Kenzi Shiokava 與 Mike Cloud 的創作為材料探索靈感，活動參與者免費入場並提供 ASL。",
+      "references": [
+        "https://mcachicago.org/events/family-day-knock-on-wood/"
+      ],
+      "photos": [
+        {
+          "url": "https://mcachicago.org/wp-content/uploads/2026/07/Nov-1600x900.jpg",
+          "caption": "MCA Chicago Family Day 官方活動影像：孩子在滿佈藍色書寫的空間地面創作。",
+          "credit": "Museum of Contemporary Art Chicago；攝影者未標示",
+          "sourceUrl": "https://mcachicago.org/events/family-day-knock-on-wood/",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 親子活動一定要完成作品嗎？先讓材料帶孩子提出問題\n\n【來源事實】\nMCA Chicago 的 2026 年 11 月 14 日 Family Day 以 Kenzi Shiokava 與 Mike Cloud 的作品啟發材料探索；官方頁面標示參與者免費入場並提供 ASL。\n\n【策展推論】\n若活動把可帶走的成品當成唯一成果，成人容易接管決策。以材料反應為中心，可把注意力轉向孩子的觀察、假設與修正。\n\n【原創模擬】\n四感—三動作—一發現卡是原創家庭觀展訓練，不是 MCA 官方教案。\n\n查證日期：2026-11-11"
+  },
+  {
+    "id": "daily-2026-11-11-life",
+    "date": "2026-11-11",
+    "category": "人生策展課題",
+    "lens": "不確定性治理｜制度沉默、可逆行動與支持網",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "A Gentle Creature",
+      "url": "https://www.moma.org/calendar/events/11358",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方放映頁"
+    },
+    "title": "當制度沒有回答、重要的人又失聯時，怎麼不讓未知吞掉全部生活？",
+    "summary": "把已知事實、制度沉默、最壞推測與下一個可逆行動分開，讓焦慮不再冒充證據，也讓求助有具體入口。",
+    "questions": [
+      "我目前真正知道的事實有哪些，來源各是什麼？",
+      "哪些只是因為對方未回應而產生的推測？",
+      "制度要求我完成哪些程序，哪些要求其實不清楚？",
+      "我能留下哪些書面紀錄，避免每次都從頭說明？",
+      "下一個可逆、低風險且能增加資訊的行動是什麼？",
+      "哪些事情必須由專業人士、法律援助或機構申訴處理？",
+      "誰可以陪我打電話、整理文件或在情緒失控時接手？",
+      "我為自己設定的責任是否超過了實際控制範圍？",
+      "每天要保留哪一段時間不追查，讓身體恢復？",
+      "如果七天仍無進展，我的升級路徑與安全界線是什麼？"
+    ],
+    "strategy": "建立「四格不確定性板」：已知、未回覆、推測、下一步；所有行動必須能增加資訊、保留證據或擴大支持，並設定每日追查上限與七日升級節點。",
+    "task": "用 45 分鐘整理一件懸而未決的事：列 5 個已知事實、3 個未知、2 個可逆行動、1 位可陪同的人，並把下一次追蹤時間寫進行事曆。",
+    "training": "15 分鐘只寫可驗證事實；10 分鐘把推測移到另一欄；10 分鐘選一個能增加資訊的行動；5 分鐘建立求助名單；5 分鐘設定停止追查的時間界線。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "法國／德國／立陶宛",
+      "location": "紐約 MoMA 放映；電影故事背景為俄羅斯",
+      "title": "Sergei Loznitsa｜A Gentle Creature",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "MoMA 於 2026 年 11 月 11 日放映 Sergei Loznitsa 2017 年電影《A Gentle Creature》。官方簡介描述一名女子因寄給遭錯誤起訴的丈夫之包裹被退回，而踏入官僚體系追查其命運。",
+      "references": [
+        "https://www.moma.org/calendar/events/11358"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDkvMTEvNGhwN2ZhbXl5Y19BX0dFTlRMRV9DUkVBVFVSRV9hZGRpdGlvbmFsX3N0aWxsXzVfU2xvdF9NYWNoaW5lX2pwZy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSA3NzV4NTI1XiAtZ3Jhdml0eSBDZW50ZXIgLWNyb3AgNzc1eDUyNSswKzAiXV0/A%20GENTLE%20CREATURE%20additional%20still%205%20-%20%C2%A9Slot%20Machine_jpg.jpg?sha=ee1266336685ec83",
+          "caption": "《A Gentle Creature》（КРОТКАЯ），2017，Sergei Loznitsa 導演，電影劇照。",
+          "credit": "Courtesy Slot Machine",
+          "sourceUrl": "https://www.moma.org/calendar/events/11358",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 當制度沒有回答、重要的人又失聯時，怎麼不讓未知吞掉全部生活？\n\n【來源事實】\nMoMA 於 2026 年 11 月 11 日放映《A Gentle Creature》。官方簡介中，女子因寄給遭錯誤起訴丈夫的包裹被退回，進入官僚體系追查丈夫命運。\n\n【策展推論】\n制度沉默容易讓推測冒充事實。將已知、未回覆、推測與下一步分開，可以保留判斷力，但不能取代法律、醫療或安全專業協助。\n\n【原創模擬】\n四格不確定性板與七日升級節點是人生策展原創模擬，不是電影官方建議，也不是專業法律或心理治療方案。\n\n查證日期：2026-11-11"
   }
 ]
