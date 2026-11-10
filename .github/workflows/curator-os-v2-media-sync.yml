@@ -1,0 +1,33 @@
+name: CURATOR OS V2 image and international signals refresh
+on:
+  schedule:
+    - cron: '30 21 * * *' # 05:30 Asia/Taipei, after 04:00 curator automation
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: curator-os-v2-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Update image previews and unverified international news leads
+        run: python scripts/refresh-v2.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name "curator-os-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily-latest.json data/daily-media.json data/auto-signals.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh CURATOR OS V2 daily images and international signals"
+            git pull --rebase origin main
+            git push origin main
+          fi
