@@ -27152,5 +27152,296 @@
     "realConstraints": "情緒與身體狀態每日不同；短期練習無法直接推論長期心理或健康成效。",
     "leverage": "五分鐘驚奇日誌：看見一個細節、提出一個問題、記下下一次觀察點。",
     "sourceFact": "美國國家藝廊公告 2026 年 11 月 13 日 14:00–15:30 舉行 Finding Awe: Guadalupe Maravilla’s Retablos，以藝術家《January 1984 Retablo》及《Bless You Magic Flying Woman Retablo》為慢觀看對象，邀參與者觀察、分享並將驚奇練習帶回日常。"
+  },
+  {
+    "id": "daily-2026-11-14-curator",
+    "date": "2026-11-14",
+    "category": "專業策展人課題",
+    "lens": "公民基礎設施｜從建築形式轉向集體生活的可驗證關係",
+    "source": {
+      "name": "Sharjah Architecture Triennial",
+      "title": "SAT03 Opening Week Programme",
+      "url": "https://www.sharjaharchitecture.org/pages/opening-week-programme",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當建築展把「集體生活」放在主題中心，策展如何證明基礎設施真的由人共同使用？",
+    "summary": "把宏大的公共性主張拆成使用者、資源、決策、維護與衝突五種證據，避免只用「社群」一詞替空間加上倫理光環。",
+    "questions": [
+      "展覽所說的集體生活，具體包含哪些人，而哪些人仍然不在名單裡？",
+      "作品改變的是空間形式、使用方式、資源取得，還是決策權？",
+      "誰能在展期中提出修改，誰只能被訪談或被拍照？",
+      "策展文本中的「基礎設施」是建築物、服務網絡，還是長期關係？",
+      "每項公共性主張可以用哪一個可觀察行為驗證？",
+      "短期展覽如何交代維護、能源、管理與展後責任？",
+      "參與者投入的時間、知識與勞動得到什麼回報？",
+      "不同群體需求衝突時，策展如何公開取捨而不是假裝共識？",
+      "哪一項成果在展覽撤場後仍會被地方使用？",
+      "如果拿掉「集體、韌性、照護」等詞，展覽還剩下哪些可證明的公共作用？"
+    ],
+    "strategy": "建立 Civic Infrastructure Evidence Map：逐項列出使用者、資源流、決策入口、維護者與衝突處理，再把每個策展主張連到一項現場證據與一項展後責任。",
+    "task": "選一個公共藝術或空間案，90 分鐘內畫出五層證據圖；刪除三句沒有使用者、時間或行為證據支撐的公共性宣稱，改寫成可驗證的小主張。",
+    "training": "前 20 分鐘圈出文本中所有「公共、社群、照護、韌性、共享」；接著 35 分鐘為每個詞補上誰、何時、如何與誰維護；再用 20 分鐘模擬兩個需求衝突；最後 15 分鐘寫出撤場後仍有效的最低承諾。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "阿拉伯聯合大公國",
+      "location": "沙迦多處場域",
+      "title": "SAT03: Architecture Otherwise—Building Civic Infrastructure for Collective Futures",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "第三屆 Sharjah Architecture Triennial 於 2026 年 11 月 14 日開幕，開幕週至 11 月 19 日；由 Vyjayanthi Rao 策展、Tau Tavengwa 任協同策展人，35 位參與者透過對談、工作坊、放映、導覽與公共行動討論建築如何支持集體生活。官方說明開幕活動免費對公眾開放。",
+      "references": [
+        "https://www.sharjaharchitecture.org/pages/opening-week-programme",
+        "https://www.sharjaharchitecture.org/pages/media/releases"
+      ],
+      "photos": [
+        {
+          "url": "https://www.sharjaharchitecture.org/public//uploads/pages/landscape/images/d74258c8b78886356a37e08d199d38f5.jpg",
+          "caption": "SAT03 Opening Week Programme 官方頁面主圖，呈現開幕週公共活動脈絡。",
+          "credit": "Sharjah Architecture Triennial；官方頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.sharjaharchitecture.org/pages/opening-week-programme",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 當建築展把「集體生活」放在主題中心，策展如何證明基礎設施真的由人共同使用？\n\n【來源事實】\nSAT03 於 2026 年 11 月 14 日開幕，35 位參與者透過對談、工作坊、放映、導覽與公共行動討論建築如何支持集體生活；開幕週免費對公眾開放。\n\n【策展推論】\n以集體生活為命題並不自動代表權力共享。策展需要提供使用、決策、維護與衝突處理的證據，才能把公共性從形容詞變成可檢查的制度。\n\n【原創模擬】\nCivic Infrastructure Evidence Map 與五層證據圖是原創方法，不是 SAT03 官方評估工具。\n\n查證日期：2026-11-14"
+  },
+  {
+    "id": "daily-2026-11-14-thinking",
+    "date": "2026-11-14",
+    "category": "策展思考訓練",
+    "lens": "轉譯漂移｜把誤差、詮釋與共同創作分開",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "In a Dream We Spoke Through a Wall",
+      "url": "https://www.moma.org/calendar/events/11925",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "夢被反覆轉述後，哪些變化是誤差，哪些反而是共同創作？",
+    "summary": "以版本鏈記錄每次轉述增加、刪除與改寫的內容，讓策展人分辨失真、詮釋與集體生成，而不是追求不存在的單一原稿。",
+    "questions": [
+      "第一個版本裡有哪些可核對的具體形象、動作或情緒？",
+      "第二位轉述者刪除了什麼，又補入了什麼？",
+      "哪一項變化來自語言限制，而不是理解錯誤？",
+      "誰有權判定某個版本已經偏離原意？",
+      "原作者是否希望保留曖昧，還是需要精確傳達？",
+      "文字轉成圖像時，哪些細節會被放大或消失？",
+      "共同創作是否保留每位參與者的修改痕跡與署名？",
+      "策展標籤應呈現最後版本，還是呈現版本之間的差異？",
+      "觀眾能否回到來源，理解每次轉譯發生的條件？",
+      "如果漂移本身成為作品，最低限度仍需保留哪些倫理邊界？"
+    ],
+    "strategy": "使用 Translation Drift Ledger：每次轉述都標記保留、刪除、增加、誤讀與有意改寫，並記錄修改者、媒介、時間與是否經原作者確認。",
+    "task": "請三個人依序把一段 80 字夢境從文字轉為圖像、再轉回文字；比較四個版本，製作一張漂移表並挑出一項值得保留的意外變化。",
+    "training": "先用 15 分鐘寫原始夢境；三輪轉譯各 10 分鐘且不得看前兩版；用 30 分鐘逐句標色比對保留、遺失與新增；最後 15 分鐘分別寫出「忠實檔案版」與「共同創作版」的展示說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA Paula and James Crown Creativity Lab",
+      "title": "In a Dream We Spoke Through a Wall",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "MoMA 於 2026 年 11 月 14 日舉辦 Chang Yuchen 帶領的寫作工作坊，參與者以文字、圖像、口述與切線式翻譯轉錄夢境，探索故事在反覆分享中如何改變並產生新意義；活動免費但需預約，建議成人與青少年參加。",
+      "references": [
+        "https://www.moma.org/calendar/events/11925"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTEvMDUvOGIxNGZmYTg0ZV9zcGVha190aHJvdWdoLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/speak%20through.jpg?sha=9100fe8f14281ce4",
+          "caption": "《In a Dream We Spoke Through a Wall》官方活動影像。",
+          "credit": "Image courtesy of the artist；The Museum of Modern Art",
+          "sourceUrl": "https://www.moma.org/calendar/events/11925",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 夢被反覆轉述後，哪些變化是誤差，哪些反而是共同創作？\n\n【來源事實】\nMoMA 的工作坊以 Chang Yuchen 的互動裝置為靈感，透過文字、圖像、口述與切線式翻譯轉錄夢境，探索故事反覆分享後的改變。\n\n【策展推論】\n轉譯不必只在忠實與背叛之間二選一；只要版本、修改者與確認權清楚，漂移也能成為共同創作的證據。\n\n【原創模擬】\nTranslation Drift Ledger 與四版漂移實驗是原創訓練，不是 MoMA 官方工作坊紀錄格式。\n\n查證日期：2026-11-14"
+  },
+  {
+    "id": "daily-2026-11-14-participation",
+    "date": "2026-11-14",
+    "category": "國際民眾參與實作",
+    "lens": "開放工作室｜從低門檻製作走向可回應的公共對話",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Open Studio—Collage, Process, and Pattern",
+      "url": "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "開放工作室讓任何人進來做拼貼時，參與如何從材料體驗走向公共對話？",
+    "summary": "把自由製作拆成進入、選材、交換、回應與留存五個節點，讓參與者不只帶走成品，也能看見自己的選擇如何進入共同知識。",
+    "questions": [
+      "陌生人進場後，能否在一分鐘內理解自己可以做什麼？",
+      "材料選擇是否暗示唯一美感，還是真正允許不同方向？",
+      "回收印刷物原本的圖像與權力關係有被討論嗎？",
+      "藝術家示範提供鷹架，還是變成所有人模仿的標準答案？",
+      "參與者能否選擇只觀察、交談或退出，而不必完成作品？",
+      "個人作品之間如何產生交換、比較或共同編排？",
+      "現場對話由誰記錄，誰有權修正紀錄？",
+      "活動結束後，參與成果被帶走、展示、掃描或回收的規則清楚嗎？",
+      "機構從參與者的材料實驗學到了什麼，會在哪裡回應？",
+      "下一次活動如何根據今天的實際行為而不是滿意度調整？"
+    ],
+    "strategy": "設計 Open Studio Response Loop：入口提供三種參與強度；桌面設置材料來源卡與交換提示；出口讓參與者選擇帶走、匿名留存或共同展示；館方於 14 日內公開三項觀察與下一次調整。",
+    "task": "把一場自由拼貼活動畫成五節點流程，為每一節點補上一個選擇權與一個可觀察證據；最後寫出不以作品數量作為成效的三項指標。",
+    "training": "20 分鐘拆解入口與材料；20 分鐘模擬只觀看、短暫參與、深度共作三種路徑；25 分鐘設計成果授權與撤回機制；15 分鐘寫館方回應模板；10 分鐘做無障礙與語言檢查。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Fifth Avenue Gallery 548",
+      "title": "Open Studio—Collage, Process, and Pattern",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "The Met 於 2026 年 11 月 14 日舉辦免費隨到隨做的 Open Studio，由藝術家雙人組 Ghost of a Dream 示範拼貼，參與者使用館方回收的印刷材料探索重複與圖案；活動並安排與館方專家的對話，採先到先參加。",
+      "references": [
+        "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/41en3b3l/2025_06_14_argenis_apolinario_met_photo_convening_3993.jpg?width=1920&quality=75&v=1dc1c1db3d7dcd0",
+          "caption": "參與者在 The Met 公共工作坊中進行拼貼創作。",
+          "credit": "Photo by Argenis Apolinario / The Metropolitan Museum of Art",
+          "sourceUrl": "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 開放工作室讓任何人進來做拼貼時，參與如何從材料體驗走向公共對話？\n\n【來源事實】\nThe Met 的 Open Studio 以 Ghost of a Dream 示範、回收印刷材料、自由拼貼與館方專家對談構成，活動免費但空間有限。\n\n【策展推論】\n低門檻製作有助於進入，但若沒有交換、授權、留存與館方回應，參與仍可能停在個人手作體驗。\n\n【原創模擬】\nOpen Studio Response Loop 與 14 日公開回應是原創參與設計，不代表 The Met 已採行此追蹤機制。\n\n查證日期：2026-11-14"
+  },
+  {
+    "id": "daily-2026-11-14-family",
+    "date": "2026-11-14",
+    "category": "親子觀展訓練",
+    "lens": "共同製書｜把親子合作從協助完成改成共同決策",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "Family Art Making: Exquisite Books",
+      "url": "https://www.moma.org/calendar/events/11823",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "親子共同製作一本書時，如何讓孩子決定關係，而不是只完成大人設計的版型？",
+    "summary": "以輪流選物、改變規則與互相續頁取代大人先畫好答案，讓親子製書留下兩種視角協商後的痕跡。",
+    "questions": [
+      "今天這本書的第一個規則由孩子還是成人提出？",
+      "材料擺放是否讓孩子能自己選擇，而不是等待成人遞給？",
+      "成人介入是在處理安全與技術，還是在修正孩子的美感？",
+      "孩子能否改變頁面順序、尺寸或閱讀方向？",
+      "兩人各自負責的頁面是否保留可辨識的差異？",
+      "遇到彼此看法不同時，是誰先說明理由？",
+      "熟悉物件被轉成奇怪角色時，孩子如何解釋新的關係？",
+      "作品未完成或故意留白，是否也被允許？",
+      "共作結束後，孩子能否用自己的話為書命名與介紹？",
+      "下次再做一本書，哪一項決定應該完全交給孩子？"
+    ],
+    "strategy": "使用 Child-First Exquisite Book Protocol：孩子先選一物與一條規則，成人只能續接而不能覆蓋；第二輪交換角色；最後由孩子決定書名、頁序與是否公開。",
+    "task": "準備八種日常紙材，與孩子完成一本六頁書：三頁孩子先做、三頁成人先做，每頁由另一人續接；記錄三次意見不同及最後如何決定。",
+    "training": "前 10 分鐘只觀察材料；接著兩輪各 15 分鐘輪流開頁與續頁；用 10 分鐘打亂頁序讓孩子重編；再用 10 分鐘錄下孩子的一分鐘導覽；最後 5 分鐘由成人寫下自己忍住沒有修正的三件事。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA Education Center",
+      "title": "Family Art Making: Exquisite Books",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "MoMA 於 2026 年 11 月 14 日舉辦 5 至 12 歲兒童與成人共同參與的隨到隨做工作坊，受《The Surrealist Book: Tomorrow Lives in Mirrors》啟發，以遊戲提示把熟悉物件轉成意外內容並共同製書；系列與 Center for Book Arts 合作。",
+      "references": [
+        "https://www.moma.org/calendar/events/11823"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDcvMjE1dGY1d2kyM18yNjA4MTRfbW9tYV9MYW5kRV9ha3Jhdml0el8xNzguanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/260814_moma_LandE_akravitz_178.jpg?sha=4cd3d034056c4f6e",
+          "caption": "孩子在 MoMA 親子藝術工作桌使用彩色紙材與工具。",
+          "credit": "Photo: Alycia Kravitz / The Museum of Modern Art",
+          "sourceUrl": "https://www.moma.org/calendar/events/11823",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 親子共同製作一本書時，如何讓孩子決定關係，而不是只完成大人設計的版型？\n\n【來源事實】\nMoMA 的 Family Art Making 邀請 5 至 12 歲兒童與成人共同製書，使用遊戲提示把日常物件轉成意外內容；活動與 Center for Book Arts 合作。\n\n【策展推論】\n親子共作不等於共同決策。若大人決定版型、順序與完成標準，孩子仍只是執行者；輪流設定規則能保留兩種視角。\n\n【原創模擬】\nChild-First Exquisite Book Protocol 與六頁輪流續作是原創親子訓練，不是 MoMA 官方活動腳本。\n\n查證日期：2026-11-14"
+  },
+  {
+    "id": "daily-2026-11-14-life",
+    "date": "2026-11-14",
+    "category": "人生策展課題",
+    "lens": "速寫本實踐｜讓日常紀錄保留未完成的思考",
+    "source": {
+      "name": "Design Museum",
+      "title": "Workshop: Develop your Sketchbook Practice",
+      "url": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當影像可以瞬間生成，你的速寫本還要保存什麼只有自己能看見的東西？",
+    "summary": "把速寫本從作品預備稿改成注意力檔案，記錄觀察、猶豫、失敗與改變，使未完成痕跡成為理解自己如何思考的證據。",
+    "questions": [
+      "今天哪一個細節是拍照容易記住、但手畫才會真正看見的？",
+      "你的頁面保存的是物件外形，還是你觀看它的順序？",
+      "哪一筆錯誤透露出原本的假設？",
+      "如果不准撕掉失敗頁，你會如何在旁邊回應它？",
+      "文字、線條、色塊與貼紙各自負責記錄什麼？",
+      "你是否只在有漂亮成果時才願意翻開速寫本？",
+      "每週固定十分鐘與等待靈感相比，哪一種更能留下真實進展？",
+      "引用照片或他人作品時，來源如何留在頁面上？",
+      "三個月後回看，什麼標記能讓你理解當時的限制與情緒？",
+      "如果速寫本永不公開，你仍然願意誠實留下哪些尚未解決的問題？"
+    ],
+    "strategy": "建立 Attention Trace Page：每頁固定留下看見、假設、試畫、失敗、下一步五格；不以完成度評分，只檢查是否留下思考發生的順序。",
+    "task": "連續七天每天 12 分鐘完成一頁 Attention Trace；每天只選一個日常物件，至少保留一次塗改、一次文字註記與一個尚未回答的問題。",
+    "training": "2 分鐘凝視不畫；4 分鐘連續線觀察；2 分鐘寫出原本假設；2 分鐘用另一媒材修正；最後 2 分鐘標記明天要再看的細節。七天後只比較觀看方式，不挑最好看的一頁。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦 Design Museum",
+      "title": "Workshop: Develop your Sketchbook Practice",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "Design Museum 於 2026 年 11 月 14 至 15 日舉辦兩日速寫本工作坊，由 Trevor Flynn 與 Peter Ayres 帶領，以攝影來源與館藏物件練習線條、明暗、質地、觀察、記憶及日常視覺日誌；官方將速寫本定位為在 AI 快速生成影像時仍能測試與發展想法的類比空間。",
+      "references": [
+        "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice"
+      ],
+      "photos": [
+        {
+          "url": "https://beta.designmuseum.org/image/ef0f1cc7-dbbc-4202-bedd-8c2ac20db38f?width=980&height=606",
+          "caption": "《Develop your Sketchbook Practice》官方頁面速寫與觀察練習參考影像 1。",
+          "credit": "Design Museum 官方活動頁；頁末標示背景影像 courtesy of Peter Ayres and Trevor Flynn，未逐張列攝影者",
+          "sourceUrl": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+          "verifiedAt": "2026-11-14"
+        },
+        {
+          "url": "https://beta.designmuseum.org/image/30b165c8-b815-4ddc-9e9e-1fd2b1da7b6d?width=980&height=606",
+          "caption": "《Develop your Sketchbook Practice》官方頁面速寫與觀察練習參考影像 2。",
+          "credit": "Design Museum 官方活動頁；頁末標示背景影像 courtesy of Peter Ayres and Trevor Flynn，未逐張列攝影者",
+          "sourceUrl": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+          "verifiedAt": "2026-11-14"
+        },
+        {
+          "url": "https://beta.designmuseum.org/image/55db7362-f6b4-40d1-ace8-59e967b47f56?width=980&height=606",
+          "caption": "《Develop your Sketchbook Practice》官方頁面速寫與觀察練習參考影像 3。",
+          "credit": "Design Museum 官方活動頁；頁末標示背景影像 courtesy of Peter Ayres and Trevor Flynn，未逐張列攝影者",
+          "sourceUrl": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+          "verifiedAt": "2026-11-14"
+        },
+        {
+          "url": "https://beta.designmuseum.org/image/a2468255-f7ef-43ed-8df4-902760e78ade?width=980&height=606",
+          "caption": "《Develop your Sketchbook Practice》官方頁面速寫與觀察練習參考影像 4。",
+          "credit": "Design Museum 官方活動頁；頁末標示背景影像 courtesy of Peter Ayres and Trevor Flynn，未逐張列攝影者",
+          "sourceUrl": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+          "verifiedAt": "2026-11-14"
+        },
+        {
+          "url": "https://beta.designmuseum.org/image/4db15fea-3d50-49bd-9339-2f54157e39f8?width=980&height=606",
+          "caption": "《Develop your Sketchbook Practice》官方頁面速寫與觀察練習參考影像 5。",
+          "credit": "Design Museum 官方活動頁；頁末標示背景影像 courtesy of Peter Ayres and Trevor Flynn，未逐張列攝影者",
+          "sourceUrl": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+          "verifiedAt": "2026-11-14"
+        },
+        {
+          "url": "https://beta.designmuseum.org/image/0e394cfa-d5ab-4e29-b9e8-c95643ee2643?width=980&height=606",
+          "caption": "《Develop your Sketchbook Practice》官方頁面速寫與觀察練習參考影像 6。",
+          "credit": "Design Museum 官方活動頁；頁末標示背景影像 courtesy of Peter Ayres and Trevor Flynn，未逐張列攝影者",
+          "sourceUrl": "https://beta.designmuseum.org/whats-on/talks-courses-and-workshops/workshop-develop-your-sketchbook-practice",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 當影像可以瞬間生成，你的速寫本還要保存什麼只有自己能看見的東西？\n\n【來源事實】\nDesign Museum 的兩日工作坊以館藏物件與攝影來源練習觀察、線條、明暗、質地、記憶與視覺日誌，並將速寫本描述為 AI 時代仍可測試與發展想法的類比空間。\n\n【策展推論】\n速寫本的不可取代性不只在手繪風格，而在它保存注意力、錯誤、猶豫與修正的時間順序。\n\n【原創模擬】\nAttention Trace Page 與七天十二分鐘練習是原創人生策展工具，不是 Design Museum 官方課程格式。\n\n查證日期：2026-11-14"
   }
 ]
