@@ -970,6 +970,33 @@ window.CuratorOS={SYS:SYS,SPACES:SPACES,EX:EX,LESSONS:LESSONS,LIB:LIB,getProject
       "case": "Museum of Chinese in America｜Chinese Arts Workshop Series: Sip & Brush – Calligraphy",
       "source": "https://www.mocanyc.org/event/sip_brush_calligraphy_november_2026/",
       "notion": "https://app.notion.com/p/41534a20271a81beaa32e4ad41cc5c38"
+    },
+    "daily-2026-11-13-curator": {
+      "case": "National Gallery of Art｜Vital Signs: The Visual Culture of Maya Writing",
+      "source": "https://www.nga.gov/calendar/book-talk-vital-signs-visual-culture-maya-writing?evd=202611132000",
+      "notion": "https://app.notion.com/p/41734a20271a8114a1e7f2f509ea4f65"
+    },
+    "daily-2026-11-13-thinking": {
+      "case": "MCA Chicago｜Lit & Luz Live Magazine Show",
+      "source": "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/",
+      "notion": "https://app.notion.com/p/41734a20271a8143a190edac1a7d714c"
+    },
+    "daily-2026-11-13-participation": {
+      "image": "https://creativetime.org/wp-content/uploads/2010/08/2010_KeyToTheCity.jpg",
+      "case": "Creative Time｜Key to the City (2010)",
+      "source": "https://creativetime.org/projects/key-to-the-city/",
+      "notion": "https://app.notion.com/p/41734a20271a8106ab49e5b00ac38b03"
+    },
+    "daily-2026-11-13-family": {
+      "image": "https://mcachicago.org/wp-content/uploads/2026/07/Nov-900x675.jpg",
+      "case": "MCA Chicago｜Family Day: Knock on Wood（2025 系列檔案照）",
+      "source": "https://mcachicago.org/whats-on/events/family-day-knock-on-wood/",
+      "notion": "https://app.notion.com/p/41734a20271a812e95bae2205a62a082"
+    },
+    "daily-2026-11-13-life": {
+      "case": "National Gallery of Art｜Finding Awe: Guadalupe Maravilla’s Retablos",
+      "source": "https://www.nga.gov/calendar/finding-awe/finding-awe-guadalupe-maravillas-retablos?evd=202611131900",
+      "notion": "https://app.notion.com/p/41734a20271a81188092e0b20e7106d0"
     }
   };
   var dailyShown=[];
@@ -979,9 +1006,9 @@ window.CuratorOS={SYS:SYS,SPACES:SPACES,EX:EX,LESSONS:LESSONS,LIB:LIB,getProject
     var d=dates.find(function(date){return app.LIB.filter(function(x){return x.d===date&&x.id.startsWith('daily-');}).length>=5;})||dates[0];
     dailyShown=app.LIB.filter(function(x){return x.d===d&&x.id.startsWith('daily-');}).slice(0,5);
     $('#todayFiveDate').textContent=d?(d===t?'台灣日期 '+d+' · 今日五題':'最近完整日期 '+d+' · 等待新資料同步'):'尚未取得完整的每日資料';
-    $('#todayFive').innerHTML=dailyShown.map(function(x,i){var c=DAILY_CASES[x.id];return '<button class="daily-card" type="button" data-daily="'+esc(x.id)+'"><div class="daily-image">'+(c?'<img loading="lazy" src="'+safeUrl(c.image)+'" alt="'+esc(c.case)+' 相關實景或出版物影像">':'')+'<span>0'+(i+1)+'</span></div><div class="daily-content"><small>'+esc(x.c)+'</small><h4>'+esc(x.t)+'</h4><p>'+esc(x.s)+'</p><strong>閱讀十題與實作 ↗</strong></div></button>';}).join('')||'<p class="note">今日課題資料尚未載入。</p>';
+    $('#todayFive').innerHTML=dailyShown.map(function(x,i){var c=DAILY_CASES[x.id];return '<button class="daily-card" type="button" data-daily="'+esc(x.id)+'"><div class="daily-image">'+(c&&c.image?'<img loading="lazy" src="'+safeUrl(c.image)+'" alt="'+esc(c.case)+' 相關實景或出版物影像">':'')+'<span>0'+(i+1)+'</span></div><div class="daily-content"><small>'+esc(x.c)+'</small><h4>'+esc(x.t)+'</h4><p>'+esc(x.s)+'</p><strong>閱讀十題與實作 ↗</strong></div></button>';}).join('')||'<p class="note">今日課題資料尚未載入。</p>';
   }
-  function openDaily(id){var x=app.LIB.find(function(z){return z.id===id;});if(!x)return;var c=DAILY_CASES[x.id];var d=document.createElement('dialog');d.className='daily-modal';d.innerHTML='<article><button type="button" class="x" data-close-daily aria-label="關閉">×</button><p class="eyebrow">'+esc(x.d)+' / '+esc(x.c)+'</p><h2>'+esc(x.t)+'</h2>'+(c?'<img class="daily-cover" src="'+safeUrl(c.image)+'" alt="'+esc(c.case)+' 相關影像">':'')+'<p>'+esc(x.s)+'</p><h3>十個關鍵問題</h3><ol>'+(x.q||[]).map(function(q){return '<li>'+esc(q)+'</li>';}).join('')+'</ol>'+(x.st?'<div class="task"><b>策略</b>'+esc(x.st)+'</div>':'')+(x.k?'<div class="task"><b>今日任務</b>'+esc(x.k)+'</div>':'')+(x.tr?'<div class="task"><b>訓練</b>'+esc(x.tr)+'</div>':'')+(c?'<div class="modal-links"><a href="'+safeUrl(c.source)+'" target="_blank" rel="noopener">案例官方來源 ↗</a><a href="'+safeUrl(c.notion)+'" target="_blank" rel="noopener">Notion 完整紀錄與照片 ↗</a></div>':'')+'<div class="row"><button class="btn" data-daily-use="'+esc(x.id)+'">帶入七步提案</button><button class="btn ghost" data-close-daily>關閉</button></div></article>';
+  function openDaily(id){var x=app.LIB.find(function(z){return z.id===id;});if(!x)return;var c=DAILY_CASES[x.id];var d=document.createElement('dialog');d.className='daily-modal';d.innerHTML='<article><button type="button" class="x" data-close-daily aria-label="關閉">×</button><p class="eyebrow">'+esc(x.d)+' / '+esc(x.c)+'</p><h2>'+esc(x.t)+'</h2>'+(c&&c.image?'<img class="daily-cover" src="'+safeUrl(c.image)+'" alt="'+esc(c.case)+' 相關影像">':'')+'<p>'+esc(x.s)+'</p><h3>十個關鍵問題</h3><ol>'+(x.q||[]).map(function(q){return '<li>'+esc(q)+'</li>';}).join('')+'</ol>'+(x.st?'<div class="task"><b>策略</b>'+esc(x.st)+'</div>':'')+(x.k?'<div class="task"><b>今日任務</b>'+esc(x.k)+'</div>':'')+(x.tr?'<div class="task"><b>訓練</b>'+esc(x.tr)+'</div>':'')+(c?'<div class="modal-links"><a href="'+safeUrl(c.source)+'" target="_blank" rel="noopener">案例官方來源 ↗</a><a href="'+safeUrl(c.notion)+'" target="_blank" rel="noopener">Notion 完整紀錄與照片 ↗</a></div>':'')+'<div class="row"><button class="btn" data-daily-use="'+esc(x.id)+'">帶入七步提案</button><button class="btn ghost" data-close-daily>關閉</button></div></article>';
     document.body.appendChild(d);d.addEventListener('click',function(e){if(e.target===d||e.target.closest('[data-close-daily]')){d.close();d.remove();return;}var b=e.target.closest('[data-daily-use]');if(b){app.useTopic(b.dataset.dailyUse);d.close();d.remove();}});d.showModal();
   }
   $('#todayFive').addEventListener('click',function(e){var b=e.target.closest('[data-daily]');if(b)openDaily(b.dataset.daily);});
