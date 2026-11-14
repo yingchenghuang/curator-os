@@ -27443,5 +27443,303 @@
       ]
     },
     "rawText": "# 當影像可以瞬間生成，你的速寫本還要保存什麼只有自己能看見的東西？\n\n【來源事實】\nDesign Museum 的兩日工作坊以館藏物件與攝影來源練習觀察、線條、明暗、質地、記憶與視覺日誌，並將速寫本描述為 AI 時代仍可測試與發展想法的類比空間。\n\n【策展推論】\n速寫本的不可取代性不只在手繪風格，而在它保存注意力、錯誤、猶豫與修正的時間順序。\n\n【原創模擬】\nAttention Trace Page 與七天十二分鐘練習是原創人生策展工具，不是 Design Museum 官方課程格式。\n\n查證日期：2026-11-14"
+  },
+  {
+    "id": "daily-2026-11-15-curator",
+    "date": "2026-11-15",
+    "category": "專業策展人課題",
+    "lens": "遺產與缺席｜在保存、再詮釋與未完成之間分配發言權",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "Saudade — Roundtable",
+      "url": "https://www.labiennale.org/en/agenda/saudade-roundtable",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當展覽為逝去藝術家安排對話，策展如何避免把「遺產」固定成單一版本？",
+    "summary": "把遺產拆成作品、檔案、關係、爭議與未完成願望五條版本線，讓保存者、同儕與後來觀眾都能指出差異，而非由展覽替逝者說出唯一結論。",
+    "questions": [
+      "這次展覽所說的「遺產」是作品全集、公共形象，還是仍在作用的方法？",
+      "逝去藝術家的哪些材料由本人留下，哪些是後人補寫？",
+      "誰有權決定哪些作品、信件與口述代表藝術家？",
+      "策展是否把不一致、撤回與未完成也保留下來？",
+      "同時代同儕的記憶與機構檔案衝突時，如何並置而不草率裁決？",
+      "新作品與歷史作品的對話，是延續方法還是借用名望？",
+      "家屬、合作者、研究者與公眾各自擁有哪些確認或修正權？",
+      "展場文字能否標示來源日期與版本，而不是用全知語氣？",
+      "觀眾如何看見遺產在不同文化與世代中的再詮釋？",
+      "如果五年後出現新檔案，這套敘事能否被公開更新？"
+    ],
+    "strategy": "建立 Legacy Version Map：把作品、檔案、關係、爭議與未完成事項分列，逐項標示來源、發言者、確定程度、反對版本與可更新條件。",
+    "task": "選一位已逝藝術家的展覽敘事，用 90 分鐘拆出至少三個相互矛盾的版本；把一段確定語氣改寫成可追溯、可更新的版本說明。",
+    "training": "20 分鐘盤點官方敘事；25 分鐘找出三種發言位置；20 分鐘畫版本差異；15 分鐘設計異議入口；最後 10 分鐘寫出新證據出現時的更新規則。",
+    "coreHypothesis": "若策展公開版本來源與修正機制，遺產就能保持複數而不被機構封存成單一形象。",
+    "underlyingNeed": "讓逝者的工作持續被理解，同時尊重不確定性與不同關係人的記憶。",
+    "realConstraints": "本人無法確認新詮釋；檔案不完整；家屬、機構與市場利益可能衝突。",
+    "leverage": "Legacy Version Map 可複用於回顧展、紀念展與館藏重整。",
+    "sourceFact": "La Biennale 於 2026 年 11 月 15 日舉辦 Saudade 圓桌，討論已逝藝術家遺產的不穩定意義，以及其作品與當代實踐並置時產生的「缺席的在場」。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利",
+      "location": "威尼斯 Arsenale, Sala d’Armi E",
+      "title": "Saudade — Roundtable",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "La Biennale 於 2026 年 11 月 15 日 11:00–12:40 舉辦圓桌；Patricia Ekpo、Océane Harati、Sarah Shin、Jo-ey Tang 發言，Siddhartha Mitter 主持，延續第 61 屆國際藝術展《In Minor Keys》對已逝藝術家的致意與遺產討論。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/saudade-roundtable",
+        "https://www.labiennale.org/en/agenda/saudade-roundtable"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7YXLLLyi",
+          "caption": "第 61 屆威尼斯國際藝術展 11 月 13–22 日表演與講座官方節目視覺，Saudade 圓桌列於此公共節目中。",
+          "credit": "La Biennale di Venezia；官方頁未逐張標示攝影者",
+          "sourceUrl": "https://www.labiennale.org/en/agenda/saudade-roundtable",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 當展覽為逝去藝術家安排對話，策展如何避免把「遺產」固定成單一版本？\n\n【來源事實】\nLa Biennale 於 2026 年 11 月 15 日舉辦 Saudade 圓桌，討論遺產的不穩定意義與「缺席的在場」。\n\n【策展推論】\n遺產不是一次完成的結論；策展若公開來源、異議與更新條件，才能避免由機構替逝者封存單一版本。\n\n【原創模擬】\nLegacy Version Map 與 90 分鐘版本差異練習是原創方法，不是 La Biennale 官方評估工具。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-15-thinking",
+    "date": "2026-11-15",
+    "category": "策展思考訓練",
+    "lens": "多元生成｜從可見性走向關係、資源與共同修正",
+    "source": {
+      "name": "Moldova Pavilion at La Biennale di Venezia",
+      "title": "Seeing or Sowing Plurality?",
+      "url": "https://www.labiennale.org/en/agenda/moldova-pavilion-seeing-or-sowing-plurality",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "看見多元與培養多元有什麼差別，展覽如何把差異變成持續關係？",
+    "summary": "把多元從名單比例改成資源、決策、互賴與修正權的長期配置，檢查展覽究竟只是展示差異，還是讓差異能繼續改變制度。",
+    "questions": [
+      "展覽目前只是讓不同身份出現，還是讓他們影響選題與資源？",
+      "誰被看見卻仍沒有決策權？",
+      "不同群體之間是否建立可持續的互賴，而非平行陳列？",
+      "預算、空間、宣傳與檔期如何在差異之間分配？",
+      "參與者能否反對策展分類並改寫自己的位置？",
+      "機構如何處理差異之間真實存在的衝突？",
+      "哪一段關係在展後仍有人負責維護？",
+      "多元指標是否只計算人數，而沒有記錄權力變化？",
+      "新的合作是否降低了下一次參與的門檻？",
+      "如果拿掉身份標籤，還能看到哪些具體制度改變？"
+    ],
+    "strategy": "建立 Plurality Cultivation Ledger：分別記錄可見性、資源、決策、互賴、修正與延續六欄，要求每一項多元主張至少連到兩欄可驗證變化。",
+    "task": "挑一個宣稱多元的展覽，列出五個被看見的群體；為每一群體補上資源、決策與展後延續證據，找出一個只有可見性、沒有權力的缺口。",
+    "training": "15 分鐘盤點名單；20 分鐘畫資源流；20 分鐘標示決策權；15 分鐘模擬衝突；10 分鐘設計修正入口；最後 10 分鐘寫出一項展後關係承諾。",
+    "coreHypothesis": "只有當差異獲得資源、決策與修正權，多元才會從被看見轉成可持續生成。",
+    "underlyingNeed": "讓代表性不止於形象，而能改變合作關係與制度。",
+    "realConstraints": "展期短、權力不對等、預算固定，且身份分類可能簡化個體。",
+    "leverage": "Plurality Cultivation Ledger 可用於參展名單、公共計畫與組織治理檢查。",
+    "sourceFact": "2026 年 11 月 15 日，摩爾多瓦館以 Seeing or Sowing Plurality? 公開討論 Pavel Brăila《On the Thousand and Second Night》；官方以「辨認多元」與「協助多元生長」的差異作為核心問題。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利／摩爾多瓦",
+      "location": "威尼斯 Santa Veneranda, Chiesa dei Santi Geremia e Lucia",
+      "title": "Moldova Pavilion: Seeing or Sowing Plurality?",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "2026 年 11 月 15 日 14:00–16:00 舉辦公開討論，Cosmin Costinaș、Nina Tabassomi 與 Ovidiu Țichindeleanu參與；展覽《On the Thousand and Second Night》為摩爾多瓦首次正式國家館參與，地毯以無人機懸浮於教堂空間。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/moldova-pavilion-seeing-or-sowing-plurality",
+        "https://1002.md/",
+        "https://www.labiennale.org/en/art/2026/moldova-republic"
+      ],
+      "photos": [
+        {
+          "url": "https://1002.md/assets/drone.jpg",
+          "caption": "《On the Thousand and Second Night》官方計畫主圖，地毯與無人機構成展覽核心空間意象。",
+          "credit": "Moldova Pavilion 官方計畫頁；計畫團隊列 Vadim Hîncu 為攝影師，但未逐張指定圖片信用",
+          "sourceUrl": "https://1002.md/",
+          "verifiedAt": "2026-11-15"
+        },
+        {
+          "url": "https://1002.md/assets/pavel-braila.jpg",
+          "caption": "藝術家 Pavel Brăila 官方肖像。",
+          "credit": "Moldova Pavilion 官方計畫頁；個別圖片攝影信用未標示",
+          "sourceUrl": "https://1002.md/",
+          "verifiedAt": "2026-11-15"
+        },
+        {
+          "url": "https://1002.md/assets/adelina-luft.jpg",
+          "caption": "策展人 Adelina Luft 官方肖像。",
+          "credit": "Moldova Pavilion 官方計畫頁；個別圖片攝影信用未標示",
+          "sourceUrl": "https://1002.md/",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 看見多元與培養多元有什麼差別，展覽如何把差異變成持續關係？\n\n【來源事實】\n摩爾多瓦館於 2026 年 11 月 15 日舉辦 Seeing or Sowing Plurality? 討論，以辨認多元與協助多元生長之差異為核心。\n\n【策展推論】\n多元若只停在可見性，容易成為名單政治；資源、決策、互賴與修正權才是能否生長的證據。\n\n【原創模擬】\nPlurality Cultivation Ledger 是原創訓練，不是摩爾多瓦館官方評估表。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-15-participation",
+    "date": "2026-11-15",
+    "category": "國際民眾參與實作",
+    "lens": "公開研究｜示範、提問權與機構回應",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "How Did They Do That?—Feasting",
+      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當博物館把保存技術搬到公開示範，觀眾如何從旁觀者變成可提問的研究伙伴？",
+    "summary": "把技術示範設計成觀察、提問、查證與回應的循環，讓觀眾提出的疑問能留下紀錄並影響後續解說，而不只是看完專家操作。",
+    "questions": [
+      "示範前，觀眾知道今天要共同查證哪一個問題嗎？",
+      "專家如何說明工具、材料與不確定性，而不是只展示熟練結果？",
+      "觀眾能否在安全範圍內觸摸、比較或操作？",
+      "哪些問題可以現場回答，哪些需要後續研究？",
+      "提問者是否知道自己的問題會被如何紀錄與使用？",
+      "保存判斷中的取捨與失敗有被公開嗎？",
+      "兒童、非母語者與身障觀眾有哪些不同提問入口？",
+      "館方如何避免把觀眾經驗只當趣味回饋？",
+      "活動後是否公開未解問題與查證進度？",
+      "下一次標籤、導覽或展示會因哪些觀眾問題而改變？"
+    ],
+    "strategy": "設計 Public Research Loop：先公開待查問題，再讓觀眾觀察與提問；把問題分成立即回答、需查證、超出範圍三類，於 14 日內公開回應與一項內容調整。",
+    "task": "把一場 30 分鐘技術示範改成研究循環：準備三個可觀察證據、一張問題分類板與一份展後回應模板，並邀請五位測試者提出問題。",
+    "training": "10 分鐘定義研究問題；15 分鐘拆解示範步驟；15 分鐘設計可操作證據；20 分鐘模擬五類觀眾提問；15 分鐘分類未解題；最後 15 分鐘寫回應與改版規則。",
+    "coreHypothesis": "當觀眾問題被分類、回覆並轉成內容修正時，公開示範能成為共同研究而非單向科普。",
+    "underlyingNeed": "讓專業知識可被質問、理解與共同累積。",
+    "realConstraints": "文物安全、示範時間、專家工作量與後續回覆責任。",
+    "leverage": "Public Research Loop 可複用於修復現場、製作示範與幕後導覽。",
+    "sourceFact": "The Met 2026 年 11 月 15 日曆列出 How Did They Do That?—Feasting，安排教育者、修復專業者與藝術家以實作示範與對話探討「盛宴」主題。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Cloisters",
+      "title": "How Did They Do That?—Feasting",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "The Met 官方日曆列出活動於 2026 年 11 月 15 日 13:00 舉行，以實作示範和與教育者、修復專業者、藝術家的對話，帶觀眾理解中世紀「盛宴」相關材料與方法。",
+      "references": [
+        "https://www.metmuseum.org/events/calendar?startDate=2026-11-15"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/j2ldyhga/721-cloisters-hdtdt.jpg",
+          "caption": "The Met Cloisters「How Did They Do That?」官方活動影像，呈現公開示範與觀眾近距離觀察。",
+          "credit": "The Metropolitan Museum of Art 官方日曆；頁面未顯示攝影者",
+          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 當博物館把保存技術搬到公開示範，觀眾如何從旁觀者變成可提問的研究伙伴？\n\n【來源事實】\nThe Met 官方日曆列出 2026 年 11 月 15 日的 How Did They Do That?—Feasting，以實作示範與專家對話為形式。\n\n【策展推論】\n示範只有在觀眾問題被紀錄、回覆並影響內容時，才從觀看轉為共同研究。\n\n【原創模擬】\nPublic Research Loop 與 14 日回應承諾是原創參與設計，不代表 The Met 已採行。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-15-family",
+    "date": "2026-11-15",
+    "category": "親子觀展訓練",
+    "lens": "歷史扮演｜用物件證據區分想像、推論與已知",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Family Afternoon at The Met Cloisters—A Medieval Feast",
+      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "一場中世紀盛宴如何讓孩子從扮演走向查證，而不是把歷史當成童話布景？",
+    "summary": "以物件、圖像與材料為證據，讓孩子在扮演前後分別標示已知、推論與想像，使遊戲不只製造氣氛，也訓練歷史判讀。",
+    "questions": [
+      "今天的哪一個盛宴細節可以在館藏物件中找到？",
+      "哪些說法來自圖像，哪些來自文字或材料分析？",
+      "孩子扮演的角色在當時真的存在，還是現代拼湊？",
+      "不同階級、性別與工作者在盛宴中站在哪裡？",
+      "食材、器皿與禮儀受哪些地理與季節限制？",
+      "我們如何知道某項動作，而不是只因電影看起來熟悉？",
+      "孩子可以提出與成人解說不同的推論嗎？",
+      "遇到沒有答案的問題，如何誠實標示不知道？",
+      "遊戲結束後，哪一個想像需要回到物件重新檢查？",
+      "回家後能用哪一件日常餐具延伸比較不同時代？"
+    ],
+    "strategy": "使用 Evidence Feast Cards：每張卡分成「物件已知、合理推論、自由想像」三欄；扮演前選卡，扮演後回到館藏調整分類並寫下理由。",
+    "task": "選三件與飲食相關的館藏物件，與孩子各做一張 Evidence Feast Card；完成十分鐘角色扮演後，至少修正一個原先想當然的歷史細節。",
+    "training": "15 分鐘找三件物件；15 分鐘描述不解釋；15 分鐘分類已知／推論／想像；20 分鐘扮演；15 分鐘回展間查證；最後 10 分鐘由孩子口述一次修正。",
+    "coreHypothesis": "若扮演以物件證據開始並以重新查證結束，想像力能強化而非取代歷史判讀。",
+    "underlyingNeed": "讓孩子保有遊戲自由，同時學會辨認證據與不確定性。",
+    "realConstraints": "史料片段化、兒童注意力有限、館內操作與飲食安全規範。",
+    "leverage": "Evidence Feast Cards 可轉用於服飾、建築、儀式與任何歷史情境。",
+    "sourceFact": "The Met 官方日曆列出 2026 年 11 月 15 日 13:00 的 Family Afternoon at The Met Cloisters—A Medieval Feast，提供親子實作活動，費用含在門票內。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Cloisters",
+      "title": "Family Afternoon at The Met Cloisters—A Medieval Feast",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "活動於 2026 年 11 月 15 日 13:00 舉行，以中世紀盛宴為題提供親子實作探索；The Met 將其列為含門票的家庭活動。",
+      "references": [
+        "https://www.metmuseum.org/events/calendar?startDate=2026-11-15"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/sb3lg3wb/filipwolak_clloistersfamilypm_0652_9706-1.jpg",
+          "caption": "The Met Cloisters 家庭午後官方活動影像，呈現親子共同參與實作。",
+          "credit": "The Metropolitan Museum of Art 官方日曆；檔名標示 Filip Wolak，頁面未另列圖片信用",
+          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 一場中世紀盛宴如何讓孩子從扮演走向查證，而不是把歷史當成童話布景？\n\n【來源事實】\nThe Met 於 2026 年 11 月 15 日安排 The Met Cloisters 親子下午活動，以中世紀盛宴為題進行實作探索。\n\n【策展推論】\n扮演若沒有證據分類，容易把流行印象當歷史；以物件開始並回到物件修正，能同時保留想像與查證。\n\n【原創模擬】\nEvidence Feast Cards 與三件物件流程是原創親子訓練，不是 The Met 官方教材。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-15-life",
+    "date": "2026-11-15",
+    "category": "人生策展課題",
+    "lens": "可持續改變｜從一次衝擊轉成能重複的微小實踐",
+    "source": {
+      "name": "Gwangju Biennale",
+      "title": "You Must Change Your Life",
+      "url": "https://gwangjubiennale.org/en/exhibition/biennale/mainexhibition.do",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "展覽閉幕時，你如何判斷一個改變已成為可持續的日常練習？",
+    "summary": "不以感動強度衡量改變，而是追蹤觸發、最小行動、重複頻率、環境支持與中斷後修復，判斷展覽留下的是口號還是可持續實踐。",
+    "questions": [
+      "展覽結束後，你真正想改變的是哪一個具體行為？",
+      "這個行為最小到什麼程度，疲倦時仍能完成？",
+      "它需要哪個時間、地點或物件作為觸發？",
+      "誰能看見並支持這項改變，而不是只給壓力？",
+      "一週內重複幾次才算開始形成節奏？",
+      "你要記錄結果、過程，還是中斷原因？",
+      "哪一項阻力來自環境，而不是意志不足？",
+      "錯過一天後，最低限度的修復動作是什麼？",
+      "一個月後哪些證據顯示這不是短期熱情？",
+      "如果原目標太大，你願意保留哪個最有生命力的小版本？"
+    ],
+    "strategy": "建立 Change Persistence Log：每週只追蹤一項最小行動，記錄觸發、完成、阻力、支持與修復；四週後以重複率與中斷恢復時間評估，而非以情緒強度評分。",
+    "task": "從今天展覽帶走一個行為，縮小到 10 分鐘內可完成；連續 14 天記錄觸發、是否完成與中斷原因，第 7 天只調整環境，不增加意志要求。",
+    "training": "10 分鐘寫下受觸動的三件事；15 分鐘各自改成可觀察行為；10 分鐘選最小一項；20 分鐘設計觸發與環境；20 分鐘預演三種中斷；最後 15 分鐘寫修復規則。",
+    "coreHypothesis": "改變若被縮成可重複行動並預先設計中斷修復，展覽的影響較可能進入日常。",
+    "underlyingNeed": "把一次性的感動轉成能長期照顧自己的生活結構。",
+    "realConstraints": "注意力有限、生活節奏不穩、環境阻力與新鮮感消退。",
+    "leverage": "Change Persistence Log 可複用於學習、創作、健康與關係練習。",
+    "sourceFact": "第 16 屆光州雙年展《You Must Change Your Life》於 2026 年 9 月 5 日至 11 月 15 日展出；官方以「改變作為方法」及跨尺度、透過重複維持的藝術實踐為核心。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "韓國",
+      "location": "光州 Gwangju Biennale Exhibition Hall 等場域",
+      "title": "16th Gwangju Biennale: You Must Change Your Life",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "展覽於 2026 年 11 月 15 日閉幕。官方主展以 Rilke 詩句為題，把改變理解為方法；閉幕公共計畫進一步追問展覽留下什麼、哪些實踐能在雙年展之後持續與共享。",
+      "references": [
+        "https://gwangjubiennale.org/en/exhibition/biennale/mainexhibition.do",
+        "https://gwangjubiennale.org/en/Board/12028/detailView.do"
+      ],
+      "photos": [
+        {
+          "url": "https://gwangjubiennale.org/resources/img/upload/BIENNALE/1/gk1brymlvj02x3u.png",
+          "caption": "第 16 屆光州雙年展《You Must Change Your Life》官方主展視覺。",
+          "credit": "Gwangju Biennale 官方主展頁；頁面未逐張標示設計或攝影信用",
+          "sourceUrl": "https://gwangjubiennale.org/en/exhibition/biennale/mainexhibition.do",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 展覽閉幕時，你如何判斷一個改變已成為可持續的日常練習？\n\n【來源事實】\n第 16 屆光州雙年展《You Must Change Your Life》於 2026 年 11 月 15 日閉幕，官方以改變作為方法及透過重複維持的實踐為核心。\n\n【策展推論】\n一次感動不是長期改變；重複頻率、環境支持與中斷後的恢復速度更能顯示實踐是否進入日常。\n\n【原創模擬】\nChange Persistence Log 與 14 天微行動是原創人生策展工具，不是光州雙年展官方評量。\n\n查證日期：2026-11-15"
   }
 ]
