@@ -24157,108 +24157,6 @@
     "rawText": "【來源事實】Walker Art Center官方排定2026年11月1日19時於Walker Cinema舉行Rhiannon Giddens的Mack Lecture。館方將其描述為深入美國流行音樂的歷史與演變，並指出她的實踐追溯美國音樂史、放大長期被置於邊緣的聲音，跨越Black Americana、roots、country、blues以及歌劇、電影與舞蹈。\n【事實／推論界線】官方頁面可證實時間、地點、票價與館方對講座內容的描述；它不等於講座中的每項歷史主張都已被獨立驗證，也不能證明一位藝術家足以代表所有被邊緣化的美國音樂傳統。\n【原創模擬】四層聲音譜、缺席位置審核與訓練流程由Curator OS設計。"
   },
   {
-    "id": "daily-2026-11-01-thinking",
-    "daily": true,
-    "date": "2026-11-01",
-    "category": "策展思考訓練",
-    "lens": "改編、影響與比較證據",
-    "source": "MoMA《Sundays with Steven》及兩版《The War of the Worlds》官方資料（查證截至2026-11-01）",
-    "title": "當MoMA把1953與2005兩版《The War of the Worlds》排成雙片，策展思考如何區分共同原著、直接影響與形式相似，而不把並置本身當成因果證據？",
-    "summary": "先建立共同原著、製作脈絡、形式特徵、可證影響與策展推論五欄；只有訪談、檔案或創作者陳述能支持直接影響，其餘相似性保留為可比較但未證實的假設。",
-    "questions": [
-      "兩部影片共同承襲H. G. Wells原著的哪些敘事骨架？",
-      "1953與2005年的戰爭、媒體與科技語境有何不同？",
-      "哪些相似來自原著，哪些可能來自電影類型慣例？",
-      "是否有Spielberg或製作團隊明確談及1953版本的資料？",
-      "攝影、聲音、特效與家庭視角有哪些可觀察差異？",
-      "並置順序如何引導觀眾先看成傳承還是斷裂？",
-      "策展標題中的「influential」對每組片單有多強證據？",
-      "哪一項相似最容易被誤寫成直接致敬？",
-      "若取消創作者名望，雙片比較仍能成立的證據是什麼？",
-      "你能提出哪個替代配對來反駁目前的影響敘事？"
-    ],
-    "strategy": "使用「五欄影響矩陣」：共同來源、歷史脈絡、可見形式、直接證據、策展推論；禁止僅憑相似鏡頭或同場放映使用「影響」「致敬」等因果詞。",
-    "task": "選兩件常被說成互相影響的作品，填完五欄矩陣；找不到直接證據的句子改寫成「可比較」「呼應」或「策展假設」，再提出一個競爭性來源。",
-    "training": "做80分鐘「相似不等於影響」：15分鐘拆共同來源、20分鐘逐項看形式、20分鐘找創作者一手資料、15分鐘寫反方配對，最後10分鐘把三個因果句降級為證據相稱的語氣。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Sundays with Steven：兩版《The War of the Worlds》雙片",
-      "statusAsOf": "2026-11-01",
-      "latestUpdate": "MoMA《Sundays with Steven》系列於2026年11月1日至12月6日以六個星期日雙片放映，把Steven Spielberg作品與館方稱為具影響或啟發性的影片並置。11月1日14時放映Byron Haskin執導的1953年《The War of the Worlds》，16時放映Spielberg執導的2005年版本；兩片都改編自H. G. Wells作品。",
-      "references": [
-        {
-          "title": "MoMA｜Sundays with Steven",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/film/5939",
-          "accessedAt": "2026-11-01"
-        },
-        {
-          "title": "MoMA｜The War of the Worlds (1953)",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11589",
-          "accessedAt": "2026-11-01"
-        },
-        {
-          "title": "MoMA｜War of the Worlds (2005)",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11590",
-          "accessedAt": "2026-11-01"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA《Sundays with Steven》系列於2026年11月1日至12月6日以六個星期日雙片放映，把Steven Spielberg作品與館方稱為具影響或啟發性的影片並置。11月1日14時放映Byron Haskin執導的1953年《The War of the Worlds》，16時放映Spielberg執導的2005年版本；兩片都改編自H. G. Wells作品。\n【事實／推論界線】官方頁面可證實系列期間、放映時間、導演、年份與共同原著；同場配對本身不能證明2005年版本的每項形式直接受1953年影片影響，仍需一手訪談、製作檔案或其他證據。\n【原創模擬】五欄影響矩陣、因果詞降級與反方配對由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-01-participation",
-    "daily": true,
-    "date": "2026-11-01",
-    "category": "國際民眾參與策展實作",
-    "lens": "對話式導覽與可追蹤影響",
-    "source": "Whitney Museum《A Closer Look: Guided Close-Looking Through Dialogue》官方資料（查證截至2026-11-01）",
-    "title": "當Whitney用45分鐘對話只細看一件作品，參與式導覽如何讓觀眾的問題改變討論路徑，而不只是輪流回答講解員預設的答案？",
-    "summary": "把選題、第一問、追問、沉默與結尾各分配明確參與權；記錄觀眾提出後真正改變的討論方向，並把未採納問題帶到下一次節目或公開回覆。",
-    "questions": [
-      "今天的一件作品由誰選擇，選擇理由是否透明？",
-      "第一個問題能否由參與者提出而非講解員設定？",
-      "講解員如何區分追問與把答案拉回既定腳本？",
-      "沉默、慢讀與不發言是否被視為合法參與？",
-      "20人容量讓誰較容易進入，誰可能被排除？",
-      "先到先得是否與可近性、交通或照顧時間衝突？",
-      "觀眾的生活經驗何時成為證據，何時需要保留界線？",
-      "相互衝突的詮釋如何被保留而非迅速統一？",
-      "哪個觀眾問題實際改變了時間分配或作品焦點？",
-      "活動後哪些意見會影響下一場導覽設計？"
-    ],
-    "strategy": "採用「五權對話卡」：選題權、第一問權、追問權、沉默權、後續權；每場至少開放三項，並以路徑紀錄表標記觀眾發言造成的可觀察改變。",
-    "task": "設計一場45分鐘單件作品對話，只預寫一個安全開場；把第一個核心問題交給參與者，記錄三次討論轉向，結尾公開哪一個問題會帶入下一場。",
-    "training": "做60分鐘「對話不是輪流作答」：10分鐘安靜觀看、10分鐘匿名出題、25分鐘由參與者選題並追問、10分鐘畫討論路徑，最後5分鐘寫下採納與未採納理由。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "A Closer Look: Guided Close-Looking Through Dialogue",
-      "statusAsOf": "2026-11-01",
-      "latestUpdate": "Whitney Museum官方排定2026年11月1日12時舉行《A Closer Look: Guided Close-Looking Through Dialogue》。節目約45分鐘，由館方講解員聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論；隨入館免費、無需預約，20人額滿，先到先得。",
-      "references": [
-        {
-          "title": "Whitney Museum｜A Closer Look: Guided Close-Looking Through Dialogue",
-          "publisher": "Whitney Museum of American Art",
-          "url": "https://whitney.org/events/a-closer-look-guided-close-looking-through-dialogue",
-          "accessedAt": "2026-11-01"
-        },
-        {
-          "title": "Whitney Museum｜Events, November 1, 2026",
-          "publisher": "Whitney Museum of American Art",
-          "url": "https://whitney.org/events?date=2026-11-01",
-          "accessedAt": "2026-11-01"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Whitney Museum官方排定2026年11月1日12時舉行《A Closer Look: Guided Close-Looking Through Dialogue》。節目約45分鐘，由館方講解員聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論；隨入館免費、無需預約，20人額滿，先到先得。\n【事實／推論界線】官方資料可證實日期、形式、容量與參與方式；「鼓勵共同思考」不等於觀眾擁有選題或後續決策權，實際權力分配仍需現場觀察與參與者回饋。\n【原創模擬】五權對話卡、路徑紀錄表與後續承諾由Curator OS設計。"
-  },
-  {
     "id": "daily-2026-11-01-family",
     "daily": true,
     "date": "2026-11-01",
@@ -24355,6 +24253,108 @@
     "rawText": "【來源事實】Barbican官方於2026年11月1日安排Relaxed Conservatory Opening，專為神經多樣性訪客及任何受益於放鬆環境的人提供較安靜、低容量、可依自己速度參觀的時段。官方亦預先說明可進入樓層、僅導盲犬可入內，以及大型包袋、行李、嬰兒車與推車限制。\n【事實／推論界線】官方資料可證實活動對象、較安靜與低容量安排及進入限制；它未證明所有神經多樣性訪客有相同需求，也不能保證每位參與者的感官負荷或福祉一定改善。\n【原創模擬】六項環境需求卡、兩時段對照與需求句訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-01-participation",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "國際民眾參與策展實作",
+    "lens": "對話式導覽與可追蹤影響",
+    "source": "Whitney Museum《A Closer Look: Guided Close-Looking Through Dialogue》官方資料（查證截至2026-11-01）",
+    "title": "當Whitney用45分鐘對話只細看一件作品，參與式導覽如何讓觀眾的問題改變討論路徑，而不只是輪流回答講解員預設的答案？",
+    "summary": "把選題、第一問、追問、沉默與結尾各分配明確參與權；記錄觀眾提出後真正改變的討論方向，並把未採納問題帶到下一次節目或公開回覆。",
+    "questions": [
+      "今天的一件作品由誰選擇，選擇理由是否透明？",
+      "第一個問題能否由參與者提出而非講解員設定？",
+      "講解員如何區分追問與把答案拉回既定腳本？",
+      "沉默、慢讀與不發言是否被視為合法參與？",
+      "20人容量讓誰較容易進入，誰可能被排除？",
+      "先到先得是否與可近性、交通或照顧時間衝突？",
+      "觀眾的生活經驗何時成為證據，何時需要保留界線？",
+      "相互衝突的詮釋如何被保留而非迅速統一？",
+      "哪個觀眾問題實際改變了時間分配或作品焦點？",
+      "活動後哪些意見會影響下一場導覽設計？"
+    ],
+    "strategy": "採用「五權對話卡」：選題權、第一問權、追問權、沉默權、後續權；每場至少開放三項，並以路徑紀錄表標記觀眾發言造成的可觀察改變。",
+    "task": "設計一場45分鐘單件作品對話，只預寫一個安全開場；把第一個核心問題交給參與者，記錄三次討論轉向，結尾公開哪一個問題會帶入下一場。",
+    "training": "做60分鐘「對話不是輪流作答」：10分鐘安靜觀看、10分鐘匿名出題、25分鐘由參與者選題並追問、10分鐘畫討論路徑，最後5分鐘寫下採納與未採納理由。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "Whitney Museum官方排定2026年11月1日12時舉行《A Closer Look: Guided Close-Looking Through Dialogue》。節目約45分鐘，由館方講解員聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論；隨入館免費、無需預約，20人額滿，先到先得。",
+      "references": [
+        {
+          "title": "Whitney Museum｜A Closer Look: Guided Close-Looking Through Dialogue",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events/a-closer-look-guided-close-looking-through-dialogue",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "Whitney Museum｜Events, November 1, 2026",
+          "publisher": "Whitney Museum of American Art",
+          "url": "https://whitney.org/events?date=2026-11-01",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Whitney Museum官方排定2026年11月1日12時舉行《A Closer Look: Guided Close-Looking Through Dialogue》。節目約45分鐘，由館方講解員聚焦一件作品或兩件作品的連結，鼓勵參與者共同思考與討論；隨入館免費、無需預約，20人額滿，先到先得。\n【事實／推論界線】官方資料可證實日期、形式、容量與參與方式；「鼓勵共同思考」不等於觀眾擁有選題或後續決策權，實際權力分配仍需現場觀察與參與者回饋。\n【原創模擬】五權對話卡、路徑紀錄表與後續承諾由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-01-thinking",
+    "daily": true,
+    "date": "2026-11-01",
+    "category": "策展思考訓練",
+    "lens": "改編、影響與比較證據",
+    "source": "MoMA《Sundays with Steven》及兩版《The War of the Worlds》官方資料（查證截至2026-11-01）",
+    "title": "當MoMA把1953與2005兩版《The War of the Worlds》排成雙片，策展思考如何區分共同原著、直接影響與形式相似，而不把並置本身當成因果證據？",
+    "summary": "先建立共同原著、製作脈絡、形式特徵、可證影響與策展推論五欄；只有訪談、檔案或創作者陳述能支持直接影響，其餘相似性保留為可比較但未證實的假設。",
+    "questions": [
+      "兩部影片共同承襲H. G. Wells原著的哪些敘事骨架？",
+      "1953與2005年的戰爭、媒體與科技語境有何不同？",
+      "哪些相似來自原著，哪些可能來自電影類型慣例？",
+      "是否有Spielberg或製作團隊明確談及1953版本的資料？",
+      "攝影、聲音、特效與家庭視角有哪些可觀察差異？",
+      "並置順序如何引導觀眾先看成傳承還是斷裂？",
+      "策展標題中的「influential」對每組片單有多強證據？",
+      "哪一項相似最容易被誤寫成直接致敬？",
+      "若取消創作者名望，雙片比較仍能成立的證據是什麼？",
+      "你能提出哪個替代配對來反駁目前的影響敘事？"
+    ],
+    "strategy": "使用「五欄影響矩陣」：共同來源、歷史脈絡、可見形式、直接證據、策展推論；禁止僅憑相似鏡頭或同場放映使用「影響」「致敬」等因果詞。",
+    "task": "選兩件常被說成互相影響的作品，填完五欄矩陣；找不到直接證據的句子改寫成「可比較」「呼應」或「策展假設」，再提出一個競爭性來源。",
+    "training": "做80分鐘「相似不等於影響」：15分鐘拆共同來源、20分鐘逐項看形式、20分鐘找創作者一手資料、15分鐘寫反方配對，最後10分鐘把三個因果句降級為證據相稱的語氣。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Sundays with Steven：兩版《The War of the Worlds》雙片",
+      "statusAsOf": "2026-11-01",
+      "latestUpdate": "MoMA《Sundays with Steven》系列於2026年11月1日至12月6日以六個星期日雙片放映，把Steven Spielberg作品與館方稱為具影響或啟發性的影片並置。11月1日14時放映Byron Haskin執導的1953年《The War of the Worlds》，16時放映Spielberg執導的2005年版本；兩片都改編自H. G. Wells作品。",
+      "references": [
+        {
+          "title": "MoMA｜Sundays with Steven",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/film/5939",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "MoMA｜The War of the Worlds (1953)",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11589",
+          "accessedAt": "2026-11-01"
+        },
+        {
+          "title": "MoMA｜War of the Worlds (2005)",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11590",
+          "accessedAt": "2026-11-01"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA《Sundays with Steven》系列於2026年11月1日至12月6日以六個星期日雙片放映，把Steven Spielberg作品與館方稱為具影響或啟發性的影片並置。11月1日14時放映Byron Haskin執導的1953年《The War of the Worlds》，16時放映Spielberg執導的2005年版本；兩片都改編自H. G. Wells作品。\n【事實／推論界線】官方頁面可證實系列期間、放映時間、導演、年份與共同原著；同場配對本身不能證明2005年版本的每項形式直接受1953年影片影響，仍需一手訪談、製作檔案或其他證據。\n【原創模擬】五欄影響矩陣、因果詞降級與反方配對由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-02-curator",
     "daily": true,
     "date": "2026-11-02",
@@ -24401,114 +24401,6 @@
       ]
     },
     "rawText": "【來源事實】MoMA於2026年11月2日19時舉行《An Evening with Joyce Joumaa》，放映這位黎巴嫩裔加拿大藝術家的短片。官方指出《To Remain in the No Longer》重訪她故鄉的未完成Oscar Niemeyer博覽會基地：該基地1962年由國家委託，黎巴嫩內戰期間停工；作品以檔案研究與當代影像追索政治力量及失敗如何刻入地景。《Disappearance Is Not Death》則透過推測與重演檢視這些歷史。\n【事實／推論界線】官方頁面可證實放映時間、作品方法與館方提供的基地歷史摘要；「廢墟美學」「政治失敗如何被觀眾理解」及當地社群的實際感受仍需作品、檔案與在地來源交叉查證。\n【原創模擬】五層未完成地圖、反浪漫化改寫與訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-02-thinking",
-    "daily": true,
-    "date": "2026-11-02",
-    "category": "策展思考訓練",
-    "lens": "材料作用、製作痕跡與作者意圖",
-    "source": "Asian Art Museum《Ha Chong-Hyun: Retrospective》與2026年11月2日導覽官方資料（查證截至2026-11-02）",
-    "title": "當河鍾賢以壓力、重力、火與日常工具改變麻布上的顏料，策展分析如何從材料痕跡推回製作行為，又不把每一道阻力直接解讀成藝術家的情緒或歷史寓言？",
-    "summary": "先描述表面、滲透方向、重量、工具痕與燒灼等可見證據，再提出多個可能製程；只有藝術家陳述、工作室紀錄或技術研究能支持意圖，情緒與歷史詮釋保留為待驗證假設。",
-    "questions": [
-      "畫面上哪些痕跡能直接觀察，不需先知道藝術家生平？",
-      "顏料從正面或背面作用會造成哪些不同表面證據？",
-      "壓力與重力如何留下方向、厚度與邊緣變化？",
-      "火、刀具或日常器具的痕跡能否區分製程先後？",
-      "哪些材料判斷需要作品保存或技術報告支持？",
-      "可見勞動是否必然代表抵抗、創傷或政治立場？",
-      "藝術家陳述與作品表面不一致時應如何記錄？",
-      "回顧展的年代排序會不會把實驗誤寫成線性進步？",
-      "與西方極簡藝術比較時，哪些相似只是形式層級？",
-      "觀眾能設計哪一個小型材料測試來反證自己的解讀？"
-    ],
-    "strategy": "採用「痕跡—動作—證據梯」：第一層只寫可見痕跡，第二層列至少兩種可能動作，第三層才加入技術資料與作者陳述；禁止由單一痕跡直接跳到心理或政治結論。",
-    "task": "選一件厚塗、滲透或燒灼作品，記錄十個不含情緒詞的表面事實；為三個痕跡各提出兩種製程假設，再查一項一手技術資料，標記支持與被推翻的假設。",
-    "training": "做75分鐘「先看材料怎麼做」：15分鐘無標籤觀察、20分鐘畫製程假設、20分鐘查藝術家或保存資料、10分鐘做競爭解釋，最後10分鐘重寫一段不把痕跡心理化的說明。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "舊金山",
-      "title": "Ha Chong-Hyun: Retrospective",
-      "statusAsOf": "2026-11-02",
-      "latestUpdate": "Asian Art Museum的《Ha Chong-Hyun: Retrospective》展期為2026年9月25日至2027年1月25日，並於11月2日11時安排免費展覽導覽。官方稱展覽回顧河鍾賢六十多年抽象創作，指出他以壓力、重力，以及火焰與日常器具等工具改變大型畫布表面；展覽含逾50件繪畫，是其首個北美大型博物館回顧展。",
-      "references": [
-        {
-          "title": "Asian Art Museum｜Ha Chong-Hyun: Retrospective",
-          "publisher": "Asian Art Museum",
-          "url": "https://exhibitions.asianart.org/exhibitions/ha-chong-hyun-retrospective/",
-          "accessedAt": "2026-11-02"
-        },
-        {
-          "title": "Asian Art Museum｜Ha Chong-Hyun Retrospective Press Release",
-          "publisher": "Asian Art Museum",
-          "url": "https://about.asianart.org/press/ha-chong-hyun-retrospective/",
-          "accessedAt": "2026-11-02"
-        },
-        {
-          "title": "Asian Art Museum｜Calendar",
-          "publisher": "Asian Art Museum",
-          "url": "https://calendar.asianart.org/events/series/ha-chong-hyun/",
-          "accessedAt": "2026-11-02"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Asian Art Museum的《Ha Chong-Hyun: Retrospective》展期為2026年9月25日至2027年1月25日，並於11月2日11時安排免費展覽導覽。官方稱展覽回顧河鍾賢六十多年抽象創作，指出他以壓力、重力，以及火焰與日常器具等工具改變大型畫布表面；展覽含逾50件繪畫，是其首個北美大型博物館回顧展。\n【事實／推論界線】官方資料可證實展期、導覽時間、作品數量與館方對材料方法的描述；由表面痕跡推論具體工具、情緒或政治意涵仍需作品技術檢查、藝術家陳述與歷史研究。\n【原創模擬】痕跡—動作—證據梯、競爭製程假設與訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-02-participation",
-    "daily": true,
-    "date": "2026-11-02",
-    "category": "國際民眾參與策展實作",
-    "lens": "抽籤入場、機會公平與參與門檻",
-    "source": "National Gallery of Art《National Gallery Nights: Gratitude》與抽籤制度官方資料（查證截至2026-11-02）",
-    "title": "當National Gallery Nights以抽籤回應熱門夜間活動，參與式策展如何判斷「每人一次機會」是否真的公平，並看見通知、時間、交通與候補造成的第二層門檻？",
-    "summary": "把名額分配拆成得知、登記、等待、確認、抵達與現場候補六段；除了中籤率，還要比較不同群體完成每一步所需的時間、設備、交通與風險，並公開未中籤者可獲得的替代參與。",
-    "questions": [
-      "誰能在抽籤開放前得知日期與規則？",
-      "登記是否需要穩定網路、特定語言或可立即使用的裝置？",
-      "抽籤期間長短對輪班、照顧者與跨時區者有何影響？",
-      "中籤通知後需要多快確認，錯過會如何遞補？",
-      "一人可登記多少同行者，會如何分配實際機會？",
-      "現場先到先得名額是否把成本轉成排隊與交通？",
-      "未中籤者能否參與線上、館內其他時段或後續內容？",
-      "機構是否公開申請數、中籤率、失效票與候補使用率？",
-      "活動中的共同馬賽克、詩作與感謝物最後如何被保存或回返？",
-      "下一場要調整哪一個步驟，才能降低而非轉移門檻？"
-    ],
-    "strategy": "建立「六段進入漏斗」：得知、登記、等待、確認、抵達、參與；每段記錄退出人數、時間成本與可替代路徑，避免只用隨機抽籤宣稱公平。",
-    "task": "為一場100人熱門活動設計抽籤與候補方案，列出六段進入漏斗；模擬輪班者、照顧者、無智慧型手機者與外地訪客，至少新增兩種替代參與並設定公開回報指標。",
-    "training": "做70分鐘「公平不是只靠隨機」：15分鐘畫申請流程、20分鐘做四種使用者壓力測試、15分鐘計算失效與候補、10分鐘設計替代參與，最後10分鐘寫公開透明說明。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "華盛頓特區",
-      "title": "National Gallery Nights: Gratitude",
-      "statusAsOf": "2026-11-02",
-      "latestUpdate": "National Gallery of Art的《National Gallery Nights: Gratitude》定於2026年11月12日18時至21時舉行，抽籤登記於11月2日10時開放、11月5日中午截止。館方表示夜間活動因熱門而採抽籤，所有申請者於活動前一個星期五得知結果；現場另於17時30分提供先到先得名額。節目包含感謝物製作、共同馬賽克、詩作、藝術活動與舞蹈。",
-      "references": [
-        {
-          "title": "National Gallery of Art｜National Gallery Nights: Gratitude",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/calendar/national-gallery-nights/national-gallery-nights-gratitude?evd=202611122300",
-          "accessedAt": "2026-11-02"
-        },
-        {
-          "title": "National Gallery of Art｜National Gallery Nights",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/calendar/national-gallery-nights",
-          "accessedAt": "2026-11-02"
-        },
-        {
-          "title": "National Gallery of Art｜National Gallery Nights Returns This Fall",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/press/national-gallery-nights-press",
-          "accessedAt": "2026-11-02"
-        }
-      ]
-    },
-    "rawText": "【來源事實】National Gallery of Art的《National Gallery Nights: Gratitude》定於2026年11月12日18時至21時舉行，抽籤登記於11月2日10時開放、11月5日中午截止。館方表示夜間活動因熱門而採抽籤，所有申請者於活動前一個星期五得知結果；現場另於17時30分提供先到先得名額。節目包含感謝物製作、共同馬賽克、詩作、藝術活動與舞蹈。\n【事實／推論界線】官方可證實活動、抽籤與現場票規則；「每人機會均等」是否轉化為不同群體的實際可參與性，仍需申請、確認、抵達與候補數據檢驗。\n【原創模擬】六段進入漏斗、四種使用者壓力測試與透明指標由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-02-family",
@@ -24613,6 +24505,114 @@
     "rawText": "【來源事實】MoMA於2026年11月2日19時放映黑澤清2026年作品《The Samurai and the Prisoner》。官方介紹指出，故事發生於16世紀日本：荒木村重反叛織田信長並固守有岡城等待援軍，又將勸降使者黑田官兵衛囚於城內。影片以四季的緩慢節奏描寫人物間不斷轉移的權力關係，片長147分鐘。\n【事實／推論界線】官方頁面可證實放映、劇情摘要、形式描述與片長；將影片轉成個人等待決策模型是Curator OS的應用推論，不能視為導演本人提出的人生方法。\n【原創模擬】等待五欄表、停止線與四週訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-02-participation",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "國際民眾參與策展實作",
+    "lens": "抽籤入場、機會公平與參與門檻",
+    "source": "National Gallery of Art《National Gallery Nights: Gratitude》與抽籤制度官方資料（查證截至2026-11-02）",
+    "title": "當National Gallery Nights以抽籤回應熱門夜間活動，參與式策展如何判斷「每人一次機會」是否真的公平，並看見通知、時間、交通與候補造成的第二層門檻？",
+    "summary": "把名額分配拆成得知、登記、等待、確認、抵達與現場候補六段；除了中籤率，還要比較不同群體完成每一步所需的時間、設備、交通與風險，並公開未中籤者可獲得的替代參與。",
+    "questions": [
+      "誰能在抽籤開放前得知日期與規則？",
+      "登記是否需要穩定網路、特定語言或可立即使用的裝置？",
+      "抽籤期間長短對輪班、照顧者與跨時區者有何影響？",
+      "中籤通知後需要多快確認，錯過會如何遞補？",
+      "一人可登記多少同行者，會如何分配實際機會？",
+      "現場先到先得名額是否把成本轉成排隊與交通？",
+      "未中籤者能否參與線上、館內其他時段或後續內容？",
+      "機構是否公開申請數、中籤率、失效票與候補使用率？",
+      "活動中的共同馬賽克、詩作與感謝物最後如何被保存或回返？",
+      "下一場要調整哪一個步驟，才能降低而非轉移門檻？"
+    ],
+    "strategy": "建立「六段進入漏斗」：得知、登記、等待、確認、抵達、參與；每段記錄退出人數、時間成本與可替代路徑，避免只用隨機抽籤宣稱公平。",
+    "task": "為一場100人熱門活動設計抽籤與候補方案，列出六段進入漏斗；模擬輪班者、照顧者、無智慧型手機者與外地訪客，至少新增兩種替代參與並設定公開回報指標。",
+    "training": "做70分鐘「公平不是只靠隨機」：15分鐘畫申請流程、20分鐘做四種使用者壓力測試、15分鐘計算失效與候補、10分鐘設計替代參與，最後10分鐘寫公開透明說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "National Gallery Nights: Gratitude",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "National Gallery of Art的《National Gallery Nights: Gratitude》定於2026年11月12日18時至21時舉行，抽籤登記於11月2日10時開放、11月5日中午截止。館方表示夜間活動因熱門而採抽籤，所有申請者於活動前一個星期五得知結果；現場另於17時30分提供先到先得名額。節目包含感謝物製作、共同馬賽克、詩作、藝術活動與舞蹈。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜National Gallery Nights: Gratitude",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/national-gallery-nights/national-gallery-nights-gratitude?evd=202611122300",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "National Gallery of Art｜National Gallery Nights",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/national-gallery-nights",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "National Gallery of Art｜National Gallery Nights Returns This Fall",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/press/national-gallery-nights-press",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art的《National Gallery Nights: Gratitude》定於2026年11月12日18時至21時舉行，抽籤登記於11月2日10時開放、11月5日中午截止。館方表示夜間活動因熱門而採抽籤，所有申請者於活動前一個星期五得知結果；現場另於17時30分提供先到先得名額。節目包含感謝物製作、共同馬賽克、詩作、藝術活動與舞蹈。\n【事實／推論界線】官方可證實活動、抽籤與現場票規則；「每人機會均等」是否轉化為不同群體的實際可參與性，仍需申請、確認、抵達與候補數據檢驗。\n【原創模擬】六段進入漏斗、四種使用者壓力測試與透明指標由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-02-thinking",
+    "daily": true,
+    "date": "2026-11-02",
+    "category": "策展思考訓練",
+    "lens": "材料作用、製作痕跡與作者意圖",
+    "source": "Asian Art Museum《Ha Chong-Hyun: Retrospective》與2026年11月2日導覽官方資料（查證截至2026-11-02）",
+    "title": "當河鍾賢以壓力、重力、火與日常工具改變麻布上的顏料，策展分析如何從材料痕跡推回製作行為，又不把每一道阻力直接解讀成藝術家的情緒或歷史寓言？",
+    "summary": "先描述表面、滲透方向、重量、工具痕與燒灼等可見證據，再提出多個可能製程；只有藝術家陳述、工作室紀錄或技術研究能支持意圖，情緒與歷史詮釋保留為待驗證假設。",
+    "questions": [
+      "畫面上哪些痕跡能直接觀察，不需先知道藝術家生平？",
+      "顏料從正面或背面作用會造成哪些不同表面證據？",
+      "壓力與重力如何留下方向、厚度與邊緣變化？",
+      "火、刀具或日常器具的痕跡能否區分製程先後？",
+      "哪些材料判斷需要作品保存或技術報告支持？",
+      "可見勞動是否必然代表抵抗、創傷或政治立場？",
+      "藝術家陳述與作品表面不一致時應如何記錄？",
+      "回顧展的年代排序會不會把實驗誤寫成線性進步？",
+      "與西方極簡藝術比較時，哪些相似只是形式層級？",
+      "觀眾能設計哪一個小型材料測試來反證自己的解讀？"
+    ],
+    "strategy": "採用「痕跡—動作—證據梯」：第一層只寫可見痕跡，第二層列至少兩種可能動作，第三層才加入技術資料與作者陳述；禁止由單一痕跡直接跳到心理或政治結論。",
+    "task": "選一件厚塗、滲透或燒灼作品，記錄十個不含情緒詞的表面事實；為三個痕跡各提出兩種製程假設，再查一項一手技術資料，標記支持與被推翻的假設。",
+    "training": "做75分鐘「先看材料怎麼做」：15分鐘無標籤觀察、20分鐘畫製程假設、20分鐘查藝術家或保存資料、10分鐘做競爭解釋，最後10分鐘重寫一段不把痕跡心理化的說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "舊金山",
+      "title": "Ha Chong-Hyun: Retrospective",
+      "statusAsOf": "2026-11-02",
+      "latestUpdate": "Asian Art Museum的《Ha Chong-Hyun: Retrospective》展期為2026年9月25日至2027年1月25日，並於11月2日11時安排免費展覽導覽。官方稱展覽回顧河鍾賢六十多年抽象創作，指出他以壓力、重力，以及火焰與日常器具等工具改變大型畫布表面；展覽含逾50件繪畫，是其首個北美大型博物館回顧展。",
+      "references": [
+        {
+          "title": "Asian Art Museum｜Ha Chong-Hyun: Retrospective",
+          "publisher": "Asian Art Museum",
+          "url": "https://exhibitions.asianart.org/exhibitions/ha-chong-hyun-retrospective/",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "Asian Art Museum｜Ha Chong-Hyun Retrospective Press Release",
+          "publisher": "Asian Art Museum",
+          "url": "https://about.asianart.org/press/ha-chong-hyun-retrospective/",
+          "accessedAt": "2026-11-02"
+        },
+        {
+          "title": "Asian Art Museum｜Calendar",
+          "publisher": "Asian Art Museum",
+          "url": "https://calendar.asianart.org/events/series/ha-chong-hyun/",
+          "accessedAt": "2026-11-02"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Asian Art Museum的《Ha Chong-Hyun: Retrospective》展期為2026年9月25日至2027年1月25日，並於11月2日11時安排免費展覽導覽。官方稱展覽回顧河鍾賢六十多年抽象創作，指出他以壓力、重力，以及火焰與日常器具等工具改變大型畫布表面；展覽含逾50件繪畫，是其首個北美大型博物館回顧展。\n【事實／推論界線】官方資料可證實展期、導覽時間、作品數量與館方對材料方法的描述；由表面痕跡推論具體工具、情緒或政治意涵仍需作品技術檢查、藝術家陳述與歷史研究。\n【原創模擬】痕跡—動作—證據梯、競爭製程假設與訓練由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-03-curator",
     "daily": true,
     "date": "2026-11-03",
@@ -24653,90 +24653,6 @@
       ]
     },
     "rawText": "【來源事實】MoMA於2026年11月3日16時30分放映Sergei Loznitsa短片節目一，約103分鐘，包含《The Miracle of Saint Anthony》《The Old Jewish Cemetery》《A Night at the Opera》《Paleontology Lesson》與《Champ de Mars》。官方資料分別連結葡萄牙動物祝福儀式、里加猶太墓地的抹除與歷史失憶、巴黎歌劇院檔案影像、空襲後的基輔自然史課，以及烏克蘭陣亡軍人的埋葬與紀念。\n【事實／推論界線】官方頁面可證實片單、時間、長度與館方摘要；把五片理解成關於儀式、遺忘或集體記憶的比較，是策展分析，不能視為所有作品共享的唯一主題。\n【原創模擬】五片有限比較矩陣、比較禁區與90分鐘訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-03-thinking",
-    "daily": true,
-    "date": "2026-11-03",
-    "category": "策展思考訓練",
-    "lens": "政治審判影像與證據分層",
-    "source": "MoMA《The Trial》官方放映資料（查證截至2026-11-03）",
-    "title": "當《The Trial》以1930年蘇聯政治審判影像重組一場被設計好的「法律真實」，策展分析如何辨認鏡頭中的事件、政權的表演與後來剪輯者的判斷？",
-    "summary": "把影像拆成拍攝到的行為、審判制度預先安排的劇本、原始媒體傳播與2018年重組四層；畫面能證明某種表演發生，卻不能自動證明供詞真實或觀眾已理解其政治機制。",
-    "questions": [
-      "1930年的原始影像由誰拍攝、為何拍攝，又準備給誰觀看？",
-      "鏡頭確實記錄了哪些人、話語、動作與空間配置？",
-      "哪些供詞與證據後來被確認為偽造、脅迫或程序操控？",
-      "被告在鏡頭前的陳述能否被當成其自由意志的證詞？",
-      "報紙、廣播與電影如何共同把審判製造成公共事件？",
-      "2018年的剪輯順序、片長與字幕如何改變原始材料的閱讀？",
-      "無旁白或少解說會增加觀眾判斷，還是隱藏更多製作選擇？",
-      "策展文字應在觀看前提供多少背景，才不會提前封閉判斷？",
-      "將歷史政治審判連到當代案例時，需要哪些制度證據避免類比過度？",
-      "觀眾最後能區分「看見一場審判」與「證明一項罪行」嗎？"
-    ],
-    "strategy": "使用「四層影像證據表」：鏡頭所見／制度腳本／當時傳播／後來重組；每一項結論都標示它依賴哪一層，並另寫一項畫面無法證明的事。",
-    "task": "選三分鐘政治或司法檔案影像，逐鏡記錄可見行為，不使用真實、謊言、正義等判斷詞；再加入制度史料與製作資料，將原先五個結論改寫成已知、合理推論與未知。",
-    "training": "做75分鐘「畫面不是供詞」：15分鐘無聲觀看、15分鐘記錄可見事實、15分鐘查拍攝與傳播目的、15分鐘分析剪輯選擇，最後15分鐘為一項最強判斷設計反證。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "The Trial（ПРОЦЕСС）",
-      "statusAsOf": "2026-11-03",
-      "latestUpdate": "MoMA於2026年11月3日19時30分放映Sergei Loznitsa的2018年影片《The Trial》，片長129分鐘。官方指出影片使用Yakov Poselsky於1930年拍攝的《The Industrial Party Trial》素材，記錄八名蘇聯工程師與經濟學者遭指控、定罪的政治審判；館方並說明相關程序包含偽造證詞、變造證據、強迫認罪與操控陪審等手段，且當時透過電影、廣播與報紙被廣泛宣傳。",
-      "references": [
-        {
-          "title": "MoMA｜The Trial（ПРОЦЕСС）",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11731",
-          "accessedAt": "2026-11-03"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA於2026年11月3日19時30分放映Sergei Loznitsa的2018年影片《The Trial》，片長129分鐘。官方指出影片使用Yakov Poselsky於1930年拍攝的《The Industrial Party Trial》素材，記錄八名蘇聯工程師與經濟學者遭指控、定罪的政治審判；館方並說明相關程序包含偽造證詞、變造證據、強迫認罪與操控陪審等手段，且當時透過電影、廣播與報紙被廣泛宣傳。\n【事實／推論界線】官方頁面可證實放映時間、素材來源、歷史摘要與館方描述；四層影像證據表是Curator OS的分析方法，不能取代原始檔案、司法史研究或導演製作資料。\n【原創模擬】四層證據表、三分鐘拆解與反證訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-03-participation",
-    "daily": true,
-    "date": "2026-11-03",
-    "category": "國際民眾參與策展實作",
-    "lens": "免預約參與與幼兒選擇權",
-    "source": "National Gallery of Art《Playtime》官方資料（查證截至2026-11-03）",
-    "title": "當National Gallery of Art以免預約、可隨時加入的Playtime邀請幼兒玩、建造、分類與堆疊，參與式策展如何測量「容易進入」之後孩子真正擁有多少選擇權？",
-    "summary": "把參與品質拆成抵達、材料選擇、改變規則、成人介入、停留與退出；免預約降低的是行政門檻，真正的能動性還要看孩子能否決定做什麼、如何改、何時停止。",
-    "questions": [
-      "免預約與免費分別移除了哪些行政與費用門檻？",
-      "開放三小時是否讓不同作息、照顧與交通條件的家庭都能進入？",
-      "玩、建造、分類與堆疊由孩子選擇，還是由活動桌預先規定？",
-      "材料高度、重量、數量與安全規則如何影響幼兒自主性？",
-      "成人陪同是安全條件，還是可能變成替孩子完成的權力？",
-      "不說話、只觀看、反覆拆掉或中途離開是否都被視為有效參與？",
-      "工作人員記錄的是成品、停留時間，還是孩子如何改變玩法？",
-      "誰可能因感官刺激、身體需求或嬰兒車動線而仍被排除？",
-      "幼兒提出的新分類或使用方式能否改變下一週的材料配置？",
-      "活動如何向照顧者回報孩子的選擇，而不把行為變成能力評分？"
-    ],
-    "strategy": "建立「幼兒參與六段量表」：抵達／選材／改規則／成人角色／退出／下次改變；不以完成品評分，只記錄孩子實際做出的選擇與活動因此採納的修改。",
-    "task": "設計一個30分鐘免預約材料站，提供至少三種可拆可重組材料；觀察五組親子，分別記錄孩子選材、改變玩法、拒絕成人建議、暫停與退出，最後只依行為證據修改一項配置。",
-    "training": "做60分鐘「不接管的參與」：10分鐘檢查入口，15分鐘觀察成人手勢，15分鐘記錄孩子改規則的時刻，10分鐘測試退出路徑，最後10分鐘把一個以成品為中心的指標改成選擇權指標。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "華盛頓特區",
-      "title": "Playtime",
-      "statusAsOf": "2026-11-03",
-      "latestUpdate": "National Gallery of Art於2026年11月3日10時至13時在東館中庭舉行Playtime。官方將其描述為為幼兒設計的動手空間，可玩、建造、分類與堆疊；活動每週二舉行、免費且不需預約，可隨時加入，兒童須由成人陪同。",
-      "references": [
-        {
-          "title": "National Gallery of Art｜Playtime",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/calendar/playtime-0?evd=202611031500",
-          "accessedAt": "2026-11-03"
-        }
-      ]
-    },
-    "rawText": "【來源事實】National Gallery of Art於2026年11月3日10時至13時在東館中庭舉行Playtime。官方將其描述為為幼兒設計的動手空間，可玩、建造、分類與堆疊；活動每週二舉行、免費且不需預約，可隨時加入，兒童須由成人陪同。\n【事實／推論界線】官方頁面可證實時間、地點、免預約、免費、活動動詞與陪同規則；孩子實際擁有多少選擇權、哪些家庭仍被排除，需要現場觀察與參與者回饋。\n【原創模擬】幼兒參與六段量表、材料站測試與選擇權指標由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-03-family",
@@ -24829,6 +24745,90 @@
     "rawText": "【來源事實】MoMA於2026年11月3日19時放映Mike Leigh編導的2026年英國電影《Tender Loving Care》，片長107分鐘。官方介紹以兩位社工Amy與Rosie為核心：她們白天試圖改善他人的生活，私下以同住、約會建議、對工作抱怨與日常陪伴彼此照顧；影片也描寫Amy與年長父母之間的關係。\n【事實／推論界線】官方頁面可證實放映、角色、職業、關係與館方劇情摘要；把電影轉成照顧勞動與人生邊界工具，是Curator OS的應用推論，不等同於導演提出的自助方法。\n【原創模擬】照顧五欄帳、七日記錄與四週訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-03-participation",
+    "daily": true,
+    "date": "2026-11-03",
+    "category": "國際民眾參與策展實作",
+    "lens": "免預約參與與幼兒選擇權",
+    "source": "National Gallery of Art《Playtime》官方資料（查證截至2026-11-03）",
+    "title": "當National Gallery of Art以免預約、可隨時加入的Playtime邀請幼兒玩、建造、分類與堆疊，參與式策展如何測量「容易進入」之後孩子真正擁有多少選擇權？",
+    "summary": "把參與品質拆成抵達、材料選擇、改變規則、成人介入、停留與退出；免預約降低的是行政門檻，真正的能動性還要看孩子能否決定做什麼、如何改、何時停止。",
+    "questions": [
+      "免預約與免費分別移除了哪些行政與費用門檻？",
+      "開放三小時是否讓不同作息、照顧與交通條件的家庭都能進入？",
+      "玩、建造、分類與堆疊由孩子選擇，還是由活動桌預先規定？",
+      "材料高度、重量、數量與安全規則如何影響幼兒自主性？",
+      "成人陪同是安全條件，還是可能變成替孩子完成的權力？",
+      "不說話、只觀看、反覆拆掉或中途離開是否都被視為有效參與？",
+      "工作人員記錄的是成品、停留時間，還是孩子如何改變玩法？",
+      "誰可能因感官刺激、身體需求或嬰兒車動線而仍被排除？",
+      "幼兒提出的新分類或使用方式能否改變下一週的材料配置？",
+      "活動如何向照顧者回報孩子的選擇，而不把行為變成能力評分？"
+    ],
+    "strategy": "建立「幼兒參與六段量表」：抵達／選材／改規則／成人角色／退出／下次改變；不以完成品評分，只記錄孩子實際做出的選擇與活動因此採納的修改。",
+    "task": "設計一個30分鐘免預約材料站，提供至少三種可拆可重組材料；觀察五組親子，分別記錄孩子選材、改變玩法、拒絕成人建議、暫停與退出，最後只依行為證據修改一項配置。",
+    "training": "做60分鐘「不接管的參與」：10分鐘檢查入口，15分鐘觀察成人手勢，15分鐘記錄孩子改規則的時刻，10分鐘測試退出路徑，最後10分鐘把一個以成品為中心的指標改成選擇權指標。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Playtime",
+      "statusAsOf": "2026-11-03",
+      "latestUpdate": "National Gallery of Art於2026年11月3日10時至13時在東館中庭舉行Playtime。官方將其描述為為幼兒設計的動手空間，可玩、建造、分類與堆疊；活動每週二舉行、免費且不需預約，可隨時加入，兒童須由成人陪同。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Playtime",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/playtime-0?evd=202611031500",
+          "accessedAt": "2026-11-03"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月3日10時至13時在東館中庭舉行Playtime。官方將其描述為為幼兒設計的動手空間，可玩、建造、分類與堆疊；活動每週二舉行、免費且不需預約，可隨時加入，兒童須由成人陪同。\n【事實／推論界線】官方頁面可證實時間、地點、免預約、免費、活動動詞與陪同規則；孩子實際擁有多少選擇權、哪些家庭仍被排除，需要現場觀察與參與者回饋。\n【原創模擬】幼兒參與六段量表、材料站測試與選擇權指標由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-03-thinking",
+    "daily": true,
+    "date": "2026-11-03",
+    "category": "策展思考訓練",
+    "lens": "政治審判影像與證據分層",
+    "source": "MoMA《The Trial》官方放映資料（查證截至2026-11-03）",
+    "title": "當《The Trial》以1930年蘇聯政治審判影像重組一場被設計好的「法律真實」，策展分析如何辨認鏡頭中的事件、政權的表演與後來剪輯者的判斷？",
+    "summary": "把影像拆成拍攝到的行為、審判制度預先安排的劇本、原始媒體傳播與2018年重組四層；畫面能證明某種表演發生，卻不能自動證明供詞真實或觀眾已理解其政治機制。",
+    "questions": [
+      "1930年的原始影像由誰拍攝、為何拍攝，又準備給誰觀看？",
+      "鏡頭確實記錄了哪些人、話語、動作與空間配置？",
+      "哪些供詞與證據後來被確認為偽造、脅迫或程序操控？",
+      "被告在鏡頭前的陳述能否被當成其自由意志的證詞？",
+      "報紙、廣播與電影如何共同把審判製造成公共事件？",
+      "2018年的剪輯順序、片長與字幕如何改變原始材料的閱讀？",
+      "無旁白或少解說會增加觀眾判斷，還是隱藏更多製作選擇？",
+      "策展文字應在觀看前提供多少背景，才不會提前封閉判斷？",
+      "將歷史政治審判連到當代案例時，需要哪些制度證據避免類比過度？",
+      "觀眾最後能區分「看見一場審判」與「證明一項罪行」嗎？"
+    ],
+    "strategy": "使用「四層影像證據表」：鏡頭所見／制度腳本／當時傳播／後來重組；每一項結論都標示它依賴哪一層，並另寫一項畫面無法證明的事。",
+    "task": "選三分鐘政治或司法檔案影像，逐鏡記錄可見行為，不使用真實、謊言、正義等判斷詞；再加入制度史料與製作資料，將原先五個結論改寫成已知、合理推論與未知。",
+    "training": "做75分鐘「畫面不是供詞」：15分鐘無聲觀看、15分鐘記錄可見事實、15分鐘查拍攝與傳播目的、15分鐘分析剪輯選擇，最後15分鐘為一項最強判斷設計反證。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "The Trial（ПРОЦЕСС）",
+      "statusAsOf": "2026-11-03",
+      "latestUpdate": "MoMA於2026年11月3日19時30分放映Sergei Loznitsa的2018年影片《The Trial》，片長129分鐘。官方指出影片使用Yakov Poselsky於1930年拍攝的《The Industrial Party Trial》素材，記錄八名蘇聯工程師與經濟學者遭指控、定罪的政治審判；館方並說明相關程序包含偽造證詞、變造證據、強迫認罪與操控陪審等手段，且當時透過電影、廣播與報紙被廣泛宣傳。",
+      "references": [
+        {
+          "title": "MoMA｜The Trial（ПРОЦЕСС）",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11731",
+          "accessedAt": "2026-11-03"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月3日19時30分放映Sergei Loznitsa的2018年影片《The Trial》，片長129分鐘。官方指出影片使用Yakov Poselsky於1930年拍攝的《The Industrial Party Trial》素材，記錄八名蘇聯工程師與經濟學者遭指控、定罪的政治審判；館方並說明相關程序包含偽造證詞、變造證據、強迫認罪與操控陪審等手段，且當時透過電影、廣播與報紙被廣泛宣傳。\n【事實／推論界線】官方頁面可證實放映時間、素材來源、歷史摘要與館方描述；四層影像證據表是Curator OS的分析方法，不能取代原始檔案、司法史研究或導演製作資料。\n【原創模擬】四層證據表、三分鐘拆解與反證訓練由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-04-curator",
     "daily": true,
     "date": "2026-11-04",
@@ -24875,90 +24875,6 @@
       ]
     },
     "rawText": "【來源事實】MoMA的《Full Disclosure: The Edge of Information Design》展期為2026年9月27日至2027年6月13日，位於可免費進入的街層展廳。官方稱其為MoMA首個完全聚焦資訊設計的展覽，展出30件數位與類比作品，其中6件為新入藏；展覽強調資料並非知識，資料必須經設計轉譯，且在公共信任下降的環境中，設計選擇與來源和真實性同樣關鍵。\n【事實／推論界線】官方資料可證實展期、位置、件數與館方論述；觀眾是否因方法揭露而更信任或更理解，必須以使用測試驗證。\n【原創模擬】四層轉譯稽核、圖表解剖與三項註記測試由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-04-thinking",
-    "daily": true,
-    "date": "2026-11-04",
-    "category": "策展思考訓練",
-    "lens": "比較放映中的時間尺度與感官證據",
-    "source": "MoMA《Factory／Landscape》官方放映資料（查證截至2026-11-04）",
-    "title": "當《Factory》以無對白的機器聲與重複勞動描寫工廠，《Landscape》以360度移動與候車談話描寫等待，策展比較如何把節奏當成可分析的形式，而不把「緩慢」直接等同於壓迫或停滯？",
-    "summary": "用鏡頭長度、運動、聲音、重複與人物行為建立節奏證據表，把感受與能被影像支持的形式判斷分開。",
-    "questions": [
-      "兩片的基本時間單位是鏡頭、動作、機器循環還是談話回合？",
-      "重複出現在畫面、聲音、勞動流程或敘事中的哪一層？",
-      "觀眾感到緩慢時，能指出哪些可計數的形式證據？",
-      "攝影機運動如何改變人物與環境的關係？",
-      "無對白是否真的意味人物沒有聲音或主體性？",
-      "談話片段呈現的是共同經驗、個人抱怨，還是剪輯出的群體聲調？",
-      "兩片被並置後，哪一種差異容易被「等待」這個共同詞掩蓋？",
-      "聲音若被關閉，對勞動與時間的判斷會如何改變？",
-      "策展文字應說明形式，還是預先命名觀眾應有的情緒？",
-      "什麼反例足以推翻「慢節奏等於社會停滯」的解讀？"
-    ],
-    "strategy": "使用「節奏五欄表」：鏡頭長度／攝影機運動／聲音事件／重複行為／敘事推進。每次寫下情緒詞，都必須補一項形式證據與一種可能的相反解釋。",
-    "task": "各選兩片中的三分鐘，逐十秒記錄鏡頭、聲音、動作與談話變化；先寫感受，再用紀錄支持或撤回判斷，最後提出一個不使用「慢、壓迫、停滯」的比較句。",
-    "training": "做75分鐘「節奏不是形容詞」：15分鐘盲聽、15分鐘靜音觀看、20分鐘逐段計時、15分鐘寫兩種相反解釋，最後10分鐘重寫放映導言。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Factory（ФАБРИКА）／Landscape（ЛАНДШАФТ）",
-      "statusAsOf": "2026-11-04",
-      "latestUpdate": "MoMA於2026年11月4日16時並映Sergei Loznitsa的《Factory》（2004，30分鐘，無對白）與《Landscape》（2003，60分鐘，俄語、英文字幕）。館方將前者描述為工人與機器的無言芭蕾，聲音由馬達、金屬、黏土與火構成；後者以反覆360度移動逐步抵達候車人群，透過日常談話呈現長時間等待。",
-      "references": [
-        {
-          "title": "MoMA｜Factory／Landscape",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11713",
-          "accessedAt": "2026-11-04"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA於2026年11月4日16時並映Sergei Loznitsa的《Factory》（2004，30分鐘，無對白）與《Landscape》（2003，60分鐘，俄語、英文字幕）。館方將前者描述為工人與機器的無言芭蕾，聲音由馬達、金屬、黏土與火構成；後者以反覆360度移動逐步抵達候車人群，透過日常談話呈現長時間等待。\n【事實／推論界線】官方頁面可證實放映、片長、語言與館方形式描述；把兩片理解為壓迫、停滯或特定政治寓言，仍需影像細讀與歷史資料支持。\n【原創模擬】節奏五欄表、逐十秒紀錄與相反解釋訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-04-participation",
-    "daily": true,
-    "date": "2026-11-04",
-    "category": "國際民眾參與策展實作",
-    "lens": "免報名活動的隱性稀缺與公平分配",
-    "source": "Walker Art Center《Art Club: Poster Design》官方資料（查證截至2026-11-04）",
-    "title": "當Walker的海報設計工作坊免費、免報名且可隨到隨做，材料卻依先到先得且數量有限，參與式策展如何管理「看似開放、實際稀缺」，避免晚到者只得到被拒絕的經驗？",
-    "summary": "把免費與免報名之外的材料、座位、時間與協助量能公開化，設計可預測的分配規則與資源用盡後的等值參與路徑。",
-    "questions": [
-      "活動的真正容量由空間、材料、工具還是工作人員決定？",
-      "先到先得對哪些需要照顧、交通轉乘或下班後抵達的人不利？",
-      "參與者在到場前能否知道即時剩餘量能？",
-      "材料用盡後是否仍有不降級的參與方式？",
-      "每人取用量應固定、協商，還是依創作需求調整？",
-      "無需報名降低了哪些門檻，又製造了哪些不確定性？",
-      "ASL口譯已提供時，其他調整為何仍需提前兩週提出？",
-      "工作人員如何拒絕而不把制度稀缺變成個人羞辱？",
-      "應記錄總人次、完成作品數，還是未能參與的人數與原因？",
-      "下一次活動要改變哪一條規則，才能回應本次被排除者？"
-    ],
-    "strategy": "建立「稀缺公開板」：總容量／目前餘量／每人建議用量／預估等待／資源用盡後選項。保留20%材料給較晚時段，並提供共作牆、數位草圖或下次優先券等不以剩料為基礎的替代。",
-    "task": "模擬一場60人、40份材料的免報名工作坊，分別測試全數先到先得、分時保留與每人基本包三種規則；邀請六人扮演不同抵達條件，記錄誰被排除及替代路徑是否等值。",
-    "training": "做60分鐘「開放不等於無限」：15分鐘盤點所有稀缺資源，15分鐘畫出三種抵達者旅程，15分鐘演練資源用盡公告，最後15分鐘用排除紀錄重設分配規則。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "明尼阿波利斯",
-      "title": "Art Club: Poster Design",
-      "statusAsOf": "2026-11-04",
-      "latestUpdate": "Walker Art Center將於2026年11月5日17時至20時舉行《Art Club: Poster Design》，屬免費週四夜活動，畫廊開放至21時。官方說明工作坊免票、免事先報名、材料提供但依先到先得，空間與物資有限，並提供ASL口譯；其他無障礙需求建議至少提前兩週聯絡。",
-      "references": [
-        {
-          "title": "Walker Art Center｜Art Club: Poster Design",
-          "publisher": "Walker Art Center",
-          "url": "https://www.walkerart.org/whats-on/art-club-poster-design/",
-          "accessedAt": "2026-11-04"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Walker Art Center將於2026年11月5日17時至20時舉行《Art Club: Poster Design》，屬免費週四夜活動，畫廊開放至21時。官方說明工作坊免票、免事先報名、材料提供但依先到先得，空間與物資有限，並提供ASL口譯；其他無障礙需求建議至少提前兩週聯絡。\n【事實／推論界線】官方可證實免費、免報名、限量與無障礙安排；哪些群體會因先到先得被排除、替代方案是否等值，需現場紀錄與參與者回饋。\n【原創模擬】稀缺公開板、20%分時保留、三種分配規則測試與排除紀錄由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-04-family",
@@ -25045,6 +24961,90 @@
     "rawText": "【來源事實】MoMA於2026年11月4日18時30分放映Sergei Loznitsa編導的2012年電影《In the Fog》，片長127分鐘，改編自Vasil Bykaŭ短篇小說。官方摘要描述納粹占領白俄羅斯期間，一名鐵路工人與破壞者一同被捕後獲釋，因此被當地游擊隊懷疑為合作者；長鏡頭使每個決定中的威脅與不信任持續累積。\n【事實／推論界線】官方頁面可證實放映、製作資訊與劇情摘要；將電影轉成日常判斷工具，是Curator OS的應用推論，不等於角色處境與一般人際衝突具有同等風險。\n【原創模擬】霧中判斷表、24小時重評與七天延後定罪訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-04-participation",
+    "daily": true,
+    "date": "2026-11-04",
+    "category": "國際民眾參與策展實作",
+    "lens": "免報名活動的隱性稀缺與公平分配",
+    "source": "Walker Art Center《Art Club: Poster Design》官方資料（查證截至2026-11-04）",
+    "title": "當Walker的海報設計工作坊免費、免報名且可隨到隨做，材料卻依先到先得且數量有限，參與式策展如何管理「看似開放、實際稀缺」，避免晚到者只得到被拒絕的經驗？",
+    "summary": "把免費與免報名之外的材料、座位、時間與協助量能公開化，設計可預測的分配規則與資源用盡後的等值參與路徑。",
+    "questions": [
+      "活動的真正容量由空間、材料、工具還是工作人員決定？",
+      "先到先得對哪些需要照顧、交通轉乘或下班後抵達的人不利？",
+      "參與者在到場前能否知道即時剩餘量能？",
+      "材料用盡後是否仍有不降級的參與方式？",
+      "每人取用量應固定、協商，還是依創作需求調整？",
+      "無需報名降低了哪些門檻，又製造了哪些不確定性？",
+      "ASL口譯已提供時，其他調整為何仍需提前兩週提出？",
+      "工作人員如何拒絕而不把制度稀缺變成個人羞辱？",
+      "應記錄總人次、完成作品數，還是未能參與的人數與原因？",
+      "下一次活動要改變哪一條規則，才能回應本次被排除者？"
+    ],
+    "strategy": "建立「稀缺公開板」：總容量／目前餘量／每人建議用量／預估等待／資源用盡後選項。保留20%材料給較晚時段，並提供共作牆、數位草圖或下次優先券等不以剩料為基礎的替代。",
+    "task": "模擬一場60人、40份材料的免報名工作坊，分別測試全數先到先得、分時保留與每人基本包三種規則；邀請六人扮演不同抵達條件，記錄誰被排除及替代路徑是否等值。",
+    "training": "做60分鐘「開放不等於無限」：15分鐘盤點所有稀缺資源，15分鐘畫出三種抵達者旅程，15分鐘演練資源用盡公告，最後15分鐘用排除紀錄重設分配規則。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼阿波利斯",
+      "title": "Art Club: Poster Design",
+      "statusAsOf": "2026-11-04",
+      "latestUpdate": "Walker Art Center將於2026年11月5日17時至20時舉行《Art Club: Poster Design》，屬免費週四夜活動，畫廊開放至21時。官方說明工作坊免票、免事先報名、材料提供但依先到先得，空間與物資有限，並提供ASL口譯；其他無障礙需求建議至少提前兩週聯絡。",
+      "references": [
+        {
+          "title": "Walker Art Center｜Art Club: Poster Design",
+          "publisher": "Walker Art Center",
+          "url": "https://www.walkerart.org/whats-on/art-club-poster-design/",
+          "accessedAt": "2026-11-04"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center將於2026年11月5日17時至20時舉行《Art Club: Poster Design》，屬免費週四夜活動，畫廊開放至21時。官方說明工作坊免票、免事先報名、材料提供但依先到先得，空間與物資有限，並提供ASL口譯；其他無障礙需求建議至少提前兩週聯絡。\n【事實／推論界線】官方可證實免費、免報名、限量與無障礙安排；哪些群體會因先到先得被排除、替代方案是否等值，需現場紀錄與參與者回饋。\n【原創模擬】稀缺公開板、20%分時保留、三種分配規則測試與排除紀錄由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-04-thinking",
+    "daily": true,
+    "date": "2026-11-04",
+    "category": "策展思考訓練",
+    "lens": "比較放映中的時間尺度與感官證據",
+    "source": "MoMA《Factory／Landscape》官方放映資料（查證截至2026-11-04）",
+    "title": "當《Factory》以無對白的機器聲與重複勞動描寫工廠，《Landscape》以360度移動與候車談話描寫等待，策展比較如何把節奏當成可分析的形式，而不把「緩慢」直接等同於壓迫或停滯？",
+    "summary": "用鏡頭長度、運動、聲音、重複與人物行為建立節奏證據表，把感受與能被影像支持的形式判斷分開。",
+    "questions": [
+      "兩片的基本時間單位是鏡頭、動作、機器循環還是談話回合？",
+      "重複出現在畫面、聲音、勞動流程或敘事中的哪一層？",
+      "觀眾感到緩慢時，能指出哪些可計數的形式證據？",
+      "攝影機運動如何改變人物與環境的關係？",
+      "無對白是否真的意味人物沒有聲音或主體性？",
+      "談話片段呈現的是共同經驗、個人抱怨，還是剪輯出的群體聲調？",
+      "兩片被並置後，哪一種差異容易被「等待」這個共同詞掩蓋？",
+      "聲音若被關閉，對勞動與時間的判斷會如何改變？",
+      "策展文字應說明形式，還是預先命名觀眾應有的情緒？",
+      "什麼反例足以推翻「慢節奏等於社會停滯」的解讀？"
+    ],
+    "strategy": "使用「節奏五欄表」：鏡頭長度／攝影機運動／聲音事件／重複行為／敘事推進。每次寫下情緒詞，都必須補一項形式證據與一種可能的相反解釋。",
+    "task": "各選兩片中的三分鐘，逐十秒記錄鏡頭、聲音、動作與談話變化；先寫感受，再用紀錄支持或撤回判斷，最後提出一個不使用「慢、壓迫、停滯」的比較句。",
+    "training": "做75分鐘「節奏不是形容詞」：15分鐘盲聽、15分鐘靜音觀看、20分鐘逐段計時、15分鐘寫兩種相反解釋，最後10分鐘重寫放映導言。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Factory（ФАБРИКА）／Landscape（ЛАНДШАФТ）",
+      "statusAsOf": "2026-11-04",
+      "latestUpdate": "MoMA於2026年11月4日16時並映Sergei Loznitsa的《Factory》（2004，30分鐘，無對白）與《Landscape》（2003，60分鐘，俄語、英文字幕）。館方將前者描述為工人與機器的無言芭蕾，聲音由馬達、金屬、黏土與火構成；後者以反覆360度移動逐步抵達候車人群，透過日常談話呈現長時間等待。",
+      "references": [
+        {
+          "title": "MoMA｜Factory／Landscape",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11713",
+          "accessedAt": "2026-11-04"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月4日16時並映Sergei Loznitsa的《Factory》（2004，30分鐘，無對白）與《Landscape》（2003，60分鐘，俄語、英文字幕）。館方將前者描述為工人與機器的無言芭蕾，聲音由馬達、金屬、黏土與火構成；後者以反覆360度移動逐步抵達候車人群，透過日常談話呈現長時間等待。\n【事實／推論界線】官方頁面可證實放映、片長、語言與館方形式描述；把兩片理解為壓迫、停滯或特定政治寓言，仍需影像細讀與歷史資料支持。\n【原創模擬】節奏五欄表、逐十秒紀錄與相反解釋訓練由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-05-curator",
     "daily": true,
     "date": "2026-11-05",
@@ -25085,96 +25085,6 @@
       ]
     },
     "rawText": "【來源事實】National Gallery of Art於2026年11月5日14時至14時45分舉辦《Back and Forth: Rozeal., Titian, Cezanne》互動式導覽。官方指出藝術史並非線性，活動以四幅跨越六世紀的畫作討論藝術家如何跨越時間與地域混合、重組參照，並藉比較重新觀看作品。\n【事實／推論界線】官方資料可證實活動時間、形式、作品數與館方的非線性藝術史框架；任兩件作品是否存在直接影響，仍須藝術家接觸、出版、收藏或自述證據。\n【原創模擬】關係強度梯、證據分級與刪除因果句訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-05-thinking",
-    "daily": true,
-    "date": "2026-11-05",
-    "category": "策展思考訓練",
-    "lens": "展示角度、物件背面與完整性假設",
-    "source": "The Metropolitan Museum of Art《Flip Sides: Seeing Korean Art Anew》官方資料（查證截至2026-11-05）",
-    "title": "當The Met刻意展示韓國藝術的內部、背面與難以觀看之處，策展分析如何判斷「最佳角度」是物件原有功能、歷史展示慣例，還是博物館為了製造完整形象而建立的正面？",
-    "summary": "以正面、背面、內部、使用面與修復面五種視角重做物件觀察，辨認展示技術如何決定觀眾以為作品是什麼。",
-    "questions": [
-      "物件在原本使用情境中，哪一面朝向誰？",
-      "博物館目前的正面由底座、燈光、標籤還是照片決定？",
-      "背面與內部能提供哪些製作、功能或修補證據？",
-      "旋轉物件會增加理解，還是破壞原有觀看秩序？",
-      "鏡面、數位模型與多視角攝影各自遺失了哪些尺度感？",
-      "所謂隱藏細節是歷史上不可見，還是現代展櫃使它不可見？",
-      "修復痕跡應被隱藏、標示，還是成為作品歷史的一部分？",
-      "一件宗教或實用物件的內部是否適合被完全公開？",
-      "觀眾看到更多角度後，是否真的更接近完整理解？",
-      "哪一個看不見的位置應保留未知，而不是以重建圖補滿？"
-    ],
-    "strategy": "建立「五面觀察圖」：展示正面／歷史使用面／背面／內部／修復面；逐面記錄可見證據、展示技術與倫理限制，禁止把多視角直接等同於完整真相。",
-    "task": "選一件器物，只看館方主圖寫100字；再找背面、底部或內部影像重寫100字，列出三項改判與兩項仍未知，最後提出一個不必翻動原件也能增加理解的展示方法。",
-    "training": "做60分鐘「作品不只一面」：10分鐘正面描述，15分鐘多視角比對，15分鐘畫使用方向，10分鐘辨認修復與底座介入，最後10分鐘寫一段承認觀看限制的標籤。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Flip Sides: Seeing Korean Art Anew",
-      "statusAsOf": "2026-11-05",
-      "latestUpdate": "The Met的《Flip Sides: Seeing Korean Art Anew》展出約50件館藏韓國藝術，超過半數首次展出，並透過內部、背面與難以觀看角度呈現金屬、木、陶瓷、織物與漆器的構造及功能。第二輪展件於2026年10月31日至2027年5月31日展出，館方並於2026年11月5日15時舉行專家導覽。",
-      "references": [
-        {
-          "title": "The Met｜Flip Sides: Seeing Korean Art Anew",
-          "publisher": "The Metropolitan Museum of Art",
-          "url": "https://www.metmuseum.org/exhibitions/flip-sides-seeing-korean-art-anew",
-          "accessedAt": "2026-11-05"
-        }
-      ]
-    },
-    "rawText": "【來源事實】The Met的《Flip Sides: Seeing Korean Art Anew》展出約50件館藏韓國藝術，超過半數首次展出，並透過內部、背面與難以觀看角度呈現金屬、木、陶瓷、織物與漆器的構造及功能。第二輪展件於2026年10月31日至2027年5月31日展出，館方並於2026年11月5日15時舉行專家導覽。\n【事實／推論界線】官方頁面可證實件數、展示策略、材質範圍、輪替與活動時間；更多視角是否等於更完整或更尊重物件，仍需結合原始功能、宗教文化與保存倫理判斷。\n【原創模擬】五面觀察圖、多視角改寫與觀看限制標籤由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-05-participation",
-    "daily": true,
-    "date": "2026-11-05",
-    "category": "國際民眾參與策展實作",
-    "lens": "青少年安全空間與規則共同治理",
-    "source": "MoMA《Open Art Space: Taking Back Our Space》官方資料（查證截至2026-11-05）",
-    "title": "當MoMA把Open Art Space描述為讓所有青少年感到安全、被支持且能做自己的空間，參與式策展如何把「安全」從機構承諾變成青少年可共同修改的規則、退出方式與回饋權？",
-    "summary": "把安全空間拆成可觀察的進入、同意、影像使用、拒絕、求助與改規則機制，讓青少年不只被照顧，也能共同治理活動。",
-    "questions": [
-      "誰定義安全，青少年能否不同意機構的定義？",
-      "拍攝Polaroid前，參與者如何同意被拍與照片後續使用？",
-      "不想談性別、權力或自我形象的人能否等值參與？",
-      "走進活動後，能否暫停、離開再回來而不必解釋？",
-      "工作人員、藝術家與同儕之間的權力差如何被說明？",
-      "OMNY卡、點心與材料解決哪些實際門檻，還遺漏哪些？",
-      "青少年能否改變問題、材料、空間配置或分享規則？",
-      "發生不舒服的互動時，求助路徑是否私密且可預測？",
-      "回饋是否只評價活動，還能改變下一週的規則？",
-      "機構要公開哪一項因青少年意見而做出的真實修改？"
-    ],
-    "strategy": "建立「青少年安全六權」：知情權／拒絕權／影像同意權／退出與返回權／求助權／改規則權。每場結束公開一項採納、一項未採納及原因。",
-    "task": "為一場90分鐘青少年影像活動寫六權卡，邀請三位青少年逐句刪改；再模擬被拍攝、拒絕分享、臨時離場與求助四種情境，修正一條最不清楚的規則。",
-    "training": "做75分鐘「安全不是形容詞」：15分鐘列風險，15分鐘寫六權卡，20分鐘角色演練，15分鐘設計匿名回饋與申訴路徑，最後10分鐘決定下次必須由參與者表決的一件事。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Open Art Space: Taking Back Our Space",
-      "statusAsOf": "2026-11-05",
-      "latestUpdate": "MoMA於2026年11月5日16時至18時舉辦免費高中生工作坊《Open Art Space: Taking Back Our Space》。參與者先探索關於性別、權力與再現的攝影展，再使用道具創作Polaroid影像。官方說明RSVP受鼓勵但接受現場加入，無需藝術經驗，並提供點心、OMNY交通卡與材料；Open Art Space自述為讓青少年感到安全、被支持並能做自己的空間。",
-      "references": [
-        {
-          "title": "MoMA｜Open Art Space: Taking Back Our Space",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11828",
-          "accessedAt": "2026-11-05"
-        },
-        {
-          "title": "MoMA｜Open Art Space",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/programs/199",
-          "accessedAt": "2026-11-05"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA於2026年11月5日16時至18時舉辦免費高中生工作坊《Open Art Space: Taking Back Our Space》。參與者先探索關於性別、權力與再現的攝影展，再使用道具創作Polaroid影像。官方說明RSVP受鼓勵但接受現場加入，無需藝術經驗，並提供點心、OMNY交通卡與材料；Open Art Space自述為讓青少年感到安全、被支持並能做自己的空間。\n【事實／推論界線】官方可證實活動、對象、資源與機構承諾；參與者是否實際感到安全、是否能改變規則，必須由匿名回饋、事件紀錄與後續修改驗證。\n【原創模擬】青少年安全六權、四情境演練與採納公開機制由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-05-family",
@@ -25267,6 +25177,96 @@
     "rawText": "【來源事實】Walker Art Center將於2026年11月6日19時放映濱口竜介2023年電影《Evil Does Not Exist》，片長105分鐘，日語發音、英文字幕。官方摘要描述單親父親巧與女兒住在日本山村，東京開發商Playtime計畫興建豪華露營設施，居民因而面對社區長期生態後果；放映票價15美元、會員與長者12美元、學生免費。\n【事實／推論界線】官方頁面可證實放映、製作資料、票價與劇情摘要；把電影轉成合作條件與同意工具，是Curator OS的應用推論，不能把虛構衝突直接視為所有開發或職涯機會的證據。\n【原創模擬】真正同意五問、最小試行方案與七天機會條件化訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-05-participation",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "國際民眾參與策展實作",
+    "lens": "青少年安全空間與規則共同治理",
+    "source": "MoMA《Open Art Space: Taking Back Our Space》官方資料（查證截至2026-11-05）",
+    "title": "當MoMA把Open Art Space描述為讓所有青少年感到安全、被支持且能做自己的空間，參與式策展如何把「安全」從機構承諾變成青少年可共同修改的規則、退出方式與回饋權？",
+    "summary": "把安全空間拆成可觀察的進入、同意、影像使用、拒絕、求助與改規則機制，讓青少年不只被照顧，也能共同治理活動。",
+    "questions": [
+      "誰定義安全，青少年能否不同意機構的定義？",
+      "拍攝Polaroid前，參與者如何同意被拍與照片後續使用？",
+      "不想談性別、權力或自我形象的人能否等值參與？",
+      "走進活動後，能否暫停、離開再回來而不必解釋？",
+      "工作人員、藝術家與同儕之間的權力差如何被說明？",
+      "OMNY卡、點心與材料解決哪些實際門檻，還遺漏哪些？",
+      "青少年能否改變問題、材料、空間配置或分享規則？",
+      "發生不舒服的互動時，求助路徑是否私密且可預測？",
+      "回饋是否只評價活動，還能改變下一週的規則？",
+      "機構要公開哪一項因青少年意見而做出的真實修改？"
+    ],
+    "strategy": "建立「青少年安全六權」：知情權／拒絕權／影像同意權／退出與返回權／求助權／改規則權。每場結束公開一項採納、一項未採納及原因。",
+    "task": "為一場90分鐘青少年影像活動寫六權卡，邀請三位青少年逐句刪改；再模擬被拍攝、拒絕分享、臨時離場與求助四種情境，修正一條最不清楚的規則。",
+    "training": "做75分鐘「安全不是形容詞」：15分鐘列風險，15分鐘寫六權卡，20分鐘角色演練，15分鐘設計匿名回饋與申訴路徑，最後10分鐘決定下次必須由參與者表決的一件事。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Open Art Space: Taking Back Our Space",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "MoMA於2026年11月5日16時至18時舉辦免費高中生工作坊《Open Art Space: Taking Back Our Space》。參與者先探索關於性別、權力與再現的攝影展，再使用道具創作Polaroid影像。官方說明RSVP受鼓勵但接受現場加入，無需藝術經驗，並提供點心、OMNY交通卡與材料；Open Art Space自述為讓青少年感到安全、被支持並能做自己的空間。",
+      "references": [
+        {
+          "title": "MoMA｜Open Art Space: Taking Back Our Space",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11828",
+          "accessedAt": "2026-11-05"
+        },
+        {
+          "title": "MoMA｜Open Art Space",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/programs/199",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月5日16時至18時舉辦免費高中生工作坊《Open Art Space: Taking Back Our Space》。參與者先探索關於性別、權力與再現的攝影展，再使用道具創作Polaroid影像。官方說明RSVP受鼓勵但接受現場加入，無需藝術經驗，並提供點心、OMNY交通卡與材料；Open Art Space自述為讓青少年感到安全、被支持並能做自己的空間。\n【事實／推論界線】官方可證實活動、對象、資源與機構承諾；參與者是否實際感到安全、是否能改變規則，必須由匿名回饋、事件紀錄與後續修改驗證。\n【原創模擬】青少年安全六權、四情境演練與採納公開機制由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-05-thinking",
+    "daily": true,
+    "date": "2026-11-05",
+    "category": "策展思考訓練",
+    "lens": "展示角度、物件背面與完整性假設",
+    "source": "The Metropolitan Museum of Art《Flip Sides: Seeing Korean Art Anew》官方資料（查證截至2026-11-05）",
+    "title": "當The Met刻意展示韓國藝術的內部、背面與難以觀看之處，策展分析如何判斷「最佳角度」是物件原有功能、歷史展示慣例，還是博物館為了製造完整形象而建立的正面？",
+    "summary": "以正面、背面、內部、使用面與修復面五種視角重做物件觀察，辨認展示技術如何決定觀眾以為作品是什麼。",
+    "questions": [
+      "物件在原本使用情境中，哪一面朝向誰？",
+      "博物館目前的正面由底座、燈光、標籤還是照片決定？",
+      "背面與內部能提供哪些製作、功能或修補證據？",
+      "旋轉物件會增加理解，還是破壞原有觀看秩序？",
+      "鏡面、數位模型與多視角攝影各自遺失了哪些尺度感？",
+      "所謂隱藏細節是歷史上不可見，還是現代展櫃使它不可見？",
+      "修復痕跡應被隱藏、標示，還是成為作品歷史的一部分？",
+      "一件宗教或實用物件的內部是否適合被完全公開？",
+      "觀眾看到更多角度後，是否真的更接近完整理解？",
+      "哪一個看不見的位置應保留未知，而不是以重建圖補滿？"
+    ],
+    "strategy": "建立「五面觀察圖」：展示正面／歷史使用面／背面／內部／修復面；逐面記錄可見證據、展示技術與倫理限制，禁止把多視角直接等同於完整真相。",
+    "task": "選一件器物，只看館方主圖寫100字；再找背面、底部或內部影像重寫100字，列出三項改判與兩項仍未知，最後提出一個不必翻動原件也能增加理解的展示方法。",
+    "training": "做60分鐘「作品不只一面」：10分鐘正面描述，15分鐘多視角比對，15分鐘畫使用方向，10分鐘辨認修復與底座介入，最後10分鐘寫一段承認觀看限制的標籤。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Flip Sides: Seeing Korean Art Anew",
+      "statusAsOf": "2026-11-05",
+      "latestUpdate": "The Met的《Flip Sides: Seeing Korean Art Anew》展出約50件館藏韓國藝術，超過半數首次展出，並透過內部、背面與難以觀看角度呈現金屬、木、陶瓷、織物與漆器的構造及功能。第二輪展件於2026年10月31日至2027年5月31日展出，館方並於2026年11月5日15時舉行專家導覽。",
+      "references": [
+        {
+          "title": "The Met｜Flip Sides: Seeing Korean Art Anew",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/exhibitions/flip-sides-seeing-korean-art-anew",
+          "accessedAt": "2026-11-05"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met的《Flip Sides: Seeing Korean Art Anew》展出約50件館藏韓國藝術，超過半數首次展出，並透過內部、背面與難以觀看角度呈現金屬、木、陶瓷、織物與漆器的構造及功能。第二輪展件於2026年10月31日至2027年5月31日展出，館方並於2026年11月5日15時舉行專家導覽。\n【事實／推論界線】官方頁面可證實件數、展示策略、材質範圍、輪替與活動時間；更多視角是否等於更完整或更尊重物件，仍需結合原始功能、宗教文化與保存倫理判斷。\n【原創模擬】五面觀察圖、多視角改寫與觀看限制標籤由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-06-curator",
     "daily": true,
     "date": "2026-11-06",
@@ -25307,90 +25307,6 @@
       ]
     },
     "rawText": "【來源事實】The Met的《Designing the Gilded Age》展出近120件Tiffany工作室水彩設計圖，並把部分圖稿與彩繪玻璃、馬賽克、琺瑯與燈具成品並置。官方指出工作坊作品幾乎都來自協作流程，受Tiffany僱用、經常包括移民與女性的藝術家將其願景轉為設計；展覽亦建立於長期修復研究，展期至2027年2月7日。\n【事實／推論界線】官方可證實展件數量、協作性、受僱者概況與修復脈絡；個別作品究竟由誰設計、製作或修改，仍需逐件檔案證據，不能由群體描述直接推定。\n【原創模擬】協作署名鏈、五角色調查與重排署名訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-06-thinking",
-    "daily": true,
-    "date": "2026-11-06",
-    "category": "策展思考訓練",
-    "lens": "風景畫、知識系統與缺席的土地關係",
-    "source": "The Metropolitan Museum of Art《Landscape Painting and Indigenous Plant Knowledge》官方資料（查證截至2026-11-06）",
-    "title": "當The Met以原住民族植物知識重新觀看美國風景畫，策展分析如何從畫面中的植物、照護與土地關係提出新問題，又不把活態知識降為替既有名畫補充物種名稱的註解？",
-    "summary": "把可見植物、土地使用、知識來源、照護實踐與畫面缺席分開分析，讓另一套知識系統真正改變問題，而非只增加資訊。",
-    "questions": [
-      "畫面中哪些植物可辨認，哪些只是類型化的綠色背景？",
-      "藝術家如何取得、忽略或轉譯當地土地知識？",
-      "作品呈現的是荒野、農耕、照護、移除還是殖民改造？",
-      "誰的季節、採集、燃燒與照護實踐沒有進入畫面？",
-      "植物名稱之外，知識還包含哪些關係、責任與使用規則？",
-      "專家解說是否改變作品核心問題，還是只增加旁註？",
-      "策展如何說明知識提供者的社群、權限與引用方式？",
-      "作品創作年代的土地狀態與今日有何不同？",
-      "哪些判斷來自畫面，哪些來自口述、科學或社群史料？",
-      "觀眾離開後能否指出一項自己原本看不見的土地關係？"
-    ],
-    "strategy": "使用「土地知識五層表」：畫面證據／物種辨識／使用與照護／歷史權力／當代責任。每加入一項外部知識，都說明來源、授權與它改變了哪個原問題。",
-    "task": "選一幅風景畫，先只記錄畫面可見植物與土地痕跡；再查一個在地社群的官方或授權資料，重寫三個問題，禁止只新增物種名稱，必須改變對土地使用或照護的理解。",
-    "training": "做75分鐘「從風景到關係」：15分鐘無資料觀看，20分鐘辨認植物與地表，20分鐘查知識來源，10分鐘標記缺席者，最後10分鐘寫出一項當代責任而非浪漫感想。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Landscape Painting and Indigenous Plant Knowledge",
-      "statusAsOf": "2026-11-06",
-      "latestUpdate": "The Met於2026年11月6日18時在美國館舉辦《Landscape Painting and Indigenous Plant Knowledge》。官方說明由Caroline Gillaspie與Chenae Bullock帶領觀看風景畫，討論人與自然關係，以及美洲原住民族照護土地的實踐；活動免費隨門票參加。",
-      "references": [
-        {
-          "title": "The Met｜Native American and Indigenous Heritage Month",
-          "publisher": "The Metropolitan Museum of Art",
-          "url": "https://www.metmuseum.org/hubs/native-american-and-indigenous-heritage-month",
-          "accessedAt": "2026-11-06"
-        }
-      ]
-    },
-    "rawText": "【來源事實】The Met於2026年11月6日18時在美國館舉辦《Landscape Painting and Indigenous Plant Knowledge》。官方說明由Caroline Gillaspie與Chenae Bullock帶領觀看風景畫，討論人與自然關係，以及美洲原住民族照護土地的實踐；活動免費隨門票參加。\n【事實／推論界線】官方可證實活動時間、講者、觀看對象與討論方向；特定畫作如何被重新理解、哪些知識可公開引用，須依活動內容、社群來源與授權判斷。\n【原創模擬】土地知識五層表、三問題重寫與當代責任訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-06-participation",
-    "daily": true,
-    "date": "2026-11-06",
-    "category": "國際民眾參與策展實作",
-    "lens": "自助提示、短講介入與參與路徑自主",
-    "source": "MoMA《Drop-in Drawing》官方資料（查證截至2026-11-06）",
-    "title": "當MoMA的Drop-in Drawing同時提供自助提示與短時間示範，參與式策展如何讓初學者獲得支持，又不讓示範者的畫法變成隱形標準，壓縮參與者選擇觀看、略過或另畫的自由？",
-    "summary": "把支持拆成可選提示、可跳過示範、不同難度入口與無成品退出，評估參與者是否能選擇路徑，而非是否畫得像。",
-    "questions": [
-      "參與者能否完全不看示範而仍取得材料與座位？",
-      "示範被描述為一種可能，還是正確畫法？",
-      "英文與西班牙文提示是否在內容與難度上等值？",
-      "不熟悉繪畫工具的人最先需要的是技法、時間還是允許試錯？",
-      "參與者可否只觀察、只畫局部或中途離開？",
-      "工作人員如何提供協助而不直接修改他人的圖？",
-      "不同提示是否涵蓋輪廓、空間、材質、記憶與身體感？",
-      "誰會因公開作畫與作品被看見而感到壓力？",
-      "活動應記錄完成張數，還是參與者選擇過的路徑？",
-      "哪一條提示因參與者的非預期使用而值得改寫？"
-    ],
-    "strategy": "建立「四路徑 drawing menu」：自由畫／文字提示／示範跟做／只看與口述；參與者可隨時切換，工作人員只記錄路徑選擇與切換原因，不評作品完成度。",
-    "task": "設計同一件雕塑的四種繪畫入口，邀請八人自由選擇與切換；記錄誰跳過示範、誰只觀察、誰改寫提示，最後刪除一條最像標準答案的指令。",
-    "training": "做60分鐘「示範不是答案」：15分鐘寫四路徑，15分鐘測試不同語言，15分鐘演練不接管的協助，10分鐘觀察退出，最後5分鐘依非預期用法改寫提示。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Drop-in Drawing—Brancusi: The Artist and His Studio",
-      "statusAsOf": "2026-11-06",
-      "latestUpdate": "MoMA於2026年11月6日17時30分至19時30分在《Brancusi: The Artist and His Studio》展廳舉辦Drop-in Drawing。官方說明活動向所有年齡開放，無需經驗、能力門檻或預約，提供材料與座位，並設有自助繪畫提示及藝術家帶領的短示範；提示提供英文與西班牙文版本。",
-      "references": [
-        {
-          "title": "MoMA｜Drop-in Drawing",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11763",
-          "accessedAt": "2026-11-06"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA於2026年11月6日17時30分至19時30分在《Brancusi: The Artist and His Studio》展廳舉辦Drop-in Drawing。官方說明活動向所有年齡開放，無需經驗、能力門檻或預約，提供材料與座位，並設有自助繪畫提示及藝術家帶領的短示範；提示提供英文與西班牙文版本。\n【事實／推論界線】官方可證實時間、地點、開放條件、資源與提示形式；示範是否形成壓力、雙語提示是否等值及參與者是否具有路徑自主，需要現場觀察與回饋。\n【原創模擬】四路徑drawing menu、八人切換測試與不接管協助訓練由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-06-family",
@@ -25483,6 +25399,90 @@
     "rawText": "【來源事實】National Gallery of Art於2026年11月6日14時至15時30分舉辦《Finding Awe: Agnes Martin’s Untitled #2》。官方將其設計為90分鐘日常暫停，邀請觀眾緩慢、正念地觀看Agnes Martin的1981年作品、共同討論並帶走可用於日常的敬畏練習；現場提供座椅與助聽設備，需登記。\n【事實／推論界線】官方可證實活動形式、時間、作品、設備與館方對敬畏研究的應用；個別觀眾是否感到敬畏、療癒或更具同理心，不能由參加活動直接推定。\n【原創模擬】無成果敬畏記錄、12分鐘觀察與七天微小敬畏訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-06-participation",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "國際民眾參與策展實作",
+    "lens": "自助提示、短講介入與參與路徑自主",
+    "source": "MoMA《Drop-in Drawing》官方資料（查證截至2026-11-06）",
+    "title": "當MoMA的Drop-in Drawing同時提供自助提示與短時間示範，參與式策展如何讓初學者獲得支持，又不讓示範者的畫法變成隱形標準，壓縮參與者選擇觀看、略過或另畫的自由？",
+    "summary": "把支持拆成可選提示、可跳過示範、不同難度入口與無成品退出，評估參與者是否能選擇路徑，而非是否畫得像。",
+    "questions": [
+      "參與者能否完全不看示範而仍取得材料與座位？",
+      "示範被描述為一種可能，還是正確畫法？",
+      "英文與西班牙文提示是否在內容與難度上等值？",
+      "不熟悉繪畫工具的人最先需要的是技法、時間還是允許試錯？",
+      "參與者可否只觀察、只畫局部或中途離開？",
+      "工作人員如何提供協助而不直接修改他人的圖？",
+      "不同提示是否涵蓋輪廓、空間、材質、記憶與身體感？",
+      "誰會因公開作畫與作品被看見而感到壓力？",
+      "活動應記錄完成張數，還是參與者選擇過的路徑？",
+      "哪一條提示因參與者的非預期使用而值得改寫？"
+    ],
+    "strategy": "建立「四路徑 drawing menu」：自由畫／文字提示／示範跟做／只看與口述；參與者可隨時切換，工作人員只記錄路徑選擇與切換原因，不評作品完成度。",
+    "task": "設計同一件雕塑的四種繪畫入口，邀請八人自由選擇與切換；記錄誰跳過示範、誰只觀察、誰改寫提示，最後刪除一條最像標準答案的指令。",
+    "training": "做60分鐘「示範不是答案」：15分鐘寫四路徑，15分鐘測試不同語言，15分鐘演練不接管的協助，10分鐘觀察退出，最後5分鐘依非預期用法改寫提示。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Drop-in Drawing—Brancusi: The Artist and His Studio",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "MoMA於2026年11月6日17時30分至19時30分在《Brancusi: The Artist and His Studio》展廳舉辦Drop-in Drawing。官方說明活動向所有年齡開放，無需經驗、能力門檻或預約，提供材料與座位，並設有自助繪畫提示及藝術家帶領的短示範；提示提供英文與西班牙文版本。",
+      "references": [
+        {
+          "title": "MoMA｜Drop-in Drawing",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11763",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月6日17時30分至19時30分在《Brancusi: The Artist and His Studio》展廳舉辦Drop-in Drawing。官方說明活動向所有年齡開放，無需經驗、能力門檻或預約，提供材料與座位，並設有自助繪畫提示及藝術家帶領的短示範；提示提供英文與西班牙文版本。\n【事實／推論界線】官方可證實時間、地點、開放條件、資源與提示形式；示範是否形成壓力、雙語提示是否等值及參與者是否具有路徑自主，需要現場觀察與回饋。\n【原創模擬】四路徑drawing menu、八人切換測試與不接管協助訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-06-thinking",
+    "daily": true,
+    "date": "2026-11-06",
+    "category": "策展思考訓練",
+    "lens": "風景畫、知識系統與缺席的土地關係",
+    "source": "The Metropolitan Museum of Art《Landscape Painting and Indigenous Plant Knowledge》官方資料（查證截至2026-11-06）",
+    "title": "當The Met以原住民族植物知識重新觀看美國風景畫，策展分析如何從畫面中的植物、照護與土地關係提出新問題，又不把活態知識降為替既有名畫補充物種名稱的註解？",
+    "summary": "把可見植物、土地使用、知識來源、照護實踐與畫面缺席分開分析，讓另一套知識系統真正改變問題，而非只增加資訊。",
+    "questions": [
+      "畫面中哪些植物可辨認，哪些只是類型化的綠色背景？",
+      "藝術家如何取得、忽略或轉譯當地土地知識？",
+      "作品呈現的是荒野、農耕、照護、移除還是殖民改造？",
+      "誰的季節、採集、燃燒與照護實踐沒有進入畫面？",
+      "植物名稱之外，知識還包含哪些關係、責任與使用規則？",
+      "專家解說是否改變作品核心問題，還是只增加旁註？",
+      "策展如何說明知識提供者的社群、權限與引用方式？",
+      "作品創作年代的土地狀態與今日有何不同？",
+      "哪些判斷來自畫面，哪些來自口述、科學或社群史料？",
+      "觀眾離開後能否指出一項自己原本看不見的土地關係？"
+    ],
+    "strategy": "使用「土地知識五層表」：畫面證據／物種辨識／使用與照護／歷史權力／當代責任。每加入一項外部知識，都說明來源、授權與它改變了哪個原問題。",
+    "task": "選一幅風景畫，先只記錄畫面可見植物與土地痕跡；再查一個在地社群的官方或授權資料，重寫三個問題，禁止只新增物種名稱，必須改變對土地使用或照護的理解。",
+    "training": "做75分鐘「從風景到關係」：15分鐘無資料觀看，20分鐘辨認植物與地表，20分鐘查知識來源，10分鐘標記缺席者，最後10分鐘寫出一項當代責任而非浪漫感想。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Landscape Painting and Indigenous Plant Knowledge",
+      "statusAsOf": "2026-11-06",
+      "latestUpdate": "The Met於2026年11月6日18時在美國館舉辦《Landscape Painting and Indigenous Plant Knowledge》。官方說明由Caroline Gillaspie與Chenae Bullock帶領觀看風景畫，討論人與自然關係，以及美洲原住民族照護土地的實踐；活動免費隨門票參加。",
+      "references": [
+        {
+          "title": "The Met｜Native American and Indigenous Heritage Month",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/hubs/native-american-and-indigenous-heritage-month",
+          "accessedAt": "2026-11-06"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met於2026年11月6日18時在美國館舉辦《Landscape Painting and Indigenous Plant Knowledge》。官方說明由Caroline Gillaspie與Chenae Bullock帶領觀看風景畫，討論人與自然關係，以及美洲原住民族照護土地的實踐；活動免費隨門票參加。\n【事實／推論界線】官方可證實活動時間、講者、觀看對象與討論方向；特定畫作如何被重新理解、哪些知識可公開引用，須依活動內容、社群來源與授權判斷。\n【原創模擬】土地知識五層表、三問題重寫與當代責任訓練由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-07-curator",
     "daily": true,
     "date": "2026-11-07",
@@ -25529,90 +25529,6 @@
       ]
     },
     "rawText": "【來源事實】MCA Chicago於2026年11月7日至2027年4月25日展出《Rashid Johnson: A Poem for Deep Thinkers》，涵蓋藝術家近三十年、超過70件作品。這是出生於芝加哥的Johnson繼2002年與2012年後第三次在MCA舉辦個展；展覽由Guggenheim與Modern Art Museum of Fort Worth策展團隊組織，MCA版本由Jack Schneider與Korina Hernandez負責。\n【事實／推論界線】官方可證實展期、作品規模、藝術家與MCA的展覽歷史及策展分工；各巡展站具體新增或刪除哪些作品，仍須逐站比對清單與展場資料。\n【原創模擬】巡展三線表、版本差異調查與重寫牆文訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-07-thinking",
-    "daily": true,
-    "date": "2026-11-07",
-    "category": "策展思考訓練",
-    "lens": "歷史激進性、當代經典化與證據時態",
-    "source": "National Gallery of Art《Impressionism and 19th-Century France》官方資料（查證截至2026-11-07）",
-    "title": "當National Gallery of Art以「印象派當年為何激進」帶領觀眾重看今日已成經典的Monet、Cassatt與Van Gogh，策展分析如何重建作品在十九世紀的制度衝突，而不把後來的名聲倒灌成當時人人都看得見的革命？",
-    "summary": "把作品形式、當時展覽制度、同期評價與後來經典化分成四層，要求每一個「激進」判斷回到當時可見的規則與反應。",
-    "questions": [
-      "作品挑戰了當時哪一條可具體指認的題材、技法或展覽規則？",
-      "哪些形式今日看來熟悉，卻在創作當時違反觀看慣例？",
-      "同期評論、沙龍制度或銷售資料提供了什麼證據？",
-      "藝術家本人是否使用「激進」語言，還是後來史家加上的分類？",
-      "Monet、Cassatt與Van Gogh面對的制度位置是否能被放在同一尺度比較？",
-      "哪些拒絕或爭議後來被成功傳記過度放大？",
-      "博物館的收藏與展示如何把曾經邊緣的作品變成必看經典？",
-      "若拿掉今日知名度，觀眾還能從畫面辨認哪些歷史斷裂？",
-      "導覽中的「當時」與「後來」是否被清楚標示？",
-      "哪一項反證會迫使我們把「革命」改寫成漸進、混合或局部變化？"
-    ],
-    "strategy": "使用「歷史時態四層卡」：作品可見證據／當時制度／同期反應／後來經典化。禁止用後來的高知名度證明當時的突破，並為每個形容詞標出證據年代。",
-    "task": "挑一件今日被視為經典的現代藝術作品，寫下三個常見的「突破」說法；為每個說法補一項同期證據與一項反證，再把其中一個過大的形容詞改成有時態、有範圍的判斷。",
-    "training": "做75分鐘「把革命放回當時」：15分鐘只看形式，20分鐘查制度規則，20分鐘讀同期反應，10分鐘追蹤後來收藏史，最後10分鐘用兩個不同時態重寫同一張標籤。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "華盛頓特區",
-      "title": "Impressionism and 19th-Century France",
-      "statusAsOf": "2026-11-07",
-      "latestUpdate": "National Gallery of Art於2026年11月7日15時至16時舉行《Impressionism and 19th-Century France》導覽。官方以Monet、Cassatt與Van Gogh等藝術家為例，透過細看與對話討論印象派如何以現代題材與新技法挑戰十九世紀藝術體制；活動在西館進行。",
-      "references": [
-        {
-          "title": "National Gallery of Art｜Impressionism and 19th-Century France",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/calendar/impressionism-and-19th-century-france?evd=202611072000",
-          "accessedAt": "2026-11-07"
-        }
-      ]
-    },
-    "rawText": "【來源事實】National Gallery of Art於2026年11月7日15時至16時舉行《Impressionism and 19th-Century France》導覽。官方以Monet、Cassatt與Van Gogh等藝術家為例，透過細看與對話討論印象派如何以現代題材與新技法挑戰十九世紀藝術體制；活動在西館進行。\n【事實／推論界線】官方可證實活動時間、方法、藝術家例子與主題方向；每件作品在創作當時究竟遭遇何種拒絕或爭議，須另以同期檔案逐件查證。\n【原創模擬】歷史時態四層卡、同期證據與反證練習由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-07-participation",
-    "daily": true,
-    "date": "2026-11-07",
-    "category": "國際民眾參與策展實作",
-    "lens": "功能顛覆、共同提示與可及性痕跡",
-    "source": "MoMA《The Impossible Book: Pamphlets as Sculptural Objects》官方資料（查證截至2026-11-07）",
-    "title": "當MoMA讓參與者以機會操作與材料遊戲共同製作不可讀、甚至不可用的書，參與式策展如何保留對書之功能的顛覆，又不讓「看不懂」成為排除仰賴清楚文字、觸覺順序或輔助閱讀者的新門檻？",
-    "summary": "將實驗物件與可及性痕跡雙軌保存：參與者可以破壞書的慣常功能，但仍留下製作規則、材料路徑與替代描述供他人進入。",
-    "questions": [
-      "誰決定一本書何時從可讀物變成雕塑？",
-      "參與者共同生成提示時，誰的語言最容易成為預設規則？",
-      "機會操作是真正分配決策權，還是把選擇交給隨機？",
-      "不可讀對識字者是遊戲，對仰賴清楚文字者可能是什麼？",
-      "觸覺、聲音或口述能否提供不依賴印刷文字的進入路徑？",
-      "三孔裝訂技法是必要支架，還是會限制對書的想像？",
-      "參與者能否拒絕某條提示、修改它或保留可用性？",
-      "合作成品如何標示每個人的決定而不強迫個別署名？",
-      "活動應保存最終物件、提示生成過程，還是失敗版本？",
-      "哪一項替代描述能增加可及性，又不把作品翻譯成單一答案？"
-    ],
-    "strategy": "建立「雙軌不可能書」：A軌允許破壞閱讀順序、材料與用途；B軌保留提示來源、操作順序、觸覺或聲音描述及可拒絕條款。評估重點是參與者是否改寫規則，而非成品是否奇特。",
-    "task": "邀請六人各寫一條讓書變得不可能的提示，隨機抽取三條製作原型；第二輪讓另一組人只靠替代描述理解操作，記錄無法進入的位置，最後由原作者決定修改提示或保留障礙並說明理由。",
-    "training": "做75分鐘「顛覆功能但不封閉入口」：15分鐘學裝訂，15分鐘共同寫提示，20分鐘機會操作，15分鐘做替代描述，最後10分鐘由未參與製作的人測試並回饋。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "The Impossible Book: Pamphlets as Sculptural Objects",
-      "statusAsOf": "2026-11-07",
-      "latestUpdate": "MoMA於2026年11月7日9時至11時舉辦免費但須登記、名額有限的《The Impossible Book》工作坊。藝術家kathy wu帶領成人與青少年參考超現實主義書籍與雕塑，學習三孔裝訂製作16頁小冊，並共同創造提示，以機會操作與材料遊戲把書轉成不可讀或可能不可用的物件。",
-      "references": [
-        {
-          "title": "MoMA｜The Impossible Book: Pamphlets as Sculptural Objects",
-          "publisher": "The Museum of Modern Art",
-          "url": "https://www.moma.org/calendar/events/11857",
-          "accessedAt": "2026-11-07"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA於2026年11月7日9時至11時舉辦免費但須登記、名額有限的《The Impossible Book》工作坊。藝術家kathy wu帶領成人與青少年參考超現實主義書籍與雕塑，學習三孔裝訂製作16頁小冊，並共同創造提示，以機會操作與材料遊戲把書轉成不可讀或可能不可用的物件。\n【事實／推論界線】官方可證實時間、對象、名額條件、技法、參照作品與提示方法；不可讀是否造成排除、參與者是否能改寫提示及替代描述是否存在，須以現場觀察與參與者回饋判斷。\n【原創模擬】雙軌不可能書、六人提示測試與替代描述訓練由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-07-family",
@@ -25699,6 +25615,90 @@
     "rawText": "【來源事實】MoMA於2026年11月7日13時30分放映Sergei Loznitsa的《Portrait》（2002，28分鐘、無對白）與《Settlement》（2001，80分鐘）。前者以正面姿態記錄俄羅斯農村人物與季節變化；後者觀察Oksochi一所鄉間精神醫療機構中身心障礙者的日常勞動、閱讀與用餐，同時呈現集體化、限制與制度歷史的較暗線索。\n【事實／推論界線】官方可證實影片年份、片長、形式、拍攝對象與館方摘要；人物是否感到平靜、受限或被理解，不能只由影像姿態與策展文字直接推定。\n【原創模擬】人物五格、開放問題與七天不把人定格訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-07-participation",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "國際民眾參與策展實作",
+    "lens": "功能顛覆、共同提示與可及性痕跡",
+    "source": "MoMA《The Impossible Book: Pamphlets as Sculptural Objects》官方資料（查證截至2026-11-07）",
+    "title": "當MoMA讓參與者以機會操作與材料遊戲共同製作不可讀、甚至不可用的書，參與式策展如何保留對書之功能的顛覆，又不讓「看不懂」成為排除仰賴清楚文字、觸覺順序或輔助閱讀者的新門檻？",
+    "summary": "將實驗物件與可及性痕跡雙軌保存：參與者可以破壞書的慣常功能，但仍留下製作規則、材料路徑與替代描述供他人進入。",
+    "questions": [
+      "誰決定一本書何時從可讀物變成雕塑？",
+      "參與者共同生成提示時，誰的語言最容易成為預設規則？",
+      "機會操作是真正分配決策權，還是把選擇交給隨機？",
+      "不可讀對識字者是遊戲，對仰賴清楚文字者可能是什麼？",
+      "觸覺、聲音或口述能否提供不依賴印刷文字的進入路徑？",
+      "三孔裝訂技法是必要支架，還是會限制對書的想像？",
+      "參與者能否拒絕某條提示、修改它或保留可用性？",
+      "合作成品如何標示每個人的決定而不強迫個別署名？",
+      "活動應保存最終物件、提示生成過程，還是失敗版本？",
+      "哪一項替代描述能增加可及性，又不把作品翻譯成單一答案？"
+    ],
+    "strategy": "建立「雙軌不可能書」：A軌允許破壞閱讀順序、材料與用途；B軌保留提示來源、操作順序、觸覺或聲音描述及可拒絕條款。評估重點是參與者是否改寫規則，而非成品是否奇特。",
+    "task": "邀請六人各寫一條讓書變得不可能的提示，隨機抽取三條製作原型；第二輪讓另一組人只靠替代描述理解操作，記錄無法進入的位置，最後由原作者決定修改提示或保留障礙並說明理由。",
+    "training": "做75分鐘「顛覆功能但不封閉入口」：15分鐘學裝訂，15分鐘共同寫提示，20分鐘機會操作，15分鐘做替代描述，最後10分鐘由未參與製作的人測試並回饋。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "The Impossible Book: Pamphlets as Sculptural Objects",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "MoMA於2026年11月7日9時至11時舉辦免費但須登記、名額有限的《The Impossible Book》工作坊。藝術家kathy wu帶領成人與青少年參考超現實主義書籍與雕塑，學習三孔裝訂製作16頁小冊，並共同創造提示，以機會操作與材料遊戲把書轉成不可讀或可能不可用的物件。",
+      "references": [
+        {
+          "title": "MoMA｜The Impossible Book: Pamphlets as Sculptural Objects",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/calendar/events/11857",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA於2026年11月7日9時至11時舉辦免費但須登記、名額有限的《The Impossible Book》工作坊。藝術家kathy wu帶領成人與青少年參考超現實主義書籍與雕塑，學習三孔裝訂製作16頁小冊，並共同創造提示，以機會操作與材料遊戲把書轉成不可讀或可能不可用的物件。\n【事實／推論界線】官方可證實時間、對象、名額條件、技法、參照作品與提示方法；不可讀是否造成排除、參與者是否能改寫提示及替代描述是否存在，須以現場觀察與參與者回饋判斷。\n【原創模擬】雙軌不可能書、六人提示測試與替代描述訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-07-thinking",
+    "daily": true,
+    "date": "2026-11-07",
+    "category": "策展思考訓練",
+    "lens": "歷史激進性、當代經典化與證據時態",
+    "source": "National Gallery of Art《Impressionism and 19th-Century France》官方資料（查證截至2026-11-07）",
+    "title": "當National Gallery of Art以「印象派當年為何激進」帶領觀眾重看今日已成經典的Monet、Cassatt與Van Gogh，策展分析如何重建作品在十九世紀的制度衝突，而不把後來的名聲倒灌成當時人人都看得見的革命？",
+    "summary": "把作品形式、當時展覽制度、同期評價與後來經典化分成四層，要求每一個「激進」判斷回到當時可見的規則與反應。",
+    "questions": [
+      "作品挑戰了當時哪一條可具體指認的題材、技法或展覽規則？",
+      "哪些形式今日看來熟悉，卻在創作當時違反觀看慣例？",
+      "同期評論、沙龍制度或銷售資料提供了什麼證據？",
+      "藝術家本人是否使用「激進」語言，還是後來史家加上的分類？",
+      "Monet、Cassatt與Van Gogh面對的制度位置是否能被放在同一尺度比較？",
+      "哪些拒絕或爭議後來被成功傳記過度放大？",
+      "博物館的收藏與展示如何把曾經邊緣的作品變成必看經典？",
+      "若拿掉今日知名度，觀眾還能從畫面辨認哪些歷史斷裂？",
+      "導覽中的「當時」與「後來」是否被清楚標示？",
+      "哪一項反證會迫使我們把「革命」改寫成漸進、混合或局部變化？"
+    ],
+    "strategy": "使用「歷史時態四層卡」：作品可見證據／當時制度／同期反應／後來經典化。禁止用後來的高知名度證明當時的突破，並為每個形容詞標出證據年代。",
+    "task": "挑一件今日被視為經典的現代藝術作品，寫下三個常見的「突破」說法；為每個說法補一項同期證據與一項反證，再把其中一個過大的形容詞改成有時態、有範圍的判斷。",
+    "training": "做75分鐘「把革命放回當時」：15分鐘只看形式，20分鐘查制度規則，20分鐘讀同期反應，10分鐘追蹤後來收藏史，最後10分鐘用兩個不同時態重寫同一張標籤。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Impressionism and 19th-Century France",
+      "statusAsOf": "2026-11-07",
+      "latestUpdate": "National Gallery of Art於2026年11月7日15時至16時舉行《Impressionism and 19th-Century France》導覽。官方以Monet、Cassatt與Van Gogh等藝術家為例，透過細看與對話討論印象派如何以現代題材與新技法挑戰十九世紀藝術體制；活動在西館進行。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Impressionism and 19th-Century France",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/impressionism-and-19th-century-france?evd=202611072000",
+          "accessedAt": "2026-11-07"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月7日15時至16時舉行《Impressionism and 19th-Century France》導覽。官方以Monet、Cassatt與Van Gogh等藝術家為例，透過細看與對話討論印象派如何以現代題材與新技法挑戰十九世紀藝術體制；活動在西館進行。\n【事實／推論界線】官方可證實活動時間、方法、藝術家例子與主題方向；每件作品在創作當時究竟遭遇何種拒絕或爭議，須另以同期檔案逐件查證。\n【原創模擬】歷史時態四層卡、同期證據與反證練習由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-08-curator",
     "daily": true,
     "date": "2026-11-08",
@@ -25745,96 +25745,6 @@
       ]
     },
     "rawText": "【來源事實】Guggenheim New York於2026年9月18日至2027年3月14日展出《Father Country I Do Love You》。官方稱計畫歷時近十年，以42件作品追索一位未具名聯邦探員的真實人生，結合照片、文字、影像與雕塑形成占滿圓形大廳的互動裝置。\n【事實／推論界線】官方可證實展期、媒材、作品數、主角匿名及空間規模；匿名是否增加權威感、動線是否暗示因果，以及缺席者如何被代表，需由展場、作品來源與受影響者資料另行檢驗。\n【原創模擬】四層證據牆、匿名證據壓力測試與刪除無來源因果句由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-08-thinking",
-    "daily": true,
-    "date": "2026-11-08",
-    "category": "策展思考訓練",
-    "lens": "場域關係、季節變量與可重複觀察",
-    "source": "National Gallery of Art《Sculpture Garden Tours》官方資料（查證截至2026-11-08）",
-    "title": "當National Gallery of Art以戶外導覽討論二十多件現當代雕塑與景觀的關係，而且行程會因過熱或下雨取消時，策展分析如何把光線、植栽、天氣與身體路徑視為可變證據，而不是把場域關係寫成永遠不變的作品屬性？",
-    "summary": "用同點重訪、變量紀錄與不變條件三步驟，區分作品本身、基地配置與當日環境共同產生的觀看結果。",
-    "questions": [
-      "哪些判斷來自雕塑本身，哪些來自它目前的位置與朝向？",
-      "光線改變後，哪些體量、孔洞或表面才開始可見？",
-      "植栽的季節變化會遮擋、框景或改寫哪些關係？",
-      "雨、熱與風如何改變停留時間與可接近性？",
-      "導覽路徑是否把某一面固定成作品的正面？",
-      "身高、移動速度與輔具會產生哪些不同視線？",
-      "作品移至室內後，哪一項判斷仍成立？",
-      "哪些景觀關係是策展配置，哪些只是當日巧合？",
-      "如何用照片、時間、方位與天氣留下可比較紀錄？",
-      "至少重訪幾次，才足以把一次感受寫成場域判斷？"
-    ],
-    "strategy": "建立「場域變量紀錄表」：固定觀察點、時間、方位與身體路徑，再分別記錄光、植栽、溫度、風雨與人流；把重複出現的關係與單日偶發效果分開。",
-    "task": "選一件戶外作品，在同一天早晚或兩個不同天氣各觀察20分鐘；用同一取景點記錄五項變化，最後只保留跨兩次觀察仍成立的兩項場域判斷。",
-    "training": "做70分鐘「同點重訪」：10分鐘畫方位，兩輪各20分鐘觀察，10分鐘比較變量，最後10分鐘把一個過度固定的形容詞改寫成帶有時間與條件的句子。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "華盛頓特區",
-      "title": "Sculpture Garden Tours",
-      "statusAsOf": "2026-11-08",
-      "latestUpdate": "National Gallery of Art於2026年11月8日14時至15時舉行戶外雕塑花園導覽，介紹二十多件現代與當代雕塑、作品故事及其與景觀環境的關係。官方說明導覽為季節性活動，並可能因過熱或下雨取消。",
-      "references": [
-        {
-          "title": "National Gallery of Art｜Sculpture Garden Tours",
-          "publisher": "National Gallery of Art",
-          "url": "https://www.nga.gov/calendar/sculpture-garden-tours?evd=202611081900",
-          "accessedAt": "2026-11-08"
-        }
-      ]
-    },
-    "rawText": "【來源事實】National Gallery of Art於2026年11月8日14時至15時舉行戶外雕塑花園導覽，介紹二十多件現代與當代雕塑、作品故事及其與景觀環境的關係；活動為季節性，可能因過熱或下雨取消。\n【事實／推論界線】官方可證實時間、作品數量範圍、導覽主題與天候條件；光線、植栽、人流如何改變每件作品，須以多時段現場紀錄逐件驗證。\n【原創模擬】場域變量紀錄表、同點重訪與條件式改寫由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-08-participation",
-    "daily": true,
-    "date": "2026-11-08",
-    "category": "國際民眾參與策展實作",
-    "lens": "ASL原生詮釋、語言權力與回饋閉環",
-    "source": "Guggenheim《ASL Tour of Taryn Simon: Father Country I Do Love You》官方資料（查證截至2026-11-08）",
-    "title": "當Guggenheim邀請D／聾社群以美國手語探索Taryn Simon展覽，參與式策展如何把ASL視為能生成空間、節奏與意義的原生詮釋，而不是把既有口語導覽縮短後翻成手語？",
-    "summary": "讓ASL使用者在選件、停留節奏、術語與回饋上擁有決定權，並把手語導覽產生的新問題回寫到一般展覽詮釋。",
-    "questions": [
-      "ASL使用者是否參與選擇作品與安排導覽順序？",
-      "哪些概念需要由手語建立，而不是逐句對應英文術語？",
-      "圓形大廳的視線、距離與站位是否支持同時看見手語與作品？",
-      "誰決定每一站的停留節奏與提問方式？",
-      "參與者可以打斷、改寫或補充導覽敘事嗎？",
-      "活動資訊與報名流程是否以D／聾社群可直接使用的方式提供？",
-      "若作品含聲音或文字，替代資訊是否保留其結構而非只給摘要？",
-      "手語導覽產生的觀點會不會回到牆文、網站或一般導覽？",
-      "如何避免把一次專場當成機構已完成可及性的證明？",
-      "活動後由誰判斷成功，參與者的標準如何被保存？"
-    ],
-    "strategy": "採用「ASL先行迴路」：共同選件與站位／以ASL生成概念／現場可改變節奏／收集社群判準／把新詮釋回寫到公開資源。避免只測量到場人數。",
-    "task": "為一場五站導覽製作雙版本腳本：先以視覺注意、站位與手語節奏設計，再與原口語腳本比較；找出三處不能逐句翻譯的概念，邀請ASL使用者決定替代結構。",
-    "training": "做80分鐘「不是翻譯附加層」：20分鐘檢查站位與視線，20分鐘拆解術語，20分鐘模擬可中斷的導覽，10分鐘建立回饋問題，最後10分鐘指定一項會回寫到全館詮釋的改變。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "ASL Tour of Taryn Simon: Father Country I Do Love You",
-      "statusAsOf": "2026-11-08",
-      "latestUpdate": "Guggenheim於2026年11月8日18時30分舉辦《Father Country I Do Love You》ASL導覽，官方邀請D／聾社群與教育者Joyce Hom以美國手語探索展覽。當日活動屬館方無障礙導覽計畫，展覽本身涵蓋照片、文字、影像與雕塑。",
-      "references": [
-        {
-          "title": "Guggenheim｜Calendar: ASL Tour of Taryn Simon",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/",
-          "accessedAt": "2026-11-08"
-        },
-        {
-          "title": "Guggenheim｜Mind’s Eye: Taryn Simon: Father Country I Do Love You",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/event/minds-eye-taryn-simonfather-countryi-do-love-you",
-          "accessedAt": "2026-11-08"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Guggenheim於2026年11月8日18時30分舉辦《Father Country I Do Love You》ASL導覽，官方邀請D／聾社群與教育者Joyce Hom以美國手語探索展覽。\n【事實／推論界線】官方可證實日期、時間、對象、語言、教育者與展覽；ASL使用者是否共同選件、能否改變節奏，以及新觀點是否回寫到一般詮釋，須由活動設計與參與者回饋查證。\n【原創模擬】ASL先行迴路、雙版本腳本與全館回寫機制由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-08-family",
@@ -25927,6 +25837,96 @@
     "rawText": "【來源事實】MoMA於2026年11月8日17時放映Valeska Grisebach的2026年電影《The Dreamed Adventure》。官方摘要指出故事位於保加利亞、希臘與土耳其交界的Svilengrad，兩位久別返鄉者重逢，地方勢力、舊帳與舊情使Veska必須協商自己在危險領域中自由移動的欲望；影片使用幾乎全由非職業演員組成的群戲，並獲坎城影展評審團獎。\n【事實／推論界線】官方可證實放映資訊、場景、角色關係、敘事衝突、演員構成與獲獎；「回去」在任何真實人生中是否安全或值得，不能由電影情節代替當事人的資源與風險評估。\n【原創模擬】返鄉自由地圖、三路徑任務與七天紀錄由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-08-participation",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "國際民眾參與策展實作",
+    "lens": "ASL原生詮釋、語言權力與回饋閉環",
+    "source": "Guggenheim《ASL Tour of Taryn Simon: Father Country I Do Love You》官方資料（查證截至2026-11-08）",
+    "title": "當Guggenheim邀請D／聾社群以美國手語探索Taryn Simon展覽，參與式策展如何把ASL視為能生成空間、節奏與意義的原生詮釋，而不是把既有口語導覽縮短後翻成手語？",
+    "summary": "讓ASL使用者在選件、停留節奏、術語與回饋上擁有決定權，並把手語導覽產生的新問題回寫到一般展覽詮釋。",
+    "questions": [
+      "ASL使用者是否參與選擇作品與安排導覽順序？",
+      "哪些概念需要由手語建立，而不是逐句對應英文術語？",
+      "圓形大廳的視線、距離與站位是否支持同時看見手語與作品？",
+      "誰決定每一站的停留節奏與提問方式？",
+      "參與者可以打斷、改寫或補充導覽敘事嗎？",
+      "活動資訊與報名流程是否以D／聾社群可直接使用的方式提供？",
+      "若作品含聲音或文字，替代資訊是否保留其結構而非只給摘要？",
+      "手語導覽產生的觀點會不會回到牆文、網站或一般導覽？",
+      "如何避免把一次專場當成機構已完成可及性的證明？",
+      "活動後由誰判斷成功，參與者的標準如何被保存？"
+    ],
+    "strategy": "採用「ASL先行迴路」：共同選件與站位／以ASL生成概念／現場可改變節奏／收集社群判準／把新詮釋回寫到公開資源。避免只測量到場人數。",
+    "task": "為一場五站導覽製作雙版本腳本：先以視覺注意、站位與手語節奏設計，再與原口語腳本比較；找出三處不能逐句翻譯的概念，邀請ASL使用者決定替代結構。",
+    "training": "做80分鐘「不是翻譯附加層」：20分鐘檢查站位與視線，20分鐘拆解術語，20分鐘模擬可中斷的導覽，10分鐘建立回饋問題，最後10分鐘指定一項會回寫到全館詮釋的改變。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "ASL Tour of Taryn Simon: Father Country I Do Love You",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "Guggenheim於2026年11月8日18時30分舉辦《Father Country I Do Love You》ASL導覽，官方邀請D／聾社群與教育者Joyce Hom以美國手語探索展覽。當日活動屬館方無障礙導覽計畫，展覽本身涵蓋照片、文字、影像與雕塑。",
+      "references": [
+        {
+          "title": "Guggenheim｜Calendar: ASL Tour of Taryn Simon",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/",
+          "accessedAt": "2026-11-08"
+        },
+        {
+          "title": "Guggenheim｜Mind’s Eye: Taryn Simon: Father Country I Do Love You",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/minds-eye-taryn-simonfather-countryi-do-love-you",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Guggenheim於2026年11月8日18時30分舉辦《Father Country I Do Love You》ASL導覽，官方邀請D／聾社群與教育者Joyce Hom以美國手語探索展覽。\n【事實／推論界線】官方可證實日期、時間、對象、語言、教育者與展覽；ASL使用者是否共同選件、能否改變節奏，以及新觀點是否回寫到一般詮釋，須由活動設計與參與者回饋查證。\n【原創模擬】ASL先行迴路、雙版本腳本與全館回寫機制由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-08-thinking",
+    "daily": true,
+    "date": "2026-11-08",
+    "category": "策展思考訓練",
+    "lens": "場域關係、季節變量與可重複觀察",
+    "source": "National Gallery of Art《Sculpture Garden Tours》官方資料（查證截至2026-11-08）",
+    "title": "當National Gallery of Art以戶外導覽討論二十多件現當代雕塑與景觀的關係，而且行程會因過熱或下雨取消時，策展分析如何把光線、植栽、天氣與身體路徑視為可變證據，而不是把場域關係寫成永遠不變的作品屬性？",
+    "summary": "用同點重訪、變量紀錄與不變條件三步驟，區分作品本身、基地配置與當日環境共同產生的觀看結果。",
+    "questions": [
+      "哪些判斷來自雕塑本身，哪些來自它目前的位置與朝向？",
+      "光線改變後，哪些體量、孔洞或表面才開始可見？",
+      "植栽的季節變化會遮擋、框景或改寫哪些關係？",
+      "雨、熱與風如何改變停留時間與可接近性？",
+      "導覽路徑是否把某一面固定成作品的正面？",
+      "身高、移動速度與輔具會產生哪些不同視線？",
+      "作品移至室內後，哪一項判斷仍成立？",
+      "哪些景觀關係是策展配置，哪些只是當日巧合？",
+      "如何用照片、時間、方位與天氣留下可比較紀錄？",
+      "至少重訪幾次，才足以把一次感受寫成場域判斷？"
+    ],
+    "strategy": "建立「場域變量紀錄表」：固定觀察點、時間、方位與身體路徑，再分別記錄光、植栽、溫度、風雨與人流；把重複出現的關係與單日偶發效果分開。",
+    "task": "選一件戶外作品，在同一天早晚或兩個不同天氣各觀察20分鐘；用同一取景點記錄五項變化，最後只保留跨兩次觀察仍成立的兩項場域判斷。",
+    "training": "做70分鐘「同點重訪」：10分鐘畫方位，兩輪各20分鐘觀察，10分鐘比較變量，最後10分鐘把一個過度固定的形容詞改寫成帶有時間與條件的句子。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區",
+      "title": "Sculpture Garden Tours",
+      "statusAsOf": "2026-11-08",
+      "latestUpdate": "National Gallery of Art於2026年11月8日14時至15時舉行戶外雕塑花園導覽，介紹二十多件現代與當代雕塑、作品故事及其與景觀環境的關係。官方說明導覽為季節性活動，並可能因過熱或下雨取消。",
+      "references": [
+        {
+          "title": "National Gallery of Art｜Sculpture Garden Tours",
+          "publisher": "National Gallery of Art",
+          "url": "https://www.nga.gov/calendar/sculpture-garden-tours?evd=202611081900",
+          "accessedAt": "2026-11-08"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art於2026年11月8日14時至15時舉行戶外雕塑花園導覽，介紹二十多件現代與當代雕塑、作品故事及其與景觀環境的關係；活動為季節性，可能因過熱或下雨取消。\n【事實／推論界線】官方可證實時間、作品數量範圍、導覽主題與天候條件；光線、植栽、人流如何改變每件作品，須以多時段現場紀錄逐件驗證。\n【原創模擬】場域變量紀錄表、同點重訪與條件式改寫由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-09-curator",
     "daily": true,
     "date": "2026-11-09",
@@ -25967,90 +25967,6 @@
       ]
     },
     "rawText": "【來源事實】Walker Art Center首屆設計三年展《Beyond Materialism》展期為2026年10月17日至2027年2月14日；官方列出26組設計者與團體、超過95件作品、13國，並提出當代設計正從利潤與消費轉向靈性培養。展覽涵蓋傳統工藝、政治與環境評論、互動拼布與聲音混音裝置。\n【事實／推論界線】官方可證實展期、規模、參展者與策展命題；展覽是否真的超越物質主義、是否改變社群權力或消費行為，需由作品生產條件、參與結果與後續資料驗證。\n【原創模擬】命題—證據—反證—物質鏈表、150字改寫任務與反口號訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-09-thinking",
-    "daily": true,
-    "date": "2026-11-09",
-    "category": "策展思考訓練",
-    "lens": "口述史、表演證據與媒體編輯",
-    "source": "Museum of the Moving Image〈Criterion presents The Craft of Acting: Léa Seydoux〉官方活動資料（查證截至2026-11-09）",
-    "title": "當Museum of the Moving Image把Léa Seydoux談表演技藝與影響來源的現場對談錄成Criterion節目，策展思考如何區分演員事後自述、影片中的可見選擇、主持人框架與錄製剪輯，而不把明星回憶直接當成表演史事實？",
-    "summary": "用四層證據閱讀藝人自述，既保留第一人稱經驗，也不讓名望、回憶與節目剪輯取代可核對的作品分析。",
-    "questions": [
-      "演員說自己如何表演，與畫面中實際可見的身體、聲音與節奏是否一致？",
-      "她提到的影響來源是當時留下的紀錄，還是事後形成的敘事？",
-      "主持人的問題預設了哪些職涯轉折、作者觀或明星形象？",
-      "現場對談的停頓、修正與含混在成品中會被保留多少？",
-      "哪些片段能由電影、劇本、訪談或合作者說法交叉核對？",
-      "攝影、剪輯、導演與對手演員如何共同形成被歸功於一人的表演？",
-      "觀眾是否因熟悉明星而對她的說法給予過高可信度？",
-      "不同時期的自述若互相矛盾，應如何保留變化而非選一個真相？",
-      "錄影節目成為檔案後，誰決定標題、摘要、片段與搜尋關鍵字？",
-      "策展文字如何同時標示「她如此記得」與「作品可見證據顯示」？"
-    ],
-    "strategy": "建立「自述／作品可見證據／他者佐證／編輯框架」四層註記。第一人稱內容以引述立場保存，作品分析以具體場景支持，合作者與製作資料用於交叉核對，節目形式則標示主持、錄製與剪輯的介入。",
-    "task": "挑一段10分鐘藝人訪談與一個相關作品片段，做四層註記；找出1項相符、1項矛盾與1項無法驗證的主張，寫成250字不把自述當定論的節目說明。",
-    "training": "連續七天各分析一段人物自述：每天只記錄一句主張、一個作品證據、一個缺席視角與一個編輯選擇；第七天比較哪些敘事最容易因名望而被誤認為事實。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "Criterion presents The Craft of Acting: Léa Seydoux",
-      "statusAsOf": "2026-11-09",
-      "latestUpdate": "Museum of the Moving Image於2026年11月9日19時舉行Criterion Channel原創系列《The Craft of Acting》的特別現場錄製。Léa Seydoux與作者Isaac Butler對談其職涯與表演技藝，並回顧啟發她的演員與電影。",
-      "references": [
-        {
-          "title": "Museum of the Moving Image｜Criterion presents The Craft of Acting: Léa Seydoux",
-          "publisher": "Museum of the Moving Image",
-          "url": "https://movingimage.org/events/category/event/list/?tribe-bar-date=2026-11-09",
-          "accessedAt": "2026-11-09"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Museum of the Moving Image於2026年11月9日19時舉行Criterion Channel原創系列《The Craft of Acting》的特別現場錄製；官方說明Léa Seydoux將與作者Isaac Butler談職涯、表演技藝及啟發她的演員與電影。\n【事實／推論界線】官方可證實活動時間、形式、對談者與預定主題；談話內容尚未發生前不能視為既成史實，演員的自述也需與作品、製作紀錄及其他參與者觀點交叉閱讀。\n【原創模擬】四層註記、250字說明與七天訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-09-participation",
-    "daily": true,
-    "date": "2026-11-09",
-    "category": "國際民眾參與實作",
-    "lens": "口述影像、描述權與共同修正",
-    "source": "Solomon R. Guggenheim Museum〈Mind’s Eye: Taryn Simon—FATHER COUNTRY I DO LOVE YOU〉官方活動資料（查證截至2026-11-09）",
-    "title": "當Guggenheim以口述影像與對話邀請盲人及低視力參與者在線探索Taryn Simon展覽，參與式策展如何讓描述者公開自己的選擇、允許參與者補充與否定，而不把看得見者的視覺排序當成唯一作品？",
-    "summary": "把口述影像從單向翻譯改成可追問、可修正的共同描述，讓參與者不只接收資訊，也能改變作品被理解的次序與語言。",
-    "questions": [
-      "誰決定先描述整體、人物、文字、色彩、尺度或空間位置？",
-      "描述中哪些是可觀察資訊，哪些已經加入情緒與詮釋？",
-      "參與者能否中斷、追問、要求重述或改變觀看順序？",
-      "不同盲人與低視力參與者需要的細節、速度與語彙是否相同？",
-      "作品涉及機密、缺席與權力時，描述如何避免把隱喻說成事實？",
-      "聲音、觸覺、身體尺度與空間方向能否成為視覺之外的入口？",
-      "線上形式移除了哪些交通門檻，又新增哪些設備與網路門檻？",
-      "參與者提出的詞彙與問題會不會回到展覽標籤或未來場次？",
-      "免費但名額有限與須提前回覆，實際排除了哪些人？",
-      "如何記錄描述版本的修正，而不蒐集不必要的障礙身分資料？"
-    ],
-    "strategy": "採用「描述—詢問—重述—回寫」循環：先清楚分開觀察與詮釋，再請參與者選擇細節與順序；把不同版本與爭議詞彙記入描述日誌，於下一場及展覽文字中公開修正。",
-    "task": "選一件含有文字與空間關係的作品，錄製90秒初版口述影像；邀請兩位使用者各提出3個缺漏與1個不當推論，完成第二版並附上修改紀錄。",
-    "training": "做四輪「同一作品、四種入口」：只用空間方向、只用材質與身體感、只用文字資訊、最後由參與者自行排序；比較每輪遺漏與新增的權力線索。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "線上／紐約",
-      "title": "Mind’s Eye: Taryn Simon—FATHER COUNTRY I DO LOVE YOU",
-      "statusAsOf": "2026-11-09",
-      "latestUpdate": "Guggenheim於2026年11月9日18至20時舉辦線上Mind’s Eye活動，透過口述影像與對話，邀請盲人及低視力參與者探索Taryn Simon展覽《FATHER COUNTRY I DO LOVE YOU》。活動免費、名額有限，並要求於活動前三天回覆參加。",
-      "references": [
-        {
-          "title": "Guggenheim｜Mind’s Eye: Taryn Simon—FATHER COUNTRY I DO LOVE YOU",
-          "publisher": "Solomon R. Guggenheim Museum",
-          "url": "https://www.guggenheim.org/event/minds-eye-taryn-simonfather-countryi-do-love-you",
-          "accessedAt": "2026-11-09"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Guggenheim於2026年11月9日18至20時舉辦線上Mind’s Eye活動，以口述影像與對話邀請盲人及低視力參與者探索Taryn Simon展覽；活動免費、名額有限，官方要求於活動前三天回覆。\n【事實／推論界線】官方可證實服務對象、線上形式、方法、時間、費用與名額條件；參與者是否能實際改變描述順序、詞彙或未來場次，需由活動流程與回寫紀錄驗證。\n【原創模擬】描述—詢問—重述—回寫循環、雙使用者改版任務與四輪訓練由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-09-family",
@@ -26137,6 +26053,90 @@
     "rawText": "【來源事實】Barbican於2026年11月7日至9日安排《La Bola Negra》親子場；官方資料記載影片為2026年西班牙製作、片長2小時35分、由Javier Ambrossi與Javier Calvo執導，以1932、1937與2017三個時段構成三聯作，2017段由歷史學者意外繼承祖父文件展開，探索酷兒身分、傳承與慾望。票價6英鎊並提供口述影像。\n【事實／推論界線】官方可證實放映、製作與情節資料；任何真實家族的文件、沉默或傳聞都不能套用電影結論，人物身分與創傷尤其需要同意、獨立佐證與隱私判斷。\n【原創模擬】五層檔案、一頁來源卡與七日保留不知道訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-09-participation",
+    "daily": true,
+    "date": "2026-11-09",
+    "category": "國際民眾參與實作",
+    "lens": "口述影像、描述權與共同修正",
+    "source": "Solomon R. Guggenheim Museum〈Mind’s Eye: Taryn Simon—FATHER COUNTRY I DO LOVE YOU〉官方活動資料（查證截至2026-11-09）",
+    "title": "當Guggenheim以口述影像與對話邀請盲人及低視力參與者在線探索Taryn Simon展覽，參與式策展如何讓描述者公開自己的選擇、允許參與者補充與否定，而不把看得見者的視覺排序當成唯一作品？",
+    "summary": "把口述影像從單向翻譯改成可追問、可修正的共同描述，讓參與者不只接收資訊，也能改變作品被理解的次序與語言。",
+    "questions": [
+      "誰決定先描述整體、人物、文字、色彩、尺度或空間位置？",
+      "描述中哪些是可觀察資訊，哪些已經加入情緒與詮釋？",
+      "參與者能否中斷、追問、要求重述或改變觀看順序？",
+      "不同盲人與低視力參與者需要的細節、速度與語彙是否相同？",
+      "作品涉及機密、缺席與權力時，描述如何避免把隱喻說成事實？",
+      "聲音、觸覺、身體尺度與空間方向能否成為視覺之外的入口？",
+      "線上形式移除了哪些交通門檻，又新增哪些設備與網路門檻？",
+      "參與者提出的詞彙與問題會不會回到展覽標籤或未來場次？",
+      "免費但名額有限與須提前回覆，實際排除了哪些人？",
+      "如何記錄描述版本的修正，而不蒐集不必要的障礙身分資料？"
+    ],
+    "strategy": "採用「描述—詢問—重述—回寫」循環：先清楚分開觀察與詮釋，再請參與者選擇細節與順序；把不同版本與爭議詞彙記入描述日誌，於下一場及展覽文字中公開修正。",
+    "task": "選一件含有文字與空間關係的作品，錄製90秒初版口述影像；邀請兩位使用者各提出3個缺漏與1個不當推論，完成第二版並附上修改紀錄。",
+    "training": "做四輪「同一作品、四種入口」：只用空間方向、只用材質與身體感、只用文字資訊、最後由參與者自行排序；比較每輪遺漏與新增的權力線索。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "線上／紐約",
+      "title": "Mind’s Eye: Taryn Simon—FATHER COUNTRY I DO LOVE YOU",
+      "statusAsOf": "2026-11-09",
+      "latestUpdate": "Guggenheim於2026年11月9日18至20時舉辦線上Mind’s Eye活動，透過口述影像與對話，邀請盲人及低視力參與者探索Taryn Simon展覽《FATHER COUNTRY I DO LOVE YOU》。活動免費、名額有限，並要求於活動前三天回覆參加。",
+      "references": [
+        {
+          "title": "Guggenheim｜Mind’s Eye: Taryn Simon—FATHER COUNTRY I DO LOVE YOU",
+          "publisher": "Solomon R. Guggenheim Museum",
+          "url": "https://www.guggenheim.org/event/minds-eye-taryn-simonfather-countryi-do-love-you",
+          "accessedAt": "2026-11-09"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Guggenheim於2026年11月9日18至20時舉辦線上Mind’s Eye活動，以口述影像與對話邀請盲人及低視力參與者探索Taryn Simon展覽；活動免費、名額有限，官方要求於活動前三天回覆。\n【事實／推論界線】官方可證實服務對象、線上形式、方法、時間、費用與名額條件；參與者是否能實際改變描述順序、詞彙或未來場次，需由活動流程與回寫紀錄驗證。\n【原創模擬】描述—詢問—重述—回寫循環、雙使用者改版任務與四輪訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-09-thinking",
+    "daily": true,
+    "date": "2026-11-09",
+    "category": "策展思考訓練",
+    "lens": "口述史、表演證據與媒體編輯",
+    "source": "Museum of the Moving Image〈Criterion presents The Craft of Acting: Léa Seydoux〉官方活動資料（查證截至2026-11-09）",
+    "title": "當Museum of the Moving Image把Léa Seydoux談表演技藝與影響來源的現場對談錄成Criterion節目，策展思考如何區分演員事後自述、影片中的可見選擇、主持人框架與錄製剪輯，而不把明星回憶直接當成表演史事實？",
+    "summary": "用四層證據閱讀藝人自述，既保留第一人稱經驗，也不讓名望、回憶與節目剪輯取代可核對的作品分析。",
+    "questions": [
+      "演員說自己如何表演，與畫面中實際可見的身體、聲音與節奏是否一致？",
+      "她提到的影響來源是當時留下的紀錄，還是事後形成的敘事？",
+      "主持人的問題預設了哪些職涯轉折、作者觀或明星形象？",
+      "現場對談的停頓、修正與含混在成品中會被保留多少？",
+      "哪些片段能由電影、劇本、訪談或合作者說法交叉核對？",
+      "攝影、剪輯、導演與對手演員如何共同形成被歸功於一人的表演？",
+      "觀眾是否因熟悉明星而對她的說法給予過高可信度？",
+      "不同時期的自述若互相矛盾，應如何保留變化而非選一個真相？",
+      "錄影節目成為檔案後，誰決定標題、摘要、片段與搜尋關鍵字？",
+      "策展文字如何同時標示「她如此記得」與「作品可見證據顯示」？"
+    ],
+    "strategy": "建立「自述／作品可見證據／他者佐證／編輯框架」四層註記。第一人稱內容以引述立場保存，作品分析以具體場景支持，合作者與製作資料用於交叉核對，節目形式則標示主持、錄製與剪輯的介入。",
+    "task": "挑一段10分鐘藝人訪談與一個相關作品片段，做四層註記；找出1項相符、1項矛盾與1項無法驗證的主張，寫成250字不把自述當定論的節目說明。",
+    "training": "連續七天各分析一段人物自述：每天只記錄一句主張、一個作品證據、一個缺席視角與一個編輯選擇；第七天比較哪些敘事最容易因名望而被誤認為事實。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "Criterion presents The Craft of Acting: Léa Seydoux",
+      "statusAsOf": "2026-11-09",
+      "latestUpdate": "Museum of the Moving Image於2026年11月9日19時舉行Criterion Channel原創系列《The Craft of Acting》的特別現場錄製。Léa Seydoux與作者Isaac Butler對談其職涯與表演技藝，並回顧啟發她的演員與電影。",
+      "references": [
+        {
+          "title": "Museum of the Moving Image｜Criterion presents The Craft of Acting: Léa Seydoux",
+          "publisher": "Museum of the Moving Image",
+          "url": "https://movingimage.org/events/category/event/list/?tribe-bar-date=2026-11-09",
+          "accessedAt": "2026-11-09"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Museum of the Moving Image於2026年11月9日19時舉行Criterion Channel原創系列《The Craft of Acting》的特別現場錄製；官方說明Léa Seydoux將與作者Isaac Butler談職涯、表演技藝及啟發她的演員與電影。\n【事實／推論界線】官方可證實活動時間、形式、對談者與預定主題；談話內容尚未發生前不能視為既成史實，演員的自述也需與作品、製作紀錄及其他參與者觀點交叉閱讀。\n【原創模擬】四層註記、250字說明與七天訓練由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-10-curator",
     "daily": true,
     "date": "2026-11-10",
@@ -26177,96 +26177,6 @@
       ]
     },
     "rawText": "【來源事實】Serpentine South於2026年10月8日至2027年1月10日免費展出Justin Caguiat首個英國機構個展《Change Ringing》。官方說明展覽結合繪畫、雕塑、版畫、聲音與影像；熱致變色作品回應溫度與光線，銅鐘依Lily Pickett創作的序列機械鳴響，建築牆面則聚集與放大聲音。\n【事實／推論界線】官方可證實展期、媒材、環境反應與聲音機制；哪些狀態應被視為作品版本、老化或故障，仍需藝術家、技術與典藏文件共同界定。\n【原創模擬】五層版本表、三次環境紀錄任務與七日訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-10-thinking",
-    "daily": true,
-    "date": "2026-11-10",
-    "category": "策展思考訓練",
-    "lens": "可演奏典藏、保存界線與聲音證據",
-    "source": "The Metropolitan Museum of Art〈The Appleton Performance Series with Organist Marco Jimenez〉及Appleton Organ官方資料（查證截至2026-11-10）",
-    "title": "當The Met讓1830年的Appleton管風琴由Marco Jimenez現場演奏時，策展分析如何區分「作為歷史物件被保存」與「作為樂器被使用」的價值，並說明每一次調音、供風與演奏如何改變觀眾所理解的原貌？",
-    "summary": "用物件狀態、功能啟動、現代介入與聽覺證據四層閱讀可使用典藏，避免把沉默等同保存、把發聲等同原貌。",
-    "questions": [
-      "這件管風琴的哪部分來自1830年，哪些部分在後來遷移或擴充？",
-      "現場演奏讓觀眾理解了哪些靜態展示無法提供的功能？",
-      "演奏前的調音、修復與安全檢查改變了什麼？",
-      "手動風箱與博物館加裝的電動鼓風機會產生何種不同證據？",
-      "曲目、編曲與演奏風格是否符合樂器原始使用年代？",
-      "今日展廳的聲學與原先教堂空間有何差異？",
-      "為了保存而限制音量、頻率或演奏次數，會失去哪些使用知識？",
-      "演奏造成的磨耗如何被衡量，又由誰決定可接受範圍？",
-      "觀眾聽到的是歷史聲音、當代重建，還是兩者共同生成的版本？",
-      "策展文字如何同時說明真實材料、後來改造與今日表演選擇？"
-    ],
-    "strategy": "建立「原始構件／歷史改造／博物館介入／當次演奏」四層時間表；每個聲音判斷都連回構件、供風方式、空間與曲目，避免使用「原汁原味」等無法驗證的說法。",
-    "task": "挑一件仍可操作的歷史物件或技術，分別寫出靜態展示與啟用展示各能證明的3件事；再列出啟用所需的現代介入，完成一張保存與使用的取捨表。",
-    "training": "進行四次「先看後聽」：先只從外觀推測功能，再閱讀結構資料、觀看操作、最後聆聽結果；每階段記錄一項被修正的判斷，練習不讓最終聲音抹去物件的改造史。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約",
-      "title": "The Appleton Performance Series with Organist Marco Jimenez",
-      "statusAsOf": "2026-11-10",
-      "latestUpdate": "The Met於2026年11月10日13時在第五大道館舍安排Marco Jimenez演奏館藏Appleton管風琴，活動隨門票免費參加。館方資料指出這件1830年管風琴是Thomas Appleton現存最早作品，後來曾移至另一座教堂並增設27鍵腳踏板；1983年正式安裝於The Met，現有836支音管，供風可使用手動風箱或館方加裝的電動鼓風機。",
-      "references": [
-        {
-          "title": "The Met｜Events Calendar—The Appleton Performance Series with Organist Marco Jimenez",
-          "publisher": "The Metropolitan Museum of Art",
-          "url": "https://www.metmuseum.org/events/calendar",
-          "accessedAt": "2026-11-10"
-        },
-        {
-          "title": "The Met｜The Met's Mighty Pipe Organ",
-          "publisher": "The Metropolitan Museum of Art",
-          "url": "https://www.metmuseum.org/pt/perspectives/appleton-organ-2",
-          "accessedAt": "2026-11-10"
-        }
-      ]
-    },
-    "rawText": "【來源事實】The Met於2026年11月10日13時安排Marco Jimenez演奏館藏Appleton管風琴，活動隨門票免費參加。館方另記載此琴製於1830年，是Thomas Appleton現存最早作品；後來曾遷移、增設27鍵腳踏板，1983年安裝於The Met，現有836支音管，可由手動風箱或館方加裝的電動鼓風機供風。\n【事實／推論界線】官方可證實活動、年代、遷移、改造與結構資料；當日曲目、供風方式、調音狀態及磨耗程度若未另有紀錄，不能預先推定。\n【原創模擬】四層時間表、保存與使用取捨表及先看後聽訓練由Curator OS設計。"
-  },
-  {
-    "id": "daily-2026-11-10-participation",
-    "daily": true,
-    "date": "2026-11-10",
-    "category": "國際民眾參與實作",
-    "lens": "參與方法、知識回饋與再使用權",
-    "source": "Serpentine Education and Civic《How We Hold: Rehearsals for Art and Social Change》官方資源（查證截至2026-11-10）",
-    "title": "當Serpentine把十年公民與教育計畫中的專案筆記、對話、文件與練習整理成免費資源《How We Hold》，參與式策展如何讓社群方法被他人使用，又不把兒童、勞工、移民與照護者的經驗抽成機構可自由複製的工具包？",
-    "summary": "用貢獻、同意、脈絡、再使用與回饋五項協議公開參與方法，讓知識能流動，也讓原參與者保有署名、限制與修正權。",
-    "questions": [
-      "哪些練習由誰發明，哪些是在共同工作中逐步形成？",
-      "專案筆記被出版前，參與者是否看過並能修正自己的描述？",
-      "兒童、勞工、移民與照護者的經驗如何避免被化成抽象案例？",
-      "免費下載是否也清楚說明署名、引用與改作條件？",
-      "新使用者需要知道哪些政治、制度與地方脈絡才能安全採用方法？",
-      "一套在危機中形成的練習，移到別處可能造成什麼傷害？",
-      "機構如何把銷售、流量或聲譽回饋給原貢獻者？",
-      "反對與異議是否保留原本的張力，還是被編輯成一致的成功故事？",
-      "使用者能否回報失敗、修改與新版本，形成雙向更新？",
-      "哪些內容應保持不可複製、限情境使用或不公開？"
-    ],
-    "strategy": "為每一項參與方法附「來源者／形成脈絡／同意範圍／可再使用條件／回饋路徑」卡；採用者必須記錄修改與結果，回傳原社群或資源維護者，不能只下載後斷開關係。",
-    "task": "挑一套公開參與工具，找出其中3項未標明的脈絡或權利問題；補寫一張五項協議卡，並設計一個能把使用結果回到原貢獻者的具體管道。",
-    "training": "做五次「方法不是無主物」檢查：每次使用一個他人設計的活動前，先寫來源、目的、受益者、不能照搬之處與回饋方式；完成後記錄一項失敗與一項修改。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "英國",
-      "location": "倫敦／線上",
-      "title": "How We Hold: Rehearsals for Art and Social Change",
-      "statusAsOf": "2026-11-10",
-      "latestUpdate": "Serpentine Education and Civic持續免費提供《How We Hold: Rehearsals for Art and Social Change》。官方說明出版品直接取材自十年藝術家與不同群體共同生成的計畫，收錄專案筆記、文件、對話、委託文章與練習，涵蓋幼兒、勞工組織者、教育者、照護者、青年與移民制度中的人；資源既可供機構使用，也設計為批判博物館與藝術組織之新自由主義及殖民教育、行政模式的工具。",
-      "references": [
-        {
-          "title": "Serpentine｜How We Hold: Rehearsals for Art and Social Change",
-          "publisher": "Serpentine Galleries",
-          "url": "https://www.serpentinegalleries.org/whats-on/how-we-hold-rehearsals-for-art-and-social-change-resource/",
-          "accessedAt": "2026-11-10"
-        }
-      ]
-    },
-    "rawText": "【來源事實】Serpentine Education and Civic持續免費提供《How We Hold》。官方說明資源直接取材自十年共同計畫，收錄專案筆記、文件、對話、委託文章與練習，參與者涵蓋幼兒、勞工組織者、教育者、照護者、青年與移民制度中的人；出版品也用來批判博物館與藝術組織的教育、行政模式。\n【事實／推論界線】官方可證實資源形式、取材範圍、貢獻者類型與公開目的；個別參與者的同意、報酬、修正權及再使用限制需由完整出版品與專案協議逐項查核。\n【原創模擬】五項協議卡、回饋任務與方法不是無主物訓練由Curator OS設計。"
   },
   {
     "id": "daily-2026-11-10-family",
@@ -26359,6 +26269,96 @@
     "rawText": "【來源事實】Barbican The Curve於2026年10月1日至2027年1月24日免費展出Yuko Mohri《In Concert》。官方資料記載作品運用回收物件、光、聲音、動力雕塑及磁力、濕度、空氣、水、重力等不穩定元素；指南把三件裝置描述為具有聲、光與水的持續變動洩漏輸出，並把修復連結到拒絕快速丟棄、時間、延續與共存。\n【事實／推論界線】官方可證實作品媒材、場域關係與修復論述；把藝術方法轉用到個人生活屬策展式推論，不能取代建築、醫療、法律或心理專業評估。\n【原創模擬】五階段修復表、48小時與30天任務及七日訓練由Curator OS設計。"
   },
   {
+    "id": "daily-2026-11-10-participation",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "國際民眾參與實作",
+    "lens": "參與方法、知識回饋與再使用權",
+    "source": "Serpentine Education and Civic《How We Hold: Rehearsals for Art and Social Change》官方資源（查證截至2026-11-10）",
+    "title": "當Serpentine把十年公民與教育計畫中的專案筆記、對話、文件與練習整理成免費資源《How We Hold》，參與式策展如何讓社群方法被他人使用，又不把兒童、勞工、移民與照護者的經驗抽成機構可自由複製的工具包？",
+    "summary": "用貢獻、同意、脈絡、再使用與回饋五項協議公開參與方法，讓知識能流動，也讓原參與者保有署名、限制與修正權。",
+    "questions": [
+      "哪些練習由誰發明，哪些是在共同工作中逐步形成？",
+      "專案筆記被出版前，參與者是否看過並能修正自己的描述？",
+      "兒童、勞工、移民與照護者的經驗如何避免被化成抽象案例？",
+      "免費下載是否也清楚說明署名、引用與改作條件？",
+      "新使用者需要知道哪些政治、制度與地方脈絡才能安全採用方法？",
+      "一套在危機中形成的練習，移到別處可能造成什麼傷害？",
+      "機構如何把銷售、流量或聲譽回饋給原貢獻者？",
+      "反對與異議是否保留原本的張力，還是被編輯成一致的成功故事？",
+      "使用者能否回報失敗、修改與新版本，形成雙向更新？",
+      "哪些內容應保持不可複製、限情境使用或不公開？"
+    ],
+    "strategy": "為每一項參與方法附「來源者／形成脈絡／同意範圍／可再使用條件／回饋路徑」卡；採用者必須記錄修改與結果，回傳原社群或資源維護者，不能只下載後斷開關係。",
+    "task": "挑一套公開參與工具，找出其中3項未標明的脈絡或權利問題；補寫一張五項協議卡，並設計一個能把使用結果回到原貢獻者的具體管道。",
+    "training": "做五次「方法不是無主物」檢查：每次使用一個他人設計的活動前，先寫來源、目的、受益者、不能照搬之處與回饋方式；完成後記錄一項失敗與一項修改。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦／線上",
+      "title": "How We Hold: Rehearsals for Art and Social Change",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "Serpentine Education and Civic持續免費提供《How We Hold: Rehearsals for Art and Social Change》。官方說明出版品直接取材自十年藝術家與不同群體共同生成的計畫，收錄專案筆記、文件、對話、委託文章與練習，涵蓋幼兒、勞工組織者、教育者、照護者、青年與移民制度中的人；資源既可供機構使用，也設計為批判博物館與藝術組織之新自由主義及殖民教育、行政模式的工具。",
+      "references": [
+        {
+          "title": "Serpentine｜How We Hold: Rehearsals for Art and Social Change",
+          "publisher": "Serpentine Galleries",
+          "url": "https://www.serpentinegalleries.org/whats-on/how-we-hold-rehearsals-for-art-and-social-change-resource/",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Serpentine Education and Civic持續免費提供《How We Hold》。官方說明資源直接取材自十年共同計畫，收錄專案筆記、文件、對話、委託文章與練習，參與者涵蓋幼兒、勞工組織者、教育者、照護者、青年與移民制度中的人；出版品也用來批判博物館與藝術組織的教育、行政模式。\n【事實／推論界線】官方可證實資源形式、取材範圍、貢獻者類型與公開目的；個別參與者的同意、報酬、修正權及再使用限制需由完整出版品與專案協議逐項查核。\n【原創模擬】五項協議卡、回饋任務與方法不是無主物訓練由Curator OS設計。"
+  },
+  {
+    "id": "daily-2026-11-10-thinking",
+    "daily": true,
+    "date": "2026-11-10",
+    "category": "策展思考訓練",
+    "lens": "可演奏典藏、保存界線與聲音證據",
+    "source": "The Metropolitan Museum of Art〈The Appleton Performance Series with Organist Marco Jimenez〉及Appleton Organ官方資料（查證截至2026-11-10）",
+    "title": "當The Met讓1830年的Appleton管風琴由Marco Jimenez現場演奏時，策展分析如何區分「作為歷史物件被保存」與「作為樂器被使用」的價值，並說明每一次調音、供風與演奏如何改變觀眾所理解的原貌？",
+    "summary": "用物件狀態、功能啟動、現代介入與聽覺證據四層閱讀可使用典藏，避免把沉默等同保存、把發聲等同原貌。",
+    "questions": [
+      "這件管風琴的哪部分來自1830年，哪些部分在後來遷移或擴充？",
+      "現場演奏讓觀眾理解了哪些靜態展示無法提供的功能？",
+      "演奏前的調音、修復與安全檢查改變了什麼？",
+      "手動風箱與博物館加裝的電動鼓風機會產生何種不同證據？",
+      "曲目、編曲與演奏風格是否符合樂器原始使用年代？",
+      "今日展廳的聲學與原先教堂空間有何差異？",
+      "為了保存而限制音量、頻率或演奏次數，會失去哪些使用知識？",
+      "演奏造成的磨耗如何被衡量，又由誰決定可接受範圍？",
+      "觀眾聽到的是歷史聲音、當代重建，還是兩者共同生成的版本？",
+      "策展文字如何同時說明真實材料、後來改造與今日表演選擇？"
+    ],
+    "strategy": "建立「原始構件／歷史改造／博物館介入／當次演奏」四層時間表；每個聲音判斷都連回構件、供風方式、空間與曲目，避免使用「原汁原味」等無法驗證的說法。",
+    "task": "挑一件仍可操作的歷史物件或技術，分別寫出靜態展示與啟用展示各能證明的3件事；再列出啟用所需的現代介入，完成一張保存與使用的取捨表。",
+    "training": "進行四次「先看後聽」：先只從外觀推測功能，再閱讀結構資料、觀看操作、最後聆聽結果；每階段記錄一項被修正的判斷，練習不讓最終聲音抹去物件的改造史。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約",
+      "title": "The Appleton Performance Series with Organist Marco Jimenez",
+      "statusAsOf": "2026-11-10",
+      "latestUpdate": "The Met於2026年11月10日13時在第五大道館舍安排Marco Jimenez演奏館藏Appleton管風琴，活動隨門票免費參加。館方資料指出這件1830年管風琴是Thomas Appleton現存最早作品，後來曾移至另一座教堂並增設27鍵腳踏板；1983年正式安裝於The Met，現有836支音管，供風可使用手動風箱或館方加裝的電動鼓風機。",
+      "references": [
+        {
+          "title": "The Met｜Events Calendar—The Appleton Performance Series with Organist Marco Jimenez",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/events/calendar",
+          "accessedAt": "2026-11-10"
+        },
+        {
+          "title": "The Met｜The Met's Mighty Pipe Organ",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/pt/perspectives/appleton-organ-2",
+          "accessedAt": "2026-11-10"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met於2026年11月10日13時安排Marco Jimenez演奏館藏Appleton管風琴，活動隨門票免費參加。館方另記載此琴製於1830年，是Thomas Appleton現存最早作品；後來曾遷移、增設27鍵腳踏板，1983年安裝於The Met，現有836支音管，可由手動風箱或館方加裝的電動鼓風機供風。\n【事實／推論界線】官方可證實活動、年代、遷移、改造與結構資料；當日曲目、供風方式、調音狀態及磨耗程度若未另有紀錄，不能預先推定。\n【原創模擬】四層時間表、保存與使用取捨表及先看後聽訓練由Curator OS設計。"
+  },
+  {
     "id": "daily-2026-11-11-curator",
     "date": "2026-11-11",
     "category": "專業策展人課題",
@@ -26408,108 +26408,6 @@
       ]
     },
     "rawText": "# 地方形式被帶進美術館時，策展如何避免把活的知識變成漂亮標本？\n\n【來源事實】\nMoMA 的 2026 年 11 月 11 日論壇是多年期地方建築研究的首場活動，官方提問包括如何學習 vernacular 而不把它異國化或浪漫化；活動頁使用 Marina Tabassum 的 Khudi Bari 官方影像。\n\n【策展推論】\n地方形式一旦離開原本的生活、氣候與治理條件，容易被策展壓縮成可消費的風格。專業判準應從形式相似度轉向知識持有人是否保有署名、解釋、修正與展後存取權。\n\n【原創模擬】\n模擬一件地方構法展品的權利稽核；這是訓練方法，不是 MoMA 官方做法。\n\n查證日期：2026-11-11"
-  },
-  {
-    "id": "daily-2026-11-11-thinking",
-    "date": "2026-11-11",
-    "category": "策展思考訓練",
-    "lens": "媒介考古｜作品、來源媒材、放映拷貝與播放系統",
-    "source": {
-      "name": "The Museum of Modern Art (MoMA)",
-      "title": "It’s Alive! An Afternoon with Jeff Scher",
-      "url": "https://www.moma.org/calendar/events/11824",
-      "accessedAt": "2026-11-11",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "同一部動畫換了載體還是同一件作品嗎？用四層版本表拆開保存與展示",
-    "summary": "把作品內容、原始媒材、現存拷貝與當下播放系統分開記錄，避免用「已數位化」掩蓋版本差異與展示決策。",
-    "questions": [
-      "作品的原始創作媒材是什麼，哪些痕跡只存在於該媒材？",
-      "目前展出的到底是原件、放映拷貝、數位轉檔還是重製版？",
-      "幀率、畫幅、色彩、聲音與播放速度是否與作者版本一致？",
-      "媒材轉換修復了哪些問題，又製造了哪些新差異？",
-      "觀眾是否被告知自己看到的是哪個版本？",
-      "版本差異會改變作品的節奏、尺度或身體感嗎？",
-      "保存決策由誰做，藝術家或權利人是否參與？",
-      "若原始播放設備失效，什麼條件不可妥協？",
-      "不同版本的放映紀錄與技術參數是否可追溯？",
-      "策展文本是在描述作品，還是在把技術決策偽裝成中性事實？"
-    ],
-    "strategy": "為每件時間媒體作品建立四層版本卡：作品概念、來源媒材、展示拷貝、播放環境；所有差異都用「保留／改變／未知」標記，再決定哪些差異必須向觀眾公開。",
-    "task": "挑一件影像或聲音作品，製作一頁四層版本卡，列出至少 8 個技術差異，並寫出 80 字觀眾版版本說明。",
-    "training": "15 分鐘辨識原始媒材；20 分鐘追查現有拷貝；20 分鐘測試不同螢幕、投影與聲音設備；20 分鐘標記不可逆差異；15 分鐘重寫標籤，禁止只寫「數位檔」。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約 MoMA",
-      "title": "MoMA｜It’s Alive! An Afternoon with Jeff Scher",
-      "statusAsOf": "2026-11-11",
-      "latestUpdate": "MoMA 於 2026 年 11 月 11 日安排超過百部 Jeff Scher 短片，官方說明涵蓋手繪、混合媒材、再利用 16mm／35mm、顏料與轉描，節目同時列出類比與 DCP 放映格式。",
-      "references": [
-        "https://www.moma.org/calendar/events/11824"
-      ],
-      "photos": [
-        {
-          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDcvN3JsOXRmam8xY19TY3JlZW5fU2hvdF8yMDI2XzEwXzA3X2F0XzEuMzYuNDhfUE0ucG5nIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/Screen%20Shot%202026-10-07%20at%201.36.48%20PM.png?sha=ca5a6b59d6051383",
-          "caption": "Jeff Scher，《Garden of Regrets》，USA，1994。",
-          "credit": "MoMA 官方活動影像；攝影者／個別影像版權未標示",
-          "sourceUrl": "https://www.moma.org/calendar/events/11824",
-          "verifiedAt": "2026-11-11"
-        }
-      ]
-    },
-    "rawText": "# 同一部動畫換了載體還是同一件作品嗎？用四層版本表拆開保存與展示\n\n【來源事實】\nMoMA 的 Jeff Scher 節目於 2026 年 11 月 11 日放映逾百部短片；官方列出手繪、混合媒材、再利用 16mm／35mm、顏料與轉描等技法，並同時出現類比與 DCP 格式。\n\n【策展推論】\n只寫作品名稱與年份不足以交代觀眾實際看到的版本。把來源媒材、展示拷貝與播放系統拆開，可讓保存與策展決策被檢查。\n\n【原創模擬】\n四層版本卡與 8 項差異清單是原創訓練工具，不是 MoMA 官方保存流程。\n\n查證日期：2026-11-11"
-  },
-  {
-    "id": "daily-2026-11-11-participation",
-    "date": "2026-11-11",
-    "category": "國際民眾參與實作",
-    "lens": "參與倫理｜感恩、退出權與共同作品的編輯治理",
-    "source": {
-      "name": "National Gallery of Art",
-      "title": "National Gallery Nights: Gratitude",
-      "url": "https://www.nga.gov/calendar/national-gallery-nights-gratitude",
-      "accessedAt": "2026-11-11",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "邀請大家表達感謝，如何避免參與活動變成強迫正向？",
-    "summary": "把參與者的匿名、保留、撤回與不表態權寫進活動規則，讓共同創作不以公開情緒作為入場代價。",
-    "questions": [
-      "誰可能因悲傷、憤怒或關係壓力而不願表達感謝？",
-      "參與者可以匿名、跳過或只觀看嗎？",
-      "活動是否暗示正向情緒比複雜經驗更值得被看見？",
-      "寫下的內容會被誰閱讀、拍攝、編輯與保存？",
-      "參與者能否在展示前或展後撤回自己的貢獻？",
-      "共同作品的排序、刪除與再製權由誰掌握？",
-      "活動如何處理涉及私人關係、創傷或敏感資訊的內容？",
-      "沒有留下文字的人是否仍被視為完整參與者？",
-      "活動結束後，成果會回到參與者手中還是只成為機構宣傳素材？",
-      "我們能否讓感謝與質疑、哀悼、未完成同時存在？"
-    ],
-    "strategy": "採用「四種參與入口」：公開署名、匿名貢獻、私密帶走、只觀看；入口旁清楚說明拍攝、保存、編輯、撤回與再利用規則，並預留不必正向表態的內容區。",
-    "task": "把一個共同留言或拼貼活動改成四入口版本，寫出 120 字權利告知，並用 3 位不同情境的參與者做退出流程測試。",
-    "training": "20 分鐘列出活動要求參與者交出的情緒、資料與勞動；20 分鐘設計匿名與撤回；20 分鐘模擬敏感內容；20 分鐘檢查成果編輯權；10 分鐘刪除所有帶有道德壓力的提示語。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "華盛頓特區 National Gallery of Art",
-      "title": "National Gallery Nights: Gratitude",
-      "statusAsOf": "2026-11-11",
-      "latestUpdate": "National Gallery of Art 公布 2026 年 11 月 12 日 18:00–21:00 的 Gratitude 夜間活動，包含感謝信物、共同馬賽克、詩、藝術與舞蹈，入場採抽籤制度。",
-      "references": [
-        "https://www.nga.gov/calendar/national-gallery-nights-gratitude"
-      ],
-      "photos": [
-        {
-          "url": "https://api.nga.gov/iiif/2419a265-6673-48c5-9498-1a1daad7d69b__4000/full/!2560,1440/0/default.jpg",
-          "caption": "National Gallery Nights: Gratitude 官方活動影像。",
-          "credit": "National Gallery of Art；攝影者未標示",
-          "sourceUrl": "https://www.nga.gov/calendar/national-gallery-nights-gratitude",
-          "verifiedAt": "2026-11-11"
-        }
-      ]
-    },
-    "rawText": "# 邀請大家表達感謝，如何避免參與活動變成強迫正向？\n\n【來源事實】\nNational Gallery of Art 公布 2026 年 11 月 12 日的 Gratitude 夜間活動，內容包含感謝信物、共同馬賽克、詩、藝術與舞蹈，入場採抽籤。\n\n【策展推論】\n以感恩為主題的參與活動可能讓不願公開情緒的人感到被排除。參與設計需把匿名、只觀看、撤回與不正向表態視為正式權利。\n\n【原創模擬】\n四種參與入口與退出流程測試是原創模擬方案，不代表 National Gallery of Art 現場既有流程。\n\n查證日期：2026-11-11"
   },
   {
     "id": "daily-2026-11-11-family",
@@ -26614,6 +26512,108 @@
     "rawText": "# 當制度沒有回答、重要的人又失聯時，怎麼不讓未知吞掉全部生活？\n\n【來源事實】\nMoMA 於 2026 年 11 月 11 日放映《A Gentle Creature》。官方簡介中，女子因寄給遭錯誤起訴丈夫的包裹被退回，進入官僚體系追查丈夫命運。\n\n【策展推論】\n制度沉默容易讓推測冒充事實。將已知、未回覆、推測與下一步分開，可以保留判斷力，但不能取代法律、醫療或安全專業協助。\n\n【原創模擬】\n四格不確定性板與七日升級節點是人生策展原創模擬，不是電影官方建議，也不是專業法律或心理治療方案。\n\n查證日期：2026-11-11"
   },
   {
+    "id": "daily-2026-11-11-participation",
+    "date": "2026-11-11",
+    "category": "國際民眾參與實作",
+    "lens": "參與倫理｜感恩、退出權與共同作品的編輯治理",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "National Gallery Nights: Gratitude",
+      "url": "https://www.nga.gov/calendar/national-gallery-nights-gratitude",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "邀請大家表達感謝，如何避免參與活動變成強迫正向？",
+    "summary": "把參與者的匿名、保留、撤回與不表態權寫進活動規則，讓共同創作不以公開情緒作為入場代價。",
+    "questions": [
+      "誰可能因悲傷、憤怒或關係壓力而不願表達感謝？",
+      "參與者可以匿名、跳過或只觀看嗎？",
+      "活動是否暗示正向情緒比複雜經驗更值得被看見？",
+      "寫下的內容會被誰閱讀、拍攝、編輯與保存？",
+      "參與者能否在展示前或展後撤回自己的貢獻？",
+      "共同作品的排序、刪除與再製權由誰掌握？",
+      "活動如何處理涉及私人關係、創傷或敏感資訊的內容？",
+      "沒有留下文字的人是否仍被視為完整參與者？",
+      "活動結束後，成果會回到參與者手中還是只成為機構宣傳素材？",
+      "我們能否讓感謝與質疑、哀悼、未完成同時存在？"
+    ],
+    "strategy": "採用「四種參與入口」：公開署名、匿名貢獻、私密帶走、只觀看；入口旁清楚說明拍攝、保存、編輯、撤回與再利用規則，並預留不必正向表態的內容區。",
+    "task": "把一個共同留言或拼貼活動改成四入口版本，寫出 120 字權利告知，並用 3 位不同情境的參與者做退出流程測試。",
+    "training": "20 分鐘列出活動要求參與者交出的情緒、資料與勞動；20 分鐘設計匿名與撤回；20 分鐘模擬敏感內容；20 分鐘檢查成果編輯權；10 分鐘刪除所有帶有道德壓力的提示語。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區 National Gallery of Art",
+      "title": "National Gallery Nights: Gratitude",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "National Gallery of Art 公布 2026 年 11 月 12 日 18:00–21:00 的 Gratitude 夜間活動，包含感謝信物、共同馬賽克、詩、藝術與舞蹈，入場採抽籤制度。",
+      "references": [
+        "https://www.nga.gov/calendar/national-gallery-nights-gratitude"
+      ],
+      "photos": [
+        {
+          "url": "https://api.nga.gov/iiif/2419a265-6673-48c5-9498-1a1daad7d69b__4000/full/!2560,1440/0/default.jpg",
+          "caption": "National Gallery Nights: Gratitude 官方活動影像。",
+          "credit": "National Gallery of Art；攝影者未標示",
+          "sourceUrl": "https://www.nga.gov/calendar/national-gallery-nights-gratitude",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 邀請大家表達感謝，如何避免參與活動變成強迫正向？\n\n【來源事實】\nNational Gallery of Art 公布 2026 年 11 月 12 日的 Gratitude 夜間活動，內容包含感謝信物、共同馬賽克、詩、藝術與舞蹈，入場採抽籤。\n\n【策展推論】\n以感恩為主題的參與活動可能讓不願公開情緒的人感到被排除。參與設計需把匿名、只觀看、撤回與不正向表態視為正式權利。\n\n【原創模擬】\n四種參與入口與退出流程測試是原創模擬方案，不代表 National Gallery of Art 現場既有流程。\n\n查證日期：2026-11-11"
+  },
+  {
+    "id": "daily-2026-11-11-thinking",
+    "date": "2026-11-11",
+    "category": "策展思考訓練",
+    "lens": "媒介考古｜作品、來源媒材、放映拷貝與播放系統",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "It’s Alive! An Afternoon with Jeff Scher",
+      "url": "https://www.moma.org/calendar/events/11824",
+      "accessedAt": "2026-11-11",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "同一部動畫換了載體還是同一件作品嗎？用四層版本表拆開保存與展示",
+    "summary": "把作品內容、原始媒材、現存拷貝與當下播放系統分開記錄，避免用「已數位化」掩蓋版本差異與展示決策。",
+    "questions": [
+      "作品的原始創作媒材是什麼，哪些痕跡只存在於該媒材？",
+      "目前展出的到底是原件、放映拷貝、數位轉檔還是重製版？",
+      "幀率、畫幅、色彩、聲音與播放速度是否與作者版本一致？",
+      "媒材轉換修復了哪些問題，又製造了哪些新差異？",
+      "觀眾是否被告知自己看到的是哪個版本？",
+      "版本差異會改變作品的節奏、尺度或身體感嗎？",
+      "保存決策由誰做，藝術家或權利人是否參與？",
+      "若原始播放設備失效，什麼條件不可妥協？",
+      "不同版本的放映紀錄與技術參數是否可追溯？",
+      "策展文本是在描述作品，還是在把技術決策偽裝成中性事實？"
+    ],
+    "strategy": "為每件時間媒體作品建立四層版本卡：作品概念、來源媒材、展示拷貝、播放環境；所有差異都用「保留／改變／未知」標記，再決定哪些差異必須向觀眾公開。",
+    "task": "挑一件影像或聲音作品，製作一頁四層版本卡，列出至少 8 個技術差異，並寫出 80 字觀眾版版本說明。",
+    "training": "15 分鐘辨識原始媒材；20 分鐘追查現有拷貝；20 分鐘測試不同螢幕、投影與聲音設備；20 分鐘標記不可逆差異；15 分鐘重寫標籤，禁止只寫「數位檔」。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA",
+      "title": "MoMA｜It’s Alive! An Afternoon with Jeff Scher",
+      "statusAsOf": "2026-11-11",
+      "latestUpdate": "MoMA 於 2026 年 11 月 11 日安排超過百部 Jeff Scher 短片，官方說明涵蓋手繪、混合媒材、再利用 16mm／35mm、顏料與轉描，節目同時列出類比與 DCP 放映格式。",
+      "references": [
+        "https://www.moma.org/calendar/events/11824"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDcvN3JsOXRmam8xY19TY3JlZW5fU2hvdF8yMDI2XzEwXzA3X2F0XzEuMzYuNDhfUE0ucG5nIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/Screen%20Shot%202026-10-07%20at%201.36.48%20PM.png?sha=ca5a6b59d6051383",
+          "caption": "Jeff Scher，《Garden of Regrets》，USA，1994。",
+          "credit": "MoMA 官方活動影像；攝影者／個別影像版權未標示",
+          "sourceUrl": "https://www.moma.org/calendar/events/11824",
+          "verifiedAt": "2026-11-11"
+        }
+      ]
+    },
+    "rawText": "# 同一部動畫換了載體還是同一件作品嗎？用四層版本表拆開保存與展示\n\n【來源事實】\nMoMA 的 Jeff Scher 節目於 2026 年 11 月 11 日放映逾百部短片；官方列出手繪、混合媒材、再利用 16mm／35mm、顏料與轉描等技法，並同時出現類比與 DCP 格式。\n\n【策展推論】\n只寫作品名稱與年份不足以交代觀眾實際看到的版本。把來源媒材、展示拷貝與播放系統拆開，可讓保存與策展決策被檢查。\n\n【原創模擬】\n四層版本卡與 8 項差異清單是原創訓練工具，不是 MoMA 官方保存流程。\n\n查證日期：2026-11-11"
+  },
+  {
     "id": "daily-2026-11-12-curator",
     "date": "2026-11-12",
     "category": "專業策展人課題",
@@ -26670,115 +26670,6 @@
       ]
     },
     "rawText": "# 當作品要求你看「真實物件」，策展如何使用影像與文字而不替代現場？\n\n【來源事實】\nBarbican 的《Robert Ryman: The Real Thing》展出逾 60 件作品，展期至 2027 年 2 月 28 日；官方說明特別要求觀眾注意顏料質地、筆觸、支撐材料、牆面、光線與空間。\n\n【策展推論】\n若影像與文字被當成作品的完整替代品，會遮蔽表面、尺度與安裝差異；但若只強調現場性，也可能排除無法到場的觀眾。因此需要清楚區分各媒介任務。\n\n【原創模擬】\n三階段詮釋與三張用途卡是原創策展方法，不是 Barbican 官方流程。\n\n查證日期：2026-11-12"
-  },
-  {
-    "id": "daily-2026-11-12-thinking",
-    "date": "2026-11-12",
-    "category": "策展思考訓練",
-    "lens": "設計檔案｜原型、失敗、合作與成功敘事",
-    "source": {
-      "name": "Museum of Arts and Design",
-      "title": "Nike: Form Follows Motion | After-Hours Gallery Talk and Walkthrough",
-      "url": "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough",
-      "accessedAt": "2026-11-12",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "品牌展只展示成功原型時，策展如何找回被淘汰的設計路徑？",
-    "summary": "用版本、反證與中止原因閱讀設計檔案，避免把多年試錯重寫成從草圖必然走向市場成功的英雄故事。",
-    "questions": [
-      "展出的原型是第一版、轉折版、失敗版還是最接近量產的版本？",
-      "哪些方案被淘汰，淘汰原因是技術、成本、安全、審美還是權力決策？",
-      "展示是否把合作團隊的勞動集中成單一設計英雄？",
-      "運動員回饋改變了哪個具體部位，而不只是成為名人背書？",
-      "哪些草圖是探索，哪些只是事後挑選出來支持成功敘事？",
-      "材料與製程限制如何改變原本的設計命題？",
-      "品牌如何處理會破壞光鮮形象的失敗、爭議與環境成本？",
-      "同一項創新對不同身體是否同樣有效？",
-      "若產品沒有成為暢銷品，它仍可能留下什麼知識價值？",
-      "策展能否讓觀眾沿另一條設計路徑推演不同結果？"
-    ],
-    "strategy": "製作「原型分岔圖」：每個版本標記問題、修改、被保留特徵、被淘汰特徵與決策者；至少保留一條沒有進入市場的分支，讓成功不再被描述成唯一合理結果。",
-    "task": "選一項產品或公共藝術構件，找出至少三個版本，畫出五個分岔點；補上一個被放棄方案的合理復活條件。",
-    "training": "20 分鐘按時間排版本；20 分鐘辨識每次修改的證據；20 分鐘補寫失敗與中止原因；20 分鐘檢查作者署名；10 分鐘用一句話說明哪個失敗最有研究價值。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國／德國",
-      "location": "紐約 Museum of Arts and Design；展覽由 Vitra Design Museum 組織",
-      "title": "Nike: Form Follows Motion",
-      "statusAsOf": "2026-11-12",
-      "latestUpdate": "MAD 於 2026 年 11 月 12 日安排閉館後導覽，官方說明涵蓋 Nike 五十年的實驗、罕見原型、草圖、測試與跨界合作；展覽由 Vitra Design Museum 組織，Glenn Adamson 策展、Marcella Hanika 協助策展。",
-      "references": [
-        "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough"
-      ],
-      "photos": [
-        {
-          "url": "https://www.madmuseum.org/sites/default/files/styles/5_x_3/public/2026/09/Nike-Before-Hours-Tours-Event-pages.jpg",
-          "caption": "《Nike: Form Follows Motion》Museum of Arts and Design 官方活動影像。",
-          "credit": "Museum of Arts and Design；頁面未標示攝影者",
-          "sourceUrl": "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough",
-          "verifiedAt": "2026-11-12"
-        },
-        {
-          "url": "https://www.madmuseum.org/sites/default/files/styles/5_x_3/public/2026/10/vvd.jpg",
-          "caption": "《Nike: Form Follows Motion》官方展覽影像，呈現設計與展示脈絡。",
-          "credit": "Museum of Arts and Design；頁面未標示攝影者",
-          "sourceUrl": "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough",
-          "verifiedAt": "2026-11-12"
-        }
-      ]
-    },
-    "rawText": "# 品牌展只展示成功原型時，策展如何找回被淘汰的設計路徑？\n\n【來源事實】\nMAD 的 2026 年 11 月 12 日導覽聚焦 Nike 五十年的實驗、原型、草圖、運動員合作與跨界文化；官方頁面列出策展與展示設計團隊。\n\n【策展推論】\n品牌檔案容易以成功商品反向選擇證據，讓試錯看似必然。把被淘汰版本與決策者放回時間線，才能看見真正的設計知識與權力。\n\n【原創模擬】\n原型分岔圖及失敗方案復活條件是原創訓練，不代表 MAD 或 Nike 的官方檔案方法。\n\n查證日期：2026-11-12"
-  },
-  {
-    "id": "daily-2026-11-12-participation",
-    "date": "2026-11-12",
-    "category": "國際民眾參與實作",
-    "lens": "青年參與｜願望蒐集、資源支持與決策回路",
-    "source": {
-      "name": "The Museum of Modern Art (MoMA)",
-      "title": "Open Art Space: Architects of Liberation",
-      "url": "https://www.moma.org/calendar/events/11829",
-      "accessedAt": "2026-11-12",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "讓青少年設計理想社區之後，誰負責讓提案進入真實決策？",
-    "summary": "把創意工作坊從願望展示延伸為回覆、轉介、試作與追蹤，讓青年知道自己的時間究竟改變了什麼。",
-    "questions": [
-      "工作坊讓青少年決定的是造型、需求、預算還是真實優先順序？",
-      "誰設定了可被提出的社區問題範圍？",
-      "參與者是否知道提案會被誰看見、保存與使用？",
-      "機構有沒有承諾回覆每一類提案，而不只展示漂亮模型？",
-      "交通、材料、餐食與時間成本是否由機構承擔？",
-      "沒有建築專業語言的青年能否同樣影響結果？",
-      "哪些提案可以立即做小型試驗，哪些需要轉交公共部門？",
-      "若提案無法執行，拒絕理由會不會回到參與者手中？",
-      "參與影像與故事的使用是否取得清楚同意？",
-      "三個月後，青年還能查到提案的狀態與下一步嗎？"
-    ],
-    "strategy": "使用「提案回路」：每項青年提案必須標記接收者、14 日內回覆、可做的小型試驗、無法執行的理由與 90 日追蹤；展示成果前先展示機構將承擔的責任。",
-    "task": "把一場理想社區模型工作坊改寫成完整回路，為五類提案指定接收者、回覆期限與一個低成本試驗，並製作一頁進度公開板。",
-    "training": "15 分鐘列出青年投入的時間與知識；20 分鐘辨識機構可控制的決策；20 分鐘設計回覆機制；20 分鐘做不可行提案的尊重回應；15 分鐘安排 90 日回訪。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國／塞內加爾",
-      "location": "紐約 MoMA Education Center；活動靈感展覽涉及西非現代建築",
-      "title": "Open Art Space: Architects of Liberation",
-      "statusAsOf": "2026-11-12",
-      "latestUpdate": "MoMA 於 2026 年 11 月 12 日舉辦免費青少年 Open Art Space，參與者從《Architects of Liberation》展覽出發，設想社區需要的空間並以草圖與模型提出方案；官方提供材料、點心與 OMNY 交通卡。",
-      "references": [
-        "https://www.moma.org/calendar/events/11829"
-      ],
-      "photos": [
-        {
-          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDcvN3JlMDBsNnplOF9BcmNoaXRlY3RzLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/Architects.jpg?sha=f0bd9786fc351c3a",
-          "caption": "Jean-François Lamoureux、Jean Louis Marin，Centre International du Commerce Extérieur du Sénégal (CICES)，Dakar，1971–74。",
-          "credit": "Photo: Michel Fegyveres；The Museum of Modern Art 官方活動頁",
-          "sourceUrl": "https://www.moma.org/calendar/events/11829",
-          "verifiedAt": "2026-11-12"
-        }
-      ]
-    },
-    "rawText": "# 讓青少年設計理想社區之後，誰負責讓提案進入真實決策？\n\n【來源事實】\nMoMA 於 2026 年 11 月 12 日舉辦免費 Open Art Space，邀請高中年齡參與者設計社區想要的空間；官方提供材料、點心與 OMNY 交通卡，並標示無需既有藝術經驗。\n\n【策展推論】\n願望模型若只被展示而沒有接收者、回覆與追蹤，容易消耗青年的信任。完整參與必須讓貢獻進入可見的決策回路。\n\n【原創模擬】\n14 日回覆與 90 日追蹤是原創參與設計，不代表 MoMA 已承諾採用或建造青年方案。\n\n查證日期：2026-11-12"
   },
   {
     "id": "daily-2026-11-12-family",
@@ -26883,6 +26774,115 @@
     "rawText": "# 當別人替你的名字翻譯、拼音或命名時，你保留了多少修正權？\n\n【來源事實】\nMOCA 的 2026 年 11 月 12 日書法工作坊教授基礎筆法與姓名書寫；沒有中文名的參與者可由藝術家預先準備漢字音譯。\n\n【策展推論】\n姓名轉譯不只是技術問題，也牽涉誰能決定一個人被如何稱呼。把法律、家族、自我與跨語言版本分開，可讓方便與認同之間的衝突被協商。\n\n【原創模擬】\n名字四層卡與稱呼協議是原創人生策展工具，不代表 MOCA 對姓名翻譯的制度主張。\n\n查證日期：2026-11-12"
   },
   {
+    "id": "daily-2026-11-12-participation",
+    "date": "2026-11-12",
+    "category": "國際民眾參與實作",
+    "lens": "青年參與｜願望蒐集、資源支持與決策回路",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "Open Art Space: Architects of Liberation",
+      "url": "https://www.moma.org/calendar/events/11829",
+      "accessedAt": "2026-11-12",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "讓青少年設計理想社區之後，誰負責讓提案進入真實決策？",
+    "summary": "把創意工作坊從願望展示延伸為回覆、轉介、試作與追蹤，讓青年知道自己的時間究竟改變了什麼。",
+    "questions": [
+      "工作坊讓青少年決定的是造型、需求、預算還是真實優先順序？",
+      "誰設定了可被提出的社區問題範圍？",
+      "參與者是否知道提案會被誰看見、保存與使用？",
+      "機構有沒有承諾回覆每一類提案，而不只展示漂亮模型？",
+      "交通、材料、餐食與時間成本是否由機構承擔？",
+      "沒有建築專業語言的青年能否同樣影響結果？",
+      "哪些提案可以立即做小型試驗，哪些需要轉交公共部門？",
+      "若提案無法執行，拒絕理由會不會回到參與者手中？",
+      "參與影像與故事的使用是否取得清楚同意？",
+      "三個月後，青年還能查到提案的狀態與下一步嗎？"
+    ],
+    "strategy": "使用「提案回路」：每項青年提案必須標記接收者、14 日內回覆、可做的小型試驗、無法執行的理由與 90 日追蹤；展示成果前先展示機構將承擔的責任。",
+    "task": "把一場理想社區模型工作坊改寫成完整回路，為五類提案指定接收者、回覆期限與一個低成本試驗，並製作一頁進度公開板。",
+    "training": "15 分鐘列出青年投入的時間與知識；20 分鐘辨識機構可控制的決策；20 分鐘設計回覆機制；20 分鐘做不可行提案的尊重回應；15 分鐘安排 90 日回訪。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國／塞內加爾",
+      "location": "紐約 MoMA Education Center；活動靈感展覽涉及西非現代建築",
+      "title": "Open Art Space: Architects of Liberation",
+      "statusAsOf": "2026-11-12",
+      "latestUpdate": "MoMA 於 2026 年 11 月 12 日舉辦免費青少年 Open Art Space，參與者從《Architects of Liberation》展覽出發，設想社區需要的空間並以草圖與模型提出方案；官方提供材料、點心與 OMNY 交通卡。",
+      "references": [
+        "https://www.moma.org/calendar/events/11829"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDcvN3JlMDBsNnplOF9BcmNoaXRlY3RzLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/Architects.jpg?sha=f0bd9786fc351c3a",
+          "caption": "Jean-François Lamoureux、Jean Louis Marin，Centre International du Commerce Extérieur du Sénégal (CICES)，Dakar，1971–74。",
+          "credit": "Photo: Michel Fegyveres；The Museum of Modern Art 官方活動頁",
+          "sourceUrl": "https://www.moma.org/calendar/events/11829",
+          "verifiedAt": "2026-11-12"
+        }
+      ]
+    },
+    "rawText": "# 讓青少年設計理想社區之後，誰負責讓提案進入真實決策？\n\n【來源事實】\nMoMA 於 2026 年 11 月 12 日舉辦免費 Open Art Space，邀請高中年齡參與者設計社區想要的空間；官方提供材料、點心與 OMNY 交通卡，並標示無需既有藝術經驗。\n\n【策展推論】\n願望模型若只被展示而沒有接收者、回覆與追蹤，容易消耗青年的信任。完整參與必須讓貢獻進入可見的決策回路。\n\n【原創模擬】\n14 日回覆與 90 日追蹤是原創參與設計，不代表 MoMA 已承諾採用或建造青年方案。\n\n查證日期：2026-11-12"
+  },
+  {
+    "id": "daily-2026-11-12-thinking",
+    "date": "2026-11-12",
+    "category": "策展思考訓練",
+    "lens": "設計檔案｜原型、失敗、合作與成功敘事",
+    "source": {
+      "name": "Museum of Arts and Design",
+      "title": "Nike: Form Follows Motion | After-Hours Gallery Talk and Walkthrough",
+      "url": "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough",
+      "accessedAt": "2026-11-12",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "品牌展只展示成功原型時，策展如何找回被淘汰的設計路徑？",
+    "summary": "用版本、反證與中止原因閱讀設計檔案，避免把多年試錯重寫成從草圖必然走向市場成功的英雄故事。",
+    "questions": [
+      "展出的原型是第一版、轉折版、失敗版還是最接近量產的版本？",
+      "哪些方案被淘汰，淘汰原因是技術、成本、安全、審美還是權力決策？",
+      "展示是否把合作團隊的勞動集中成單一設計英雄？",
+      "運動員回饋改變了哪個具體部位，而不只是成為名人背書？",
+      "哪些草圖是探索，哪些只是事後挑選出來支持成功敘事？",
+      "材料與製程限制如何改變原本的設計命題？",
+      "品牌如何處理會破壞光鮮形象的失敗、爭議與環境成本？",
+      "同一項創新對不同身體是否同樣有效？",
+      "若產品沒有成為暢銷品，它仍可能留下什麼知識價值？",
+      "策展能否讓觀眾沿另一條設計路徑推演不同結果？"
+    ],
+    "strategy": "製作「原型分岔圖」：每個版本標記問題、修改、被保留特徵、被淘汰特徵與決策者；至少保留一條沒有進入市場的分支，讓成功不再被描述成唯一合理結果。",
+    "task": "選一項產品或公共藝術構件，找出至少三個版本，畫出五個分岔點；補上一個被放棄方案的合理復活條件。",
+    "training": "20 分鐘按時間排版本；20 分鐘辨識每次修改的證據；20 分鐘補寫失敗與中止原因；20 分鐘檢查作者署名；10 分鐘用一句話說明哪個失敗最有研究價值。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國／德國",
+      "location": "紐約 Museum of Arts and Design；展覽由 Vitra Design Museum 組織",
+      "title": "Nike: Form Follows Motion",
+      "statusAsOf": "2026-11-12",
+      "latestUpdate": "MAD 於 2026 年 11 月 12 日安排閉館後導覽，官方說明涵蓋 Nike 五十年的實驗、罕見原型、草圖、測試與跨界合作；展覽由 Vitra Design Museum 組織，Glenn Adamson 策展、Marcella Hanika 協助策展。",
+      "references": [
+        "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough"
+      ],
+      "photos": [
+        {
+          "url": "https://www.madmuseum.org/sites/default/files/styles/5_x_3/public/2026/09/Nike-Before-Hours-Tours-Event-pages.jpg",
+          "caption": "《Nike: Form Follows Motion》Museum of Arts and Design 官方活動影像。",
+          "credit": "Museum of Arts and Design；頁面未標示攝影者",
+          "sourceUrl": "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough",
+          "verifiedAt": "2026-11-12"
+        },
+        {
+          "url": "https://www.madmuseum.org/sites/default/files/styles/5_x_3/public/2026/10/vvd.jpg",
+          "caption": "《Nike: Form Follows Motion》官方展覽影像，呈現設計與展示脈絡。",
+          "credit": "Museum of Arts and Design；頁面未標示攝影者",
+          "sourceUrl": "https://www.madmuseum.org/events/nike-form-follows-motion-after-hours-gallery-talk-and-walkthrough",
+          "verifiedAt": "2026-11-12"
+        }
+      ]
+    },
+    "rawText": "# 品牌展只展示成功原型時，策展如何找回被淘汰的設計路徑？\n\n【來源事實】\nMAD 的 2026 年 11 月 12 日導覽聚焦 Nike 五十年的實驗、原型、草圖、運動員合作與跨界文化；官方頁面列出策展與展示設計團隊。\n\n【策展推論】\n品牌檔案容易以成功商品反向選擇證據，讓試錯看似必然。把被淘汰版本與決策者放回時間線，才能看見真正的設計知識與權力。\n\n【原創模擬】\n原型分岔圖及失敗方案復活條件是原創訓練，不代表 MAD 或 Nike 的官方檔案方法。\n\n查證日期：2026-11-12"
+  },
+  {
     "id": "daily-2026-11-13-curator",
     "daily": true,
     "date": "2026-11-13",
@@ -26932,116 +26932,6 @@
     "realConstraints": "解讀需依賴專家研究、字形語境及來源授權；簡化過度可能扭曲原意。",
     "leverage": "一件物件三層標籤：看見什麼、研究者如何判讀、哪些仍待考證。",
     "sourceFact": "美國國家藝廊公告於 2026 年 11 月 13 日舉行 Stephen Houston《Vital Signs: The Visual Culture of Maya Writing》新書對談，與談者為 Thomas B. F. Cummins；本書源於 Houston 2023 年在該館的 Mellon Lectures，探討瑪雅文字如何結合圖像、聲音與意義。"
-  },
-  {
-    "id": "daily-2026-11-13-thinking",
-    "daily": true,
-    "date": "2026-11-13",
-    "category": "策展思考訓練",
-    "lens": "跨語言共同創作｜翻譯、協作權與舞台",
-    "source": {
-      "name": "Museum of Contemporary Art Chicago",
-      "title": "Performance | Lit & Luz Live Magazine Show",
-      "url": "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/",
-      "accessedAt": "2026-11-13",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "跨語言共創上台後，誰擁有最後的詮釋與翻譯權？",
-    "summary": "從雙語演出的合作關係拆解翻譯決策、署名與衝突協商，避免文化交流只剩無差別的異國風格。",
-    "questions": [
-      "誰決定演出主要語言與字幕優先順序？",
-      "一段無法直譯的笑話或隱喻由誰決定保留？",
-      "合作作者的名字、媒材與勞動如何完整署名？",
-      "哪些翻譯失誤可能產生新的創作機會？",
-      "如果兩位作者對作品意義有衝突，誰具有否決權？",
-      "觀眾理解不足時，應補充說明還是保留不確定？",
-      "聲音、字幕、動作與投影會互相遮蔽嗎？",
-      "文化背景差異是否被簡化成國籍差異？",
-      "哪一項證據可判斷合作是共同決策而非形式性邀請？",
-      "演出後如何把翻譯版本與修訂理由保存成檔案？"
-    ],
-    "strategy": "選一段雙語創作腳本，將每一次翻譯改動記為可追溯的決策；比較「只有字幕」與「附翻譯註記」兩種觀看路徑。",
-    "task": "以 120 字中文短文與一段英譯製作雙語卡，標出三個無法完整對應的詞，邀兩位讀者提出替代譯法。",
-    "training": "用 15 分鐘列原意與語氣、15 分鐘交換翻譯、10 分鐘討論否決權、10 分鐘完成署名與版本紀錄。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "美國芝加哥 Museum of Contemporary Art Chicago",
-      "title": "Lit & Luz Live Magazine Show 2026｜Edge/Borde",
-      "statusAsOf": "2026-11-13",
-      "latestUpdate": "官方公告 2026 年 11 月 13 日演出與四組 2026–27 跨國合作配對；活動頁使用 2025 年演出檔案照片，攝影 Natasha Moustache。尚未取得照片原始檔網址。",
-      "references": [
-        "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/"
-      ],
-      "photos": [],
-      "photoSourcePage": "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/",
-      "photoNote": "官方頁有 2025 年 Lit & Luz 演出照片，攝影 Natasha Moustache；屬同一系列的歷史紀錄，尚未取得原始圖片網址與嵌入授權，圖片未嵌入。"
-    },
-    "rawText": "# 跨語言共創上台後，誰擁有最後的詮釋與翻譯權？\n\n【官方來源事實】\n芝加哥當代藝術館公告 2026 年 11 月 13 日 19:00–21:30 舉辦 Lit & Luz Live Magazine Show；2026 年主題為 Edge/Borde，邀芝加哥與墨西哥創作者共同發展跨語言、跨媒材演出，活動使用英語與西班牙語。\n\n【策展推論／待驗證假設】\n若在排練中公開記錄語言轉換的取捨，觀眾更能看見合作過程中的權力關係。\n\n【原創訓練】\n選一段雙語創作腳本，將每一次翻譯改動記為可追溯的決策；比較「只有字幕」與「附翻譯註記」兩種觀看路徑。\n實作：以 120 字中文短文與一段英譯製作雙語卡，標出三個無法完整對應的詞，邀兩位讀者提出替代譯法。\n\n【限制】\n即時演出時間有限、雙語能力不對等、翻譯可能改變幽默與語氣。\n\n【圖片紀錄】\n官方頁有 2025 年 Lit & Luz 演出照片，攝影 Natasha Moustache；屬同一系列的歷史紀錄，尚未取得原始圖片網址與嵌入授權，圖片未嵌入。\n\n官方來源：https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/\n查證日期：2026-11-13",
-    "coreHypothesis": "若在排練中公開記錄語言轉換的取捨，觀眾更能看見合作過程中的權力關係。",
-    "underlyingNeed": "讓合作作者保有署名、語言及作品最終呈現的協商空間。",
-    "realConstraints": "即時演出時間有限、雙語能力不對等、翻譯可能改變幽默與語氣。",
-    "leverage": "雙語決策紀錄表：原意、譯法、失去的語感、決策人、可修改期限。",
-    "sourceFact": "芝加哥當代藝術館公告 2026 年 11 月 13 日 19:00–21:30 舉辦 Lit & Luz Live Magazine Show；2026 年主題為 Edge/Borde，邀芝加哥與墨西哥創作者共同發展跨語言、跨媒材演出，活動使用英語與西班牙語。"
-  },
-  {
-    "id": "daily-2026-11-13-participation",
-    "daily": true,
-    "date": "2026-11-13",
-    "category": "國際民眾參與實作",
-    "lens": "公共藝術｜進入權、城市信任與象徵權力",
-    "source": {
-      "name": "Creative Time",
-      "title": "Key to the City",
-      "url": "https://creativetime.org/projects/key-to-the-city/",
-      "accessedAt": "2026-11-13",
-      "sourceType": "英文官方公共藝術專案檔案"
-    },
-    "title": "一把城市鑰匙能否真正重新分配公共空間的進入權？",
-    "summary": "以城市鑰匙的授予儀式檢驗參與式公共藝術，區分象徵性的被歡迎與實際可進入的場所、時間和規則。",
-    "questions": [
-      "鑰匙的象徵意義與實際開門能力有何差異？",
-      "誰被邀請領鑰匙，誰仍被排除在儀式之外？",
-      "二十多個地點的開放條件是否一致？",
-      "哪一個場所讓居民首次感到自己有權進入？",
-      "領取鑰匙是否需要時間、交通或語言成本？",
-      "哪些管理規則仍然掌握在機構手中？",
-      "如果鑰匙不能開門，觀眾如何回報與修正？",
-      "參與者是否能反過來提議新的城市地點？",
-      "活動結束後，信任與進入權留下了什麼制度痕跡？",
-      "移植到台灣時，哪一個公共場域適合做低風險試驗？"
-    ],
-    "strategy": "把「授予」與「進入」分成兩個可觀察的行動，建立地點清單、權限說明與參與者回饋流程；將受阻經驗納入策展成果。",
-    "task": "選一處台灣公共建築或社區空間，繪製一張「誰能使用」權限地圖，訪問兩位使用者並標記一項不合理障礙。",
-    "training": "30 分鐘田野記錄入口、告示、時段與實際動線；15 分鐘畫權限矩陣；15 分鐘提出一個可協商的開放實驗。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "美國紐約市五個行政區",
-      "title": "Paul Ramírez Jonas｜Key to the City（2010）",
-      "statusAsOf": "2026-11-13",
-      "latestUpdate": "2010 年已完成的歷史公共藝術案例。Creative Time 目前仍提供官方專案介紹及主視覺照片；主視覺為兩人交付鑰匙的場景。",
-      "references": [
-        "https://creativetime.org/projects/key-to-the-city/"
-      ],
-      "photos": [
-        {
-          "url": "https://creativetime.org/wp-content/uploads/2010/08/2010_KeyToTheCity.jpg",
-          "caption": "Paul Ramírez Jonas《Key to the City》（2010）官方專案主視覺，兩人交換城市鑰匙。",
-          "credit": "Creative Time 官方網站；攝影者未標示",
-          "sourceUrl": "https://creativetime.org/projects/key-to-the-city/",
-          "verifiedAt": "2026-11-13"
-        }
-      ],
-      "photoSourcePage": "https://creativetime.org/projects/key-to-the-city/",
-      "photoNote": "官方主視覺可取得原始網址，已列入 Notion 外部圖片嵌入候選；圖像版權歸屬 Creative Time／原攝影者未標示，需以實際頁面讀回確認嵌入。"
-    },
-    "rawText": "# 一把城市鑰匙能否真正重新分配公共空間的進入權？\n\n【官方來源事實】\nCreative Time 的官方檔案記錄 Paul Ramírez Jonas 於 2010 年在紐約推出《Key to the City》，讓市民互相授予鑰匙；鑰匙可開啟分布五個行政區的二十多個地點，包含社區花園、博物館與其他城市場所。\n\n【策展推論／待驗證假設】\n將可進入地點、時段與障礙公開列出，比單純發放象徵物更能檢驗參與是否產生實質的公共性。\n\n【原創訓練】\n把「授予」與「進入」分成兩個可觀察的行動，建立地點清單、權限說明與參與者回饋流程；將受阻經驗納入策展成果。\n實作：選一處台灣公共建築或社區空間，繪製一張「誰能使用」權限地圖，訪問兩位使用者並標記一項不合理障礙。\n\n【限制】\n場所開放時間、無障礙條件、管理者授權與活動結束後的持續性。\n\n【圖片紀錄】\n官方主視覺可取得原始網址，已列入 Notion 外部圖片嵌入候選；圖像版權歸屬 Creative Time／原攝影者未標示，需以實際頁面讀回確認嵌入。\n\n官方來源：https://creativetime.org/projects/key-to-the-city/\n查證日期：2026-11-13",
-    "coreHypothesis": "將可進入地點、時段與障礙公開列出，比單純發放象徵物更能檢驗參與是否產生實質的公共性。",
-    "underlyingNeed": "讓一般市民對城市場所產生可操作的歸屬感與進入經驗。",
-    "realConstraints": "場所開放時間、無障礙條件、管理者授權與活動結束後的持續性。",
-    "leverage": "參與權限矩陣：誰能進入、何時進入、需要什麼、被拒絕時如何申訴。",
-    "sourceFact": "Creative Time 的官方檔案記錄 Paul Ramírez Jonas 於 2010 年在紐約推出《Key to the City》，讓市民互相授予鑰匙；鑰匙可開啟分布五個行政區的二十多個地點，包含社區花園、博物館與其他城市場所。"
   },
   {
     "id": "daily-2026-11-13-family",
@@ -27154,6 +27044,116 @@
     "sourceFact": "美國國家藝廊公告 2026 年 11 月 13 日 14:00–15:30 舉行 Finding Awe: Guadalupe Maravilla’s Retablos，以藝術家《January 1984 Retablo》及《Bless You Magic Flying Woman Retablo》為慢觀看對象，邀參與者觀察、分享並將驚奇練習帶回日常。"
   },
   {
+    "id": "daily-2026-11-13-participation",
+    "daily": true,
+    "date": "2026-11-13",
+    "category": "國際民眾參與實作",
+    "lens": "公共藝術｜進入權、城市信任與象徵權力",
+    "source": {
+      "name": "Creative Time",
+      "title": "Key to the City",
+      "url": "https://creativetime.org/projects/key-to-the-city/",
+      "accessedAt": "2026-11-13",
+      "sourceType": "英文官方公共藝術專案檔案"
+    },
+    "title": "一把城市鑰匙能否真正重新分配公共空間的進入權？",
+    "summary": "以城市鑰匙的授予儀式檢驗參與式公共藝術，區分象徵性的被歡迎與實際可進入的場所、時間和規則。",
+    "questions": [
+      "鑰匙的象徵意義與實際開門能力有何差異？",
+      "誰被邀請領鑰匙，誰仍被排除在儀式之外？",
+      "二十多個地點的開放條件是否一致？",
+      "哪一個場所讓居民首次感到自己有權進入？",
+      "領取鑰匙是否需要時間、交通或語言成本？",
+      "哪些管理規則仍然掌握在機構手中？",
+      "如果鑰匙不能開門，觀眾如何回報與修正？",
+      "參與者是否能反過來提議新的城市地點？",
+      "活動結束後，信任與進入權留下了什麼制度痕跡？",
+      "移植到台灣時，哪一個公共場域適合做低風險試驗？"
+    ],
+    "strategy": "把「授予」與「進入」分成兩個可觀察的行動，建立地點清單、權限說明與參與者回饋流程；將受阻經驗納入策展成果。",
+    "task": "選一處台灣公共建築或社區空間，繪製一張「誰能使用」權限地圖，訪問兩位使用者並標記一項不合理障礙。",
+    "training": "30 分鐘田野記錄入口、告示、時段與實際動線；15 分鐘畫權限矩陣；15 分鐘提出一個可協商的開放實驗。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "美國紐約市五個行政區",
+      "title": "Paul Ramírez Jonas｜Key to the City（2010）",
+      "statusAsOf": "2026-11-13",
+      "latestUpdate": "2010 年已完成的歷史公共藝術案例。Creative Time 目前仍提供官方專案介紹及主視覺照片；主視覺為兩人交付鑰匙的場景。",
+      "references": [
+        "https://creativetime.org/projects/key-to-the-city/"
+      ],
+      "photos": [
+        {
+          "url": "https://creativetime.org/wp-content/uploads/2010/08/2010_KeyToTheCity.jpg",
+          "caption": "Paul Ramírez Jonas《Key to the City》（2010）官方專案主視覺，兩人交換城市鑰匙。",
+          "credit": "Creative Time 官方網站；攝影者未標示",
+          "sourceUrl": "https://creativetime.org/projects/key-to-the-city/",
+          "verifiedAt": "2026-11-13"
+        }
+      ],
+      "photoSourcePage": "https://creativetime.org/projects/key-to-the-city/",
+      "photoNote": "官方主視覺可取得原始網址，已列入 Notion 外部圖片嵌入候選；圖像版權歸屬 Creative Time／原攝影者未標示，需以實際頁面讀回確認嵌入。"
+    },
+    "rawText": "# 一把城市鑰匙能否真正重新分配公共空間的進入權？\n\n【官方來源事實】\nCreative Time 的官方檔案記錄 Paul Ramírez Jonas 於 2010 年在紐約推出《Key to the City》，讓市民互相授予鑰匙；鑰匙可開啟分布五個行政區的二十多個地點，包含社區花園、博物館與其他城市場所。\n\n【策展推論／待驗證假設】\n將可進入地點、時段與障礙公開列出，比單純發放象徵物更能檢驗參與是否產生實質的公共性。\n\n【原創訓練】\n把「授予」與「進入」分成兩個可觀察的行動，建立地點清單、權限說明與參與者回饋流程；將受阻經驗納入策展成果。\n實作：選一處台灣公共建築或社區空間，繪製一張「誰能使用」權限地圖，訪問兩位使用者並標記一項不合理障礙。\n\n【限制】\n場所開放時間、無障礙條件、管理者授權與活動結束後的持續性。\n\n【圖片紀錄】\n官方主視覺可取得原始網址，已列入 Notion 外部圖片嵌入候選；圖像版權歸屬 Creative Time／原攝影者未標示，需以實際頁面讀回確認嵌入。\n\n官方來源：https://creativetime.org/projects/key-to-the-city/\n查證日期：2026-11-13",
+    "coreHypothesis": "將可進入地點、時段與障礙公開列出，比單純發放象徵物更能檢驗參與是否產生實質的公共性。",
+    "underlyingNeed": "讓一般市民對城市場所產生可操作的歸屬感與進入經驗。",
+    "realConstraints": "場所開放時間、無障礙條件、管理者授權與活動結束後的持續性。",
+    "leverage": "參與權限矩陣：誰能進入、何時進入、需要什麼、被拒絕時如何申訴。",
+    "sourceFact": "Creative Time 的官方檔案記錄 Paul Ramírez Jonas 於 2010 年在紐約推出《Key to the City》，讓市民互相授予鑰匙；鑰匙可開啟分布五個行政區的二十多個地點，包含社區花園、博物館與其他城市場所。"
+  },
+  {
+    "id": "daily-2026-11-13-thinking",
+    "daily": true,
+    "date": "2026-11-13",
+    "category": "策展思考訓練",
+    "lens": "跨語言共同創作｜翻譯、協作權與舞台",
+    "source": {
+      "name": "Museum of Contemporary Art Chicago",
+      "title": "Performance | Lit & Luz Live Magazine Show",
+      "url": "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/",
+      "accessedAt": "2026-11-13",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "跨語言共創上台後，誰擁有最後的詮釋與翻譯權？",
+    "summary": "從雙語演出的合作關係拆解翻譯決策、署名與衝突協商，避免文化交流只剩無差別的異國風格。",
+    "questions": [
+      "誰決定演出主要語言與字幕優先順序？",
+      "一段無法直譯的笑話或隱喻由誰決定保留？",
+      "合作作者的名字、媒材與勞動如何完整署名？",
+      "哪些翻譯失誤可能產生新的創作機會？",
+      "如果兩位作者對作品意義有衝突，誰具有否決權？",
+      "觀眾理解不足時，應補充說明還是保留不確定？",
+      "聲音、字幕、動作與投影會互相遮蔽嗎？",
+      "文化背景差異是否被簡化成國籍差異？",
+      "哪一項證據可判斷合作是共同決策而非形式性邀請？",
+      "演出後如何把翻譯版本與修訂理由保存成檔案？"
+    ],
+    "strategy": "選一段雙語創作腳本，將每一次翻譯改動記為可追溯的決策；比較「只有字幕」與「附翻譯註記」兩種觀看路徑。",
+    "task": "以 120 字中文短文與一段英譯製作雙語卡，標出三個無法完整對應的詞，邀兩位讀者提出替代譯法。",
+    "training": "用 15 分鐘列原意與語氣、15 分鐘交換翻譯、10 分鐘討論否決權、10 分鐘完成署名與版本紀錄。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "美國芝加哥 Museum of Contemporary Art Chicago",
+      "title": "Lit & Luz Live Magazine Show 2026｜Edge/Borde",
+      "statusAsOf": "2026-11-13",
+      "latestUpdate": "官方公告 2026 年 11 月 13 日演出與四組 2026–27 跨國合作配對；活動頁使用 2025 年演出檔案照片，攝影 Natasha Moustache。尚未取得照片原始檔網址。",
+      "references": [
+        "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/"
+      ],
+      "photos": [],
+      "photoSourcePage": "https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/",
+      "photoNote": "官方頁有 2025 年 Lit & Luz 演出照片，攝影 Natasha Moustache；屬同一系列的歷史紀錄，尚未取得原始圖片網址與嵌入授權，圖片未嵌入。"
+    },
+    "rawText": "# 跨語言共創上台後，誰擁有最後的詮釋與翻譯權？\n\n【官方來源事實】\n芝加哥當代藝術館公告 2026 年 11 月 13 日 19:00–21:30 舉辦 Lit & Luz Live Magazine Show；2026 年主題為 Edge/Borde，邀芝加哥與墨西哥創作者共同發展跨語言、跨媒材演出，活動使用英語與西班牙語。\n\n【策展推論／待驗證假設】\n若在排練中公開記錄語言轉換的取捨，觀眾更能看見合作過程中的權力關係。\n\n【原創訓練】\n選一段雙語創作腳本，將每一次翻譯改動記為可追溯的決策；比較「只有字幕」與「附翻譯註記」兩種觀看路徑。\n實作：以 120 字中文短文與一段英譯製作雙語卡，標出三個無法完整對應的詞，邀兩位讀者提出替代譯法。\n\n【限制】\n即時演出時間有限、雙語能力不對等、翻譯可能改變幽默與語氣。\n\n【圖片紀錄】\n官方頁有 2025 年 Lit & Luz 演出照片，攝影 Natasha Moustache；屬同一系列的歷史紀錄，尚未取得原始圖片網址與嵌入授權，圖片未嵌入。\n\n官方來源：https://mcachicago.org/whats-on/events/performance-lit-luz-live-magazine-show/\n查證日期：2026-11-13",
+    "coreHypothesis": "若在排練中公開記錄語言轉換的取捨，觀眾更能看見合作過程中的權力關係。",
+    "underlyingNeed": "讓合作作者保有署名、語言及作品最終呈現的協商空間。",
+    "realConstraints": "即時演出時間有限、雙語能力不對等、翻譯可能改變幽默與語氣。",
+    "leverage": "雙語決策紀錄表：原意、譯法、失去的語感、決策人、可修改期限。",
+    "sourceFact": "芝加哥當代藝術館公告 2026 年 11 月 13 日 19:00–21:30 舉辦 Lit & Luz Live Magazine Show；2026 年主題為 Edge/Borde，邀芝加哥與墨西哥創作者共同發展跨語言、跨媒材演出，活動使用英語與西班牙語。"
+  },
+  {
     "id": "daily-2026-11-14-curator",
     "date": "2026-11-14",
     "category": "專業策展人課題",
@@ -27204,108 +27204,6 @@
       ]
     },
     "rawText": "# 當建築展把「集體生活」放在主題中心，策展如何證明基礎設施真的由人共同使用？\n\n【來源事實】\nSAT03 於 2026 年 11 月 14 日開幕，35 位參與者透過對談、工作坊、放映、導覽與公共行動討論建築如何支持集體生活；開幕週免費對公眾開放。\n\n【策展推論】\n以集體生活為命題並不自動代表權力共享。策展需要提供使用、決策、維護與衝突處理的證據，才能把公共性從形容詞變成可檢查的制度。\n\n【原創模擬】\nCivic Infrastructure Evidence Map 與五層證據圖是原創方法，不是 SAT03 官方評估工具。\n\n查證日期：2026-11-14"
-  },
-  {
-    "id": "daily-2026-11-14-thinking",
-    "date": "2026-11-14",
-    "category": "策展思考訓練",
-    "lens": "轉譯漂移｜把誤差、詮釋與共同創作分開",
-    "source": {
-      "name": "The Museum of Modern Art (MoMA)",
-      "title": "In a Dream We Spoke Through a Wall",
-      "url": "https://www.moma.org/calendar/events/11925",
-      "accessedAt": "2026-11-14",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "夢被反覆轉述後，哪些變化是誤差，哪些反而是共同創作？",
-    "summary": "以版本鏈記錄每次轉述增加、刪除與改寫的內容，讓策展人分辨失真、詮釋與集體生成，而不是追求不存在的單一原稿。",
-    "questions": [
-      "第一個版本裡有哪些可核對的具體形象、動作或情緒？",
-      "第二位轉述者刪除了什麼，又補入了什麼？",
-      "哪一項變化來自語言限制，而不是理解錯誤？",
-      "誰有權判定某個版本已經偏離原意？",
-      "原作者是否希望保留曖昧，還是需要精確傳達？",
-      "文字轉成圖像時，哪些細節會被放大或消失？",
-      "共同創作是否保留每位參與者的修改痕跡與署名？",
-      "策展標籤應呈現最後版本，還是呈現版本之間的差異？",
-      "觀眾能否回到來源，理解每次轉譯發生的條件？",
-      "如果漂移本身成為作品，最低限度仍需保留哪些倫理邊界？"
-    ],
-    "strategy": "使用 Translation Drift Ledger：每次轉述都標記保留、刪除、增加、誤讀與有意改寫，並記錄修改者、媒介、時間與是否經原作者確認。",
-    "task": "請三個人依序把一段 80 字夢境從文字轉為圖像、再轉回文字；比較四個版本，製作一張漂移表並挑出一項值得保留的意外變化。",
-    "training": "先用 15 分鐘寫原始夢境；三輪轉譯各 10 分鐘且不得看前兩版；用 30 分鐘逐句標色比對保留、遺失與新增；最後 15 分鐘分別寫出「忠實檔案版」與「共同創作版」的展示說明。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約 MoMA Paula and James Crown Creativity Lab",
-      "title": "In a Dream We Spoke Through a Wall",
-      "statusAsOf": "2026-11-14",
-      "latestUpdate": "MoMA 於 2026 年 11 月 14 日舉辦 Chang Yuchen 帶領的寫作工作坊，參與者以文字、圖像、口述與切線式翻譯轉錄夢境，探索故事在反覆分享中如何改變並產生新意義；活動免費但需預約，建議成人與青少年參加。",
-      "references": [
-        "https://www.moma.org/calendar/events/11925"
-      ],
-      "photos": [
-        {
-          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTEvMDUvOGIxNGZmYTg0ZV9zcGVha190aHJvdWdoLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/speak%20through.jpg?sha=9100fe8f14281ce4",
-          "caption": "《In a Dream We Spoke Through a Wall》官方活動影像。",
-          "credit": "Image courtesy of the artist；The Museum of Modern Art",
-          "sourceUrl": "https://www.moma.org/calendar/events/11925",
-          "verifiedAt": "2026-11-14"
-        }
-      ]
-    },
-    "rawText": "# 夢被反覆轉述後，哪些變化是誤差，哪些反而是共同創作？\n\n【來源事實】\nMoMA 的工作坊以 Chang Yuchen 的互動裝置為靈感，透過文字、圖像、口述與切線式翻譯轉錄夢境，探索故事反覆分享後的改變。\n\n【策展推論】\n轉譯不必只在忠實與背叛之間二選一；只要版本、修改者與確認權清楚，漂移也能成為共同創作的證據。\n\n【原創模擬】\nTranslation Drift Ledger 與四版漂移實驗是原創訓練，不是 MoMA 官方工作坊紀錄格式。\n\n查證日期：2026-11-14"
-  },
-  {
-    "id": "daily-2026-11-14-participation",
-    "date": "2026-11-14",
-    "category": "國際民眾參與實作",
-    "lens": "開放工作室｜從低門檻製作走向可回應的公共對話",
-    "source": {
-      "name": "The Metropolitan Museum of Art",
-      "title": "Open Studio—Collage, Process, and Pattern",
-      "url": "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern",
-      "accessedAt": "2026-11-14",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "開放工作室讓任何人進來做拼貼時，參與如何從材料體驗走向公共對話？",
-    "summary": "把自由製作拆成進入、選材、交換、回應與留存五個節點，讓參與者不只帶走成品，也能看見自己的選擇如何進入共同知識。",
-    "questions": [
-      "陌生人進場後，能否在一分鐘內理解自己可以做什麼？",
-      "材料選擇是否暗示唯一美感，還是真正允許不同方向？",
-      "回收印刷物原本的圖像與權力關係有被討論嗎？",
-      "藝術家示範提供鷹架，還是變成所有人模仿的標準答案？",
-      "參與者能否選擇只觀察、交談或退出，而不必完成作品？",
-      "個人作品之間如何產生交換、比較或共同編排？",
-      "現場對話由誰記錄，誰有權修正紀錄？",
-      "活動結束後，參與成果被帶走、展示、掃描或回收的規則清楚嗎？",
-      "機構從參與者的材料實驗學到了什麼，會在哪裡回應？",
-      "下一次活動如何根據今天的實際行為而不是滿意度調整？"
-    ],
-    "strategy": "設計 Open Studio Response Loop：入口提供三種參與強度；桌面設置材料來源卡與交換提示；出口讓參與者選擇帶走、匿名留存或共同展示；館方於 14 日內公開三項觀察與下一次調整。",
-    "task": "把一場自由拼貼活動畫成五節點流程，為每一節點補上一個選擇權與一個可觀察證據；最後寫出不以作品數量作為成效的三項指標。",
-    "training": "20 分鐘拆解入口與材料；20 分鐘模擬只觀看、短暫參與、深度共作三種路徑；25 分鐘設計成果授權與撤回機制；15 分鐘寫館方回應模板；10 分鐘做無障礙與語言檢查。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約 The Met Fifth Avenue Gallery 548",
-      "title": "Open Studio—Collage, Process, and Pattern",
-      "statusAsOf": "2026-11-14",
-      "latestUpdate": "The Met 於 2026 年 11 月 14 日舉辦免費隨到隨做的 Open Studio，由藝術家雙人組 Ghost of a Dream 示範拼貼，參與者使用館方回收的印刷材料探索重複與圖案；活動並安排與館方專家的對話，採先到先參加。",
-      "references": [
-        "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern"
-      ],
-      "photos": [
-        {
-          "url": "https://engage.metmuseum.org/media/41en3b3l/2025_06_14_argenis_apolinario_met_photo_convening_3993.jpg?width=1920&quality=75&v=1dc1c1db3d7dcd0",
-          "caption": "參與者在 The Met 公共工作坊中進行拼貼創作。",
-          "credit": "Photo by Argenis Apolinario / The Metropolitan Museum of Art",
-          "sourceUrl": "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern",
-          "verifiedAt": "2026-11-14"
-        }
-      ]
-    },
-    "rawText": "# 開放工作室讓任何人進來做拼貼時，參與如何從材料體驗走向公共對話？\n\n【來源事實】\nThe Met 的 Open Studio 以 Ghost of a Dream 示範、回收印刷材料、自由拼貼與館方專家對談構成，活動免費但空間有限。\n\n【策展推論】\n低門檻製作有助於進入，但若沒有交換、授權、留存與館方回應，參與仍可能停在個人手作體驗。\n\n【原創模擬】\nOpen Studio Response Loop 與 14 日公開回應是原創參與設計，不代表 The Met 已採行此追蹤機制。\n\n查證日期：2026-11-14"
   },
   {
     "id": "daily-2026-11-14-family",
@@ -27445,6 +27343,108 @@
     "rawText": "# 當影像可以瞬間生成，你的速寫本還要保存什麼只有自己能看見的東西？\n\n【來源事實】\nDesign Museum 的兩日工作坊以館藏物件與攝影來源練習觀察、線條、明暗、質地、記憶與視覺日誌，並將速寫本描述為 AI 時代仍可測試與發展想法的類比空間。\n\n【策展推論】\n速寫本的不可取代性不只在手繪風格，而在它保存注意力、錯誤、猶豫與修正的時間順序。\n\n【原創模擬】\nAttention Trace Page 與七天十二分鐘練習是原創人生策展工具，不是 Design Museum 官方課程格式。\n\n查證日期：2026-11-14"
   },
   {
+    "id": "daily-2026-11-14-participation",
+    "date": "2026-11-14",
+    "category": "國際民眾參與實作",
+    "lens": "開放工作室｜從低門檻製作走向可回應的公共對話",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Open Studio—Collage, Process, and Pattern",
+      "url": "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "開放工作室讓任何人進來做拼貼時，參與如何從材料體驗走向公共對話？",
+    "summary": "把自由製作拆成進入、選材、交換、回應與留存五個節點，讓參與者不只帶走成品，也能看見自己的選擇如何進入共同知識。",
+    "questions": [
+      "陌生人進場後，能否在一分鐘內理解自己可以做什麼？",
+      "材料選擇是否暗示唯一美感，還是真正允許不同方向？",
+      "回收印刷物原本的圖像與權力關係有被討論嗎？",
+      "藝術家示範提供鷹架，還是變成所有人模仿的標準答案？",
+      "參與者能否選擇只觀察、交談或退出，而不必完成作品？",
+      "個人作品之間如何產生交換、比較或共同編排？",
+      "現場對話由誰記錄，誰有權修正紀錄？",
+      "活動結束後，參與成果被帶走、展示、掃描或回收的規則清楚嗎？",
+      "機構從參與者的材料實驗學到了什麼，會在哪裡回應？",
+      "下一次活動如何根據今天的實際行為而不是滿意度調整？"
+    ],
+    "strategy": "設計 Open Studio Response Loop：入口提供三種參與強度；桌面設置材料來源卡與交換提示；出口讓參與者選擇帶走、匿名留存或共同展示；館方於 14 日內公開三項觀察與下一次調整。",
+    "task": "把一場自由拼貼活動畫成五節點流程，為每一節點補上一個選擇權與一個可觀察證據；最後寫出不以作品數量作為成效的三項指標。",
+    "training": "20 分鐘拆解入口與材料；20 分鐘模擬只觀看、短暫參與、深度共作三種路徑；25 分鐘設計成果授權與撤回機制；15 分鐘寫館方回應模板；10 分鐘做無障礙與語言檢查。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Fifth Avenue Gallery 548",
+      "title": "Open Studio—Collage, Process, and Pattern",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "The Met 於 2026 年 11 月 14 日舉辦免費隨到隨做的 Open Studio，由藝術家雙人組 Ghost of a Dream 示範拼貼，參與者使用館方回收的印刷材料探索重複與圖案；活動並安排與館方專家的對話，採先到先參加。",
+      "references": [
+        "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/41en3b3l/2025_06_14_argenis_apolinario_met_photo_convening_3993.jpg?width=1920&quality=75&v=1dc1c1db3d7dcd0",
+          "caption": "參與者在 The Met 公共工作坊中進行拼貼創作。",
+          "credit": "Photo by Argenis Apolinario / The Metropolitan Museum of Art",
+          "sourceUrl": "https://engage.metmuseum.org/events/education/workshops-and-classes/creative-practice/open-studio/fy27/open-studio-collage-process-and-pattern",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 開放工作室讓任何人進來做拼貼時，參與如何從材料體驗走向公共對話？\n\n【來源事實】\nThe Met 的 Open Studio 以 Ghost of a Dream 示範、回收印刷材料、自由拼貼與館方專家對談構成，活動免費但空間有限。\n\n【策展推論】\n低門檻製作有助於進入，但若沒有交換、授權、留存與館方回應，參與仍可能停在個人手作體驗。\n\n【原創模擬】\nOpen Studio Response Loop 與 14 日公開回應是原創參與設計，不代表 The Met 已採行此追蹤機制。\n\n查證日期：2026-11-14"
+  },
+  {
+    "id": "daily-2026-11-14-thinking",
+    "date": "2026-11-14",
+    "category": "策展思考訓練",
+    "lens": "轉譯漂移｜把誤差、詮釋與共同創作分開",
+    "source": {
+      "name": "The Museum of Modern Art (MoMA)",
+      "title": "In a Dream We Spoke Through a Wall",
+      "url": "https://www.moma.org/calendar/events/11925",
+      "accessedAt": "2026-11-14",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "夢被反覆轉述後，哪些變化是誤差，哪些反而是共同創作？",
+    "summary": "以版本鏈記錄每次轉述增加、刪除與改寫的內容，讓策展人分辨失真、詮釋與集體生成，而不是追求不存在的單一原稿。",
+    "questions": [
+      "第一個版本裡有哪些可核對的具體形象、動作或情緒？",
+      "第二位轉述者刪除了什麼，又補入了什麼？",
+      "哪一項變化來自語言限制，而不是理解錯誤？",
+      "誰有權判定某個版本已經偏離原意？",
+      "原作者是否希望保留曖昧，還是需要精確傳達？",
+      "文字轉成圖像時，哪些細節會被放大或消失？",
+      "共同創作是否保留每位參與者的修改痕跡與署名？",
+      "策展標籤應呈現最後版本，還是呈現版本之間的差異？",
+      "觀眾能否回到來源，理解每次轉譯發生的條件？",
+      "如果漂移本身成為作品，最低限度仍需保留哪些倫理邊界？"
+    ],
+    "strategy": "使用 Translation Drift Ledger：每次轉述都標記保留、刪除、增加、誤讀與有意改寫，並記錄修改者、媒介、時間與是否經原作者確認。",
+    "task": "請三個人依序把一段 80 字夢境從文字轉為圖像、再轉回文字；比較四個版本，製作一張漂移表並挑出一項值得保留的意外變化。",
+    "training": "先用 15 分鐘寫原始夢境；三輪轉譯各 10 分鐘且不得看前兩版；用 30 分鐘逐句標色比對保留、遺失與新增；最後 15 分鐘分別寫出「忠實檔案版」與「共同創作版」的展示說明。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA Paula and James Crown Creativity Lab",
+      "title": "In a Dream We Spoke Through a Wall",
+      "statusAsOf": "2026-11-14",
+      "latestUpdate": "MoMA 於 2026 年 11 月 14 日舉辦 Chang Yuchen 帶領的寫作工作坊，參與者以文字、圖像、口述與切線式翻譯轉錄夢境，探索故事在反覆分享中如何改變並產生新意義；活動免費但需預約，建議成人與青少年參加。",
+      "references": [
+        "https://www.moma.org/calendar/events/11925"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTEvMDUvOGIxNGZmYTg0ZV9zcGVha190aHJvdWdoLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/speak%20through.jpg?sha=9100fe8f14281ce4",
+          "caption": "《In a Dream We Spoke Through a Wall》官方活動影像。",
+          "credit": "Image courtesy of the artist；The Museum of Modern Art",
+          "sourceUrl": "https://www.moma.org/calendar/events/11925",
+          "verifiedAt": "2026-11-14"
+        }
+      ]
+    },
+    "rawText": "# 夢被反覆轉述後，哪些變化是誤差，哪些反而是共同創作？\n\n【來源事實】\nMoMA 的工作坊以 Chang Yuchen 的互動裝置為靈感，透過文字、圖像、口述與切線式翻譯轉錄夢境，探索故事反覆分享後的改變。\n\n【策展推論】\n轉譯不必只在忠實與背叛之間二選一；只要版本、修改者與確認權清楚，漂移也能成為共同創作的證據。\n\n【原創模擬】\nTranslation Drift Ledger 與四版漂移實驗是原創訓練，不是 MoMA 官方工作坊紀錄格式。\n\n查證日期：2026-11-14"
+  },
+  {
     "id": "daily-2026-11-15-curator",
     "date": "2026-11-15",
     "category": "專業策展人課題",
@@ -27500,134 +27500,6 @@
       ]
     },
     "rawText": "# 當展覽為逝去藝術家安排對話，策展如何避免把「遺產」固定成單一版本？\n\n【來源事實】\nLa Biennale 於 2026 年 11 月 15 日舉辦 Saudade 圓桌，討論遺產的不穩定意義與「缺席的在場」。\n\n【策展推論】\n遺產不是一次完成的結論；策展若公開來源、異議與更新條件，才能避免由機構替逝者封存單一版本。\n\n【原創模擬】\nLegacy Version Map 與 90 分鐘版本差異練習是原創方法，不是 La Biennale 官方評估工具。\n\n查證日期：2026-11-15"
-  },
-  {
-    "id": "daily-2026-11-15-thinking",
-    "date": "2026-11-15",
-    "category": "策展思考訓練",
-    "lens": "多元生成｜從可見性走向關係、資源與共同修正",
-    "source": {
-      "name": "Moldova Pavilion at La Biennale di Venezia",
-      "title": "Seeing or Sowing Plurality?",
-      "url": "https://www.labiennale.org/en/agenda/moldova-pavilion-seeing-or-sowing-plurality",
-      "accessedAt": "2026-11-15",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "看見多元與培養多元有什麼差別，展覽如何把差異變成持續關係？",
-    "summary": "把多元從名單比例改成資源、決策、互賴與修正權的長期配置，檢查展覽究竟只是展示差異，還是讓差異能繼續改變制度。",
-    "questions": [
-      "展覽目前只是讓不同身份出現，還是讓他們影響選題與資源？",
-      "誰被看見卻仍沒有決策權？",
-      "不同群體之間是否建立可持續的互賴，而非平行陳列？",
-      "預算、空間、宣傳與檔期如何在差異之間分配？",
-      "參與者能否反對策展分類並改寫自己的位置？",
-      "機構如何處理差異之間真實存在的衝突？",
-      "哪一段關係在展後仍有人負責維護？",
-      "多元指標是否只計算人數，而沒有記錄權力變化？",
-      "新的合作是否降低了下一次參與的門檻？",
-      "如果拿掉身份標籤，還能看到哪些具體制度改變？"
-    ],
-    "strategy": "建立 Plurality Cultivation Ledger：分別記錄可見性、資源、決策、互賴、修正與延續六欄，要求每一項多元主張至少連到兩欄可驗證變化。",
-    "task": "挑一個宣稱多元的展覽，列出五個被看見的群體；為每一群體補上資源、決策與展後延續證據，找出一個只有可見性、沒有權力的缺口。",
-    "training": "15 分鐘盤點名單；20 分鐘畫資源流；20 分鐘標示決策權；15 分鐘模擬衝突；10 分鐘設計修正入口；最後 10 分鐘寫出一項展後關係承諾。",
-    "coreHypothesis": "只有當差異獲得資源、決策與修正權，多元才會從被看見轉成可持續生成。",
-    "underlyingNeed": "讓代表性不止於形象，而能改變合作關係與制度。",
-    "realConstraints": "展期短、權力不對等、預算固定，且身份分類可能簡化個體。",
-    "leverage": "Plurality Cultivation Ledger 可用於參展名單、公共計畫與組織治理檢查。",
-    "sourceFact": "2026 年 11 月 15 日，摩爾多瓦館以 Seeing or Sowing Plurality? 公開討論 Pavel Brăila《On the Thousand and Second Night》；官方以「辨認多元」與「協助多元生長」的差異作為核心問題。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "義大利／摩爾多瓦",
-      "location": "威尼斯 Santa Veneranda, Chiesa dei Santi Geremia e Lucia",
-      "title": "Moldova Pavilion: Seeing or Sowing Plurality?",
-      "statusAsOf": "2026-11-15",
-      "latestUpdate": "2026 年 11 月 15 日 14:00–16:00 舉辦公開討論，Cosmin Costinaș、Nina Tabassomi 與 Ovidiu Țichindeleanu參與；展覽《On the Thousand and Second Night》為摩爾多瓦首次正式國家館參與，地毯以無人機懸浮於教堂空間。",
-      "references": [
-        "https://www.labiennale.org/en/agenda/moldova-pavilion-seeing-or-sowing-plurality",
-        "https://1002.md/",
-        "https://www.labiennale.org/en/art/2026/moldova-republic"
-      ],
-      "photos": [
-        {
-          "url": "https://1002.md/assets/drone.jpg",
-          "caption": "《On the Thousand and Second Night》官方計畫主圖，地毯與無人機構成展覽核心空間意象。",
-          "credit": "Moldova Pavilion 官方計畫頁；計畫團隊列 Vadim Hîncu 為攝影師，但未逐張指定圖片信用",
-          "sourceUrl": "https://1002.md/",
-          "verifiedAt": "2026-11-15"
-        },
-        {
-          "url": "https://1002.md/assets/pavel-braila.jpg",
-          "caption": "藝術家 Pavel Brăila 官方肖像。",
-          "credit": "Moldova Pavilion 官方計畫頁；個別圖片攝影信用未標示",
-          "sourceUrl": "https://1002.md/",
-          "verifiedAt": "2026-11-15"
-        },
-        {
-          "url": "https://1002.md/assets/adelina-luft.jpg",
-          "caption": "策展人 Adelina Luft 官方肖像。",
-          "credit": "Moldova Pavilion 官方計畫頁；個別圖片攝影信用未標示",
-          "sourceUrl": "https://1002.md/",
-          "verifiedAt": "2026-11-15"
-        }
-      ]
-    },
-    "rawText": "# 看見多元與培養多元有什麼差別，展覽如何把差異變成持續關係？\n\n【來源事實】\n摩爾多瓦館於 2026 年 11 月 15 日舉辦 Seeing or Sowing Plurality? 討論，以辨認多元與協助多元生長之差異為核心。\n\n【策展推論】\n多元若只停在可見性，容易成為名單政治；資源、決策、互賴與修正權才是能否生長的證據。\n\n【原創模擬】\nPlurality Cultivation Ledger 是原創訓練，不是摩爾多瓦館官方評估表。\n\n查證日期：2026-11-15"
-  },
-  {
-    "id": "daily-2026-11-15-participation",
-    "date": "2026-11-15",
-    "category": "國際民眾參與實作",
-    "lens": "公開研究｜示範、提問權與機構回應",
-    "source": {
-      "name": "The Metropolitan Museum of Art",
-      "title": "How Did They Do That?—Feasting",
-      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
-      "accessedAt": "2026-11-15",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "當博物館把保存技術搬到公開示範，觀眾如何從旁觀者變成可提問的研究伙伴？",
-    "summary": "把技術示範設計成觀察、提問、查證與回應的循環，讓觀眾提出的疑問能留下紀錄並影響後續解說，而不只是看完專家操作。",
-    "questions": [
-      "示範前，觀眾知道今天要共同查證哪一個問題嗎？",
-      "專家如何說明工具、材料與不確定性，而不是只展示熟練結果？",
-      "觀眾能否在安全範圍內觸摸、比較或操作？",
-      "哪些問題可以現場回答，哪些需要後續研究？",
-      "提問者是否知道自己的問題會被如何紀錄與使用？",
-      "保存判斷中的取捨與失敗有被公開嗎？",
-      "兒童、非母語者與身障觀眾有哪些不同提問入口？",
-      "館方如何避免把觀眾經驗只當趣味回饋？",
-      "活動後是否公開未解問題與查證進度？",
-      "下一次標籤、導覽或展示會因哪些觀眾問題而改變？"
-    ],
-    "strategy": "設計 Public Research Loop：先公開待查問題，再讓觀眾觀察與提問；把問題分成立即回答、需查證、超出範圍三類，於 14 日內公開回應與一項內容調整。",
-    "task": "把一場 30 分鐘技術示範改成研究循環：準備三個可觀察證據、一張問題分類板與一份展後回應模板，並邀請五位測試者提出問題。",
-    "training": "10 分鐘定義研究問題；15 分鐘拆解示範步驟；15 分鐘設計可操作證據；20 分鐘模擬五類觀眾提問；15 分鐘分類未解題；最後 15 分鐘寫回應與改版規則。",
-    "coreHypothesis": "當觀眾問題被分類、回覆並轉成內容修正時，公開示範能成為共同研究而非單向科普。",
-    "underlyingNeed": "讓專業知識可被質問、理解與共同累積。",
-    "realConstraints": "文物安全、示範時間、專家工作量與後續回覆責任。",
-    "leverage": "Public Research Loop 可複用於修復現場、製作示範與幕後導覽。",
-    "sourceFact": "The Met 2026 年 11 月 15 日曆列出 How Did They Do That?—Feasting，安排教育者、修復專業者與藝術家以實作示範與對話探討「盛宴」主題。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約 The Met Cloisters",
-      "title": "How Did They Do That?—Feasting",
-      "statusAsOf": "2026-11-15",
-      "latestUpdate": "The Met 官方日曆列出活動於 2026 年 11 月 15 日 13:00 舉行，以實作示範和與教育者、修復專業者、藝術家的對話，帶觀眾理解中世紀「盛宴」相關材料與方法。",
-      "references": [
-        "https://www.metmuseum.org/events/calendar?startDate=2026-11-15"
-      ],
-      "photos": [
-        {
-          "url": "https://engage.metmuseum.org/media/j2ldyhga/721-cloisters-hdtdt.jpg",
-          "caption": "The Met Cloisters「How Did They Do That?」官方活動影像，呈現公開示範與觀眾近距離觀察。",
-          "credit": "The Metropolitan Museum of Art 官方日曆；頁面未顯示攝影者",
-          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
-          "verifiedAt": "2026-11-15"
-        }
-      ]
-    },
-    "rawText": "# 當博物館把保存技術搬到公開示範，觀眾如何從旁觀者變成可提問的研究伙伴？\n\n【來源事實】\nThe Met 官方日曆列出 2026 年 11 月 15 日的 How Did They Do That?—Feasting，以實作示範與專家對話為形式。\n\n【策展推論】\n示範只有在觀眾問題被紀錄、回覆並影響內容時，才從觀看轉為共同研究。\n\n【原創模擬】\nPublic Research Loop 與 14 日回應承諾是原創參與設計，不代表 The Met 已採行。\n\n查證日期：2026-11-15"
   },
   {
     "id": "daily-2026-11-15-family",
@@ -27741,5 +27613,464 @@
       ]
     },
     "rawText": "# 展覽閉幕時，你如何判斷一個改變已成為可持續的日常練習？\n\n【來源事實】\n第 16 屆光州雙年展《You Must Change Your Life》於 2026 年 11 月 15 日閉幕，官方以改變作為方法及透過重複維持的實踐為核心。\n\n【策展推論】\n一次感動不是長期改變；重複頻率、環境支持與中斷後的恢復速度更能顯示實踐是否進入日常。\n\n【原創模擬】\nChange Persistence Log 與 14 天微行動是原創人生策展工具，不是光州雙年展官方評量。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-15-participation",
+    "date": "2026-11-15",
+    "category": "國際民眾參與實作",
+    "lens": "公開研究｜示範、提問權與機構回應",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "How Did They Do That?—Feasting",
+      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當博物館把保存技術搬到公開示範，觀眾如何從旁觀者變成可提問的研究伙伴？",
+    "summary": "把技術示範設計成觀察、提問、查證與回應的循環，讓觀眾提出的疑問能留下紀錄並影響後續解說，而不只是看完專家操作。",
+    "questions": [
+      "示範前，觀眾知道今天要共同查證哪一個問題嗎？",
+      "專家如何說明工具、材料與不確定性，而不是只展示熟練結果？",
+      "觀眾能否在安全範圍內觸摸、比較或操作？",
+      "哪些問題可以現場回答，哪些需要後續研究？",
+      "提問者是否知道自己的問題會被如何紀錄與使用？",
+      "保存判斷中的取捨與失敗有被公開嗎？",
+      "兒童、非母語者與身障觀眾有哪些不同提問入口？",
+      "館方如何避免把觀眾經驗只當趣味回饋？",
+      "活動後是否公開未解問題與查證進度？",
+      "下一次標籤、導覽或展示會因哪些觀眾問題而改變？"
+    ],
+    "strategy": "設計 Public Research Loop：先公開待查問題，再讓觀眾觀察與提問；把問題分成立即回答、需查證、超出範圍三類，於 14 日內公開回應與一項內容調整。",
+    "task": "把一場 30 分鐘技術示範改成研究循環：準備三個可觀察證據、一張問題分類板與一份展後回應模板，並邀請五位測試者提出問題。",
+    "training": "10 分鐘定義研究問題；15 分鐘拆解示範步驟；15 分鐘設計可操作證據；20 分鐘模擬五類觀眾提問；15 分鐘分類未解題；最後 15 分鐘寫回應與改版規則。",
+    "coreHypothesis": "當觀眾問題被分類、回覆並轉成內容修正時，公開示範能成為共同研究而非單向科普。",
+    "underlyingNeed": "讓專業知識可被質問、理解與共同累積。",
+    "realConstraints": "文物安全、示範時間、專家工作量與後續回覆責任。",
+    "leverage": "Public Research Loop 可複用於修復現場、製作示範與幕後導覽。",
+    "sourceFact": "The Met 2026 年 11 月 15 日曆列出 How Did They Do That?—Feasting，安排教育者、修復專業者與藝術家以實作示範與對話探討「盛宴」主題。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Cloisters",
+      "title": "How Did They Do That?—Feasting",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "The Met 官方日曆列出活動於 2026 年 11 月 15 日 13:00 舉行，以實作示範和與教育者、修復專業者、藝術家的對話，帶觀眾理解中世紀「盛宴」相關材料與方法。",
+      "references": [
+        "https://www.metmuseum.org/events/calendar?startDate=2026-11-15"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/j2ldyhga/721-cloisters-hdtdt.jpg",
+          "caption": "The Met Cloisters「How Did They Do That?」官方活動影像，呈現公開示範與觀眾近距離觀察。",
+          "credit": "The Metropolitan Museum of Art 官方日曆；頁面未顯示攝影者",
+          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-15",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 當博物館把保存技術搬到公開示範，觀眾如何從旁觀者變成可提問的研究伙伴？\n\n【來源事實】\nThe Met 官方日曆列出 2026 年 11 月 15 日的 How Did They Do That?—Feasting，以實作示範與專家對話為形式。\n\n【策展推論】\n示範只有在觀眾問題被紀錄、回覆並影響內容時，才從觀看轉為共同研究。\n\n【原創模擬】\nPublic Research Loop 與 14 日回應承諾是原創參與設計，不代表 The Met 已採行。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-15-thinking",
+    "date": "2026-11-15",
+    "category": "策展思考訓練",
+    "lens": "多元生成｜從可見性走向關係、資源與共同修正",
+    "source": {
+      "name": "Moldova Pavilion at La Biennale di Venezia",
+      "title": "Seeing or Sowing Plurality?",
+      "url": "https://www.labiennale.org/en/agenda/moldova-pavilion-seeing-or-sowing-plurality",
+      "accessedAt": "2026-11-15",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "看見多元與培養多元有什麼差別，展覽如何把差異變成持續關係？",
+    "summary": "把多元從名單比例改成資源、決策、互賴與修正權的長期配置，檢查展覽究竟只是展示差異，還是讓差異能繼續改變制度。",
+    "questions": [
+      "展覽目前只是讓不同身份出現，還是讓他們影響選題與資源？",
+      "誰被看見卻仍沒有決策權？",
+      "不同群體之間是否建立可持續的互賴，而非平行陳列？",
+      "預算、空間、宣傳與檔期如何在差異之間分配？",
+      "參與者能否反對策展分類並改寫自己的位置？",
+      "機構如何處理差異之間真實存在的衝突？",
+      "哪一段關係在展後仍有人負責維護？",
+      "多元指標是否只計算人數，而沒有記錄權力變化？",
+      "新的合作是否降低了下一次參與的門檻？",
+      "如果拿掉身份標籤，還能看到哪些具體制度改變？"
+    ],
+    "strategy": "建立 Plurality Cultivation Ledger：分別記錄可見性、資源、決策、互賴、修正與延續六欄，要求每一項多元主張至少連到兩欄可驗證變化。",
+    "task": "挑一個宣稱多元的展覽，列出五個被看見的群體；為每一群體補上資源、決策與展後延續證據，找出一個只有可見性、沒有權力的缺口。",
+    "training": "15 分鐘盤點名單；20 分鐘畫資源流；20 分鐘標示決策權；15 分鐘模擬衝突；10 分鐘設計修正入口；最後 10 分鐘寫出一項展後關係承諾。",
+    "coreHypothesis": "只有當差異獲得資源、決策與修正權，多元才會從被看見轉成可持續生成。",
+    "underlyingNeed": "讓代表性不止於形象，而能改變合作關係與制度。",
+    "realConstraints": "展期短、權力不對等、預算固定，且身份分類可能簡化個體。",
+    "leverage": "Plurality Cultivation Ledger 可用於參展名單、公共計畫與組織治理檢查。",
+    "sourceFact": "2026 年 11 月 15 日，摩爾多瓦館以 Seeing or Sowing Plurality? 公開討論 Pavel Brăila《On the Thousand and Second Night》；官方以「辨認多元」與「協助多元生長」的差異作為核心問題。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利／摩爾多瓦",
+      "location": "威尼斯 Santa Veneranda, Chiesa dei Santi Geremia e Lucia",
+      "title": "Moldova Pavilion: Seeing or Sowing Plurality?",
+      "statusAsOf": "2026-11-15",
+      "latestUpdate": "2026 年 11 月 15 日 14:00–16:00 舉辦公開討論，Cosmin Costinaș、Nina Tabassomi 與 Ovidiu Țichindeleanu參與；展覽《On the Thousand and Second Night》為摩爾多瓦首次正式國家館參與，地毯以無人機懸浮於教堂空間。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/moldova-pavilion-seeing-or-sowing-plurality",
+        "https://1002.md/",
+        "https://www.labiennale.org/en/art/2026/moldova-republic"
+      ],
+      "photos": [
+        {
+          "url": "https://1002.md/assets/drone.jpg",
+          "caption": "《On the Thousand and Second Night》官方計畫主圖，地毯與無人機構成展覽核心空間意象。",
+          "credit": "Moldova Pavilion 官方計畫頁；計畫團隊列 Vadim Hîncu 為攝影師，但未逐張指定圖片信用",
+          "sourceUrl": "https://1002.md/",
+          "verifiedAt": "2026-11-15"
+        },
+        {
+          "url": "https://1002.md/assets/pavel-braila.jpg",
+          "caption": "藝術家 Pavel Brăila 官方肖像。",
+          "credit": "Moldova Pavilion 官方計畫頁；個別圖片攝影信用未標示",
+          "sourceUrl": "https://1002.md/",
+          "verifiedAt": "2026-11-15"
+        },
+        {
+          "url": "https://1002.md/assets/adelina-luft.jpg",
+          "caption": "策展人 Adelina Luft 官方肖像。",
+          "credit": "Moldova Pavilion 官方計畫頁；個別圖片攝影信用未標示",
+          "sourceUrl": "https://1002.md/",
+          "verifiedAt": "2026-11-15"
+        }
+      ]
+    },
+    "rawText": "# 看見多元與培養多元有什麼差別，展覽如何把差異變成持續關係？\n\n【來源事實】\n摩爾多瓦館於 2026 年 11 月 15 日舉辦 Seeing or Sowing Plurality? 討論，以辨認多元與協助多元生長之差異為核心。\n\n【策展推論】\n多元若只停在可見性，容易成為名單政治；資源、決策、互賴與修正權才是能否生長的證據。\n\n【原創模擬】\nPlurality Cultivation Ledger 是原創訓練，不是摩爾多瓦館官方評估表。\n\n查證日期：2026-11-15"
+  },
+  {
+    "id": "daily-2026-11-16-curator",
+    "date": "2026-11-16",
+    "category": "專業策展人課題",
+    "lens": "連續敘事｜在單件作品與整體循環之間編排觀看責任",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Katy Siegel on Si Lewen’s The Parade",
+      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-16",
+      "accessedAt": "2026-11-16",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當一組反戰作品以長卷般連續展開，策展如何讓觀看節奏保留歷史壓力？",
+    "summary": "把作品循環拆成進入、累積、轉折、停頓與離場五段，讓每件作品仍可被細讀，同時保留整體敘事逐步施加的倫理壓力。",
+    "questions": [
+      "這組作品的意義主要來自單件圖像，還是它們彼此相連的順序？",
+      "觀眾從哪一件進入，會如何改變對整體的理解？",
+      "哪些重複意象正在累積壓力，而不是提供裝飾性節奏？",
+      "哪一個轉折若被提前揭露，會削弱作品的歷史重量？",
+      "策展需要提供多少背景，才能支援閱讀又不替觀眾下結論？",
+      "作品之間的距離、視線與停留時間如何影響敘事速度？",
+      "可否讓觀眾回頭重看，而不破壞原有序列？",
+      "單件被借展、刊載或數位瀏覽時，如何標明它在整體循環中的位置？",
+      "反戰敘事如何避免把暴力轉成可快速消費的戲劇效果？",
+      "離場前需要留下哪一個未解問題，使觀看不以情緒宣洩結束？"
+    ],
+    "strategy": "建立 Sequence Pressure Map：逐件標示事件功能、情緒強度、重複意象、必要背景與預期停留；再用進入、累積、轉折、停頓、離場五段檢查整體壓力是否被展場節奏保留。",
+    "task": "選一組至少八件的系列作品，畫出目前與原作兩種序列；刪除一段過度解說，新增一個必要停頓，並測試三位觀眾是否能指出序列的關鍵轉折。",
+    "training": "15 分鐘只看單件；20 分鐘復原原始順序；20 分鐘標記重複與轉折；15 分鐘測量展場停留；10 分鐘改寫牆文；最後 10 分鐘做離場問題測試。",
+    "coreHypothesis": "若策展把順序視為作品的一部分，而非中性的掛牆安排，反戰系列的歷史壓力能在細讀與整體閱讀之間被保存。",
+    "underlyingNeed": "讓觀眾既能理解個別作品，也能承受系列逐步展開的倫理與歷史複雜度。",
+    "realConstraints": "原始序列可能不完整；展牆、借展與觀眾動線有限；過度背景化會壓縮作品自身的判讀空間。",
+    "leverage": "Sequence Pressure Map 可複用於漫畫式系列、攝影組作、檔案長卷與時間性裝置。",
+    "sourceFact": "The Met 官方日曆列出 2026 年 11 月 16 日 18:00 的講座，由 Katy Siegel 討論 Si Lewen 約 1950 年創作、以炭筆、鉛筆與墨水構成的反戰作品循環《The Parade》。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Fifth Avenue",
+      "title": "Katy Siegel on Si Lewen’s The Parade",
+      "statusAsOf": "2026-11-16",
+      "latestUpdate": "The Met 於 2026 年 11 月 16 日 18:00 舉辦免費講座，學者 Katy Siegel聚焦 Si Lewen 的《The Parade》；官方將其描述為以連續圖像呈現戰爭與人性循環的宏大作品組。",
+      "references": [
+        "https://www.metmuseum.org/events/calendar?startDate=2026-11-16"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/0nij13n4/lc-2024_487_6.jpg",
+          "caption": "Si Lewen《The Parade》相關官方活動影像，呈現作品循環中的一幅。",
+          "credit": "The Metropolitan Museum of Art 官方活動日曆；頁面未標示攝影者",
+          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-16",
+          "verifiedAt": "2026-11-16"
+        }
+      ]
+    },
+    "rawText": "# 當一組反戰作品以長卷般連續展開，策展如何讓觀看節奏保留歷史壓力？\n\n【來源事實】\nThe Met 於 2026 年 11 月 16 日安排 Katy Siegel 討論 Si Lewen 約 1950 年的反戰作品循環《The Parade》。\n\n【策展推論】\n系列順序不是中性容器；它會控制資訊、情緒與倫理壓力的累積。\n\n【原創模擬】\nSequence Pressure Map 與五段節奏測試為原創策展方法，並非 The Met 官方工具。\n\n查證日期：2026-11-16"
+  },
+  {
+    "id": "daily-2026-11-16-family",
+    "date": "2026-11-16",
+    "category": "親子觀展訓練",
+    "lens": "材料自主｜讓技術示範支援選擇而非取代探索",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Monday Painting Lab (Ages 5–8)",
+      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-16",
+      "accessedAt": "2026-11-16",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "孩子自己混色時，成人如何教技法又不把「正確顏色」變成唯一答案？",
+    "summary": "成人只示範可逆的材料方法，再讓孩子提出三種顏色選擇、說明差異並保留試驗痕跡，使技術成為擴大判斷的工具，而不是替孩子決定結果。",
+    "questions": [
+      "孩子今天想解決的是調出某個顏色，還是發現新的顏色關係？",
+      "成人示範的是方法、效果，還是暗中指定成品？",
+      "哪些顏色名稱來自觀察，哪些只是熟悉的標籤？",
+      "孩子能否先猜混色結果，再親手驗證？",
+      "如果結果變濁或不如預期，如何把它當成證據而非失敗？",
+      "每次加入顏料的量是否能被看見與比較？",
+      "孩子有沒有至少三種可自行選擇的下一步？",
+      "成人何時應提問，何時應保持沉默讓材料回應？",
+      "作品完成後能否保留色票與過程，讓孩子回看自己的判斷？",
+      "下次進展間時，孩子能用混色經驗重新觀察哪一件作品？"
+    ],
+    "strategy": "使用 Three-Choice Paint Lab：成人示範一種基本技法後，不給標準色；孩子每一步先提出三個選項、預測差異、選一個測試，並把結果留成色票。",
+    "task": "和孩子選一件館藏作品中的三個顏色，各做原色猜測、兩次混色試驗與一張結果色票；成人全程只問五個觀察問題，不直接告訴配方。",
+    "training": "10 分鐘找色；10 分鐘描述不命名；15 分鐘預測配方；25 分鐘三選一試驗；15 分鐘保存色票；最後 15 分鐘回看作品並由孩子說出一次改變主意的原因。",
+    "coreHypothesis": "若技術示範之後保留多個可測試選項，孩子能同時學到材料控制與自主判斷。",
+    "underlyingNeed": "讓孩子在獲得技法支持時，仍保有對顏色、過程與成品的決定權。",
+    "realConstraints": "顏料安全、清潔時間、兒童耐心、材料成本與成人對整齊成品的期待。",
+    "leverage": "Three-Choice Paint Lab 可複用於黏土、版畫、拼貼與展間色彩觀察。",
+    "sourceFact": "The Met 官方日曆列出 2026 年 11 月 16 日 15:30 的 Monday Painting Lab（5–8 歲），以混合顏料並學習館藏作品相關繪畫技法為內容。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Fifth Avenue",
+      "title": "Monday Painting Lab (Ages 5–8)",
+      "statusAsOf": "2026-11-16",
+      "latestUpdate": "課程於 2026 年 11 月 16 日 15:30 舉行；The Met 將其列為兒童多堂課程，內容包含混色與館藏繪畫技法探索。官方日曆列示家庭會員與一般報名費用。",
+      "references": [
+        "https://www.metmuseum.org/events/calendar?startDate=2026-11-16"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/20ppfns1/childrens-classes.jpg",
+          "caption": "The Met 兒童課程官方影像，呈現孩子在工作桌進行藝術材料實作。",
+          "credit": "The Metropolitan Museum of Art 官方活動日曆；頁面未標示攝影者",
+          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-16",
+          "verifiedAt": "2026-11-16"
+        }
+      ]
+    },
+    "rawText": "# 孩子自己混色時，成人如何教技法又不把「正確顏色」變成唯一答案？\n\n【來源事實】\nThe Met 於 2026 年 11 月 16 日安排 5–8 歲 Monday Painting Lab，內容包括混色與館藏繪畫技法。\n\n【策展推論】\n技術若只通往標準成品，會縮小兒童判斷；示範後保留選項與試驗痕跡，能讓技法支援自主。\n\n【原創模擬】\nThree-Choice Paint Lab 與五問規則為原創親子訓練，不是 The Met 官方課綱。\n\n查證日期：2026-11-16"
+  },
+  {
+    "id": "daily-2026-11-16-life",
+    "date": "2026-11-16",
+    "category": "人生策展課題",
+    "lens": "情境判斷｜在自保、責任與他人誤解之間留下決策脈絡",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "In the Fog",
+      "url": "https://www.moma.org/calendar/events/11722",
+      "accessedAt": "2026-11-16",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當別人只看見你的選擇結果，你如何保存當時無法說清的限制？",
+    "summary": "用決策情境紀錄保留當時可見資訊、不可說限制、風險、責任與未選道路，避免事後只用結果判定一個人的動機與品格。",
+    "questions": [
+      "別人現在看見的結果，遮住了當時哪些資訊不足？",
+      "你當時真正能選的選項有哪些，而不是事後想像的選項？",
+      "哪一項限制不能公開說明，卻實際改變了決策？",
+      "每個選項對自己、他人與關係分別有什麼風險？",
+      "你承擔了哪一部分責任，又有哪些後果超出控制？",
+      "當時最害怕失去的是安全、信任、尊嚴，還是他人的生命？",
+      "別人的誤解來自資訊缺口，還是價值判斷不同？",
+      "哪些證據值得保存，哪些細節應為他人隱私保留？",
+      "現在回看，你會改變選擇，還是只會改變說明方式？",
+      "如何留下可供未來理解的脈絡，而不把紀錄變成自我辯護？"
+    ],
+    "strategy": "建立 Decision Context Record：在事件發生後 24 小時內記錄當時資訊、可行選項、不可說限制、風險分配、責任邊界與未選道路；三個月後另寫回看，不覆蓋原始版本。",
+    "task": "挑一個近期被誤解的選擇，用一頁紙填完六欄情境紀錄；找出一項可以公開澄清的事實與一項應持續保護的隱私，分別寫出 100 字說明。",
+    "training": "10 分鐘只寫時間線；15 分鐘列當時可見資訊；15 分鐘列真實選項；15 分鐘畫風險分配；15 分鐘界定責任；10 分鐘檢查自我辯護；最後 10 分鐘保存原始版本。",
+    "coreHypothesis": "若在結果被重新詮釋之前保存決策當下的資訊與限制，未來的責任判斷會更接近真實情境。",
+    "underlyingNeed": "在不犧牲隱私與他人安全的前提下，保留自己被理解的可能。",
+    "realConstraints": "部分資訊不可公開；記憶會變動；紀錄可能被當成辯護；結果仍會影響他人。",
+    "leverage": "Decision Context Record 可用於職涯轉換、家庭衝突、創作決定與危機管理。",
+    "sourceFact": "MoMA 於 2026 年 11 月 16 日 16:00 放映 Sergei Loznitsa 2012 年電影《In the Fog》。官方簡介描述納粹占領白俄羅斯期間，一名鐵路工人遭逮捕後獲釋，卻因此被懷疑通敵，故事以長鏡頭處理自保、犧牲與道德模糊。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國／白俄羅斯（電影背景）",
+      "location": "紐約 MoMA Theater 1",
+      "title": "In the Fog",
+      "statusAsOf": "2026-11-16",
+      "latestUpdate": "MoMA 於 2026 年 11 月 16 日 16:00 放映《In the Fog》（2012，127 分鐘，俄語、英文字幕），列入 Sergei Loznitsa 回顧展；影片聚焦戰時處境下被誤解的選擇與道德責任。",
+      "references": [
+        "https://www.moma.org/calendar/events/11722",
+        "https://www.moma.org/calendar/film/5833"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDkvMTEvOG9sZWpxcDJ5aV9JTl9USEVfRk9HXzFfVmxhZGltaXJfU3ZpcnNraXlfVmxhZGlzbGF2X0FiYXNoaW4uanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/IN%20THE%20FOG_1_Vladimir%20Svirskiy_Vladislav%20Abashin.jpg?sha=df66e04178d2d0e7",
+          "caption": "Sergei Loznitsa《In the Fog》（2012）電影劇照，MoMA 回顧展官方活動圖。",
+          "credit": "Courtesy Strand Releasing；MoMA 官方活動頁",
+          "sourceUrl": "https://www.moma.org/calendar/events/11722",
+          "verifiedAt": "2026-11-16"
+        }
+      ]
+    },
+    "rawText": "# 當別人只看見你的選擇結果，你如何保存當時無法說清的限制？\n\n【來源事實】\nMoMA 於 2026 年 11 月 16 日放映 Sergei Loznitsa《In the Fog》，故事處理戰時自保、犧牲、懷疑與道德模糊。\n\n【人生推論】\n結果會壓縮情境；保留當時資訊、限制與真實選項，有助於未來更公平地理解責任。\n\n【原創模擬】\nDecision Context Record 與 24 小時紀錄規則為原創人生練習，並非電影或 MoMA 官方方法。\n\n查證日期：2026-11-16"
+  },
+  {
+    "id": "daily-2026-11-16-participation",
+    "date": "2026-11-16",
+    "category": "國際民眾參與實作",
+    "lens": "敘事歸還｜從典藏占有走向來源社群的持續控制權",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "Tactics of Transmission",
+      "url": "https://www.labiennale.org/en/agenda/natalia-lassalle-morillo-sof%C3%ADa-gallis%C3%A1-muriente-tactics-transmission",
+      "accessedAt": "2026-11-16",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "殖民收藏回到原屬社群的故事裡時，博物館如何把「歸還」從象徵變成關係？",
+    "summary": "把歸還拆成物件、資料、敘事、使用、收益與持續治理六項權利，要求來源社群能決定哪些材料被傳送、如何詮釋、由誰保存，以及何時撤回。",
+    "questions": [
+      "這批材料如何離開原屬社群，現有紀錄由誰書寫？",
+      "來源社群目前能看到、使用或複製哪些物件與資料？",
+      "「歸還」指實體返還、數位存取、敘事控制，還是多項權利的組合？",
+      "誰能決定哪些故事可以公開、哪些應保持社群內部？",
+      "博物館是否支付社群提供時間、知識與翻譯的成本？",
+      "影像、聲音與口述如何避免再次被機構抽離脈絡？",
+      "社群成員能否修正名稱、描述、分類與展示條件？",
+      "若不同世代或群體對歸還方式意見不一，如何留下差異？",
+      "計畫結束後，誰負責維護存取、關係與爭議處理？",
+      "哪一項決策權真正從機構移轉，而不只是增加可見性？"
+    ],
+    "strategy": "建立 Restitution Relationship Protocol：逐項盤點物件、資料、敘事、使用、收益與治理權；每一項標示現持有人、來源社群代表、同意方式、可撤回條件、資源回饋與一年後責任人。",
+    "task": "選一件具殖民取得史的館藏，做六權利盤點；邀請一位來源社群顧問檢視用語與權限，並把一項原本由館方獨決的事項改成共同決定。",
+    "training": "15 分鐘畫取得史；20 分鐘列六項權利；15 分鐘找出資料缺口；20 分鐘模擬三種社群立場；10 分鐘設計可撤回同意；最後 10 分鐘寫一年後責任表。",
+    "coreHypothesis": "當歸還被拆成可移轉、可撤回與可持續治理的具體權利時，典藏關係才可能從象徵修復進入制度改變。",
+    "underlyingNeed": "讓被收藏的文化材料重新與原屬社群的記憶、使用與決策連結。",
+    "realConstraints": "法律所有權、館藏保存規範、社群內部差異、跨國資源與長期維護成本。",
+    "leverage": "Restitution Relationship Protocol 可用於去殖民館藏、數位返還、口述史與共同典藏。",
+    "sourceFact": "La Biennale 於 2026 年 11 月 16 日 15:30–17:00 在 Teatro Piccolo Arsenale 舉辦《Tactics of Transmission》。Natalia Lassalle-Morillo 與 Sofía Gallisá Muriente 研究 Smithsonian 兩批波多黎各文化材料，透過故事、影像與聲音重新連結材料與其所屬的人與地方。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利／波多黎各／美國",
+      "location": "威尼斯 Teatro Piccolo Arsenale",
+      "title": "Tactics of Transmission",
+      "statusAsOf": "2026-11-16",
+      "latestUpdate": "La Biennale 於 2026 年 11 月 16 日 15:30–17:00 免費呈現計畫；兩位藝術家與 Alexandra Buschman-Román 合作，以表演講座回應 Smithsonian 內波多黎各文化材料的占有、保存與傳送問題。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/natalia-lassalle-morillo-sof%C3%ADa-gallis%C3%A1-muriente-tactics-transmission",
+        "https://www.natalialassallemorillo.com/work/tactics-of-transmission"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/29b5968a449f589029ed2fc6593fc14394616b94-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 1，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/931e93662c5d3451ccd868f5f203f212bf636679-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 2，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/5bf4c01994e3fd1fe13886c0b2f6e886d6784904-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 3，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/e29727f046d683822095a17ca8bcf205e9b83c5a-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 4，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/a623090a67e0f46999ed6c5394a2ac9a6d169033-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 5，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/6a2ab17ccbc247b0acc20fb0902baea70930e886-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 6，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/eb27c5d59d0f3d5f695f0b7cf7090ad5c227e94d-4800x3200.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 7，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/43ajij5z/production/aacc51ca1f18d02cbc7996cabcae44363ff50767-4300x3226.jpg?w=900&auto=format",
+          "caption": "《Tactics of Transmission》官方計畫影像 8，記錄表演講座及其影像、物件與檔案研究脈絡。",
+          "credit": "Natalia Lassalle-Morillo 官方藝術家網站；頁面未逐張標示攝影者",
+          "sourceUrl": "https://www.natalialassallemorillo.com/work/tactics-of-transmission",
+          "verifiedAt": "2026-11-16"
+        }
+      ]
+    },
+    "rawText": "# 殖民收藏回到原屬社群的故事裡時，博物館如何把「歸還」從象徵變成關係？\n\n【來源事實】\n《Tactics of Transmission》研究 Smithsonian 的波多黎各文化材料，以故事、影像與聲音作為重新連結與歸還的形式。\n\n【策展推論】\n歸還若只有象徵性展示，權力仍留在機構；可移轉、可撤回且可持續治理的權利才是制度證據。\n\n【原創模擬】\nRestitution Relationship Protocol 與六權利盤點為原創參與方法，不代表 Smithsonian 或 La Biennale 已採行。\n\n查證日期：2026-11-16"
+  },
+  {
+    "id": "daily-2026-11-16-thinking",
+    "date": "2026-11-16",
+    "category": "策展思考訓練",
+    "lens": "黑色幽默｜區分批判距離、情緒釋放與傷害重演",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "An Evening with Tala Madani",
+      "url": "https://www.moma.org/calendar/events/11833",
+      "accessedAt": "2026-11-16",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當幽默與羞辱同時出現，策展如何辨認笑聲正在揭露權力還是重演暴力？",
+    "summary": "逐幕記錄誰製造笑點、誰承擔代價、觀眾與角色的距離，以及笑聲之後是否產生新的判讀，避免把黑色幽默自動當成批判。",
+    "questions": [
+      "這個場景的笑點由誰發動，代價由誰承擔？",
+      "笑聲讓觀眾靠近權力結構，還是暫時逃離不適？",
+      "被羞辱者是否擁有回應、反轉或拒絕的空間？",
+      "作品依賴哪些性別、階級或文化刻板印象才能成立？",
+      "觀眾若不熟悉背景，最可能把批判誤讀成什麼？",
+      "展覽文字是在解釋機制，還是替冒犯預先辯護？",
+      "不同群體的笑與沉默能否被同時觀察而不互相取消？",
+      "幽默之後是否留下對結構性暴力的具體問題？",
+      "若拿掉作者身分與藝術脈絡，影像本身仍能顯示批判方向嗎？",
+      "哪一個呈現選擇能增加反思距離，而不把作品消毒成安全答案？"
+    ],
+    "strategy": "使用 Humor Power Ledger：逐段填入笑點發動者、受損者、觀眾位置、刻板印象、反轉能力與後續問題；任何被標記為批判的幽默，至少要有兩項可觀察證據。",
+    "task": "挑一段兩分鐘的影像或表演，分鏡記錄每個笑點的權力流向；邀請三位背景不同的觀眾各寫下笑、沉默與不適位置，再比較作者意圖與實際接收的落差。",
+    "training": "15 分鐘無聲觀看；15 分鐘只聽聲音；20 分鐘畫權力流；15 分鐘蒐集三種觀眾反應；15 分鐘檢查刻板印象；最後 10 分鐘改寫一段策展文字。",
+    "coreHypothesis": "只有在笑點的權力流向、受損位置與反轉證據被具體辨認時，策展才能判斷黑色幽默是否真的產生批判距離。",
+    "underlyingNeed": "容許作品保有不適與複義，同時避免機構以「這是諷刺」掩蓋實際傷害。",
+    "realConstraints": "幽默高度依賴文化背景；觀眾反應不可單一化；過度解說可能削弱作品的曖昧力量。",
+    "leverage": "Humor Power Ledger 可用於動畫、諷刺展、政治漫畫與具爭議的現場表演。",
+    "sourceFact": "MoMA 於 2026 年 11 月 16 日 19:00 舉辦 Tala Madani 專場，放映其探討權力、性別刻板印象、文化制約與結構性暴力的動畫，並首映新作《Alphabet City》，映後由策展人 May Makki 與藝術家對談。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA Theater 2",
+      "title": "An Evening with Tala Madani",
+      "statusAsOf": "2026-11-16",
+      "latestUpdate": "活動於 2026 年 11 月 16 日 19:00 舉行，包含 Tala Madani 動畫選映與《Alphabet City》首映，後接藝術家與 May Makki 的現場對談。",
+      "references": [
+        "https://www.moma.org/calendar/events/11833"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDgvNHI4cjZheWJpNV9TY3JlZW5zaG90XzIwMjZfMTBfMDhfMTczMTAzLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDc3NXg1MjVeIC1ncmF2aXR5IENlbnRlciAtY3JvcCA3NzV4NTI1KzArMCJdXQ/Screenshot%202026-10-08%20173103.png?sha=6593e6557bffa441",
+          "caption": "Tala Madani《Overhead Projection (Dig)》（2018）影像截圖，MoMA 專場官方活動圖。",
+          "credit": "Courtesy of the artist and David Kordansky Gallery；MoMA 官方活動頁",
+          "sourceUrl": "https://www.moma.org/calendar/events/11833",
+          "verifiedAt": "2026-11-16"
+        }
+      ]
+    },
+    "rawText": "# 當幽默與羞辱同時出現，策展如何辨認笑聲正在揭露權力還是重演暴力？\n\n【來源事實】\nMoMA 於 2026 年 11 月 16 日舉辦 Tala Madani 動畫專場，官方指出作品涉及權力、性別刻板印象、文化制約與結構性暴力。\n\n【策展推論】\n黑色幽默不是天然的批判；需要檢查笑點的權力流向與實際接收。\n\n【原創模擬】\nHumor Power Ledger 與三觀眾測試是原創訓練，並非 MoMA 官方評估。\n\n查證日期：2026-11-16"
   }
 ]
