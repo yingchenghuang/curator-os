@@ -28130,118 +28130,6 @@
     "rawText": "【來源事實】La Biennale 官方頁列出 2026 年 11 月 17 日 14:00–14:45 於 Sala d’Armi E 演出《Whiteout》，以「inframince」探索身體、文化實體與時間的邊界，並回看 1980 年代末蘇黎世多為非法、臨時聚會的 Parfumerie。\n【策展推論】以「非正式檔案摩擦圖」並置口述記憶、臨時空間、缺席證據與制度版本，讓展覽承認重建的不完整，也保留地下文化對城市秩序的抵抗。\n【原創模擬】建立 Informal Archive Friction Map：把每項材料標成「參與者記憶、制度紀錄、物質殘留、缺席證據」，再標出其權力來源、可信邊界與彼此衝突，牆文不消除矛盾。；選一段只有零散材料的地方文化史，訪談兩位立場不同的參與者，製作四欄摩擦圖；刪掉一個無法證明的完整敘事，改用明確缺口標記。\n查證日期：2026-11-17"
   },
   {
-    "id": "daily-2026-11-17-thinking",
-    "date": "2026-11-17",
-    "category": "策展思考訓練",
-    "lens": "跨尺度因果｜把私人故事、物種移動與制度力量接成可查證鏈",
-    "source": {
-      "name": "La Biennale di Venezia",
-      "title": "ZIAD ANTAR | Bladder Diplomacy",
-      "url": "https://www.labiennale.org/en/agenda/ziad-antar-bladder-diplomacy",
-      "accessedAt": "2026-11-17",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "一顆種子同時連到家庭、戰爭與全球農業時，策展如何證明尺度跳躍不是漂亮聯想？",
-    "summary": "用「尺度—因果鏈」把家庭記憶、作物變化、政策與全球供應鏈分層，要求每一次尺度跳躍都有機制、證據與反例，避免把複雜議題壓成象徵。",
-    "questions": [
-      "這段家庭故事能證明的是個人經驗，還是更大制度的普遍結果？",
-      "作物品種、飲食習慣與土地環境之間有哪些可觀察機制？",
-      "哪一項政策或商業決策真正造成了尺度放大？",
-      "戰爭與全球農業之間的關係是直接因果、共同背景還是僅僅並置？",
-      "原生種子的韌性由誰觀察、在何種時間尺度成立？",
-      "幽默是否幫助理解複雜性，還是掩蓋證據不足？",
-      "哪些資料能反駁目前最吸引人的敘事？",
-      "策展文字是否清楚區分親身記憶、研究資料與藝術推論？",
-      "觀眾能否沿著一條鏈追到具體行動者與決策？",
-      "若移除「全球化」這個大詞，剩下哪些仍可被證明的關係？"
-    ],
-    "strategy": "建立 Scale-to-Cause Chain：以個人、家庭、地方、國家、區域、全球六層排列主張；每條連線必填機制、證據、時間差、反例與不確定度。",
-    "task": "選一個跨越至少四個尺度的展覽命題，畫出六層因果鏈；找出兩條只有比喻沒有機制的連線，刪除或改寫成待驗證假設。",
-    "training": "15 分鐘列主張；20 分鐘分尺度；20 分鐘補機制；15 分鐘找反例；10 分鐘標記不確定度；最後 10 分鐘用一位農民或家庭成員的視角重讀。",
-    "coreHypothesis": "若每一次尺度跳躍都能說明中介機制與證據邊界，私人故事可以成為制度研究的入口，而不會被濫用為宏大敘事的裝飾。",
-    "underlyingNeed": "讓觀眾理解全球制度如何進入日常生活，也保留個別經驗不能代表全部的限制。",
-    "realConstraints": "跨尺度資料來源異質；因果關係常有時間延遲；藝術語言偏好濃縮而研究需要保留不確定性。",
-    "leverage": "Scale-to-Cause Chain 可複用於氣候、遷徙、食物系統、殖民貿易與科技供應鏈展覽。",
-    "sourceFact": "La Biennale 官方頁列出《Bladder Diplomacy》於 2026 年 11 月 17 日 16:00–17:20 在 Tese dei Soppalchi 呈現；作品把外交、東地中海馬鈴薯與番茄種植、家庭故事、現代化與全球農業企業連在一起。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "義大利／黎巴嫩／東地中海",
-      "location": "威尼斯 Tese dei Soppalchi",
-      "title": "Bladder Diplomacy",
-      "statusAsOf": "2026-11-17",
-      "latestUpdate": "Ziad Antar、Hatem Imam 與 Nayla Mabsout 合作的講演表演於 2026 年 11 月 17 日呈現，以諷刺拼圖處理雜草、內戰、反作用與原生種子韌性。",
-      "references": [
-        "https://www.labiennale.org/en/agenda/ziad-antar-bladder-diplomacy"
-      ],
-      "photos": [
-        {
-          "url": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7YXLLLyi",
-          "caption": "La Biennale Arte 2026「Performances, Lectures, Discussions, Round Tables」11 月 13–22 日官方節目視覺；《Bladder Diplomacy》列於 11 月 17 日場次。",
-          "credit": "La Biennale di Venezia；頁面未標示攝影者",
-          "sourceUrl": "https://www.labiennale.org/en/agenda/ziad-antar-bladder-diplomacy",
-          "verifiedAt": "2026-11-17"
-        }
-      ]
-    },
-    "rawText": "【來源事實】La Biennale 官方頁列出《Bladder Diplomacy》於 2026 年 11 月 17 日 16:00–17:20 在 Tese dei Soppalchi 呈現；作品把外交、東地中海馬鈴薯與番茄種植、家庭故事、現代化與全球農業企業連在一起。\n【策展推論】用「尺度—因果鏈」把家庭記憶、作物變化、政策與全球供應鏈分層，要求每一次尺度跳躍都有機制、證據與反例，避免把複雜議題壓成象徵。\n【原創模擬】建立 Scale-to-Cause Chain：以個人、家庭、地方、國家、區域、全球六層排列主張；每條連線必填機制、證據、時間差、反例與不確定度。；選一個跨越至少四個尺度的展覽命題，畫出六層因果鏈；找出兩條只有比喻沒有機制的連線，刪除或改寫成待驗證假設。\n查證日期：2026-11-17"
-  },
-  {
-    "id": "daily-2026-11-17-participation",
-    "date": "2026-11-17",
-    "category": "國際民眾參與實作",
-    "lens": "空間取回｜從一次性佔用走向可重複的公共權利",
-    "source": {
-      "name": "The Museum of Modern Art",
-      "title": "MoMA After Hours: Taking Back Our Space",
-      "url": "https://www.moma.org/calendar/events/11755",
-      "accessedAt": "2026-11-17",
-      "sourceType": "英文官方活動頁"
-    },
-    "title": "當博物館邀請觀眾「取回空間」，參與如何留下可持續的使用權而不只是一晚的熱度？",
-    "summary": "把一夜活動拆成進入權、表達權、改變權、回訪權與問責權五層，追蹤參與者的行動是否改變後續空間配置、節目選擇或機構規則。",
-    "questions": [
-      "「取回」的是哪一種空間：身體位置、文化可見性、歷史敘事還是決策權？",
-      "活動前誰最不容易把博物館視為自己的空間？",
-      "觀眾可自由參與，還是仍須遵循藝術家設定的腳本？",
-      "共同創作的成果由誰保存、展示與署名？",
-      "一晚的熱度改變了哪一個後續空間或節目決策？",
-      "無法購票、夜間出席或適應高聲量環境的人如何參與？",
-      "藝術家、社群與機構各自投入什麼，又得到什麼？",
-      "參與者是否知道意見如何被記錄與採用？",
-      "活動結束後是否存在可回訪、可續作或可申訴的入口？",
-      "若一年後再查，哪一項使用權仍然存在？"
-    ],
-    "strategy": "建立 Reclaim-to-Remain Protocol：逐項檢查 Access、Expression、Change、Return、Accountability，為每次參與指定一個可觀察的機構後果與回報日期。",
-    "task": "挑一場參與式晚間活動，訪談五位參與者與兩位工作人員；製作五層權利表，新增一項三個月後仍可使用的回訪或共同決策機制。",
-    "training": "15 分鐘畫出活動權利地圖；20 分鐘辨認門檻；20 分鐘追蹤決策後果；15 分鐘做互惠盤點；10 分鐘設計回訪；最後 10 分鐘設定三個月驗收指標。",
-    "coreHypothesis": "若參與被連到可追蹤的空間與節目決策，短期活動能成為公共權利的入口，而不只是機構的包容形象。",
-    "underlyingNeed": "讓被低度代表的參與者不只被邀請出席，也能持續影響博物館如何分配空間與注意力。",
-    "realConstraints": "票價、時間與感官環境形成門檻；藝術家活動有短期製作限制；機構決策週期長且責任分散。",
-    "leverage": "Reclaim-to-Remain Protocol 可複用於美術館夜間活動、城市節慶、公共藝術工作坊與社群開放日。",
-    "sourceFact": "MoMA 官方頁列出 2026 年 11 月 17 日 19:00–22:00 的 After Hours，透過現場表演、詩、聲音、舞蹈、展覽與共同創作，從黑人、酷兒與當代女性主義視角討論身體、文化、歷史與個人空間。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約 The Museum of Modern Art",
-      "title": "MoMA After Hours: Taking Back Our Space",
-      "statusAsOf": "2026-11-17",
-      "latestUpdate": "活動由 K8 Hardy、Mui Mui、Amanda Krische、Whitney Review 與 Megumi Shauna Arai 等帶領，包含共同參與的舞蹈、織品拆解重組、移動式表演與 DJ；官方建議預購，現場僅有限票券。",
-      "references": [
-        "https://www.moma.org/calendar/events/11755"
-      ],
-      "photos": [
-        {
-          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMTMvNXdnMmExZW91c19NT01BX1dhbmRlcmx1c3RfMjYxMDA2XzAwNzcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/MOMA_Wanderlust_261006_0077.jpg?sha=5e304c469c6463d3",
-          "caption": "MoMA After Hours: Taking Back Our Space 官方活動照片，呈現館內晚間共同活動情境。",
-          "credit": "Photo: Unarmed Media. © 2026 The Museum of Modern Art, New York",
-          "sourceUrl": "https://www.moma.org/calendar/events/11755",
-          "verifiedAt": "2026-11-17"
-        }
-      ]
-    },
-    "rawText": "【來源事實】MoMA 官方頁列出 2026 年 11 月 17 日 19:00–22:00 的 After Hours，透過現場表演、詩、聲音、舞蹈、展覽與共同創作，從黑人、酷兒與當代女性主義視角討論身體、文化、歷史與個人空間。\n【策展推論】把一夜活動拆成進入權、表達權、改變權、回訪權與問責權五層，追蹤參與者的行動是否改變後續空間配置、節目選擇或機構規則。\n【原創模擬】建立 Reclaim-to-Remain Protocol：逐項檢查 Access、Expression、Change、Return、Accountability，為每次參與指定一個可觀察的機構後果與回報日期。；挑一場參與式晚間活動，訪談五位參與者與兩位工作人員；製作五層權利表，新增一項三個月後仍可使用的回訪或共同決策機制。\n查證日期：2026-11-17"
-  },
-  {
     "id": "daily-2026-11-17-family",
     "date": "2026-11-17",
     "category": "親子觀展訓練",
@@ -28354,5 +28242,397 @@
       ]
     },
     "rawText": "【來源事實】The Met 官方頁列出 Black Belt Eagle Scout 與 Joe Rainey 於 2026 年 11 月 17 日 19:00 演出，作為 Native American and Indigenous Heritage Month 節目；官方描述兩位音樂人重新界定祖傳傳統，Katherine Paul 將原住民文化傳承與另類搖滾結合。\n【策展推論】把傳統視為可被承接、署名、混合與再傳遞的活方法；先說清哪些來自祖輩與社群，再辨認哪些是自己的選擇，避免用「創新」抹除來源。\n【原創模擬】建立 Living Tradition Score：以 Source、Consent、Change、Attribution、Return 五行記譜，逐項標記來處、改寫幅度、署名方式、社群回饋與下一次傳遞。；選一項你繼承的做法，寫出五行記譜；做一個小版本改寫，請一位熟悉傳統的人與一位陌生人各自回饋，修正署名與回饋方式。\n查證日期：2026-11-17"
+  },
+  {
+    "id": "daily-2026-11-17-participation",
+    "date": "2026-11-17",
+    "category": "國際民眾參與實作",
+    "lens": "空間取回｜從一次性佔用走向可重複的公共權利",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "MoMA After Hours: Taking Back Our Space",
+      "url": "https://www.moma.org/calendar/events/11755",
+      "accessedAt": "2026-11-17",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當博物館邀請觀眾「取回空間」，參與如何留下可持續的使用權而不只是一晚的熱度？",
+    "summary": "把一夜活動拆成進入權、表達權、改變權、回訪權與問責權五層，追蹤參與者的行動是否改變後續空間配置、節目選擇或機構規則。",
+    "questions": [
+      "「取回」的是哪一種空間：身體位置、文化可見性、歷史敘事還是決策權？",
+      "活動前誰最不容易把博物館視為自己的空間？",
+      "觀眾可自由參與，還是仍須遵循藝術家設定的腳本？",
+      "共同創作的成果由誰保存、展示與署名？",
+      "一晚的熱度改變了哪一個後續空間或節目決策？",
+      "無法購票、夜間出席或適應高聲量環境的人如何參與？",
+      "藝術家、社群與機構各自投入什麼，又得到什麼？",
+      "參與者是否知道意見如何被記錄與採用？",
+      "活動結束後是否存在可回訪、可續作或可申訴的入口？",
+      "若一年後再查，哪一項使用權仍然存在？"
+    ],
+    "strategy": "建立 Reclaim-to-Remain Protocol：逐項檢查 Access、Expression、Change、Return、Accountability，為每次參與指定一個可觀察的機構後果與回報日期。",
+    "task": "挑一場參與式晚間活動，訪談五位參與者與兩位工作人員；製作五層權利表，新增一項三個月後仍可使用的回訪或共同決策機制。",
+    "training": "15 分鐘畫出活動權利地圖；20 分鐘辨認門檻；20 分鐘追蹤決策後果；15 分鐘做互惠盤點；10 分鐘設計回訪；最後 10 分鐘設定三個月驗收指標。",
+    "coreHypothesis": "若參與被連到可追蹤的空間與節目決策，短期活動能成為公共權利的入口，而不只是機構的包容形象。",
+    "underlyingNeed": "讓被低度代表的參與者不只被邀請出席，也能持續影響博物館如何分配空間與注意力。",
+    "realConstraints": "票價、時間與感官環境形成門檻；藝術家活動有短期製作限制；機構決策週期長且責任分散。",
+    "leverage": "Reclaim-to-Remain Protocol 可複用於美術館夜間活動、城市節慶、公共藝術工作坊與社群開放日。",
+    "sourceFact": "MoMA 官方頁列出 2026 年 11 月 17 日 19:00–22:00 的 After Hours，透過現場表演、詩、聲音、舞蹈、展覽與共同創作，從黑人、酷兒與當代女性主義視角討論身體、文化、歷史與個人空間。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "MoMA After Hours: Taking Back Our Space",
+      "statusAsOf": "2026-11-17",
+      "latestUpdate": "活動由 K8 Hardy、Mui Mui、Amanda Krische、Whitney Review 與 Megumi Shauna Arai 等帶領，包含共同參與的舞蹈、織品拆解重組、移動式表演與 DJ；官方建議預購，現場僅有限票券。",
+      "references": [
+        "https://www.moma.org/calendar/events/11755"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMTMvNXdnMmExZW91c19NT01BX1dhbmRlcmx1c3RfMjYxMDA2XzAwNzcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNzc1eDUyNV4gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDc3NXg1MjUrMCswIl1d/MOMA_Wanderlust_261006_0077.jpg?sha=5e304c469c6463d3",
+          "caption": "MoMA After Hours: Taking Back Our Space 官方活動照片，呈現館內晚間共同活動情境。",
+          "credit": "Photo: Unarmed Media. © 2026 The Museum of Modern Art, New York",
+          "sourceUrl": "https://www.moma.org/calendar/events/11755",
+          "verifiedAt": "2026-11-17"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 官方頁列出 2026 年 11 月 17 日 19:00–22:00 的 After Hours，透過現場表演、詩、聲音、舞蹈、展覽與共同創作，從黑人、酷兒與當代女性主義視角討論身體、文化、歷史與個人空間。\n【策展推論】把一夜活動拆成進入權、表達權、改變權、回訪權與問責權五層，追蹤參與者的行動是否改變後續空間配置、節目選擇或機構規則。\n【原創模擬】建立 Reclaim-to-Remain Protocol：逐項檢查 Access、Expression、Change、Return、Accountability，為每次參與指定一個可觀察的機構後果與回報日期。；挑一場參與式晚間活動，訪談五位參與者與兩位工作人員；製作五層權利表，新增一項三個月後仍可使用的回訪或共同決策機制。\n查證日期：2026-11-17"
+  },
+  {
+    "id": "daily-2026-11-17-thinking",
+    "date": "2026-11-17",
+    "category": "策展思考訓練",
+    "lens": "跨尺度因果｜把私人故事、物種移動與制度力量接成可查證鏈",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "ZIAD ANTAR | Bladder Diplomacy",
+      "url": "https://www.labiennale.org/en/agenda/ziad-antar-bladder-diplomacy",
+      "accessedAt": "2026-11-17",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "一顆種子同時連到家庭、戰爭與全球農業時，策展如何證明尺度跳躍不是漂亮聯想？",
+    "summary": "用「尺度—因果鏈」把家庭記憶、作物變化、政策與全球供應鏈分層，要求每一次尺度跳躍都有機制、證據與反例，避免把複雜議題壓成象徵。",
+    "questions": [
+      "這段家庭故事能證明的是個人經驗，還是更大制度的普遍結果？",
+      "作物品種、飲食習慣與土地環境之間有哪些可觀察機制？",
+      "哪一項政策或商業決策真正造成了尺度放大？",
+      "戰爭與全球農業之間的關係是直接因果、共同背景還是僅僅並置？",
+      "原生種子的韌性由誰觀察、在何種時間尺度成立？",
+      "幽默是否幫助理解複雜性，還是掩蓋證據不足？",
+      "哪些資料能反駁目前最吸引人的敘事？",
+      "策展文字是否清楚區分親身記憶、研究資料與藝術推論？",
+      "觀眾能否沿著一條鏈追到具體行動者與決策？",
+      "若移除「全球化」這個大詞，剩下哪些仍可被證明的關係？"
+    ],
+    "strategy": "建立 Scale-to-Cause Chain：以個人、家庭、地方、國家、區域、全球六層排列主張；每條連線必填機制、證據、時間差、反例與不確定度。",
+    "task": "選一個跨越至少四個尺度的展覽命題，畫出六層因果鏈；找出兩條只有比喻沒有機制的連線，刪除或改寫成待驗證假設。",
+    "training": "15 分鐘列主張；20 分鐘分尺度；20 分鐘補機制；15 分鐘找反例；10 分鐘標記不確定度；最後 10 分鐘用一位農民或家庭成員的視角重讀。",
+    "coreHypothesis": "若每一次尺度跳躍都能說明中介機制與證據邊界，私人故事可以成為制度研究的入口，而不會被濫用為宏大敘事的裝飾。",
+    "underlyingNeed": "讓觀眾理解全球制度如何進入日常生活，也保留個別經驗不能代表全部的限制。",
+    "realConstraints": "跨尺度資料來源異質；因果關係常有時間延遲；藝術語言偏好濃縮而研究需要保留不確定性。",
+    "leverage": "Scale-to-Cause Chain 可複用於氣候、遷徙、食物系統、殖民貿易與科技供應鏈展覽。",
+    "sourceFact": "La Biennale 官方頁列出《Bladder Diplomacy》於 2026 年 11 月 17 日 16:00–17:20 在 Tese dei Soppalchi 呈現；作品把外交、東地中海馬鈴薯與番茄種植、家庭故事、現代化與全球農業企業連在一起。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利／黎巴嫩／東地中海",
+      "location": "威尼斯 Tese dei Soppalchi",
+      "title": "Bladder Diplomacy",
+      "statusAsOf": "2026-11-17",
+      "latestUpdate": "Ziad Antar、Hatem Imam 與 Nayla Mabsout 合作的講演表演於 2026 年 11 月 17 日呈現，以諷刺拼圖處理雜草、內戰、反作用與原生種子韌性。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/ziad-antar-bladder-diplomacy"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7YXLLLyi",
+          "caption": "La Biennale Arte 2026「Performances, Lectures, Discussions, Round Tables」11 月 13–22 日官方節目視覺；《Bladder Diplomacy》列於 11 月 17 日場次。",
+          "credit": "La Biennale di Venezia；頁面未標示攝影者",
+          "sourceUrl": "https://www.labiennale.org/en/agenda/ziad-antar-bladder-diplomacy",
+          "verifiedAt": "2026-11-17"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale 官方頁列出《Bladder Diplomacy》於 2026 年 11 月 17 日 16:00–17:20 在 Tese dei Soppalchi 呈現；作品把外交、東地中海馬鈴薯與番茄種植、家庭故事、現代化與全球農業企業連在一起。\n【策展推論】用「尺度—因果鏈」把家庭記憶、作物變化、政策與全球供應鏈分層，要求每一次尺度跳躍都有機制、證據與反例，避免把複雜議題壓成象徵。\n【原創模擬】建立 Scale-to-Cause Chain：以個人、家庭、地方、國家、區域、全球六層排列主張；每條連線必填機制、證據、時間差、反例與不確定度。；選一個跨越至少四個尺度的展覽命題，畫出六層因果鏈；找出兩條只有比喻沒有機制的連線，刪除或改寫成待驗證假設。\n查證日期：2026-11-17"
+  },
+  {
+    "id": "daily-2026-11-18-curator",
+    "date": "2026-11-18",
+    "category": "專業策展人課題",
+    "lens": "閾限共作｜把身體到場、聲音與作品狀態連成可觀察變化",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "RANA EL NEMR | The Newborn Birthchart",
+      "url": "https://www.labiennale.org/en/agenda/rana-el-nemr-newborn-birthchart",
+      "accessedAt": "2026-11-18",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當作品把每位訪客都記成一個震動，策展如何證明「共同生成」不是詩意修辭？",
+    "summary": "以「閾限貢獻帳本」逐次記錄訪客的聲音、動作、觸發條件與作品狀態，區分真實改變、象徵參與與策展想像，讓共同生成成為可回看、可反駁的證據鏈。",
+    "questions": [
+      "作品在任何訪客到場前的基準狀態是什麼？",
+      "每一次到場究竟改變了聲音、空間、檔案還是只有敘事？",
+      "訪客知道自己的貢獻如何被記錄與使用嗎？",
+      "哪些貢獻被作品接收，哪些因語言、身體或時間條件而被排除？",
+      "同一次閱讀、歌唱或召喚如何留下可辨識但不暴露個人的痕跡？",
+      "作品的改變能否被下一位訪客感知，而不是只由策展文字宣稱？",
+      "藝術家預設的卡牌提示給參與者多少選擇與偏離空間？",
+      "若沒有觀眾回應，作品是否仍會被描述為共同生成？",
+      "哪些現象只能被當成詩性推論，不能升格為社會效果？",
+      "展演結束後，貢獻者能否查見、修正或撤回自己的痕跡？"
+    ],
+    "strategy": "建立 Threshold Contribution Ledger：每次參與填寫「輸入、觸發、可觀察變化、保存方式、參與者權利、不確定性」，展後比較基準狀態與累積狀態，禁止只以人數證明共作。",
+    "task": "選一件宣稱由觀眾共同完成的作品，觀察連續十次參與；逐次填寫帳本，刪掉一項無法觀察的共作主張，補上一個參與者可查回成果的機制。",
+    "training": "15 分鐘記錄基準；30 分鐘追蹤十次輸入；15 分鐘比對變化；15 分鐘做權利檢查；最後 15 分鐘把「共同生成」改寫成可驗證句。",
+    "coreHypothesis": "若每次身體到場都能連到作品的具體狀態變化與參與者權利，共同生成就能從修辭轉成可驗證的策展機制。",
+    "underlyingNeed": "讓觀眾的投入不被作品借用為氣氛，而能看見自己如何改變作品並保有對痕跡的知情權。",
+    "realConstraints": "振動與聲音難以個別歸因；多人同時參與會混合痕跡；紀錄過密可能破壞儀式感並涉及隱私。",
+    "leverage": "Threshold Contribution Ledger 可複用於聲音裝置、參與式表演、互動媒體與社群檔案。",
+    "sourceFact": "La Biennale 官方頁列出《The Newborn Birthchart》於 2026 年 11 月 18 日 11:00–11:30 在 Arsenale 演出；rana elnemr 的兩部分裝置被設計為主動閾限，將每次到訪登記為作品空間中的振動貢獻，並透過閱讀、歌唱、召喚與卡牌提示邀請觀眾共同收穫沼澤、甘蔗田、糖、抵抗與渴望的故事。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利／埃及",
+      "location": "威尼斯 Arsenale",
+      "title": "RANA EL NEMR | The Newborn Birthchart",
+      "statusAsOf": "2026-11-18",
+      "latestUpdate": "2026 年 11 月 18 日場次以六公尺再生塑膠布幕、下沉太陽與凸出月亮形成尚未誕生之事物的星圖；官方列出五位表演者。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/rana-el-nemr-newborn-birthchart"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7YXLLLyi",
+          "caption": "La Biennale Arte 2026「Performances, Lectures, Discussions, Round Tables」11 月 13–22 日官方節目視覺；《The Newborn Birthchart》列於 11 月 18 日場次。",
+          "credit": "La Biennale di Venezia；頁面未標示攝影者",
+          "sourceUrl": "https://www.labiennale.org/en/agenda/rana-el-nemr-newborn-birthchart",
+          "verifiedAt": "2026-11-18"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale 官方頁列出《The Newborn Birthchart》於 2026 年 11 月 18 日 11:00–11:30 在 Arsenale 演出；rana elnemr 的兩部分裝置被設計為主動閾限，將每次到訪登記為作品空間中的振動貢獻，並透過閱讀、歌唱、召喚與卡牌提示邀請觀眾共同收穫沼澤、甘蔗田、糖、抵抗與渴望的故事。\n【策展推論】以「閾限貢獻帳本」逐次記錄訪客的聲音、動作、觸發條件與作品狀態，區分真實改變、象徵參與與策展想像，讓共同生成成為可回看、可反駁的證據鏈。\n【原創模擬】建立 Threshold Contribution Ledger：每次參與填寫「輸入、觸發、可觀察變化、保存方式、參與者權利、不確定性」，展後比較基準狀態與累積狀態，禁止只以人數證明共作。；選一件宣稱由觀眾共同完成的作品，觀察連續十次參與；逐次填寫帳本，刪掉一項無法觀察的共作主張，補上一個參與者可查回成果的機制。\n查證日期：2026-11-18"
+  },
+  {
+    "id": "daily-2026-11-18-family",
+    "date": "2026-11-18",
+    "category": "親子觀展訓練",
+    "lens": "多模態轉譯｜讓故事、身體、材料與畫廊回看彼此驗證",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Family Story Time",
+      "url": "https://www.moma.org/calendar/programs/241",
+      "accessedAt": "2026-11-18",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "故事、動作與材料接連出現時，成人如何讓孩子自己建立與作品的連結？",
+    "summary": "使用「故事—動作—製作—回看」循環，每一階段只轉譯一個可見線索；成人以比較與回看問題取代答案，讓孩子能修正而不是重複大人的說法。",
+    "questions": [
+      "故事中哪一個形狀、顏色、動作或情緒能被帶進畫廊？",
+      "孩子能否用身體表現線索，而不必先說出正確詞彙？",
+      "材料活動是在複製作品，還是在測試一個視覺問題？",
+      "成人一次提供多少指令才不會壓過孩子選擇？",
+      "活動單如何幫助回看，而不是變成找答案的考卷？",
+      "孩子製作後再次看作品時，注意到什麼新細節？",
+      "故事與作品不一致時，成人是否允許孩子指出差異？",
+      "兩歲以上不同年齡的孩子如何得到不同層次的入口？",
+      "家長何時應追問、等待或跟隨孩子的路線？",
+      "離館後哪一個日常動作或材料能延續這次觀察？"
+    ],
+    "strategy": "採用 Tale–Move–Make–Look Loop：聽一段故事、用身體回應一個線索、用單一材料測試、回到作品比較；每輪成人只問「你改變了什麼？」與「現在多看見什麼？」。",
+    "task": "選一件現代藝術作品與一本圖畫書，帶孩子完成四階段循環；錄下第一次與第二次觀看的各三句描述，檢查成人是否提供超過兩個答案。",
+    "training": "10 分鐘選線索；15 分鐘說故事；15 分鐘動作；20 分鐘材料；20 分鐘回看；最後 10 分鐘比較孩子前後語句並刪除成人代答。",
+    "coreHypothesis": "若故事、身體與材料都回到同一個可見線索，幼兒能用多種方式建立理解，並在第二次觀看時自行修正。",
+    "underlyingNeed": "讓語言能力仍在發展的孩子也能主動參與觀展，並讓陪伴者有不代答的具體節奏。",
+    "realConstraints": "名額有限、年齡跨度大；故事時間短；材料與畫廊活動分屬不同空間，轉場容易失焦。",
+    "leverage": "Tale–Move–Make–Look Loop 可複用於親子導覽、幼兒園參訪、家庭日與圖書館—美術館合作。",
+    "sourceFact": "MoMA 官方頁列出 2026 年 11 月 18 日 10:30–11:00 於教育中心夾層工作坊舉行 Family Story Time；每週故事連結創意、想像或 MoMA 藝術家，之後以材料、動作、顏色與形狀活動延伸，並提供可帶進畫廊的活動單，適合兩歲以上兒童與成人。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA Education Center",
+      "title": "Family Story Time",
+      "statusAsOf": "2026-11-18",
+      "latestUpdate": "2026 年 11 月 18 日場次包含館票；16 歲以下免費，官方建議線上登記且名額有限。",
+      "references": [
+        "https://www.moma.org/calendar/programs/241"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMjgvOHpneWt3bHd0Nl8yNjA4MTdfbW9tYV9tYXJrZXRpbmdfYWtyYXZpdHpfMDk0X0NST1AuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHg2NjdeIC1ncmF2aXR5IENlbnRlciAtY3JvcCAyMDAweDY2NyswKzAiXV0/260817_moma_marketing_akravitz_094_CROP.jpg?sha=9d5ae44284ad4004",
+          "caption": "MoMA Family Story Time 官方活動照片：教育者向席地而坐的家庭朗讀圖畫書。",
+          "credit": "Photo: Alycia Kravitz",
+          "sourceUrl": "https://www.moma.org/calendar/programs/241",
+          "verifiedAt": "2026-11-18"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 官方頁列出 2026 年 11 月 18 日 10:30–11:00 於教育中心夾層工作坊舉行 Family Story Time；每週故事連結創意、想像或 MoMA 藝術家，之後以材料、動作、顏色與形狀活動延伸，並提供可帶進畫廊的活動單，適合兩歲以上兒童與成人。\n【策展推論】使用「故事—動作—製作—回看」循環，每一階段只轉譯一個可見線索；成人以比較與回看問題取代答案，讓孩子能修正而不是重複大人的說法。\n【原創模擬】採用 Tale–Move–Make–Look Loop：聽一段故事、用身體回應一個線索、用單一材料測試、回到作品比較；每輪成人只問「你改變了什麼？」與「現在多看見什麼？」。；選一件現代藝術作品與一本圖畫書，帶孩子完成四階段循環；錄下第一次與第二次觀看的各三句描述，檢查成人是否提供超過兩個答案。\n查證日期：2026-11-18"
+  },
+  {
+    "id": "daily-2026-11-18-life",
+    "date": "2026-11-18",
+    "category": "人生策展課題",
+    "lens": "形式轉向｜把改變連到真實處境而不是追逐新奇",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "Understanding Modern and Contemporary Art",
+      "url": "https://www.nga.gov/calendar/understanding-modern-and-contemporary-art?evd=202611181900",
+      "accessedAt": "2026-11-18",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當你離開熟悉的形式，如何分辨自己是在逃避傳統，還是在回應新的世界？",
+    "summary": "以「有理由的改變測試」對照舊形式原本解決的問題、新處境提出的壓力、改變帶來的能力與失去的價值；新不等於進步，能清楚回應處境才是有效轉向。",
+    "questions": [
+      "你想離開的舊形式原本解決了什麼問題？",
+      "現在的世界出現了哪一項舊形式無法承受的新條件？",
+      "你追求的是自由、效率、誠實，還是只想顯得不同？",
+      "哪些材料或方法因處境改變而真正需要更新？",
+      "改變之後，你獲得了什麼可觀察的新能力？",
+      "你同時失去哪些技術、關係或記憶？",
+      "誰會從這次形式轉向受益，誰需要重新學習？",
+      "如果拿掉「創新」這個詞，你仍能說明改變的必要嗎？",
+      "哪一部分傳統可以被重組，而不必被全部拒絕？",
+      "六個月後，你會用什麼證據判斷這次改變不是短暫新奇？"
+    ],
+    "strategy": "使用 Change-with-Reason Test：四欄列出「舊形式的功能、新處境的壓力、新形式的能力、被犧牲的價值」，只保留能清楚連到壓力與能力的改變。",
+    "task": "挑一個近期想改變的工作或生活形式，完成四欄測試；設計一個兩週可逆實驗，同時記錄新增能力與失去價值各一項。",
+    "training": "15 分鐘寫舊功能；15 分鐘描述新壓力；20 分鐘提出三個改變；20 分鐘評估得失；10 分鐘選可逆版本；最後 10 分鐘訂六個月證據。",
+    "coreHypothesis": "若形式改變能對應具體處境壓力，並誠實計算獲得與失去，它較可能是成長而不是逃避。",
+    "underlyingNeed": "在變動世界中保有調整能力，同時不把傳統經驗與關係當成必須清空的負擔。",
+    "realConstraints": "短期新鮮感會誤導判斷；改變常涉及他人協作；舊形式的隱性功能可能在失去後才被看見。",
+    "leverage": "Change-with-Reason Test 可複用於職涯轉向、工作流程、創作媒介、家庭習慣與組織改革。",
+    "sourceFact": "National Gallery of Art 官方頁列出 2026 年 11 月 18 日 14:00–15:00 於 East Building Ground Level Atrium 的成人英語導覽；活動透過細看與對話，探索藝術家如何離開傳統題材與材料以回應現代世界。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區 National Gallery of Art East Building",
+      "title": "Understanding Modern and Contemporary Art",
+      "statusAsOf": "2026-11-18",
+      "latestUpdate": "2026 年 11 月 18 日場次為現場成人導覽，官方活動主視覺呈現兩位訪客觀看抽象幾何畫作並交談。",
+      "references": [
+        "https://www.nga.gov/calendar/understanding-modern-and-contemporary-art?evd=202611181900"
+      ],
+      "photos": [
+        {
+          "url": "https://api.nga.gov/iiif/c9e01002-8e99-4aa4-a344-99aff65e03e9__4000/full/!2560,1440/0/default.jpg",
+          "caption": "National Gallery of Art 官方活動照片：兩位訪客面向抽象幾何畫作，其中一人手勢指向作品。",
+          "credit": "National Gallery of Art；頁面未標示攝影者",
+          "sourceUrl": "https://www.nga.gov/calendar/understanding-modern-and-contemporary-art?evd=202611181900",
+          "verifiedAt": "2026-11-18"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 官方頁列出 2026 年 11 月 18 日 14:00–15:00 於 East Building Ground Level Atrium 的成人英語導覽；活動透過細看與對話，探索藝術家如何離開傳統題材與材料以回應現代世界。\n【策展推論】以「有理由的改變測試」對照舊形式原本解決的問題、新處境提出的壓力、改變帶來的能力與失去的價值；新不等於進步，能清楚回應處境才是有效轉向。\n【原創模擬】使用 Change-with-Reason Test：四欄列出「舊形式的功能、新處境的壓力、新形式的能力、被犧牲的價值」，只保留能清楚連到壓力與能力的改變。；挑一個近期想改變的工作或生活形式，完成四欄測試；設計一個兩週可逆實驗，同時記錄新增能力與失去價值各一項。\n查證日期：2026-11-18"
+  },
+  {
+    "id": "daily-2026-11-18-participation",
+    "date": "2026-11-18",
+    "category": "國際民眾參與實作",
+    "lens": "差異化接觸｜讓物件、族群署名與觀眾提問維持具體",
+    "source": {
+      "name": "Cleveland Museum of Art",
+      "title": "Native North American Artists",
+      "url": "https://www.clevelandart.org/events/native-north-american-artists",
+      "accessedAt": "2026-11-18",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當教育館藏被用來介紹多個原住民族群，參與如何避免把差異壓成一個「原民文化」？",
+    "summary": "採用「族群具名接觸流程」：每件物件至少保留民族／社群名稱、地區、時間、用途與當代聲音，觀眾先提出具體觀察，再比較差異，不以單一標籤取代多元歷史。",
+    "questions": [
+      "每件物件是否能連到具體民族、社群或製作者？",
+      "「北美原住民」這個總稱在哪些地方遮蔽了差異？",
+      "教育物件的來源、年代與取得方式是否清楚？",
+      "誰有權解釋物件的用途與神聖性？",
+      "觀眾觸摸或近看時需要遵守哪些社群規範？",
+      "不同群體的材料、圖像與技術差異如何被並置？",
+      "當代藝術家的聲音是否被歷史物件遮蔽？",
+      "教育者如何回應不知道，而不是用泛化答案填補？",
+      "參與者的問題會如何回到課程或標籤更新？",
+      "活動結束後，觀眾是否能說出至少一個具名社群與一項差異？"
+    ],
+    "strategy": "執行 Nation-Specific Encounter Protocol：每件物件建立五格卡「具名社群、地區時間、用途脈絡、來源倫理、當代連結」，互動後收集觀眾提問，由教育者標記已知、待查與需社群回應。",
+    "task": "為三件來自不同北美原住民族群的教育物件製作五格卡；請六位參與者先觀察再比較，記錄所有泛化語句並改寫成具名、可查證的描述。",
+    "training": "15 分鐘盤點署名；20 分鐘查來源；20 分鐘設計三站觀察；15 分鐘測試問題；10 分鐘修正泛化語句；最後 10 分鐘建立待查回覆清單。",
+    "coreHypothesis": "若接觸從具名社群與具體物件出發，民眾參與可以增加差異辨識，而不是強化「單一原民文化」的想像。",
+    "underlyingNeed": "讓原住民族群在教育活動中保有具名與脈絡，也讓觀眾練習在不知道時繼續查證。",
+    "realConstraints": "教育館藏資訊可能不完整；多群體並置時間有限；部分知識不適合公開或由館方代言。",
+    "leverage": "Nation-Specific Encounter Protocol 可複用於族群文化、移民史、宗教物件與跨文化教育。",
+    "sourceFact": "Cleveland Museum of Art 官方頁列出 2026 年 11 月 18 日 11:00–13:00 於 Ames Family Atrium 舉行免費 Art Up Close 活動；教育者邀請訪客近看教育藝術收藏中的真實物件，紀念 Native American Heritage Month，並介紹來自北美數個原住民族群的作品。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "克里夫蘭美術館 Ames Family Atrium",
+      "title": "Native North American Artists",
+      "statusAsOf": "2026-11-18",
+      "latestUpdate": "活動不需票券，2026 年 11 月 18 日以館方教育藝術收藏為核心，由博物館教育者進行近距離物件探索。",
+      "references": [
+        "https://www.clevelandart.org/events/native-north-american-artists"
+      ],
+      "photos": [
+        {
+          "url": "https://openaccess-api.clevelandart.org/api/collection/images/exhibition_artwork/143718?variant=web",
+          "caption": "Cleveland Museum of Art 為「Native North American Artists」活動設定的官方主視覺。",
+          "credit": "Cleveland Museum of Art Open Access；活動頁未標示攝影者",
+          "sourceUrl": "https://www.clevelandart.org/events/native-north-american-artists",
+          "verifiedAt": "2026-11-18"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Cleveland Museum of Art 官方頁列出 2026 年 11 月 18 日 11:00–13:00 於 Ames Family Atrium 舉行免費 Art Up Close 活動；教育者邀請訪客近看教育藝術收藏中的真實物件，紀念 Native American Heritage Month，並介紹來自北美數個原住民族群的作品。\n【策展推論】採用「族群具名接觸流程」：每件物件至少保留民族／社群名稱、地區、時間、用途與當代聲音，觀眾先提出具體觀察，再比較差異，不以單一標籤取代多元歷史。\n【原創模擬】執行 Nation-Specific Encounter Protocol：每件物件建立五格卡「具名社群、地區時間、用途脈絡、來源倫理、當代連結」，互動後收集觀眾提問，由教育者標記已知、待查與需社群回應。；為三件來自不同北美原住民族群的教育物件製作五格卡；請六位參與者先觀察再比較，記錄所有泛化語句並改寫成具名、可查證的描述。\n查證日期：2026-11-18"
+  },
+  {
+    "id": "daily-2026-11-18-thinking",
+    "date": "2026-11-18",
+    "category": "策展思考訓練",
+    "lens": "材料證據｜從製作痕跡推到社會意義時保留證據邊界",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Art History Study Group—Materials and Meanings in the Art of the Ancient Americas",
+      "url": "https://www.metmuseum.org/events/calendar?startDate=2026-11-18",
+      "accessedAt": "2026-11-18",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當材料同時承載技術、權力與宇宙觀，策展如何避免只把它說成工藝之美？",
+    "summary": "用「材料意義階梯」分開可見物質、製作技術、流通條件、社會用途與宇宙觀詮釋；每上一層都附來源與可信度，避免以材質之美替代歷史關係。",
+    "questions": [
+      "眼前可直接觀察的材料、結構與磨損有哪些？",
+      "哪些製作技術由科學分析、文獻或當代實作支持？",
+      "材料從何處取得，誰能控制其採集與交換？",
+      "製作需要哪些專門知識、勞動與時間？",
+      "物件在儀式、政治、家庭或交換中扮演什麼角色？",
+      "哪些意義來自原文化語境，哪些是近代研究者的分類？",
+      "殖民收藏史如何改變材料與意義的連結？",
+      "當代原住民族研究者或社群如何修正既有解讀？",
+      "哪一層主張的證據最弱，牆文是否標示不確定性？",
+      "如果只談工藝之美，觀眾會失去理解哪一種權力關係？"
+    ],
+    "strategy": "建立 Material Meaning Ladder：依序填入「物質觀察、技術證據、取得與流通、社會用途、宇宙觀詮釋」，每層附資料來源、反例與信心等級；沒有證據不得跳層。",
+    "task": "選一件古代或當代物件，完成五層材料意義階梯；將原本一段形容美感的文字，改寫成三句分別標示可見事實、文獻支持與待驗證詮釋。",
+    "training": "15 分鐘純描述材料；20 分鐘補技術；20 分鐘追流通；15 分鐘找社會用途；10 分鐘標信心；最後 10 分鐘請一位不同背景讀者找出跳躍。",
+    "coreHypothesis": "若策展把材料意義拆成證據層級，觀眾能同時看見技術精度與其背後的土地、勞動、權力及信仰。",
+    "underlyingNeed": "讓古代美洲物件不被去脈絡化為漂亮材料，也讓詮釋保留可修正的空間。",
+    "realConstraints": "物件來源與原始用途可能不完整；研究史受殖民分類影響；線上課程無法替代材料近距離觀察。",
+    "leverage": "Material Meaning Ladder 可複用於工藝、設計、考古、時尚與材料文化展覽。",
+    "sourceFact": "The Met 官方日曆列出 2026 年 11 月 18 日 15:00 的線上 Art History Study Group「Materials and Meanings in the Art of the Ancient Americas」，以館方專業知識擴充藝術史理解，票價 40 美元。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國／古代美洲",
+      "location": "The Met 線上課程",
+      "title": "Art History Study Group—Materials and Meanings in the Art of the Ancient Americas",
+      "statusAsOf": "2026-11-18",
+      "latestUpdate": "2026 年 11 月 18 日課程以古代美洲藝術的材料與意義為題，官方活動日曆使用觀眾觀看羽毛面板裝置的館內照片。",
+      "references": [
+        "https://www.metmuseum.org/events/calendar?startDate=2026-11-18"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/mqfmizyr/installation-view-of-the-arts-of-the-ancient-americas-galleries_photo-by-brigit-beyer-7.jpg",
+          "caption": "The Met 古代美洲藝術展廳官方影像，觀眾觀看藍黃相間的羽毛面板裝置。",
+          "credit": "The Metropolitan Museum of Art；Photo by Brigit Beyer（依官方檔名）",
+          "sourceUrl": "https://www.metmuseum.org/events/calendar?startDate=2026-11-18",
+          "verifiedAt": "2026-11-18"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 官方日曆列出 2026 年 11 月 18 日 15:00 的線上 Art History Study Group「Materials and Meanings in the Art of the Ancient Americas」，以館方專業知識擴充藝術史理解，票價 40 美元。\n【策展推論】用「材料意義階梯」分開可見物質、製作技術、流通條件、社會用途與宇宙觀詮釋；每上一層都附來源與可信度，避免以材質之美替代歷史關係。\n【原創模擬】建立 Material Meaning Ladder：依序填入「物質觀察、技術證據、取得與流通、社會用途、宇宙觀詮釋」，每層附資料來源、反例與信心等級；沒有證據不得跳層。；選一件古代或當代物件，完成五層材料意義階梯；將原本一段形容美感的文字，改寫成三句分別標示可見事實、文獻支持與待驗證詮釋。\n查證日期：2026-11-18"
   }
 ]
