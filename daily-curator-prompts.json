@@ -28916,5 +28916,290 @@
       ]
     },
     "rawText": "【來源事實】La Biennale 官方頁列出 2026 年 11 月 19 日 16:00–17:20 於 Teatro Piccolo Arsenale 舉行 Bjørn Schaeffner 講座，免費至額滿；官方指出 1980 年代末瑞士城市夜生活受嚴格管制，蘇黎世多數場所依法午夜停業，DJ、行動者、藝術家與不同圈內外人士把地下室和廢棄工廠轉為臨時、常為非法的實驗場。\n【策展推論】用「場景到制度因果鏈」把法規限制、非法場地、行動者網絡、媒體話語、政策回應與長期改變分開；每一箭頭至少需要一項證據與一個替代解釋。\n【原創模擬】建立 Scene-to-System Causal Chain：規則壓力→空間挪用→網絡形成→公共爭議→政策回應→制度常態；每一段附檔案、反例與信心分數。；選一個地方文化場景，畫出六節因果鏈；為每個箭頭找一項直接證據與一項替代解釋，最後刪除最弱的一個因果結論。\n查證日期：2026-11-19"
+  },
+  {
+    "id": "daily-2026-11-20-curator",
+    "date": "2026-11-20",
+    "category": "專業策展人課題",
+    "lens": "修復作者性｜檢驗照護行動是否真的改變價值與關係",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "Frieda Ekotto—Resilience Against Value",
+      "url": "https://www.labiennale.org/en/agenda/frieda-ekotto-resilience-against-value-authored-practices-repair-otobong-nkanga-and-ibrahim-mahama",
+      "accessedAt": "2026-11-20",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當修復被視為作者性，策展如何證明它改變了價值關係，而不只是把破損美學化？",
+    "summary": "採用「修復價值轉向檢查」：分別追蹤誰決定修復、哪些勞動被承認、材料如何回到土地與社群、價值如何重新分配；只有關係與權力真的改變，修復才不只是風格。",
+    "questions": [
+      "作品修復的是物件、環境、勞動關係還是敘事？",
+      "誰有權決定什麼值得被修復？",
+      "哪些破損來自採掘、殖民或市場價值體系？",
+      "修復行動需要哪些常被隱形的時間與勞動？",
+      "藝術家、工匠、社群與機構如何署名？",
+      "作品是否把拒絕與不服從轉成容易消費的美學？",
+      "材料重新組合後，資源與利益流向誰？",
+      "觀眾能看見修復前後的關係變化嗎？",
+      "哪些結果只是象徵，哪些能被社群持續使用？",
+      "展覽撤場後，修復責任由誰承接？"
+    ],
+    "strategy": "建立 Repair Value Shift Audit：依序填入「傷害來源、決策權、照護勞動、材料去向、利益分配、長期責任」，每格附可觀察證據與未解風險。",
+    "task": "選一件以修復、再生或回收為主張的作品，完成六格稽核；刪除一項只描述外觀的修復宣稱，補上一項可驗證的關係變化。",
+    "training": "15 分鐘辨識傷害；15 分鐘畫決策權；20 分鐘盤點勞動；15 分鐘追材料與利益；15 分鐘做撤場測試；最後 10 分鐘重寫作者署名。",
+    "coreHypothesis": "若策展把修復的決策權、勞動與後續責任公開，觀眾能判斷修復是否真的挑戰原有價值體系。",
+    "underlyingNeed": "讓照護與再生不被轉成漂亮風格，而能回到土地、身體與社群的實際關係。",
+    "realConstraints": "講座以兩位藝術家實踐為分析對象；展覽資料未必公開完整材料流與社群分配；修復成效通常跨越展期。",
+    "leverage": "Repair Value Shift Audit 可複用於再生材料、社區藝術、文化資產修復與循環設計。",
+    "sourceFact": "La Biennale di Venezia 官方頁列出 2026 年 11 月 20 日 16:00–17:30 於 Teatro Piccolo Arsenale 舉行 Frieda Ekotto 講座，免費至額滿；講座分析 Otobong Nkanga 與 Ibrahim Mahama 的收集、包裹、修補與再生行動，如何把材料、勞動與時間重新導向被採掘破壞的土地、身體及社群關係，並以拒絕和不服從重構作者性。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利",
+      "location": "威尼斯 Teatro Piccolo Arsenale",
+      "title": "Resilience Against Value: Authored Practices of Repair in Otobong Nkanga and Ibrahim Mahama",
+      "statusAsOf": "2026-11-20",
+      "latestUpdate": "2026 年 11 月 20 日 16:00–17:30 舉行，由 Frieda Ekotto 主講、Rasha Salti 主持介紹與討論。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/frieda-ekotto-resilience-against-value-authored-practices-repair-otobong-nkanga-and-ibrahim-mahama",
+        "https://www.labiennale.org/en/art/2026/performances-lectures-discussions-and-roundtables"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7alBE4Lj",
+          "caption": "La Biennale Arte 2026 最後十日公共節目官方主視覺，包含 11 月 20 日 Frieda Ekotto 講座。",
+          "credit": "La Biennale di Venezia；攝影者未標示",
+          "sourceUrl": "https://www.labiennale.org/en/agenda/frieda-ekotto-resilience-against-value-authored-practices-repair-otobong-nkanga-and-ibrahim-mahama",
+          "verifiedAt": "2026-11-20"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale di Venezia 官方頁列出 2026 年 11 月 20 日 16:00–17:30 於 Teatro Piccolo Arsenale 舉行 Frieda Ekotto 講座，免費至額滿；講座分析 Otobong Nkanga 與 Ibrahim Mahama 的收集、包裹、修補與再生行動，如何把材料、勞動與時間重新導向被採掘破壞的土地、身體及社群關係，並以拒絕和不服從重構作者性。\n【策展推論】採用「修復價值轉向檢查」：分別追蹤誰決定修復、哪些勞動被承認、材料如何回到土地與社群、價值如何重新分配；只有關係與權力真的改變，修復才不只是風格。\n【原創模擬】建立 Repair Value Shift Audit：依序填入「傷害來源、決策權、照護勞動、材料去向、利益分配、長期責任」，每格附可觀察證據與未解風險。；選一件以修復、再生或回收為主張的作品，完成六格稽核；刪除一項只描述外觀的修復宣稱，補上一項可驗證的關係變化。\n查證日期：2026-11-20"
+  },
+  {
+    "id": "daily-2026-11-20-family",
+    "date": "2026-11-20",
+    "category": "親子觀展訓練",
+    "lens": "跨文化故事比較｜讓孩子辨識相似母題與不可互換的文化脈絡",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Stories and Glories: World Mythology (Ages 5–8)",
+      "url": "https://engage.metmuseum.org/events/education/workshops-and-classes/family-programs/childrens-classes/fall/fy27/friday-stories-and-glories-ages-5-8",
+      "accessedAt": "2026-11-20",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "把世界神話帶進 5–8 歲觀展時，如何讓孩子比較故事而不把文化壓成奇觀？",
+    "summary": "用「相似母題、不同脈絡」雙軌閱讀：孩子可以比較英雄、變形、自然與冒險，但每個故事仍保留來源地、語言、角色關係和今日文化位置。",
+    "questions": [
+      "這個故事來自哪個地區、語言與文化社群？",
+      "孩子先看到物件細節還是先聽完整故事？",
+      "不同神話中哪些母題相似，哪些不可互換？",
+      "故事角色的選擇反映哪些價值與環境？",
+      "成人是否把陌生文化說成神秘或奇怪？",
+      "孩子能用自己的話重述而不改掉關鍵脈絡嗎？",
+      "哪個物件細節能證明故事與作品的連結？",
+      "如何說明神話仍可能是今日社群的活文化？",
+      "比較活動是否讓某一文化變成標準答案？",
+      "孩子離場時能說出一項相似與一項差異嗎？"
+    ],
+    "strategy": "建立 Myth Pairing Cards：每組兩張故事卡都填「來源、角色、母題、環境、物件證據、今日連結」，先找相似，再說出不能互換的差異。",
+    "task": "挑兩個不同文化的神話與館藏物件，和孩子完成配對卡；要求孩子畫一項共同母題並口述一項不可互換的文化差異。",
+    "training": "10 分鐘看物件；15 分鐘聽故事；15 分鐘找共同母題；15 分鐘找差異；15 分鐘孩子重述；最後 10 分鐘檢查刻板印象語句。",
+    "coreHypothesis": "若比較同時保留具名脈絡，兒童能建立跨文化連結而不把多元神話簡化為異國奇觀。",
+    "underlyingNeed": "支持孩子的故事理解與文化好奇，同時尊重每個神話的社群、歷史與當代位置。",
+    "realConstraints": "活動為付費多週課程；5–8 歲注意力與閱讀程度差異大；部分神話含複雜或敏感內容，需要年齡適切轉譯。",
+    "leverage": "Myth Pairing Cards 可複用於博物館親子課、繪本閱讀、節慶教育與跨文化班級。",
+    "sourceFact": "The Met 官方頁列出 2026 年 11 月 20 日 17:00 於 The Met Fifth Avenue 舉行《Stories and Glories: World Mythology (Ages 5–8)》，以互動畫廊課程帶領兒童進入世界各地的故事、神話與民間傳說；官方家庭活動頁將其列為 5–8 歲兒童課程。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "The Met Fifth Avenue",
+      "title": "Stories and Glories: World Mythology (Ages 5–8)",
+      "statusAsOf": "2026-11-20",
+      "latestUpdate": "2026 年 11 月 20 日場次於 17:00 舉行，屬兒童系列課程，官方日曆列有會員與非會員課程費用。",
+      "references": [
+        "https://engage.metmuseum.org/events/education/workshops-and-classes/family-programs/childrens-classes/fall/fy27/friday-stories-and-glories-ages-5-8",
+        "https://www.metmuseum.org/visit-guides/families"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/20ppfns1/childrens-classes.jpg",
+          "caption": "The Met 兒童課程官方活動照片，作為《Stories and Glories》課程主視覺。",
+          "credit": "The Metropolitan Museum of Art；攝影者未標示",
+          "sourceUrl": "https://engage.metmuseum.org/events/education/workshops-and-classes/family-programs/childrens-classes/fall/fy27/friday-stories-and-glories-ages-5-8",
+          "verifiedAt": "2026-11-20"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 官方頁列出 2026 年 11 月 20 日 17:00 於 The Met Fifth Avenue 舉行《Stories and Glories: World Mythology (Ages 5–8)》，以互動畫廊課程帶領兒童進入世界各地的故事、神話與民間傳說；官方家庭活動頁將其列為 5–8 歲兒童課程。\n【策展推論】用「相似母題、不同脈絡」雙軌閱讀：孩子可以比較英雄、變形、自然與冒險，但每個故事仍保留來源地、語言、角色關係和今日文化位置。\n【原創模擬】建立 Myth Pairing Cards：每組兩張故事卡都填「來源、角色、母題、環境、物件證據、今日連結」，先找相似，再說出不能互換的差異。；挑兩個不同文化的神話與館藏物件，和孩子完成配對卡；要求孩子畫一項共同母題並口述一項不可互換的文化差異。\n查證日期：2026-11-20"
+  },
+  {
+    "id": "daily-2026-11-20-life",
+    "date": "2026-11-20",
+    "category": "人生策展課題",
+    "lens": "季節式觀看｜用環境變化重新校準節奏、需求與注意力",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Met Expert Talks at The Met Cloisters—Changing Seasons",
+      "url": "https://engage.metmuseum.org/events/education/talks/cloisters/met-expert-talks-at-the-met-cloisters/fy27/met-expert-talks-cloisters-season",
+      "accessedAt": "2026-11-20",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當季節改變觀看，同一件作品如何提醒你調整人生節奏，而不是追求固定狀態？",
+    "summary": "建立「季節式自我策展」：不要求全年保持同一產能，而是觀察環境、身體、關係與工作需求的週期，為不同季節設定不同的保留、減量與重新開始。",
+    "questions": [
+      "此刻的生活更像萌芽、旺盛、收成還是休眠？",
+      "哪些身體訊號正在要求你減速或轉向？",
+      "同一件事在不同季節為何需要不同做法？",
+      "你正在用夏季產能要求冬季的自己嗎？",
+      "哪些工作適合累積，哪些適合暫停？",
+      "你的空間、光線與氣候如何改變注意力？",
+      "哪段關係需要照顧而不是立即解決？",
+      "休眠期可以留下哪些最低限度的連續性？",
+      "下一個季節到來前，需要清理什麼？",
+      "如何判斷調整節奏不是逃避，而是長期維持？"
+    ],
+    "strategy": "建立 Seasonal Self-Curation Grid：以「身體、工作、關係、空間」四欄，分別填入當季狀態、保留事項、減量事項、準備事項與下一個轉折訊號。",
+    "task": "回看最近三個月，選出一項正在轉季的生活領域；完成四欄表，停止一項不合時宜的要求，設計一個可維持七天的季節行動。",
+    "training": "15 分鐘辨識季節；15 分鐘聽身體；15 分鐘盤點工作；15 分鐘看關係與空間；15 分鐘設轉折訊號；最後 15 分鐘做七天實驗。",
+    "coreHypothesis": "若人生管理承認週期與環境，人能用更少自責調整節奏，同時保留長期方向。",
+    "underlyingNeed": "在變化中維持連續性，不把休息、減量或重新開始誤認為失敗。",
+    "realConstraints": "季節隱喻不能取代醫療、財務與工作現實；生活週期不一定與自然季節同步；部分責任無法暫停。",
+    "leverage": "Seasonal Self-Curation Grid 可複用於年度規劃、創作節奏、健康追蹤與關係整理。",
+    "sourceFact": "The Met 官方頁列出 2026 年 11 月 20 日 15:00 於 The Met Cloisters 舉行《Met Expert Talks—Changing Seasons》，由館方專家帶領觀眾深入觀看展廳中的精選物件，免費隨博物館門票參加；官方活動照片顯示講者在掛毯前與觀眾討論。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "The Met Cloisters",
+      "title": "Met Expert Talks at The Met Cloisters—Changing Seasons",
+      "statusAsOf": "2026-11-20",
+      "latestUpdate": "2026 年 11 月 20 日 15:00 舉行，館方日曆另列 11 月 27 日同主題場次。",
+      "references": [
+        "https://engage.metmuseum.org/events/education/talks/cloisters/met-expert-talks-at-the-met-cloisters/fy27/met-expert-talks-cloisters-season",
+        "https://www.metmuseum.org/plan-your-visit/met-cloisters"
+      ],
+      "photos": [
+        {
+          "url": "https://engage.metmuseum.org/media/4qppsr5i/filipwolak_gardenday2023_0054_9578.jpg",
+          "caption": "The Met Cloisters 專家講座官方照片，講者在掛毯前帶領觀眾觀看與討論。",
+          "credit": "The Metropolitan Museum of Art；官方檔名顯示 Filip Wolak",
+          "sourceUrl": "https://engage.metmuseum.org/events/education/talks/cloisters/met-expert-talks-at-the-met-cloisters/fy27/met-expert-talks-cloisters-season",
+          "verifiedAt": "2026-11-20"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 官方頁列出 2026 年 11 月 20 日 15:00 於 The Met Cloisters 舉行《Met Expert Talks—Changing Seasons》，由館方專家帶領觀眾深入觀看展廳中的精選物件，免費隨博物館門票參加；官方活動照片顯示講者在掛毯前與觀眾討論。\n【策展推論】建立「季節式自我策展」：不要求全年保持同一產能，而是觀察環境、身體、關係與工作需求的週期，為不同季節設定不同的保留、減量與重新開始。\n【原創模擬】建立 Seasonal Self-Curation Grid：以「身體、工作、關係、空間」四欄，分別填入當季狀態、保留事項、減量事項、準備事項與下一個轉折訊號。；回看最近三個月，選出一項正在轉季的生活領域；完成四欄表，停止一項不合時宜的要求，設計一個可維持七天的季節行動。\n查證日期：2026-11-20"
+  },
+  {
+    "id": "daily-2026-11-20-participation",
+    "date": "2026-11-20",
+    "category": "國際民眾參與實作",
+    "lens": "分歧式慢看｜把觀察、詮釋與觀點差異轉成共同資源",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "The Art of Looking: Mary Cassatt, Woman with a Sunflower",
+      "url": "https://www.nga.gov/calendar/art-looking-mary-cassatt-woman-sunflower?evd=202608201958",
+      "accessedAt": "2026-11-20",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "一場全民可加入的慢看對話，如何讓觀察分歧成為共同知識？",
+    "summary": "採用「觀察—證據—詮釋—分歧」循環：每個發言先指出畫面證據，再提出解讀；不同答案不急著統一，而是標記它們依賴的觀看位置與經驗。",
+    "questions": [
+      "參與者先說看到什麼，還是先聽專家答案？",
+      "每個詮釋能指出哪個畫面細節作為證據？",
+      "誰較容易在視訊對話中搶先發言？",
+      "主持人如何邀請沉默與不同背景的觀眾？",
+      "錯誤觀察與不同詮釋如何區分？",
+      "向日葵、鏡子與母子姿態可能產生哪些分歧？",
+      "女性投票權歷史脈絡應何時補充？",
+      "專業知識如何加入而不終結觀眾判斷？",
+      "哪一個分歧能推動大家回到作品再看一次？",
+      "活動後如何保存多種解讀而不是單一摘要？"
+    ],
+    "strategy": "執行 Evidence-Based Looking Circle：輪流完成「我看到、我的證據、我推測、我想追問」，主持人將分歧整理為可回看的觀察地圖，不用投票選唯一答案。",
+    "task": "邀請四人觀看同一件作品十分鐘，收集至少八項觀察與四項互相衝突的詮釋；要求每項詮釋補上畫面證據，最後保留兩個未解問題。",
+    "training": "10 分鐘靜默看；15 分鐘純描述；20 分鐘補證據；15 分鐘交換詮釋；15 分鐘標分歧；最後 15 分鐘畫共同觀察地圖。",
+    "coreHypothesis": "若公共對話要求詮釋回到可見證據，觀眾能同時練習視覺素養、觀點採擇與尊重分歧。",
+    "underlyingNeed": "讓沒有藝術史背景的人也能參與公共解讀，並把差異視為深化觀看的資源。",
+    "realConstraints": "活動限 18 歲以上且須登記；視訊平台可能造成發言不均與數位門檻；單件作品的討論時間有限。",
+    "leverage": "Evidence-Based Looking Circle 可複用於公共藝術導覽、社區照片、建築評圖與跨世代對話。",
+    "sourceFact": "National Gallery of Art 官方頁列出 2026 年 11 月 20 日 13:00–14:00 的免費線上《The Art of Looking》，以 Mary Cassatt 約 1905 年的《Woman with a Sunflower》進行一小時互動對話；活動邀請參與者分享觀察、詮釋、問題與想法，練習視覺素養和觀點採擇，不要求藝術史背景。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "National Gallery of Art 線上活動",
+      "title": "The Art of Looking: Mary Cassatt, Woman with a Sunflower",
+      "statusAsOf": "2026-11-20",
+      "latestUpdate": "2026 年 11 月 20 日 13:00–14:00 線上舉行，免費、開放大眾、須事前登記，對象為 18 歲以上。",
+      "references": [
+        "https://www.nga.gov/calendar/art-looking-mary-cassatt-woman-sunflower?evd=202608201958",
+        "https://www.nga.gov/artists/1107-mary-cassatt/artworks"
+      ],
+      "photos": [
+        {
+          "url": "https://api.nga.gov/iiif/6ee124da-972a-4f02-83b8-7dc09c33f17c/full/!2560,1440/0/default.jpg",
+          "caption": "Mary Cassatt，《Woman with a Sunflower》，約 1905，油彩畫布；本場慢看對話的官方指定作品。",
+          "credit": "National Gallery of Art, Chester Dale Collection, 1963.10.98",
+          "sourceUrl": "https://www.nga.gov/calendar/art-looking-mary-cassatt-woman-sunflower?evd=202608201958",
+          "verifiedAt": "2026-11-20"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 官方頁列出 2026 年 11 月 20 日 13:00–14:00 的免費線上《The Art of Looking》，以 Mary Cassatt 約 1905 年的《Woman with a Sunflower》進行一小時互動對話；活動邀請參與者分享觀察、詮釋、問題與想法，練習視覺素養和觀點採擇，不要求藝術史背景。\n【策展推論】採用「觀察—證據—詮釋—分歧」循環：每個發言先指出畫面證據，再提出解讀；不同答案不急著統一，而是標記它們依賴的觀看位置與經驗。\n【原創模擬】執行 Evidence-Based Looking Circle：輪流完成「我看到、我的證據、我推測、我想追問」，主持人將分歧整理為可回看的觀察地圖，不用投票選唯一答案。；邀請四人觀看同一件作品十分鐘，收集至少八項觀察與四項互相衝突的詮釋；要求每項詮釋補上畫面證據，最後保留兩個未解問題。\n查證日期：2026-11-20"
+  },
+  {
+    "id": "daily-2026-11-20-thinking",
+    "date": "2026-11-20",
+    "category": "策展思考訓練",
+    "lens": "身體知識證據｜區分傳承、引用與代言的證據邊界",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "Yo-E Ryou—Breath Orchestra: Score for Silence",
+      "url": "https://www.labiennale.org/en/agenda/yo-e-ryou-breath-orchestra-score-silence",
+      "accessedAt": "2026-11-20",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當呼吸與沉默承載海女知識，策展如何區分身體傳承、象徵引用與文化代言？",
+    "summary": "用「身體知識傳遞鏈」分開親身實踐、共同研究、藝術轉譯、表演再現與觀眾理解；每一次轉譯都標示誰參與、誰同意、哪些知識不可替代。",
+    "questions": [
+      "作品中的呼吸與閉氣來自哪些具體海女實踐？",
+      "藝術家與海女社群的關係如何建立？",
+      "哪些知識必須透過身體反覆練習才能理解？",
+      "沉默在水下勞動中是生理條件還是象徵？",
+      "工作坊—表演模式讓參與者學到什麼？",
+      "表演者與原知識持有者之間相隔哪些轉譯層？",
+      "誰能指出不準確或過度浪漫化的呈現？",
+      "觀眾如何知道自己看到的是引用而非完整傳承？",
+      "文化知識消失的風險由哪些制度與環境造成？",
+      "策展文字應保留哪些不可代言與未知？"
+    ],
+    "strategy": "建立 Embodied Knowledge Transmission Chain：知識持有者→共同研究→藝術轉譯→表演者練習→觀眾接收；每一節標註同意、損失、再詮釋與可回饋路徑。",
+    "task": "選一件引用地方或職業身體知識的作品，畫出五節傳遞鏈；為每節寫一項證據與一項失真風險，最後補上知識持有者可修正內容的機制。",
+    "training": "15 分鐘列身體動作；20 分鐘查知識來源；15 分鐘標轉譯者；15 分鐘做失真測試；15 分鐘設計回饋；最後 10 分鐘寫證據邊界。",
+    "coreHypothesis": "若策展公開身體知識的傳遞層與失真風險，藝術轉譯能支持記憶而不假裝取代原實踐。",
+    "underlyingNeed": "尊重海女的具身知識、勞動與能動性，同時讓觀眾理解藝術再現的限制。",
+    "realConstraints": "官方頁說明研究關係但未提供海女社群的完整共同決策細節；表演無法複製水下工作條件；知識可能涉及社群內部界線。",
+    "leverage": "Embodied Knowledge Transmission Chain 可複用於工藝、農漁勞動、儀式、舞蹈與地方技術策展。",
+    "sourceFact": "La Biennale 官方頁列出 Yo-E Ryou《Breath Orchestra: Score for Silence》於 2026 年 11 月 20 日 14:00 與 17:00 在 Corderie dell’Arsenale 各演出 35 分鐘；作品源於藝術家的水女性主義研究及與 Haenyeo 海女社群的關係，取材自水下勞動中的閉氣與沉默，並以工作坊—表演模式進行傳遞與共同學習。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利／韓國",
+      "location": "威尼斯 Corderie dell’Arsenale",
+      "title": "Breath Orchestra: Score for Silence",
+      "statusAsOf": "2026-11-20",
+      "latestUpdate": "2026 年 11 月 20 日安排 14:00 與 17:00 兩場，每場 35 分鐘，須持 Biennale Arte 2026 有效門票。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/yo-e-ryou-breath-orchestra-score-silence",
+        "https://www.labiennale.org/en/art/2026/yo-e-ryou"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2026/artists/600x600/ryou_yoe03761.jpg?itok=XsCzX0dn",
+          "caption": "La Biennale Arte 2026 藝術家 Yo-E Ryou 官方作品頁主視覺。",
+          "credit": "La Biennale di Venezia；攝影者未標示",
+          "sourceUrl": "https://www.labiennale.org/en/art/2026/yo-e-ryou",
+          "verifiedAt": "2026-11-20"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale 官方頁列出 Yo-E Ryou《Breath Orchestra: Score for Silence》於 2026 年 11 月 20 日 14:00 與 17:00 在 Corderie dell’Arsenale 各演出 35 分鐘；作品源於藝術家的水女性主義研究及與 Haenyeo 海女社群的關係，取材自水下勞動中的閉氣與沉默，並以工作坊—表演模式進行傳遞與共同學習。\n【策展推論】用「身體知識傳遞鏈」分開親身實踐、共同研究、藝術轉譯、表演再現與觀眾理解；每一次轉譯都標示誰參與、誰同意、哪些知識不可替代。\n【原創模擬】建立 Embodied Knowledge Transmission Chain：知識持有者→共同研究→藝術轉譯→表演者練習→觀眾接收；每一節標註同意、損失、再詮釋與可回饋路徑。；選一件引用地方或職業身體知識的作品，畫出五節傳遞鏈；為每節寫一項證據與一項失真風險，最後補上知識持有者可修正內容的機制。\n查證日期：2026-11-20"
   }
 ]
