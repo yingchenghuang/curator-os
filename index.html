@@ -255,6 +255,9 @@ footer a { color: #9ed4dc; }
 .training-body { border-top: 1px solid var(--line); padding: 18px clamp(16px, 4vw, 40px); overflow-wrap: anywhere; }
 .training-body h4 { margin: 1.3em 0 .35em; }
 .training-body p { margin: 0 0 .75em; }
+#spaceList .space > .txt:only-child { grid-column: 1 / -1; }
+#spaceMore { margin-top: 16px; }
+#spaceMore[hidden] { display: none; }
 </style>
 <style>
 /* CURATOR OS 2.0 | editorial design layer, retains the original accessible components */
@@ -444,7 +447,7 @@ footer{background:#152630}footer .sec-in{padding:50px 20px;line-height:1.9}foote
 <section class="sec" id="spaces">
   <div class="sec-in">
     <div class="head">
-      <div><p class="eyebrow">07 / SPATIAL CASES</p><h2>六個真實空間，從照片到動線拆解</h2></div>
+      <div><p class="eyebrow">07 / SPATIAL CASES</p><h2>空間案例資料庫：從場域到動線</h2></div>
       <p class="lead">圖是依公開資料繪製的示意圖，用來看空間關係，不是測繪圖。每個案例附官方網站，可以對照現場照片。</p>
     </div>
     <div class="beats5" aria-label="空間腳本五拍">
@@ -454,7 +457,7 @@ footer{background:#152630}footer .sec-in{padding:50px 20px;line-height:1.9}foote
       <div><b>停留</b>可以坐下、繞行、回看的地方。</div>
       <div><b>帶走</b>離場時留在身上的一句話或一個動作。</div>
     </div>
-    <div class="chips" id="spaceFilter" role="group" aria-label="篩選空間案例"></div><div id="spaceList"></div>
+    <div class="chips" id="spaceFilter" role="group" aria-label="篩選空間案例"></div><p id="spaceStatus" class="note" role="status"></p><div id="spaceList"></div><button class="btn ghost small" id="spaceMore" hidden>載入更多案例</button>
   </div>
 </section>
 
@@ -1186,8 +1189,8 @@ var SPACE_MEDIA = {
 SPACES.forEach(function(s){Object.assign(s,SPACE_MEDIA[s.svg]||{});});
 SPACES.find(function(s){return s.svg==='castel';}).link='https://museodicastelvecchio.comune.verona.it/nqcontent.cfm?a_id=43073&lang=en';
 SPACES.find(function(s){return s.svg==='castel';}).src='Museo di Castelvecchio';
-function drawSpaces() {
-  $('#spaceList').innerHTML = SPACES.map(function (s, i) { return '<article class="space" data-case="' + s.svg + '"><figure><div class="space-photo"><div class="photo-fallback">' + SVG[s.svg] + '</div><img src="' + esc(s.photo) + '" alt="' + esc(s.alt) + '" loading="lazy"><span class="photo-counter">CASE 0' + (i+1) + ' / 06</span></div><figcaption>實景照片來源（連線時顯示）｜<a href="' + esc(s.creditUrl) + '" target="_blank" rel="noopener">' + esc(s.credit) + ' ↗</a></figcaption><details class="diagram"><summary>展開空間關係示意圖</summary>' + SVG[s.svg] + '<p class="note">' + s.cap + '，概念示意，非測繪圖</p></details></figure><div class="txt"><p class="eyebrow">' + s.sub + ' / ' + esc(s.kind) + '</p><h3>' + s.t + '</h3><dl><dt>場域條件</dt><dd>' + s.data + '</dd><dt>策展動作</dt><dd>' + s.move + '</dd><dt>可以帶走</dt><dd>' + s.take + '</dd></dl><div class="case-beats"><strong>五拍觀眾旅程</strong>' + s.beats.map(function(b,j){return '<div><span>0'+(j+1)+'</span>'+esc(b)+'</div>';}).join('') + '</div><div class="row"><button class="btn small" data-case-use="' + s.svg + '">將空間方法帶入提案</button>' + (s.link ? '<a class="btn ghost small" href="' + s.link + '" target="_blank" rel="noopener">官方資料 ↗</a>' : '') + '</div></div></article>'; }).join('');
+function drawSpaces(rows) {
+  $('#spaceList').innerHTML = rows.map(function (s) { return '<article class="space" data-case="' + esc(s.svg) + '">' + (s.photo ? '<figure><div class="space-photo"><div class="photo-fallback">' + SVG[s.svg] + '</div><img src="' + esc(s.photo) + '" alt="' + esc(s.alt) + '" loading="lazy"><span class="photo-counter">' + esc(s.date || '經典案例') + '</span></div><figcaption>實景照片來源（連線時顯示）｜<a href="' + esc(s.creditUrl) + '" target="_blank" rel="noopener">' + esc(s.credit) + ' ↗</a></figcaption><details class="diagram"><summary>展開空間關係示意圖</summary>' + (SVG[s.svg] || '') + '<p class="note">' + esc(s.cap) + '，概念示意，非測繪圖</p></details></figure>' : '') + '<div class="txt"><p class="eyebrow">' + esc(s.sub) + ' / ' + esc(s.kind) + '</p><h3>' + esc(s.t) + '</h3><dl><dt>場域條件</dt><dd>' + esc(s.data) + '</dd><dt>策展動作</dt><dd>' + esc(s.move) + '</dd><dt>可以帶走</dt><dd>' + esc(s.take) + '</dd></dl><div class="case-beats"><strong>五拍觀眾旅程</strong>' + s.beats.map(function(b,j){return '<div><span>0'+(j+1)+'</span>'+esc(b)+'</div>';}).join('') + '</div><div class="row"><button class="btn small" data-case-use="' + s.svg + '">將空間方法帶入提案</button>' + (s.link ? '<a class="btn ghost small" href="' + esc(s.link) + '" target="_blank" rel="noopener">官方資料 ↗</a>' : '') + '</div></div></article>'; }).join('');
 }
 
 /* ---------- 展覽雷達 ---------- */
@@ -1282,7 +1285,7 @@ if ('IntersectionObserver' in window) {
 if (!Array.isArray(S.beats) || S.beats.length !== 5) S = JSON.parse(JSON.stringify(EXAMPLE));
 if (!Array.isArray(S.aud)) S.aud = [];
 $('#libLead').textContent = '你的 ' + LIB.length + ' 則每日提問與備忘錄課題。搜尋、篩選、打開，再帶入專案。';
-drawLens(); pickTopic(false); drawSys(); drawSteps(); drawPane(); drawLessons(); drawSpaces(); drawRadar(); drawLib();
+drawLens(); pickTopic(false); drawSys(); drawSteps(); drawPane(); drawLessons(); drawSpaces(SPACES); drawRadar(); drawLib();
 function mergeRemoteRows(rows) {
   if (!Array.isArray(rows)) return 0;
   var ids = new Set(LIB.map(function(x){return x.id;}));
@@ -1303,7 +1306,7 @@ function mergeRemoteRows(rows) {
   }
   return added;
 }
-window.CuratorOS={SYS:SYS,SPACES:SPACES,EX:EX,LESSONS:LESSONS,LIB:LIB,getProject:function(){return JSON.parse(JSON.stringify(S));},setProject:function(p){if(!p||!Array.isArray(p.beats)||p.beats.length!==5)return false;S=Object.assign(JSON.parse(JSON.stringify(BLANK)),p);if(!Array.isArray(S.aud))S.aud=[];S.beats=S.beats.map(function(b){return {t:String(b&&b.t||''),m:Math.max(0,Math.min(120,Number(b&&b.m)||0))};});['site','obs','gap','change','biS','biV','biW','audNote','system','partners','resources','evidence','legacy'].forEach(function(k){S[k]=String(S[k]||'').slice(0,10000);});saveS();drawPane();return true;},selectStep:function(i){stepNow=Math.max(0,Math.min(6,i));drawSteps();drawPane();$('#guide').scrollIntoView();},useSystem:function(id){if(S.ex)S=JSON.parse(JSON.stringify(BLANK));S.system=id;stepNow=5;saveS();drawPane();$('#guide').scrollIntoView();},useSpace:function(id){var x=SPACES.find(function(z){return z.svg===id;});if(!x)return;if(S.ex)S=JSON.parse(JSON.stringify(BLANK));S.site=S.site||x.sub+'｜'+x.t;S.beats=x.beats.map(function(t,i){return {t:t,m:[2,3,8,10,2][i]};});stepNow=4;saveS();drawPane();$('#guide').scrollIntoView();},mergeRemoteRows:mergeRemoteRows,brief:brief,store:store,toast:toast,drawLib:drawLib,drawRadar:drawRadar,useTopic:useTopic,refreshToday:function(){TODAY=new Date();TODAY.setHours(0,0,0,0);drawRadar();pickTopic(false);}};
+window.CuratorOS={SYS:SYS,SPACES:SPACES,EX:EX,LESSONS:LESSONS,LIB:LIB,getProject:function(){return JSON.parse(JSON.stringify(S));},setProject:function(p){if(!p||!Array.isArray(p.beats)||p.beats.length!==5)return false;S=Object.assign(JSON.parse(JSON.stringify(BLANK)),p);if(!Array.isArray(S.aud))S.aud=[];S.beats=S.beats.map(function(b){return {t:String(b&&b.t||''),m:Math.max(0,Math.min(120,Number(b&&b.m)||0))};});['site','obs','gap','change','biS','biV','biW','audNote','system','partners','resources','evidence','legacy'].forEach(function(k){S[k]=String(S[k]||'').slice(0,10000);});saveS();drawPane();return true;},selectStep:function(i){stepNow=Math.max(0,Math.min(6,i));drawSteps();drawPane();$('#guide').scrollIntoView();},useSystem:function(id){if(S.ex)S=JSON.parse(JSON.stringify(BLANK));S.system=id;stepNow=5;saveS();drawPane();$('#guide').scrollIntoView();},useSpace:function(id){var x=SPACES.find(function(z){return z.svg===id;});if(!x)return;if(S.ex)S=JSON.parse(JSON.stringify(BLANK));S.site=S.site||x.sub+'｜'+x.t;S.beats=x.beats.map(function(t,i){return {t:t,m:[2,3,8,10,2][i]};});stepNow=4;saveS();drawPane();$('#guide').scrollIntoView();},mergeRemoteRows:mergeRemoteRows,brief:brief,store:store,toast:toast,drawLib:drawLib,drawSpaces:drawSpaces,drawRadar:drawRadar,useTopic:useTopic,refreshToday:function(){TODAY=new Date();TODAY.setHours(0,0,0,0);drawRadar();pickTopic(false);}};
 })();
 </script>
 <script>
@@ -1669,15 +1672,39 @@ window.CuratorOS={SYS:SYS,SPACES:SPACES,EX:EX,LESSONS:LESSONS,LIB:LIB,getProject
   renderComparison();
 
   /* Case study filters and reuse of the five-beat spatial script. */
-  var caseKinds=['全部'].concat(app.SPACES.map(function(x){return x.kind;}));
-  var selectedCase='全部';
+  var caseKinds=['全部'].concat(Array.from(new Set(app.SPACES.map(function(x){return x.kind;}))));
+  var selectedCase='全部', caseLimit=6, caseLoadError=false;
+  function renderCases(){
+    var rows=app.SPACES.filter(function(s){return selectedCase==='全部'||s.kind===selectedCase;});
+    app.drawSpaces(rows.slice(0,caseLimit));
+    $('#spaceMore').hidden=rows.length<=caseLimit;
+    $('#spaceStatus').textContent=(caseLoadError?'新增案例暫時無法載入。':'')+'顯示 '+Math.min(caseLimit,rows.length)+' / '+rows.length+' 筆';
+  }
   function renderCaseFilters(){
     $('#spaceFilter').innerHTML=caseKinds.map(function(k){return '<button type="button" class="chip" data-case-kind="'+esc(k)+'" aria-pressed="'+(selectedCase===k)+'">'+esc(k)+'</button>';}).join('');
-    app.SPACES.forEach(function(s){var el=document.querySelector('[data-case="'+s.svg+'"]');if(el)el.hidden=selectedCase!=='全部'&&s.kind!==selectedCase;});
+    renderCases();
   }
-  $('#spaceFilter').addEventListener('click',function(e){var b=e.target.closest('[data-case-kind]');if(!b)return;selectedCase=b.dataset.caseKind;renderCaseFilters();});
+  $('#spaceFilter').addEventListener('click',function(e){var b=e.target.closest('[data-case-kind]');if(!b)return;selectedCase=b.dataset.caseKind;caseLimit=6;renderCaseFilters();});
+  $('#spaceMore').addEventListener('click',function(){caseLimit+=6;renderCases();});
   $('#spaceList').addEventListener('click',function(e){var b=e.target.closest('[data-case-use]');if(b)app.useSpace(b.dataset.caseUse);});
   renderCaseFilters();
+  fetchJson('data/spatial-cases.json',10000).then(function(rows){
+    if(!Array.isArray(rows))throw Error('Invalid spatial case database');
+    var ids=new Set(app.SPACES.map(function(s){return s.svg;}));
+    function https(url){return typeof url==='string'&&/^https:\/\//.test(url);}
+    var valid=rows.filter(function(s){
+      if(!s||!/^[-a-z0-9]+$/.test(s.svg)||ids.has(s.svg)||!caseKinds.slice(1).includes(s.kind))return false;
+      if(!['t','sub','data','move','take','src','date'].every(function(k){return typeof s[k]==='string'&&s[k].trim();})||
+         !/^\d{4}-\d{2}-\d{2}$/.test(s.date)||!https(s.link)||!Array.isArray(s.beats)||s.beats.length!==5||
+         !s.beats.every(function(b){return typeof b==='string'&&b.trim();}))return false;
+      if(!https(s.photo)||!https(s.creditUrl)||typeof s.alt!=='string'||typeof s.credit!=='string')delete s.photo;
+      ids.add(s.svg);
+      return true;
+    });
+    valid.sort(function(a,b){return b.date.localeCompare(a.date);});
+    app.SPACES.unshift.apply(app.SPACES,valid);
+    renderCases();
+  }).catch(function(){caseLoadError=true;renderCases();});
 
   /* Project diagnostics: completeness indicators, not claims about artistic merit. */
   var AXES=[
