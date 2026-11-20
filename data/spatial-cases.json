@@ -16,7 +16,29 @@
     ],
     "link": "https://heatherwick.com/projects/infrastructure/zeitz-mocaa/",
     "src": "Heatherwick Studio",
-    "date": "2026-11-21"
+    "date": "2026-11-21",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Cross_section_of_the_storage_shafts_insdie_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg/960px-Cross_section_of_the_storage_shafts_insdie_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg",
+    "alt": "筒倉切割後裸露的混凝土弧形斷面",
+    "credit": "Michael Rowe｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Cross_section_of_the_storage_shafts_insdie_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg",
+    "system": {
+      "form": [
+        "既有筒管",
+        "切割面",
+        "垂直中庭"
+      ],
+      "route": [
+        "港區入口",
+        "中庭定向",
+        "樓層展廳"
+      ],
+      "perception": [
+        "上部亮區",
+        "中庭仰視",
+        "展廳聚焦"
+      ],
+      "reading": "同一中庭同時提供方向與工業記憶。切割方案需讓結構補強與觀眾可達性一起檢討。"
+    }
   },
   {
     "svg": "louvre-lens-time",
@@ -35,7 +57,29 @@
     ],
     "link": "https://www.louvrelens.fr/en/the-spaces-the-galerie-du-temps/",
     "src": "Louvre-Lens",
-    "date": "2026-11-21"
+    "date": "2026-11-21",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Louvre_lens_galerie.jpg/960px-Louvre_lens_galerie.jpg",
+    "alt": "時間長廊的開放式展場與獨立展台",
+    "credit": "Chatsam｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Louvre_lens_galerie.jpg",
+    "system": {
+      "form": [
+        "開放大廳",
+        "獨立展台",
+        "作品群"
+      ],
+      "route": [
+        "年代主軸",
+        "橫向穿越",
+        "回到主軸"
+      ],
+      "perception": [
+        "遠看群組",
+        "靠近物件",
+        "對讀展籤"
+      ],
+      "reading": "主軸建立年代座標，橫向路徑支持比較。展台太密時，先用站位測試觀眾能否同時看見兩組作品。"
+    }
   },
   {
     "svg": "neues-museum",
@@ -54,7 +98,29 @@
     ],
     "link": "https://davidchipperfield.com/projects/neues-museum",
     "src": "David Chipperfield Architects",
-    "date": "2026-11-21"
+    "date": "2026-11-21",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Neues_Museum_interior.jpg/960px-Neues_Museum_interior.jpg",
+    "alt": "柏林新博物館中央樓梯與歷史牆面",
+    "credit": "Nadia Nadienka｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Neues_Museum_interior.jpg",
+    "system": {
+      "form": [
+        "歷史牆面",
+        "新構件接合",
+        "樓梯廳"
+      ],
+      "route": [
+        "入口",
+        "垂直轉換",
+        "樓層展間"
+      ],
+      "perception": [
+        "遠看牆面",
+        "近看接縫",
+        "轉身回望"
+      ],
+      "reading": "樓梯兼具分流和閱讀修復的功能。用材質交界表達年代差異時，仍須讓觀眾知道它代表哪一段歷史。"
+    }
   },
   {
     "svg": "lascaux-iv",
@@ -73,7 +139,30 @@
     ],
     "link": "https://www.snohetta.com/projects/lascaux",
     "src": "Snøhetta",
-    "date": "2026-11-21"
+    "date": "2026-11-21",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Lascaux-IV_von_Sn%C3%B8hetta.jpg/960px-Lascaux-IV_von_Sn%C3%B8hetta.jpg",
+    "alt": "拉斯科四號沿山勢展開的外部建築",
+    "credit": "JanManu｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lascaux-IV_von_Sn%C3%B8hetta.jpg",
+    "system": {
+      "form": [
+        "山坡",
+        "狹長建築介面",
+        "洞穴複製區"
+      ],
+      "route": [
+        "外部景觀",
+        "暗處適應",
+        "壁畫",
+        "解說"
+      ],
+      "perception": [
+        "自然光",
+        "低照度",
+        "局部照明"
+      ],
+      "reading": "先以光差建立身體經驗，再補研究脈絡。照片呈現外部建築，洞內光線分析依設計方資料。"
+    }
   },
   {
     "svg": "kimbell-kahn",
@@ -92,7 +181,29 @@
     ],
     "link": "https://kimbellart.org/content/kahn-building-detail",
     "src": "Kimbell Art Museum",
-    "date": "2026-11-21"
+    "date": "2026-11-21",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kimbell_Art_Museum_interior_01.jpg/960px-Kimbell_Art_Museum_interior_01.jpg",
+    "alt": "卡恩館室內拱頂與展廳",
+    "credit": "Joe Mabel｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_interior_01.jpg",
+    "system": {
+      "form": [
+        "狹長天窗",
+        "穿孔鋁反射板",
+        "混凝土拱頂"
+      ],
+      "route": [
+        "入口廊道",
+        "拱頂單元",
+        "作品站位"
+      ],
+      "perception": [
+        "上方入光",
+        "反射擴散",
+        "展品照明"
+      ],
+      "reading": "把光源、反射面和作品面拆為三層。比較繪畫與紙本陳列時，另測照度與時間變化。"
+    }
   },
   {
     "svg": "setouchi-islands",
@@ -111,6 +222,29 @@
     ],
     "link": "https://www.japan.travel/en/spot/222/",
     "src": "日本政府觀光局",
-    "date": "2026-11-21"
+    "date": "2026-11-21",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/53/JRW_Uno_Station_into_artwork_for_Setouchi_Triennale_2016_by_Esther_Stocker.JPG",
+    "alt": "2016 年瀨戶內國際藝術祭宇野站的 Esther Stocker 空間介入",
+    "credit": "Twilight2640｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:JRW_Uno_Station_into_artwork_for_Setouchi_Triennale_2016_by_Esther_Stocker.JPG",
+    "system": {
+      "form": [
+        "陸上車站",
+        "港口",
+        "島嶼聚落"
+      ],
+      "route": [
+        "抵達",
+        "候船",
+        "渡海",
+        "步行"
+      ],
+      "perception": [
+        "交通節點",
+        "公共藝術介入",
+        "行前辨識"
+      ],
+      "reading": "船班決定作品之間可用的時間。照片呈現宇野站這個陸上入口，跨島分析需另對照實際港口與航路。"
+    }
   }
 ]
