@@ -29201,5 +29201,290 @@
       ]
     },
     "rawText": "【來源事實】La Biennale 官方頁列出 Yo-E Ryou《Breath Orchestra: Score for Silence》於 2026 年 11 月 20 日 14:00 與 17:00 在 Corderie dell’Arsenale 各演出 35 分鐘；作品源於藝術家的水女性主義研究及與 Haenyeo 海女社群的關係，取材自水下勞動中的閉氣與沉默，並以工作坊—表演模式進行傳遞與共同學習。\n【策展推論】用「身體知識傳遞鏈」分開親身實踐、共同研究、藝術轉譯、表演再現與觀眾理解；每一次轉譯都標示誰參與、誰同意、哪些知識不可替代。\n【原創模擬】建立 Embodied Knowledge Transmission Chain：知識持有者→共同研究→藝術轉譯→表演者練習→觀眾接收；每一節標註同意、損失、再詮釋與可回饋路徑。；選一件引用地方或職業身體知識的作品，畫出五節傳遞鏈；為每節寫一項證據與一項失真風險，最後補上知識持有者可修正內容的機制。\n查證日期：2026-11-20"
+  },
+  {
+    "id": "daily-2026-11-21-curator",
+    "date": "2026-11-21",
+    "category": "專業策展人課題",
+    "lens": "危機永續倫理｜區分自願選擇、被迫適應與制度責任",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "Tarek El-Ariss—Emptying the Jars of War, or How We Learned to Love Nature",
+      "url": "https://www.labiennale.org/en/agenda/tarek-el-ariss-emptying-jars-war-or-how-we-learned-love-nature",
+      "accessedAt": "2026-11-21",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當永續來自戰爭中的被迫節制，策展如何避免把生存策略浪漫化？",
+    "summary": "以「生存永續倫理圖」分開自願環保、資源匱乏、戰爭強迫與制度失靈；策展可以呈現危機中的適應智慧，但不能把缺水、恐懼與被迫節制包裝成可複製的綠色生活風格。",
+    "questions": [
+      "這項環境行為是主動選擇，還是因匱乏與恐懼被迫發生？",
+      "誰承受缺水、污染、戰爭或遷移的主要代價？",
+      "策展文字是否把生存技巧誤寫成個人美德？",
+      "哪些國家、企業或制度決策製造了危機條件？",
+      "日常物件如儲水罐如何同時承載照護與暴力記憶？",
+      "天堂、綠洲與純淨自然的神話遮蔽了什麼政治？",
+      "觀眾是否能區分適應能力與正義結果？",
+      "哪些做法只能在特定危機情境理解，不能直接複製？",
+      "展覽如何讓受影響者保有敘述權而非成為勵志素材？",
+      "如果危機結束，哪些臨時習慣應保留，哪些制度必須改變？"
+    ],
+    "strategy": "建立 Survival Sustainability Ethics Map，依序標示「危機來源、被迫行為、立即效益、身體代價、制度責任、可轉用知識」，每一格附來源與不確定性。",
+    "task": "選一個以節水、回收或低耗能為主張的案例，將其敘事拆成自願、被迫與制度三層；刪除一句浪漫化匱乏的文案，補上一項責任歸屬。",
+    "training": "15 分鐘列環境行為；15 分鐘辨識壓力來源；20 分鐘畫責任鏈；15 分鐘查身體與情緒代價；15 分鐘檢查自然神話；最後 10 分鐘重寫牆文。",
+    "coreHypothesis": "若策展清楚區分危機中的被迫適應與自願環保，觀眾能理解生存智慧，同時看見造成不平等的制度責任。",
+    "underlyingNeed": "讓環境策展保留受危機影響者的尊嚴、痛苦與政治位置，不把匱乏美學化。",
+    "realConstraints": "講座以黎巴嫩戰時儲水等日常場景與水、綠意神話展開；單場活動無法完整涵蓋各地戰爭經驗，且部分敘述具個人記憶性。",
+    "leverage": "Survival Sustainability Ethics Map 可用於氣候災害、戰爭記憶、難民生活、節水設計與循環經濟展覽。",
+    "sourceFact": "La Biennale di Venezia 官方頁列出 2026 年 11 月 21 日 16:00–17:30 於 Teatro Piccolo Arsenale 舉行 Tarek El-Ariss 講座，免費至額滿；內容從黎巴嫩戰時以水罐儲水洗澡等日常場景出發，連結伊甸園、希臘與伊斯蘭傳統及綠洲想像，主張環境實踐有時源於習慣、恐懼或生存，而非自覺的倫理選擇。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利",
+      "location": "威尼斯 Teatro Piccolo Arsenale",
+      "title": "Emptying the Jars of War, or How We Learned to Love Nature",
+      "statusAsOf": "2026-11-21",
+      "latestUpdate": "2026 年 11 月 21 日 16:00–17:30 舉行，由 Tarek El-Ariss 主講、Rasha Salti 介紹與主持。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/tarek-el-ariss-emptying-jars-war-or-how-we-learned-love-nature",
+        "https://www.labiennale.org/en/art/2026/performances-lectures-discussions-and-roundtables"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7alBE4Lj",
+          "caption": "La Biennale Arte 2026 最後十日公共節目官方主視覺，包含 11 月 21 日 Tarek El-Ariss 講座。",
+          "credit": "La Biennale di Venezia；攝影者未標示",
+          "sourceUrl": "https://www.labiennale.org/en/agenda/tarek-el-ariss-emptying-jars-war-or-how-we-learned-love-nature",
+          "verifiedAt": "2026-11-21"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale di Venezia 官方頁列出 2026 年 11 月 21 日 16:00–17:30 於 Teatro Piccolo Arsenale 舉行 Tarek El-Ariss 講座，免費至額滿；內容從黎巴嫩戰時以水罐儲水洗澡等日常場景出發，連結伊甸園、希臘與伊斯蘭傳統及綠洲想像，主張環境實踐有時源於習慣、恐懼或生存，而非自覺的倫理選擇。\n【策展推論】以「生存永續倫理圖」分開自願環保、資源匱乏、戰爭強迫與制度失靈；策展可以呈現危機中的適應智慧，但不能把缺水、恐懼與被迫節制包裝成可複製的綠色生活風格。\n【原創模擬】建立 Survival Sustainability Ethics Map，依序標示「危機來源、被迫行為、立即效益、身體代價、制度責任、可轉用知識」，每一格附來源與不確定性。；選一個以節水、回收或低耗能為主張的案例，將其敘事拆成自願、被迫與制度三層；刪除一句浪漫化匱乏的文案，補上一項責任歸屬。\n查證日期：2026-11-21"
+  },
+  {
+    "id": "daily-2026-11-21-family",
+    "date": "2026-11-21",
+    "category": "親子觀展訓練",
+    "lens": "青少年建築閱讀｜由造型偏好走向空間、材料與社會關係",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Family Gallery Talks: Exploring Architecture",
+      "url": "https://www.moma.org/calendar/events/11744",
+      "accessedAt": "2026-11-21",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "親子一起看建築時，如何讓 11–14 歲孩子從造型判斷走向空間與權力閱讀？",
+    "summary": "採用「看—走—畫—換位」建築閱讀：先說出可見形式，再模擬身體如何移動，畫出誰能進入與停留，最後從另一位使用者的角度修改判斷；成人不急著補答案。",
+    "questions": [
+      "孩子第一眼注意到建築的哪個形狀、材料或尺度？",
+      "這個空間如何暗示人進入、停留、觀看或離開？",
+      "誰能方便使用，誰可能被樓梯、門檻或規則排除？",
+      "建築與所在地的氣候、歷史與資源有何關係？",
+      "現代主義形式在西非脈絡中如何被在地化？",
+      "孩子能否用身體姿勢重現空間的壓縮與開放？",
+      "畫平面圖時，哪些區域被孩子放大或忽略？",
+      "成人的建築知識何時變成干擾？",
+      "若以輪椅使用者、攤販或兒童視角重畫，會改變什麼？",
+      "離場後孩子能否提出一項讓空間更公平的修改？"
+    ],
+    "strategy": "用 Look–Walk–Draw–Switch 四步卡：每件案例只問一個可見問題、一個身體問題、一張關係草圖，再換一位使用者重讀。",
+    "task": "選一張建築展場照片，與孩子各自畫入口、移動線與停留點；交換圖面後，以不同使用者身份各提出一項修改。",
+    "training": "10 分鐘靜看；15 分鐘身體模擬；20 分鐘畫路徑；15 分鐘標材料與氣候；15 分鐘換位重畫；最後 15 分鐘讓孩子口述自己的空間主張。",
+    "coreHypothesis": "若親子把建築視為身體與權力的配置，而不只評論外觀，青少年能形成可被討論與修改的空間判斷。",
+    "underlyingNeed": "讓孩子在成為建築專業者之前，就能辨認環境如何允許、限制或支持不同人的生活。",
+    "realConstraints": "活動只細看三至四件作品，對象為 11–14 歲兒童與家長；展場時間有限，且建築展品多以模型、圖面或影像呈現。",
+    "leverage": "Look–Walk–Draw–Switch 可用於公共藝術、校園空間、城市散步、住宅與博物館展場教育。",
+    "sourceFact": "MoMA 官方頁列出 Family Gallery Talks: Exploring Architecture 於 2026 年 11 月 21 日 12:00–13:15 在 Education Center 舉行，對象為 11–14 歲家庭；教育者帶領親子細看三至四件作品，透過分享觀察、認識藝術家與技法，以及繪畫、書寫、動作等活動共同探索建築。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA Education Center",
+      "title": "Family Gallery Talks: Exploring Architecture",
+      "statusAsOf": "2026-11-21",
+      "latestUpdate": "2026 年 11 月 21 日 12:00–13:15 舉行，11–14 歲孩子與成人共同參與，活動包含於博物館門票。",
+      "references": [
+        "https://www.moma.org/calendar/events/11744",
+        "https://www.moma.org/calendar/programs/223"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDkvMTcvM2RkYWxncDMyZV9GR1RfMTFfMTRfTm92XzIwMjZfTWFydGluX1BhcnNla2lhbi5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/FGT%2011-14%20Nov%202026%20Martin%20Parsekian.jpg?sha=a59dbf2e85e947f4",
+          "caption": "MoMA《Architects of Liberation: Modernism in Western Africa》展場，為 Exploring Architecture 親子導覽官方活動影像。",
+          "credit": "Photo: Martin Parsekian；The Museum of Modern Art, New York",
+          "sourceUrl": "https://www.moma.org/calendar/events/11744",
+          "verifiedAt": "2026-11-21"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 官方頁列出 Family Gallery Talks: Exploring Architecture 於 2026 年 11 月 21 日 12:00–13:15 在 Education Center 舉行，對象為 11–14 歲家庭；教育者帶領親子細看三至四件作品，透過分享觀察、認識藝術家與技法，以及繪畫、書寫、動作等活動共同探索建築。\n【策展推論】採用「看—走—畫—換位」建築閱讀：先說出可見形式，再模擬身體如何移動，畫出誰能進入與停留，最後從另一位使用者的角度修改判斷；成人不急著補答案。\n【原創模擬】用 Look–Walk–Draw–Switch 四步卡：每件案例只問一個可見問題、一個身體問題、一張關係草圖，再換一位使用者重讀。；選一張建築展場照片，與孩子各自畫入口、移動線與停留點；交換圖面後，以不同使用者身份各提出一項修改。\n查證日期：2026-11-21"
+  },
+  {
+    "id": "daily-2026-11-21-life",
+    "date": "2026-11-21",
+    "category": "人生策展課題",
+    "lens": "場所記憶策展｜辨認已消失空間如何繼續組織感受與創作",
+    "source": {
+      "name": "Barbican Centre",
+      "title": "Haruki Murakami’s Jazz at Peter Cat: a Japanese Jazz Night",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/haruki-murakamis-jazz-at-peter-cat",
+      "accessedAt": "2026-11-21",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當一間已消失的爵士酒吧被重新策展，你如何辨認哪些人生場所仍在塑造自己？",
+    "summary": "建立「場所餘韻檔案」：不重建完整原貌，而是整理聲音、物件、人物、習慣與後來的創作選擇，辨認一個離開已久的地方如何仍在安排你的節奏與想像。",
+    "questions": [
+      "哪一個已離開或消失的場所仍會在記憶中反覆出現？",
+      "你記得的是空間本身，還是聲音、氣味、光線與人？",
+      "那個場所曾建立哪些每天重複的習慣？",
+      "哪些物件能證明記憶，哪些只是後來的想像？",
+      "離開之後，你的工作節奏或創作語言留下什麼痕跡？",
+      "若重新策展此地，哪些內容必須承認無法復原？",
+      "誰的記憶與你的版本不同？",
+      "紀念一個人或場所時，如何避免把失落變成消費性懷舊？",
+      "哪些精神可由後來的人延續，而不冒充原本經驗？",
+      "今天可以用哪一個小行動讓場所餘韻轉成新的生活選擇？"
+    ],
+    "strategy": "製作 Place Afterimage Archive，五欄記錄「感官線索、日常動作、關係人物、創作影響、不可復原之處」，最後選一項轉成今日可實踐的節奏。",
+    "task": "選一個對你重要但已離開的場所，找出三張照片或三件物證，搭配一段聲音記憶；寫下它仍影響你的一個工作習慣與一項需要放下的想像。",
+    "training": "15 分鐘畫記憶平面；15 分鐘列聲音與物件；20 分鐘區分證據和想像；15 分鐘訪問另一位見證者或找資料；15 分鐘追創作影響；最後 10 分鐘寫今日行動。",
+    "coreHypothesis": "若把場所記憶拆成可查證物證、感官餘韻與後來影響，人能在不復刻過去的前提下理解自身創作來源。",
+    "underlyingNeed": "讓失去的場所成為可被感謝、修正與延續的生命資源，而不是只能反覆返回的懷舊場景。",
+    "realConstraints": "Peter Cat 原店已不復存在，重現依賴音樂、物件與文學脈絡；村上春樹不會親自出席，且 Yoshio Suzuki 於 2026 年 9 月逝世，演出由其樂團成員延續。",
+    "leverage": "Place Afterimage Archive 可用於離鄉記憶、工作室搬遷、城市書寫、故居展覽、人生轉職與哀悼策展。",
+    "sourceFact": "Barbican 官方頁列出 Haruki Murakami’s Jazz at Peter Cat 於 2026 年 11 月 21–22 日舉行，沉浸式重構村上春樹 1974–1981 年經營的東京爵士酒吧 Peter Cat；活動以日本爵士樂團演出重新連結音樂與其文學世界。官方同時公告貝斯手 Yoshio Suzuki 於 2026 年 9 月 23 日逝世，THE BLEND 其餘四名成員依其託付繼續演出。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦 Barbican Hall",
+      "title": "Haruki Murakami’s Jazz at Peter Cat: a Japanese Jazz Night",
+      "statusAsOf": "2026-11-21",
+      "latestUpdate": "2026 年 11 月 21 日有 17:00 與 20:30 兩場演出；村上春樹本人不出席但授權活動進行，THE BLEND 由四名成員續演。",
+      "references": [
+        "https://www.barbican.org.uk/whats-on/2026/event/haruki-murakamis-jazz-at-peter-cat",
+        "https://www.barbican.org.uk/our-story/press-room/efg-london-jazz-festival-2026-second-wave-of-artists-announced-including-a"
+      ],
+      "photos": [
+        {
+          "url": "https://www.barbican.org.uk/sites/default/files/styles/large/public/images/2026-06/Credit%20Philip%20Arneill%20TJJ%20Samurai%20Small%20Cats.png.avif?itok=Zm72IdXS",
+          "caption": "日本爵士酒吧場景：薩克斯風演奏者與爵士、貓主題物件，為 Barbican 活動官方影像。",
+          "credit": "Photo by Philip Arneill, from Tokyo Jazz Joints",
+          "sourceUrl": "https://www.barbican.org.uk/whats-on/2026/event/haruki-murakamis-jazz-at-peter-cat",
+          "verifiedAt": "2026-11-21"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Barbican 官方頁列出 Haruki Murakami’s Jazz at Peter Cat 於 2026 年 11 月 21–22 日舉行，沉浸式重構村上春樹 1974–1981 年經營的東京爵士酒吧 Peter Cat；活動以日本爵士樂團演出重新連結音樂與其文學世界。官方同時公告貝斯手 Yoshio Suzuki 於 2026 年 9 月 23 日逝世，THE BLEND 其餘四名成員依其託付繼續演出。\n【策展推論】建立「場所餘韻檔案」：不重建完整原貌，而是整理聲音、物件、人物、習慣與後來的創作選擇，辨認一個離開已久的地方如何仍在安排你的節奏與想像。\n【原創模擬】製作 Place Afterimage Archive，五欄記錄「感官線索、日常動作、關係人物、創作影響、不可復原之處」，最後選一項轉成今日可實踐的節奏。；選一個對你重要但已離開的場所，找出三張照片或三件物證，搭配一段聲音記憶；寫下它仍影響你的一個工作習慣與一項需要放下的想像。\n查證日期：2026-11-21"
+  },
+  {
+    "id": "daily-2026-11-21-participation",
+    "date": "2026-11-21",
+    "category": "國際民眾參與實作",
+    "lens": "低門檻參與｜把停留、選擇與回饋設計成完整參與循環",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "Open Studio",
+      "url": "https://www.nga.gov/calendar/open-studio?evd=202611211500",
+      "accessedAt": "2026-11-21",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "一個不需報名、全年齡可加入的創作桌，如何把偶然停留轉成真正參與？",
+    "summary": "以「停留—選擇—製作—分享—再進入」五步設計開放工作室；低門檻不等於沒有結構，參與者仍需知道能做什麼、可選哪些材料、作品如何帶走或留下，以及回饋是否改變下一次活動。",
+    "questions": [
+      "路過者在十秒內能否理解如何加入？",
+      "不需報名是否真的消除費用、語言、身體與時間門檻？",
+      "活動是否提供不同能力與年齡可操作的材料選項？",
+      "兒童與成人的決定權如何分配？",
+      "參與者可以只觀看、暫停或隨時離開嗎？",
+      "作品要帶走、贈送、展示還是回收，由誰決定？",
+      "桌面配置是否讓陌生人自然看見彼此而不被迫社交？",
+      "教育者如何協助而不接管製作？",
+      "哪些觀察能證明活動帶來連結，而非只增加人次？",
+      "下一次專案如何根據參與者回饋改變？"
+    ],
+    "strategy": "建立 Open Studio Participation Loop：入口用一張圖示說明，提供三種難度與多感官材料，離場時讓參與者選擇帶走、分享或留下回饋。",
+    "task": "設計一個 20 分鐘、無需預約的開放創作桌；畫出入口指引、三種材料選項、退出方式與作品去向，邀請兩位不同年齡者測試。",
+    "training": "10 分鐘觀察入口；15 分鐘寫最短指引；20 分鐘設三種材料路徑；15 分鐘做無障礙檢查；15 分鐘模擬教育者介入；最後 15 分鐘記錄測試與改版。",
+    "coreHypothesis": "若開放工作室同時提供清楚指引、選擇權與作品去向，偶然停留者更可能完成一段有自主性的參與經驗。",
+    "underlyingNeed": "讓博物館中的創作不只服務已熟悉課程的人，而能成為任何訪客可進入的休息、表達與連結空間。",
+    "realConstraints": "活動位於館內且需配合開館動線；兒童須成人陪同；無需報名會帶來人流、材料補給與教育者負荷的不確定性。",
+    "leverage": "Open Studio Participation Loop 可用於美術館大廳、公共藝術現場、圖書館、校園與社區活動。",
+    "sourceFact": "National Gallery of Art 官方頁列出 Open Studio 於 2026 年 11 月 21 日 10:00–17:00 在 East Building 地面層中庭舉行，無需報名，標示適合兒童、青少年與成人，並說明活動為全年齡與不同能力設計；兒童須由成人陪同。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區 National Gallery of Art East Building",
+      "title": "Open Studio",
+      "statusAsOf": "2026-11-21",
+      "latestUpdate": "2026 年 11 月 21 日 10:00–17:00 開放，無需報名，現場提供藝術製作活動。",
+      "references": [
+        "https://www.nga.gov/calendar/open-studio?evd=202611211500",
+        "https://www.nga.gov/calendar"
+      ],
+      "photos": [
+        {
+          "url": "https://www.nga.gov/sites/default/files/styles/opengraph__focal_point_scale_and_crop/public/2026-10/plep-24573-030.jpg?h=9855f42d&itok=DnrXsjQO",
+          "caption": "訪客在 National Gallery of Art East Building 參與 Open Studio 藝術製作。",
+          "credit": "National Gallery of Art；攝影者未標示",
+          "sourceUrl": "https://www.nga.gov/calendar/open-studio?evd=202611211500",
+          "verifiedAt": "2026-11-21"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 官方頁列出 Open Studio 於 2026 年 11 月 21 日 10:00–17:00 在 East Building 地面層中庭舉行，無需報名，標示適合兒童、青少年與成人，並說明活動為全年齡與不同能力設計；兒童須由成人陪同。\n【策展推論】以「停留—選擇—製作—分享—再進入」五步設計開放工作室；低門檻不等於沒有結構，參與者仍需知道能做什麼、可選哪些材料、作品如何帶走或留下，以及回饋是否改變下一次活動。\n【原創模擬】建立 Open Studio Participation Loop：入口用一張圖示說明，提供三種難度與多感官材料，離場時讓參與者選擇帶走、分享或留下回饋。；設計一個 20 分鐘、無需預約的開放創作桌；畫出入口指引、三種材料選項、退出方式與作品去向，邀請兩位不同年齡者測試。\n查證日期：2026-11-21"
+  },
+  {
+    "id": "daily-2026-11-21-thinking",
+    "date": "2026-11-21",
+    "category": "策展思考訓練",
+    "lens": "東方主義證據矩陣｜拆解史實、幻想、流通與觀看位置",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Orientalism: Between Fact and Fantasy",
+      "url": "https://www.metmuseum.org/exhibitions/orientalism-between-fact-and-fantasy",
+      "accessedAt": "2026-11-21",
+      "sourceType": "英文官方展覽與活動頁"
+    },
+    "title": "面對「東方」圖像，策展如何同時辨認史實、幻想與觀看權力？",
+    "summary": "使用「圖像主張四證據」：作品看見了什麼、想像了什麼、從何種物件與文本取材、由誰展示與命名；不把東方主義只判成真假，而是追蹤幻想如何透過市場、博覽會與博物館取得權威。",
+    "questions": [
+      "作品聲稱描繪哪個地區、族群與年代？",
+      "藝術家是否親歷現場，或依賴照片、物件、旅行文學與傳聞？",
+      "畫面中哪些細節可由歷史資料支持？",
+      "哪些構圖服務異國情調、慾望、恐懼或帝國秩序？",
+      "伊斯蘭藝術品如何進入歐洲商人、收藏家與博物館？",
+      "作品標題與分類由誰命名，原語言是否被保留？",
+      "被描繪者在作品與展覽中能否回應？",
+      "同時期中東藝術家如何再現自己與歐洲？",
+      "策展是否把複雜地區重新壓成單一『東方』？",
+      "觀眾離場時能否指出自己的觀看位置與證據限制？"
+    ],
+    "strategy": "建立 Orientalism Evidence Matrix，四欄分別記錄「可查史實、視覺幻想、物件流通、展示權力」，再以不同顏色標示來源方與被描繪方的聲音。",
+    "task": "挑一件 19 世紀東方主義作品，找出三項可查證細節與三項想像性安排；為其新增一段 120 字標籤，清楚標示資料來源與觀看位置。",
+    "training": "20 分鐘只看畫面；20 分鐘查藝術家行旅與資料來源；15 分鐘追藏品流通；15 分鐘找被描繪地區的同時代聲音；10 分鐘標示未知；最後 10 分鐘寫雙視角標籤。",
+    "coreHypothesis": "若策展把史實、幻想、物件流通與命名權分開呈現，觀眾能超越真假二分，辨識圖像如何生產權力。",
+    "underlyingNeed": "讓歷史圖像既能被研究，也能被受其分類影響的文化重新閱讀與質疑。",
+    "realConstraints": "展覽跨度從 1798 年拿破崙征服埃及延伸至 Osman Hamdi Bey；大量作品來源與被描繪者聲音不對稱，短篇標籤難以容納完整歷史。",
+    "leverage": "Orientalism Evidence Matrix 可複用於殖民攝影、民族誌展示、世界博覽會、旅遊影像與 AI 生成文化圖像。",
+    "sourceFact": "The Met 官方頁指出《Orientalism: Between Fact and Fantasy》是該館首次以東方主義為核心的展覽，從 1798 年拿破崙征服埃及談到 Osman Hamdi Bey，追蹤伊斯蘭藝術品如何進入歐洲商人、收藏家、國際博覽會與博物館；2026 年 11 月 21 日 13:00 並舉行學者講座，討論 19 世紀歐美與中東對『東方』的再現。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Fifth Avenue",
+      "title": "Orientalism: Between Fact and Fantasy",
+      "statusAsOf": "2026-11-21",
+      "latestUpdate": "展覽於 2026 年 11 月 21 日持續展出，當日 13:00 舉行 A Closer Look 公開講座，展期至 2027 年 2 月 28 日。",
+      "references": [
+        "https://www.metmuseum.org/exhibitions/orientalism-between-fact-and-fantasy",
+        "https://www.metmuseum.org/events/calendar"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.sanity.io/images/cctd4ker/production/1421654e887b123f803467dc6f4f82ff77a915dd-5120x2880.jpg?w=600&q=75&auto=format",
+          "caption": "The Met《Orientalism: Between Fact and Fantasy》官方展覽主視覺。",
+          "credit": "The Metropolitan Museum of Art；攝影者未標示",
+          "sourceUrl": "https://www.metmuseum.org/exhibitions/orientalism-between-fact-and-fantasy",
+          "verifiedAt": "2026-11-21"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 官方頁指出《Orientalism: Between Fact and Fantasy》是該館首次以東方主義為核心的展覽，從 1798 年拿破崙征服埃及談到 Osman Hamdi Bey，追蹤伊斯蘭藝術品如何進入歐洲商人、收藏家、國際博覽會與博物館；2026 年 11 月 21 日 13:00 並舉行學者講座，討論 19 世紀歐美與中東對『東方』的再現。\n【策展推論】使用「圖像主張四證據」：作品看見了什麼、想像了什麼、從何種物件與文本取材、由誰展示與命名；不把東方主義只判成真假，而是追蹤幻想如何透過市場、博覽會與博物館取得權威。\n【原創模擬】建立 Orientalism Evidence Matrix，四欄分別記錄「可查史實、視覺幻想、物件流通、展示權力」，再以不同顏色標示來源方與被描繪方的聲音。；挑一件 19 世紀東方主義作品，找出三項可查證細節與三項想像性安排；為其新增一段 120 字標籤，清楚標示資料來源與觀看位置。\n查證日期：2026-11-21"
   }
 ]
