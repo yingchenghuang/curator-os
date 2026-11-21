@@ -246,5 +246,254 @@
       ],
       "reading": "船班決定作品之間可用的時間。照片呈現宇野站這個陸上入口，跨島分析需另對照實際港口與航路。"
     }
+  },
+  {
+    "svg": "duisburg-nord",
+    "kind": "工業再生",
+    "t": "杜伊斯堡北部景觀公園",
+    "sub": "杜伊斯堡，德國",
+    "data": "原邁德里希煉鐵廠的高爐、料倉與運輸設施留在公園內。",
+    "move": "把原生產設施轉成辨認場域歷史與步行方向的線索。",
+    "take": "在底圖上並畫原料流和人流，找出兩者可交會的位置。",
+    "beats": [
+      "街道進場",
+      "辨認高爐",
+      "循工業路徑行走",
+      "停在構造節點",
+      "回望廠區"
+    ],
+    "link": "https://www.landschaftspark.de/en/industrial-heritage-circuit/denkmal-huttenwerk/",
+    "src": "Landschaftspark Duisburg-Nord",
+    "date": "2026-11-22",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Landschaftspark_Duisburg-Nord.jpg",
+    "alt": "煉鐵設施與原廠區",
+    "credit": "TomAlt｜CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Landschaftspark_Duisburg-Nord.jpg",
+    "system": {
+      "form": [
+        "高爐",
+        "料倉",
+        "運輸設施"
+      ],
+      "route": [
+        "入口",
+        "廠區步道",
+        "構造節點"
+      ],
+      "perception": [
+        "近看接頭",
+        "仰望高爐",
+        "辨認天際線"
+      ],
+      "reading": "保留生產關係，觀眾才有機會理解不同設備如何配合。轉用到小型廠房時，可保留一段完整工序並用視線串起，開放動線仍需依設施狀態調整。"
+    }
+  },
+  {
+    "svg": "va-dundee",
+    "kind": "展示設計",
+    "t": "V&A Dundee 蘇格蘭設計展廳",
+    "sub": "鄧迪，英國",
+    "data": "蘇格蘭設計展廳並置建築、時裝和其他設計領域的展品。",
+    "move": "用不同尺度的展品建立比較，讓觀眾在物件與設計情境間切換。",
+    "take": "挑一個大型空間物件與兩件小型作品，測試兩種觀看距離。",
+    "beats": [
+      "進入館內",
+      "找展廳入口",
+      "看見大型展項",
+      "靠近小件",
+      "對照展籤"
+    ],
+    "link": "https://www.vam.ac.uk/dundee/whatson/exhibitions/scottish-design-galleries",
+    "src": "V&A Dundee",
+    "date": "2026-11-22",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Interior_of_the_Victoria_and_Albert_Museum%2C_Dundee_%281%29.jpg/960px-Interior_of_the_Victoria_and_Albert_Museum%2C_Dundee_%281%29.jpg",
+    "alt": "V&A Dundee 館內實景",
+    "credit": "Lucas Kendall｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Victoria_and_Albert_Museum%2C_Dundee_%281%29.jpg",
+    "system": {
+      "form": [
+        "公共館內空間",
+        "展廳",
+        "不同尺度展項"
+      ],
+      "route": [
+        "定位",
+        "進入",
+        "在展項間比較"
+      ],
+      "perception": [
+        "遠看輪廓",
+        "近讀細節",
+        "回看關聯"
+      ],
+      "reading": "大型展項能作為定向點，小物件則需要近距離閱讀。照片供館內尺度對照，展品位置會隨展示調整。提案時把遠看點和近讀區分開配置。"
+    }
+  },
+  {
+    "svg": "reichstag-dome",
+    "kind": "歷史建築",
+    "t": "柏林國會大廈的可步行穹頂",
+    "sub": "柏林，德國",
+    "data": "國會大廈的玻璃穹頂設有兩道螺旋坡道，中央反射錐將光導向議場。",
+    "move": "把歷史建築屋頂變成可步行的公共觀景空間。",
+    "take": "並畫參觀者動線與工作動線，找出視覺交會而管理可分離的位置。",
+    "beats": [
+      "登上屋頂",
+      "進入穹頂",
+      "沿坡道上升",
+      "眺望城市",
+      "循另一坡道返回"
+    ],
+    "link": "https://webarchiv.bundestag.de/archive/2009/0109/interakt/infomat/fremdsprachiges_material/downloads/reichstaggebEn_download.pdf",
+    "src": "德國聯邦議會",
+    "date": "2026-11-22",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Reichstag_dome%2C_Berlin%2C_Germany.jpg",
+    "alt": "穹頂中央反射錐與環繞坡道",
+    "credit": "NAPARAZZI｜CC BY-SA 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Reichstag_dome%2C_Berlin%2C_Germany.jpg",
+    "system": {
+      "form": [
+        "歷史建築",
+        "屋頂平台",
+        "玻璃穹頂"
+      ],
+      "route": [
+        "平台",
+        "上行坡道",
+        "頂端",
+        "下行坡道"
+      ],
+      "perception": [
+        "城市遠景",
+        "環形視線",
+        "反射錐導光"
+      ],
+      "reading": "上行與下行分離，能減少回頭交會，並讓移動本身產生觀景序列。轉用到展館時，先測坡道長度、休息點和替代動線。"
+    }
+  },
+  {
+    "svg": "jmb-underground-axes",
+    "kind": "地下光庭",
+    "t": "柏林猶太博物館地下三軸",
+    "sub": "柏林，德國",
+    "data": "李柏斯金館的地下三軸把延續、流亡與大屠殺置於不同路徑，分別導向樓梯、流亡花園與大屠殺塔。",
+    "move": "用三種不同的終點組織歷史敘事，讓方向選擇成為觀展的一部分。",
+    "take": "畫一個交叉點與三個不同結局，測試觀眾能否理解分支而保有回返選擇。",
+    "beats": [
+      "由入口下行",
+      "抵達三軸交點",
+      "選擇分支",
+      "抵達終點",
+      "再定向"
+    ],
+    "link": "https://www.jmberlin.de/en/exhibition-in-the-axes",
+    "src": "Jewish Museum Berlin",
+    "date": "2026-11-22",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JewishMuseumBerlinTunnels.jpg",
+    "alt": "李柏斯金館地下軸線交會處",
+    "credit": "Studio Daniel Libeskind｜CC BY 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:JewishMuseumBerlinTunnels.jpg",
+    "system": {
+      "form": [
+        "地下交點",
+        "三條展覽軸線",
+        "各自終點"
+      ],
+      "route": [
+        "下行",
+        "交叉口",
+        "分支",
+        "回返或上樓"
+      ],
+      "perception": [
+        "走廊視線",
+        "局部照明",
+        "終點光差"
+      ],
+      "reading": "分支透過長度、方向和終點條件交代不同歷史經驗。轉用的是敘事結構，須依自身議題決定感官強度，並提供清楚的退出指引。"
+    }
+  },
+  {
+    "svg": "menil-main",
+    "kind": "光線與典藏",
+    "t": "梅尼爾收藏館的日光屋頂",
+    "sub": "休士頓，美國",
+    "data": "倫佐・皮亞諾設計的主館以屋頂採光及葉片狀遮光構件控制進入展廳的日光。",
+    "move": "將調光層與作品面分開，使自然光參與展覽而仍可依畫作需求調節。",
+    "take": "比較兩個季節與時段的作品面照度，並記錄站位眩光。",
+    "beats": [
+      "從街區抵達",
+      "沿外廊接近",
+      "進入主館",
+      "在展品前停留",
+      "回到戶外光"
+    ],
+    "link": "https://www.menil.org/read-watch/renzo-piano-and-light",
+    "src": "The Menil Collection",
+    "date": "2026-11-22",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/63/MenilCollection.JPG",
+    "alt": "梅尼爾收藏館主館外觀",
+    "credit": "WhisperToMe｜公眾領域",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:MenilCollection.JPG",
+    "system": {
+      "form": [
+        "低層主館",
+        "屋頂採光層",
+        "展廳"
+      ],
+      "route": [
+        "街區",
+        "外廊",
+        "展廳",
+        "作品站位"
+      ],
+      "perception": [
+        "日光",
+        "遮光葉片",
+        "館內漫射"
+      ],
+      "reading": "將日光逐層處理，能降低直射與眩光。外觀照片呈現館體尺度，採光機制依館方資料。做展場原型時，應量測各材料在不同時段的受光。"
+    }
+  },
+  {
+    "svg": "munster-on-water",
+    "kind": "地方藝術祭",
+    "t": "明斯特雕塑計畫《On Water》",
+    "sub": "明斯特，德國",
+    "data": "2017 年 Ayşe Erkmen 在內港設置水面下的步行平台，暫時連接兩岸。",
+    "move": "使平時繞行的港口變成可直接穿越的公共場域。",
+    "take": "先畫既有繞行與臨時穿越的時間差，再標示岸邊等候與替代路線。",
+    "beats": [
+      "抵達港岸",
+      "辨認入口",
+      "跨越水面",
+      "登上對岸",
+      "回望原岸"
+    ],
+    "link": "https://www.skulptur-projekte-archiv.de/en-us/2017/projects/182/",
+    "src": "Skulptur Projekte Archiv",
+    "date": "2026-11-22",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ay%C5%9Fe_Erkmen%2C_On_Water_%2836538220684%29.jpg",
+    "alt": "2017 年內港《On Water》實景",
+    "credit": "Heinz Bunse｜CC BY-SA 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ay%C5%9Fe_Erkmen%2C_On_Water_%2836538220684%29.jpg",
+    "system": {
+      "form": [
+        "兩岸",
+        "水中步道",
+        "港口水面"
+      ],
+      "route": [
+        "岸邊",
+        "踏入水線",
+        "對岸"
+      ],
+      "perception": [
+        "隔水相望",
+        "貼近水面",
+        "回看出發點"
+      ],
+      "reading": "跨越把兩岸的視覺距離轉成步行經驗，顯示交通安排如何形塑公共性。可轉用到臨時展線，實作須另確認通行條件、替代路徑和營運限制。"
+    }
   }
 ]
