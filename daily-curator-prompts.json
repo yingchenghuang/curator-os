@@ -29486,5 +29486,289 @@
       ]
     },
     "rawText": "【來源事實】The Met 官方頁指出《Orientalism: Between Fact and Fantasy》是該館首次以東方主義為核心的展覽，從 1798 年拿破崙征服埃及談到 Osman Hamdi Bey，追蹤伊斯蘭藝術品如何進入歐洲商人、收藏家、國際博覽會與博物館；2026 年 11 月 21 日 13:00 並舉行學者講座，討論 19 世紀歐美與中東對『東方』的再現。\n【策展推論】使用「圖像主張四證據」：作品看見了什麼、想像了什麼、從何種物件與文本取材、由誰展示與命名；不把東方主義只判成真假，而是追蹤幻想如何透過市場、博覽會與博物館取得權威。\n【原創模擬】建立 Orientalism Evidence Matrix，四欄分別記錄「可查史實、視覺幻想、物件流通、展示權力」，再以不同顏色標示來源方與被描繪方的聲音。；挑一件 19 世紀東方主義作品，找出三項可查證細節與三項想像性安排；為其新增一段 120 字標籤，清楚標示資料來源與觀看位置。\n查證日期：2026-11-21"
+  },
+  {
+    "id": "daily-2026-11-22-curator",
+    "date": "2026-11-22",
+    "category": "專業策展人課題",
+    "lens": "觀眾獎治理矩陣｜區分參與、代表性與評審責任",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "Two Visitors’ Lions have been established for the Biennale Arte 2026",
+      "url": "https://www.labiennale.org/en/news/two-visitors%E2%80%99-lions-have-been-established-biennale-arte-2026",
+      "accessedAt": "2026-11-22",
+      "sourceType": "英文官方新聞與投票規則"
+    },
+    "title": "當國際評審辭任、觀眾接手獎項，策展如何把參與轉成可問責的判斷制度？",
+    "summary": "把觀眾投票拆成資格、接觸範圍、資訊條件、匿名性、少數意見與結果解釋；不把票數直接等同專業共識，而把它視為一種有邊界的公共判斷。",
+    "questions": [
+      "誰有投票資格，誰因此被排除？",
+      "要求走完兩個展區會提高理解還是形成體力與時間門檻？",
+      "一票制如何處理作品尺度與國家資源差異？",
+      "投票者在選擇前取得哪些作品與脈絡資訊？",
+      "匿名能降低壓力，是否也削弱理由公開？",
+      "如何防止人氣、國族動員或社群聲量主導？",
+      "評審辭任的制度原因應如何向觀眾說明？",
+      "觀眾獎與策展論述衝突時，誰解釋差異？",
+      "未獲多數支持的少數意見如何被保存？",
+      "結果公布後，機構要留下哪些可供審查的資料？"
+    ],
+    "strategy": "建立 Audience Award Accountability Matrix，逐欄檢查資格、接觸證據、資訊公平、投票完整性、少數意見與公布後說明。",
+    "task": "為一個現有展覽設計一頁觀眾獎規則草案，列出五項可能偏差、兩項緩解機制，以及結果不能代表的三件事。",
+    "training": "15 分鐘畫利害關係人；15 分鐘拆投票旅程；20 分鐘列偏差；20 分鐘設計少數意見保存；10 分鐘寫結果聲明；最後 10 分鐘由反方審核。",
+    "coreHypothesis": "若觀眾投票同時公開資格、資料限制與偏差控制，它能增加參與而不冒充無條件的專業裁決。",
+    "underlyingNeed": "在制度中保留公共聲音，同時讓獎項的權力來源、限制與解釋責任可被追問。",
+    "realConstraints": "必須持票並造訪 Giardini 與 Arsenale 才能投票；每位票持有人各獎僅一票且一次完成，仍存在時間、行動、語言與資訊差異。",
+    "leverage": "Audience Award Accountability Matrix 可複用於公民票選、公共藝術評選、社區提案與會員獎。",
+    "sourceFact": "La Biennale 官方指出，因第 61 屆國際藝術展國際評審辭任及特殊地緣政治情勢，設置最佳參展藝術家與最佳國家館兩項 Visitors’ Lions；投票者須在 2026 年 5 月 9 日至 11 月 22 日間持票造訪 Giardini 與 Arsenale，系統核驗後匿名投票，每人每獎一票，結果於展覽結束時公布。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利",
+      "location": "威尼斯 Giardini 與 Arsenale",
+      "title": "Biennale Arte 2026 Visitors’ Lions",
+      "statusAsOf": "2026-11-22",
+      "latestUpdate": "投票於 2026 年 11 月 22 日隨第 61 屆國際藝術展閉幕結束，結果安排於展覽結束時公布。",
+      "references": [
+        "https://www.labiennale.org/en/news/two-visitors%E2%80%99-lions-have-been-established-biennale-arte-2026",
+        "https://www.labiennale.org/en/news/voting-procedures-visitors%E2%80%99-lions"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/labiennale/2026/750x500/pubblico-giardini-.jpg?itok=0VYfI-md",
+          "caption": "Biennale Arte 2026 觀眾於 Giardini 場域參觀的官方新聞主圖。",
+          "credit": "La Biennale di Venezia；攝影者未標示",
+          "sourceUrl": "https://www.labiennale.org/en/news/two-visitors%E2%80%99-lions-have-been-established-biennale-arte-2026",
+          "verifiedAt": "2026-11-22"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale 官方指出，因第 61 屆國際藝術展國際評審辭任及特殊地緣政治情勢，設置最佳參展藝術家與最佳國家館兩項 Visitors’ Lions；投票者須在 2026 年 5 月 9 日至 11 月 22 日間持票造訪 Giardini 與 Arsenale，系統核驗後匿名投票，每人每獎一票，結果於展覽結束時公布。\n【策展推論】把觀眾投票拆成資格、接觸範圍、資訊條件、匿名性、少數意見與結果解釋；不把票數直接等同專業共識，而把它視為一種有邊界的公共判斷。\n【原創模擬】建立 Audience Award Accountability Matrix，逐欄檢查資格、接觸證據、資訊公平、投票完整性、少數意見與公布後說明。；為一個現有展覽設計一頁觀眾獎規則草案，列出五項可能偏差、兩項緩解機制，以及結果不能代表的三件事。\n查證日期：2026-11-22"
+  },
+  {
+    "id": "daily-2026-11-22-family",
+    "date": "2026-11-22",
+    "category": "親子觀展訓練",
+    "lens": "神經多樣性共同製作｜讓支持需求進入觀展設計",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Accessibility Programs and Resources – Discoveries",
+      "url": "https://www.metmuseum.org/visit-guides/accessibility/programs-and-resources",
+      "accessedAt": "2026-11-22",
+      "sourceType": "英文官方無障礙活動頁"
+    },
+    "title": "親子工作坊如何讓 5–13 歲神經多樣性孩子主導觀看與製作，而不是只被成人照顧？",
+    "summary": "把支持需求轉成可選的節奏、感官、溝通與製作路徑；成人角色從替孩子回答改為提供安全、等待與選擇。",
+    "questions": [
+      "孩子可用語言、手勢、指認或材料中的哪些方式回應？",
+      "現場是否有安靜、低刺激或暫離選項？",
+      "活動步驟能否被看見與預測？",
+      "成人何時應等待，不替孩子完成？",
+      "作品討論可否從感官偏好而非知識答案開始？",
+      "材料是否有不同觸感、阻力與操作難度？",
+      "同齡範圍 5–13 歲如何避免單一難度？",
+      "孩子能否拒絕某一活動仍被視為參與？",
+      "工作人員如何確認協助方式而不預設診斷？",
+      "離場後家長如何延續孩子選定的觀察方法？"
+    ],
+    "strategy": "使用 Choice-Based Family Path，把活動拆成看、感受、選、做、分享五站，每站至少提供兩種感官或溝通選項。",
+    "task": "挑一件作品，製作一張五站親子活動卡；每站加入『可以跳過』與『孩子先選』提示，找一組家庭試走 20 分鐘。",
+    "training": "15 分鐘做感官盤點；15 分鐘畫視覺流程；20 分鐘設雙路徑；15 分鐘測成人等待；15 分鐘記錄孩子選擇；最後 10 分鐘修正過度指令。",
+    "coreHypothesis": "若工作坊把選擇權、可預測性與多種溝通方式內建於流程，孩子更可能主導自己的觀看，而非被成人代答。",
+    "underlyingNeed": "讓有智能／發展障礙與自閉症的兒童在博物館中擁有真正的決定權與安全感。",
+    "realConstraints": "Discoveries 服務 5–13 歲廣泛需求，活動雖免費且不需門票，仍需在固定時段、館內刺激與家庭支持差異中運作。",
+    "leverage": "Choice-Based Family Path 可用於親子導覽、校園參訪、安靜時段與居家觀展活動。",
+    "sourceFact": "The Met 官方無障礙頁說明 Discoveries 歡迎具有智能／發展障礙及自閉症的兒童、青少年與成人；2026 年 11 月 22 日 11:00 的 5–13 歲《Radical Rendering》在 The Met Fifth Avenue 舉行，免費且不需博物館門票。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Met Fifth Avenue",
+      "title": "Discoveries (Ages 5–13)—Radical Rendering",
+      "statusAsOf": "2026-11-22",
+      "latestUpdate": "2026 年 11 月 22 日 11:00 舉行，對象 5–13 歲，免費且不需博物館門票。",
+      "references": [
+        "https://www.metmuseum.org/visit-guides/accessibility/programs-and-resources",
+        "https://www.metmuseum.org/events/calendar"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.sanity.io/images/cctd4ker/production/7273f97b33e85bc493dd2f7c5ff3a846d50adb93-5120x2880.jpg?w=600&q=75&auto=format",
+          "caption": "The Met Discoveries 參與者在工作桌上共同製作，官方無障礙活動頁主圖。",
+          "credit": "The Metropolitan Museum of Art；攝影者未標示",
+          "sourceUrl": "https://www.metmuseum.org/visit-guides/accessibility/programs-and-resources",
+          "verifiedAt": "2026-11-22"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 官方無障礙頁說明 Discoveries 歡迎具有智能／發展障礙及自閉症的兒童、青少年與成人；2026 年 11 月 22 日 11:00 的 5–13 歲《Radical Rendering》在 The Met Fifth Avenue 舉行，免費且不需博物館門票。\n【策展推論】把支持需求轉成可選的節奏、感官、溝通與製作路徑；成人角色從替孩子回答改為提供安全、等待與選擇。\n【原創模擬】使用 Choice-Based Family Path，把活動拆成看、感受、選、做、分享五站，每站至少提供兩種感官或溝通選項。；挑一件作品，製作一張五站親子活動卡；每站加入『可以跳過』與『孩子先選』提示，找一組家庭試走 20 分鐘。\n查證日期：2026-11-22"
+  },
+  {
+    "id": "daily-2026-11-22-life",
+    "date": "2026-11-22",
+    "category": "人生策展課題",
+    "lens": "人生書頁編排｜把片段並置成可修訂的敘事",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Creativity Lab: Art of the Book",
+      "url": "https://www.moma.org/calendar/exhibitions/5943",
+      "accessedAt": "2026-11-22",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當人生片段像書頁可重新排列，你如何編出當下版本，而不把自己鎖進唯一故事？",
+    "summary": "把記憶、物件、照片與未完成願望當成可移動書頁，透過並置、留白與重排形成暫時敘事；版本可以成立，但不必宣稱是最終真相。",
+    "questions": [
+      "哪三個人生片段總被你放在故事開頭？",
+      "哪些片段長期被藏在附錄？",
+      "若拿掉年代順序，哪些關係會浮現？",
+      "一件日常物如何替抽象價值提供證據？",
+      "哪些空白是遺忘，哪些是你選擇保留？",
+      "誰的聲音一直替你命名章節？",
+      "哪一頁需要加入他人的版本？",
+      "目前故事是否只保留成功與轉折？",
+      "哪個未完成願望可被當成下一頁而非缺陷？",
+      "六個月後你願意允許哪些頁面被重排？"
+    ],
+    "strategy": "製作 Editable Life Book：六頁分別放記憶、物件、他人聲音、矛盾、留白與下一頁，使用活頁或可移動卡片避免固定版本。",
+    "task": "用六張紙做一本可重排人生小書；每頁只放一個片段與一句證據，最後交換兩頁位置並寫下意義如何改變。",
+    "training": "15 分鐘收集片段；15 分鐘選六頁；20 分鐘編排；15 分鐘加入留白；15 分鐘重排兩次；最後 10 分鐘寫一段『目前版本』說明。",
+    "coreHypothesis": "若人生敘事被設計成可重排的版本，人能承認矛盾與未知，而不必靠單一線性故事維持一致。",
+    "underlyingNeed": "在保有方向感的同時，容許身份、記憶與未來持續修訂。",
+    "realConstraints": "個人材料常受記憶偏差、隱私、家族版本與情緒承受度限制；公開分享不應成為完成作品的必要條件。",
+    "leverage": "Editable Life Book 可複用於年度回顧、職涯轉換、家族記憶與哀傷整理。",
+    "sourceFact": "MoMA 官方頁指出《Creativity Lab: Art of the Book》展至 2027 年 3 月 14 日，把書視為藝術媒介與創作實踐；訪客可排列熟悉影像、符號與物件創造夢境世界，並參與隨到隨做的互動裝置、繪畫提示、書本製作與藝術家書籍資源庫。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 MoMA 二樓 Crown Creativity Lab",
+      "title": "Creativity Lab: Art of the Book",
+      "statusAsOf": "2026-11-22",
+      "latestUpdate": "展覽於 2026 年 11 月 22 日持續開放，展期至 2027 年 3 月 14 日。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5943",
+        "https://www.moma.org/calendar/groups/83"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDkvMTUvN2dtNWcwYzV3bF95dWNoZW5fZm9yX01vTUFfaW5fYV9kcmVhbV9jb3B5X01DLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4NjY3XiAtZ3Jhdml0eSBDZW50ZXIgLWNyb3AgMjAwMHg2NjcrMCswIl1d/yuchen-for-MoMA_in-a-dream-copy_MC.jpg?sha=7ae26c21345520ca",
+          "caption": "Chang Yuchen 為 MoMA《Creativity Lab: Art of the Book》合作裝置所提供的官方展覽圖像。",
+          "credit": "Image courtesy of Chang Yuchen",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5943",
+          "verifiedAt": "2026-11-22"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 官方頁指出《Creativity Lab: Art of the Book》展至 2027 年 3 月 14 日，把書視為藝術媒介與創作實踐；訪客可排列熟悉影像、符號與物件創造夢境世界，並參與隨到隨做的互動裝置、繪畫提示、書本製作與藝術家書籍資源庫。\n【策展推論】把記憶、物件、照片與未完成願望當成可移動書頁，透過並置、留白與重排形成暫時敘事；版本可以成立，但不必宣稱是最終真相。\n【原創模擬】製作 Editable Life Book：六頁分別放記憶、物件、他人聲音、矛盾、留白與下一頁，使用活頁或可移動卡片避免固定版本。；用六張紙做一本可重排人生小書；每頁只放一個片段與一句證據，最後交換兩頁位置並寫下意義如何改變。\n查證日期：2026-11-22"
+  },
+  {
+    "id": "daily-2026-11-22-participation",
+    "date": "2026-11-22",
+    "category": "國際民眾參與實作",
+    "lens": "停留—製作—回饋鏈｜把免報名創作轉成可見交流",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "Open Studio",
+      "url": "https://www.nga.gov/calendar/open-studio?evd=202611221500",
+      "accessedAt": "2026-11-22",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "一個免報名、全年齡的開放工作桌，如何讓自由創作累積成公共交流，而不只留下成品？",
+    "summary": "在不增加報名門檻的前提下，設計進場提示、材料選擇、作品交換、回應牆與退出選項，使偶然停留能留下可觀察的互惠關係。",
+    "questions": [
+      "路過者如何在三十秒內理解可加入？",
+      "桌面是否同時容納兒童、青少年、成人與不同能力者？",
+      "材料選擇會暗示哪些作品才算成功？",
+      "參與者可為自己或他人創作，如何說明贈與關係？",
+      "不想展示作品的人能否保有隱私？",
+      "如何避免成人主導兒童的製作？",
+      "工作人員何時協助、何時退後？",
+      "作品如何引發下一位參與者回應而非只被陳列？",
+      "哪些資料能證明連結，不只計算人次？",
+      "活動結束後，回應與材料如何回到機構學習？"
+    ],
+    "strategy": "建立 Drop-in Reciprocity Loop：看懂入口、自由製作、可選分享、他人回應、退出與機構回饋六個節點。",
+    "task": "用一張桌子和三種材料做 30 分鐘微型 Open Studio；至少測試一個匿名退出選項與一個作品回應機制。",
+    "training": "10 分鐘設入口；15 分鐘測材料；15 分鐘邀三類使用者；15 分鐘記錄互動；15 分鐘訪談退出者；10 分鐘調整；最後 10 分鐘寫觀察結論。",
+    "coreHypothesis": "若免報名活動加入可選分享與回應節點，自由創作能保留低門檻，同時形成可見但不強迫的公共互惠。",
+    "underlyingNeed": "讓不同年齡與能力的訪客擁有短時間、低風險且能影響他人的參與入口。",
+    "realConstraints": "活動在 East Building 中庭 10:00–17:00，全年齡與能力可參加、免報名；兒童須由成人陪同，現場流量與材料維護限制深度對話。",
+    "leverage": "Drop-in Reciprocity Loop 可複用於博物館中庭、圖書館、藝術節休息區與公共藝術駐點。",
+    "sourceFact": "National Gallery of Art 官方頁列出 Open Studio 於 2026 年 11 月 22 日 10:00–17:00 在 East Building 地面層中庭舉行，免報名，適合兒童、青少年、成人及各種能力的訪客；參與者可為自己或喜愛的人創作，兒童須由成人陪同。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓特區 National Gallery of Art East Building",
+      "title": "Open Studio",
+      "statusAsOf": "2026-11-22",
+      "latestUpdate": "2026 年 11 月 22 日 10:00–17:00 開放，免報名，官方標示全年齡與能力友善。",
+      "references": [
+        "https://www.nga.gov/calendar/open-studio?evd=202611221500"
+      ],
+      "photos": [
+        {
+          "url": "https://www.nga.gov/sites/default/files/styles/16x9__image_scale__xl/public/2026-10/plep-24573-030.jpg?itok=2rXv87kO",
+          "caption": "訪客在 National Gallery of Art East Building Open Studio 進行藝術創作。",
+          "credit": "National Gallery of Art；攝影者未標示",
+          "sourceUrl": "https://www.nga.gov/calendar/open-studio?evd=202611221500",
+          "verifiedAt": "2026-11-22"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 官方頁列出 Open Studio 於 2026 年 11 月 22 日 10:00–17:00 在 East Building 地面層中庭舉行，免報名，適合兒童、青少年、成人及各種能力的訪客；參與者可為自己或喜愛的人創作，兒童須由成人陪同。\n【策展推論】在不增加報名門檻的前提下，設計進場提示、材料選擇、作品交換、回應牆與退出選項，使偶然停留能留下可觀察的互惠關係。\n【原創模擬】建立 Drop-in Reciprocity Loop：看懂入口、自由製作、可選分享、他人回應、退出與機構回饋六個節點。；用一張桌子和三種材料做 30 分鐘微型 Open Studio；至少測試一個匿名退出選項與一個作品回應機制。\n查證日期：2026-11-22"
+  },
+  {
+    "id": "daily-2026-11-22-thinking",
+    "date": "2026-11-22",
+    "category": "策展思考訓練",
+    "lens": "跨媒介延伸測試｜辨認作品、展覽與現場事件的關係",
+    "source": {
+      "name": "La Biennale di Venezia",
+      "title": "LAURIE ANDERSON | In This World",
+      "url": "https://www.labiennale.org/en/agenda/laurie-anderson-world",
+      "accessedAt": "2026-11-22",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "當現場演出延伸既有裝置，策展如何判斷它是在重複、翻譯，還是改寫作品？",
+    "summary": "以內容、身體、時間、觀眾關係與不可重現性五軸比較裝置和演出；把『延伸』視為可驗證的媒介轉換，而非宣傳語。",
+    "questions": [
+      "裝置與演出共享哪些影像、文本或聲音？",
+      "哪些元素只在藝術家身體在場時成立？",
+      "九十分鐘的時間結構如何改變觀看？",
+      "演出是補充背景、重述內容，還是產生新命題？",
+      "觀眾由自由移動轉為集體聚焦後失去什麼？",
+      "錄影能保存哪些部分，不能保存哪些？",
+      "演出是否要求先看過裝置才能理解？",
+      "故事、音樂與投影之間誰主導意義？",
+      "一次性事件如何不讓未到場者被排除於展覽論述？",
+      "策展標籤應把兩者列為同一作品、版本還是相鄰事件？"
+    ],
+    "strategy": "建立 Cross-Media Extension Test，以共享素材、媒介新增、時間變化、觀眾位置與保存損失五欄逐一比較。",
+    "task": "選一件裝置，設計一個 12 分鐘現場版本；逐項標記保留、轉譯、新增與不可保存的內容。",
+    "training": "20 分鐘拆裝置元素；15 分鐘設計時間線；15 分鐘改寫觀眾位置；15 分鐘做保存測試；15 分鐘寫版本關係；最後 10 分鐘刪除只是重複的段落。",
+    "coreHypothesis": "若跨媒介策展能指出新增的身體、時間與觀眾關係，就能分辨真正的作品改寫與表面重複。",
+    "underlyingNeed": "讓不同媒介版本的作者性、觀眾經驗與保存邊界清楚可討論。",
+    "realConstraints": "演出僅於 2026 年 11 月 22 日 16:00–17:30 舉行，需持 Biennale Arte 2026 有效門票；一次性現場與長期裝置的可及性不同。",
+    "leverage": "Cross-Media Extension Test 可用於表演型導覽、聲音啟動、電影現場配樂與數位延伸。",
+    "sourceFact": "La Biennale 官方列出 Laurie Anderson《In This World》於 2026 年 11 月 22 日 16:00–17:30 在 Tese dei Soppalchi 演出，結合音樂、敘事與影像投影，作為 Arsenale 裝置《Notebook》與《All In Your Head》的表演性延伸。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "義大利",
+      "location": "威尼斯 Tese dei Soppalchi",
+      "title": "Laurie Anderson, In This World",
+      "statusAsOf": "2026-11-22",
+      "latestUpdate": "閉幕日 2026 年 11 月 22 日舉行九十分鐘單人演出，需持 Biennale Arte 2026 有效門票。",
+      "references": [
+        "https://www.labiennale.org/en/agenda/laurie-anderson-world",
+        "https://www.labiennale.org/en/art/2026/performances-lectures-discussions-and-roundtables"
+      ],
+      "photos": [
+        {
+          "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2026/600x600/performances-lectures-13-22-nov.jpg?itok=7alBE4Lj",
+          "caption": "Biennale Arte 2026 閉幕期公共節目官方主視覺，對應 Laurie Anderson《In This World》活動頁。",
+          "credit": "La Biennale di Venezia；攝影者未標示",
+          "sourceUrl": "https://www.labiennale.org/en/agenda/laurie-anderson-world",
+          "verifiedAt": "2026-11-22"
+        }
+      ]
+    },
+    "rawText": "【來源事實】La Biennale 官方列出 Laurie Anderson《In This World》於 2026 年 11 月 22 日 16:00–17:30 在 Tese dei Soppalchi 演出，結合音樂、敘事與影像投影，作為 Arsenale 裝置《Notebook》與《All In Your Head》的表演性延伸。\n【策展推論】以內容、身體、時間、觀眾關係與不可重現性五軸比較裝置和演出；把『延伸』視為可驗證的媒介轉換，而非宣傳語。\n【原創模擬】建立 Cross-Media Extension Test，以共享素材、媒介新增、時間變化、觀眾位置與保存損失五欄逐一比較。；選一件裝置，設計一個 12 分鐘現場版本；逐項標記保留、轉譯、新增與不可保存的內容。\n查證日期：2026-11-22"
   }
 ]
