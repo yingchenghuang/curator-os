@@ -29770,5 +29770,845 @@
       ]
     },
     "rawText": "【來源事實】La Biennale 官方列出 Laurie Anderson《In This World》於 2026 年 11 月 22 日 16:00–17:30 在 Tese dei Soppalchi 演出，結合音樂、敘事與影像投影，作為 Arsenale 裝置《Notebook》與《All In Your Head》的表演性延伸。\n【策展推論】以內容、身體、時間、觀眾關係與不可重現性五軸比較裝置和演出；把『延伸』視為可驗證的媒介轉換，而非宣傳語。\n【原創模擬】建立 Cross-Media Extension Test，以共享素材、媒介新增、時間變化、觀眾位置與保存損失五欄逐一比較。；選一件裝置，設計一個 12 分鐘現場版本；逐項標記保留、轉譯、新增與不可保存的內容。\n查證日期：2026-11-22"
+  },
+  {
+    "id": "daily-2026-11-23-curator",
+    "date": "2026-11-23",
+    "category": "專業策展人課題",
+    "lens": "資料視覺化的信任邊界",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Full Disclosure: The Edge of Information Design",
+      "url": "https://www.moma.org/calendar/exhibitions/5926",
+      "accessedAt": "2026-11-23",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當資料必須經過設計才成為故事，策展人如何揭露圖表選擇、遺漏與權力？",
+    "summary": "用「資料—轉譯—決策」三層稽核每一個視覺化主張，讓觀眾看見來源、轉換規則、未呈現項目與不確定性。",
+    "questions": [
+      "關於「資訊透明」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰的經驗被放在中心，誰仍在邊緣？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪個展示選擇最可能改變理解？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "如何保存不同意或拒絕參與的權利？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「資料視覺化的信任邊界」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「資訊透明」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「資訊透明」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「資訊透明」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「資料視覺化的信任邊界」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出資料不是知識，必須經設計轉譯；展覽聚焦資訊設計如何使隱形系統、權力結構、歷史與人類經驗可見，展至 2027 年 6 月 13 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Full Disclosure: The Edge of Information Design",
+      "statusAsOf": "2026-11-23",
+      "latestUpdate": "截至 2026-11-23，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5926"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDcvMjQvM3dpY2UyMG55N19DRV9Dcm9wX01PTUFfQklHLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ/CE-Crop-MOMA-BIG.jpg?sha=5a7ba957650a28d6",
+          "caption": "MoMA《Full Disclosure》官方展覽主圖。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5926",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出資料不是知識，必須經設計轉譯；展覽聚焦資訊設計如何使隱形系統、權力結構、歷史與人類經驗可見，展至 2027 年 6 月 13 日。\n【策展推論】用「資料—轉譯—決策」三層稽核每一個視覺化主張，讓觀眾看見來源、轉換規則、未呈現項目與不確定性。\n【原創模擬】建立「資料視覺化的信任邊界」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「資訊透明」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-23"
+  },
+  {
+    "id": "daily-2026-11-23-family",
+    "date": "2026-11-23",
+    "category": "親子觀展訓練",
+    "lens": "動畫間格觀察法",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "It’s Alive! A Century of Animation from the Collection",
+      "url": "https://www.moma.org/calendar/exhibitions/5920",
+      "accessedAt": "2026-11-23",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "親子看動畫時，如何從角色好不好笑，走向理解一格一格如何創造動作與情緒？",
+    "summary": "用停格、預測、補畫與重播四步，把動畫拆成可觀察的時間設計。",
+    "questions": [
+      "關於「時間觀察」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "孩子能用哪些語言、動作或材料先表達自己的版本？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "成人應在哪一步等待，而不是立即解釋？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "孩子是否可以跳過、重來或改變規則？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「動畫間格觀察法」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「時間觀察」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「時間觀察」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「時間觀察」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「動畫間格觀察法」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 的《It’s Alive!》跨越百年以上、逾 35 位藝術家與電影創作者，從默片角色、手繪動畫、色彩到現代化設計，展至 2027 年夏季。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "It’s Alive! A Century of Animation from the Collection",
+      "statusAsOf": "2026-11-23",
+      "latestUpdate": "截至 2026-11-23，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5920"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDYvMDEvN3U3dGRvN3A4eF9GMjAyNi40My4xanBnLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ/F2026.43.1jpg.jpg?sha=9096c64f326c19e9",
+          "caption": "《It’s Alive!》官方展覽主圖。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5920",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 的《It’s Alive!》跨越百年以上、逾 35 位藝術家與電影創作者，從默片角色、手繪動畫、色彩到現代化設計，展至 2027 年夏季。\n【策展推論】用停格、預測、補畫與重播四步，把動畫拆成可觀察的時間設計。\n【原創模擬】建立「動畫間格觀察法」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「時間觀察」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-23"
+  },
+  {
+    "id": "daily-2026-11-23-life",
+    "date": "2026-11-23",
+    "category": "人生策展課題",
+    "lens": "碎片身體重新組裝",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Hyundai Card First Look: Sheree Hovsepian",
+      "url": "https://www.moma.org/calendar/exhibitions/5908",
+      "accessedAt": "2026-11-23",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當你不再把自己想成完整一致的人，哪些身體、記憶與關係碎片可以被重新組裝？",
+    "summary": "把身份拆成五種材料碎片，允許它們保留接縫、拉力與未完成狀態。",
+    "questions": [
+      "關於「身份組裝」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "這個問題裡，哪一部分是你自己的聲音？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪一件日常物或行為能提供具體證據？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "哪些內容應保留隱私、不必公開？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「碎片身體重新組裝」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「身份組裝」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「身份組裝」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「身份組裝」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「碎片身體重新組裝」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出 Hovsepian 以身體局部照片結合陶、絲襪、線與木材，構成臨時、未定且具材料能動性的身體，展至 2026 年 12 月 13 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Hyundai Card First Look: Sheree Hovsepian",
+      "statusAsOf": "2026-11-23",
+      "latestUpdate": "截至 2026-11-23，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5908"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDQvMTAvNnNwZ2pzOXZmZ18yOTFfMjAyNV9DQ0NSX0Z1bF9zaXplX0pQRUcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/291_2025_CCCR-Full-size-JPEG.jpg?sha=1dda6e57daadeb58",
+          "caption": "Sheree Hovsepian 作品的 MoMA 官方圖像。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5908",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出 Hovsepian 以身體局部照片結合陶、絲襪、線與木材，構成臨時、未定且具材料能動性的身體，展至 2026 年 12 月 13 日。\n【策展推論】把身份拆成五種材料碎片，允許它們保留接縫、拉力與未完成狀態。\n【原創模擬】建立「碎片身體重新組裝」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「身份組裝」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-23"
+  },
+  {
+    "id": "daily-2026-11-23-participation",
+    "date": "2026-11-23",
+    "category": "國際民眾參與實作",
+    "lens": "身體空間觀察回饋鏈",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Taking Back Our Space: Photographic Perspectives",
+      "url": "https://www.moma.org/calendar/exhibitions/5678",
+      "accessedAt": "2026-11-23",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "公共參與如何讓人辨認自己的身體正在佔用或讓出什麼空間，而不把觀眾變成被拍攝的資料？",
+    "summary": "以自願觀察、匿名記錄、共同分類與可撤回展示，建立身體語言的公共研究。",
+    "questions": [
+      "關於「身體自主」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰能決定參與規則，誰只能配合？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "每一次參與實際改變哪個決定？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "參與者如何撤回內容或選擇匿名？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「身體空間觀察回饋鏈」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「身體自主」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「身體自主」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「身體自主」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「身體空間觀察回饋鏈」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 以 Marianne Wex 的性別化身體語言調查為核心，並與七位當代藝術家對話，討論身體、公共空間、歷史敘事與自我再現，展至 2027 年 5 月 2 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Taking Back Our Space: Photographic Perspectives",
+      "statusAsOf": "2026-11-23",
+      "latestUpdate": "截至 2026-11-23，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5678"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjQvMDEvMzEvM3BtM3F6d2gxdF8xMTE2XzIwMThfMTc5X0NDQ1JfRnVsbF9zaXplX0pQRUcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/1116_2018_179_CCCR-Full-size-JPEG.jpg?sha=6bd2c23b7711dbac",
+          "caption": "《Taking Back Our Space》官方展覽主圖。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5678",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 以 Marianne Wex 的性別化身體語言調查為核心，並與七位當代藝術家對話，討論身體、公共空間、歷史敘事與自我再現，展至 2027 年 5 月 2 日。\n【策展推論】以自願觀察、匿名記錄、共同分類與可撤回展示，建立身體語言的公共研究。\n【原創模擬】建立「身體空間觀察回饋鏈」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「身體自主」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-23"
+  },
+  {
+    "id": "daily-2026-11-23-thinking",
+    "date": "2026-11-23",
+    "category": "策展思考訓練",
+    "lens": "工作室作為作品的第二作者",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Brancusi: The Artist and His Studio",
+      "url": "https://www.moma.org/calendar/exhibitions/5910",
+      "accessedAt": "2026-11-23",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當藝術家工作室被保存並搬入博物館，我們是在看創作證據、空間劇場，還是被固定的神話？",
+    "summary": "把工作室拆成工具、動線、社交、展示與後設編排，分辨歷史痕跡與博物館重建。",
+    "questions": [
+      "關於「工作室證據」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰的經驗被放在中心，誰仍在邊緣？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪個展示選擇最可能改變理解？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "如何保存不同意或拒絕參與的權利？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「工作室作為作品的第二作者」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「工作室證據」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「工作室證據」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「工作室證據」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「工作室作為作品的第二作者」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 說明 Brancusi 的巴黎工作室由生活、工作、會客與展示共同構成；展覽匯集雕塑、照片、影片、家具、底座、工具與檔案，展至 2027 年 2 月 27 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Brancusi: The Artist and His Studio",
+      "statusAsOf": "2026-11-23",
+      "latestUpdate": "截至 2026-11-23，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5910"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDYvMjkvN2p2OHVscnRnaV9CcmFuY3VzaV9QSF84NTRfbGVhZF9oaWdoX3Jlcy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/Brancusi_PH-854_lead_high-res.jpg?sha=141b7a0d8bb59e00",
+          "caption": "Brancusi 工作室與作品的官方展覽圖像。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5910",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 說明 Brancusi 的巴黎工作室由生活、工作、會客與展示共同構成；展覽匯集雕塑、照片、影片、家具、底座、工具與檔案，展至 2027 年 2 月 27 日。\n【策展推論】把工作室拆成工具、動線、社交、展示與後設編排，分辨歷史痕跡與博物館重建。\n【原創模擬】建立「工作室作為作品的第二作者」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「工作室證據」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-23"
+  },
+  {
+    "id": "daily-2026-11-24-curator",
+    "date": "2026-11-24",
+    "category": "專業策展人課題",
+    "lens": "見證型敘事的來源分層",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Nilima Sheikh: Fractured Skies",
+      "url": "https://www.moma.org/calendar/exhibitions/5932",
+      "accessedAt": "2026-11-24",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當展覽處理暴力、流離與失落，策展如何讓研究、詩性與見證互相支撐而不彼此冒充？",
+    "summary": "建立史料、文學、個人見證與策展推論四層標註，讓每種聲音保有來源位置。",
+    "questions": [
+      "關於「見證倫理」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰的經驗被放在中心，誰仍在邊緣？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪個展示選擇最可能改變理解？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "如何保存不同意或拒絕參與的權利？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「見證型敘事的來源分層」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「見證倫理」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「見證倫理」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「見證倫理」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「見證型敘事的來源分層」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出 Nilima Sheikh 以歷史記錄、檔案、文學、卷軸形式、圖像與文字處理喀什米爾的暴力、流離、失落及人際連結，展至 2027 年 6 月 13 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Nilima Sheikh: Fractured Skies",
+      "statusAsOf": "2026-11-24",
+      "latestUpdate": "截至 2026-11-24，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5932"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDgvMTgvOTN0NmtwM2g2aF9Ib21lX0xhbmRfNC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/Home,-Land-4.jpg?sha=d7167913276d290e",
+          "caption": "Nilima Sheikh《Home, Land》官方展覽圖像。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5932",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出 Nilima Sheikh 以歷史記錄、檔案、文學、卷軸形式、圖像與文字處理喀什米爾的暴力、流離、失落及人際連結，展至 2027 年 6 月 13 日。\n【策展推論】建立史料、文學、個人見證與策展推論四層標註，讓每種聲音保有來源位置。\n【原創模擬】建立「見證型敘事的來源分層」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「見證倫理」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-24"
+  },
+  {
+    "id": "daily-2026-11-24-family",
+    "date": "2026-11-24",
+    "category": "親子觀展訓練",
+    "lens": "超現實書本的規則破壞",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "The Surrealist Book: Tomorrow Lives in Mirrors",
+      "url": "https://www.moma.org/calendar/exhibitions/5918",
+      "accessedAt": "2026-11-24",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "親子共讀藝術家書時，如何讓孩子發現裝訂、材料與頁序也能說故事？",
+    "summary": "用改封面、換材料、跳頁與合作接龍，讓書從容器變成可操作的作品。",
+    "questions": [
+      "關於「書本材料」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "孩子能用哪些語言、動作或材料先表達自己的版本？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "成人應在哪一步等待，而不是立即解釋？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "孩子是否可以跳過、重來或改變規則？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「超現實書本的規則破壞」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「書本材料」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「書本材料」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「書本材料」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「超現實書本的規則破壞」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 展出超現實主義者以特殊紙材、附加材料、模型、素描本、拼貼與雕塑式裝訂改造書本的案例，涵蓋 1920 至 1960 年代，展至 2027 年 1 月 23 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "The Surrealist Book: Tomorrow Lives in Mirrors",
+      "statusAsOf": "2026-11-24",
+      "latestUpdate": "截至 2026-11-24，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5918"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDUvMjEvOHBkOHZmcjdrM19adXJuX09yYWNsZV9hbmRfU3BlY3RhY2xlX0hfU0laRUQuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/Zurn_Oracle-and-Spectacle_H_SIZED.jpg?sha=1ab1e9c750e4c5bf",
+          "caption": "Unica Zürn 相關藝術家書的 MoMA 官方展覽圖像。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5918",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 展出超現實主義者以特殊紙材、附加材料、模型、素描本、拼貼與雕塑式裝訂改造書本的案例，涵蓋 1920 至 1960 年代，展至 2027 年 1 月 23 日。\n【策展推論】用改封面、換材料、跳頁與合作接龍，讓書從容器變成可操作的作品。\n【原創模擬】建立「超現實書本的規則破壞」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「書本材料」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-24"
+  },
+  {
+    "id": "daily-2026-11-24-life",
+    "date": "2026-11-24",
+    "category": "人生策展課題",
+    "lens": "消失生態的個人地圖",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Jakob Kudsk Steensen: Wetland",
+      "url": "https://www.moma.org/calendar/exhibitions/5936",
+      "accessedAt": "2026-11-24",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當一座城市把濕地壓在街道之下，你如何辨認自己生活裡被進度掩埋的感覺與關係？",
+    "summary": "把消失、殘跡、聲音、地方詞語與未來想像疊成一張個人濕地圖。",
+    "questions": [
+      "關於「消失地景」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "這個問題裡，哪一部分是你自己的聲音？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪一件日常物或行為能提供具體證據？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "哪些內容應保留隱私、不必公開？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「消失生態的個人地圖」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「消失地景」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「消失地景」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「消失地景」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「消失生態的個人地圖」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出《Berl-Berl》結合濕地田野、自然史合作、神話、地方語言、標本、錄音、攝影測量、3D 掃描與遊戲引擎，形成持續變化的數位濕地，展至 2027 年 3 月 7 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Jakob Kudsk Steensen: Wetland",
+      "statusAsOf": "2026-11-24",
+      "latestUpdate": "截至 2026-11-24，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5936"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDgvMjAvNmh6emFzdTJ4N19IaWdocmVzU2NyZWVuc2hvdDAwMTExX1dlYnBhZ2VfSW1hZ2UuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/HighresScreenshot00111_Webpage-Image.jpg?sha=c0cf9c77b290dfae",
+          "caption": "Jakob Kudsk Steensen《Berl-Berl》官方圖像。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5936",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出《Berl-Berl》結合濕地田野、自然史合作、神話、地方語言、標本、錄音、攝影測量、3D 掃描與遊戲引擎，形成持續變化的數位濕地，展至 2027 年 3 月 7 日。\n【策展推論】把消失、殘跡、聲音、地方詞語與未來想像疊成一張個人濕地圖。\n【原創模擬】建立「消失生態的個人地圖」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「消失地景」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-24"
+  },
+  {
+    "id": "daily-2026-11-24-participation",
+    "date": "2026-11-24",
+    "category": "國際民眾參與實作",
+    "lens": "聲音共享空間測試",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Odili Donald Odita: Songs from Life",
+      "url": "https://www.moma.org/calendar/exhibitions/5794",
+      "accessedAt": "2026-11-24",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "一幅大廳壁畫如何讓不同生活背景的人以歌曲加入，而不把共感只留在藝術家敘述？",
+    "summary": "用歌曲提名、身體反應、留言與退出權設計可檢驗的公共聲音回饋。",
+    "questions": [
+      "關於「聲音互惠」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰能決定參與規則，誰只能配合？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "每一次參與實際改變哪個決定？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "參與者如何撤回內容或選擇匿名？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「聲音共享空間測試」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「聲音互惠」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「聲音互惠」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「聲音互惠」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「聲音共享空間測試」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出《Songs from Life》在大廳牆面與柱體歷時六週完成，每個彩繪區段由歌曲錨定，並把大廳理解為不同生活背景者的聚集空間，展至 2027 年 2 月 21 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Odili Donald Odita: Songs from Life",
+      "statusAsOf": "2026-11-24",
+      "latestUpdate": "截至 2026-11-24，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5794"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjUvMDMvMTAvMTdxcTZtc2hhcF9Tb25nc19mcm9tX0xpZmVfQlRTXzIuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/Songs-from-Life_BTS-2.jpg?sha=6c4ddf6beca53e97",
+          "caption": "Odili Donald Odita《Songs from Life》製作過程官方圖像。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5794",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出《Songs from Life》在大廳牆面與柱體歷時六週完成，每個彩繪區段由歌曲錨定，並把大廳理解為不同生活背景者的聚集空間，展至 2027 年 2 月 21 日。\n【策展推論】用歌曲提名、身體反應、留言與退出權設計可檢驗的公共聲音回饋。\n【原創模擬】建立「聲音共享空間測試」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「聲音互惠」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-24"
+  },
+  {
+    "id": "daily-2026-11-24-thinking",
+    "date": "2026-11-24",
+    "category": "策展思考訓練",
+    "lens": "人機影像的不確定性標註",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Pierre Huyghe: UUmwelt",
+      "url": "https://www.moma.org/calendar/exhibitions/5912",
+      "accessedAt": "2026-11-24",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當機器把腦部資料重建成影像，策展如何避免把推測畫面說成被讀出的思想？",
+    "summary": "把輸入、模型、推測、觸發條件與觀看效果逐層標註，阻止技術語言越權。",
+    "questions": [
+      "關於「不確定性」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰的經驗被放在中心，誰仍在邊緣？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪個展示選擇最可能改變理解？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "如何保存不同意或拒絕參與的權利？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「人機影像的不確定性標註」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「不確定性」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「不確定性」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「不確定性」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「人機影像的不確定性標註」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 說明《UUmwelt》以 fMRI 記錄想像活動，再由人工神經網路生成大量視覺推測；排序也受觀眾凝視感測與細胞突變模擬資料觸發，展至 2027 年 1 月 24 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Pierre Huyghe: UUmwelt",
+      "statusAsOf": "2026-11-24",
+      "latestUpdate": "截至 2026-11-24，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5912"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDkvMTQvNXQzb2MxZnJlb18yLl9QaWVycmVfSHV5Z2hlX19VVW13ZWx0X18yMDE4X29uZ29pbmdfRGVlcF9pbWFnZV9yZWNvbnN0cnVjdGlvbnNfc2NyZWVuc19zZW5zb3JzX3NvdW5kX0V4aGliaXRpb25fdmlld3NfTW9NQV9TY3VscHR1cmVfZ2FyZGVuX05ld19Zb3JrXzIwMjZfQ291cnRlc3lfdGhlX2FydGlzdF9QaG90b19BbGV4X1l1ZHpvbi5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/2.-Pierre-Huyghe--_UUmwelt_--2018%E2%80%93ongoing_Deep-image-reconstructions--screens--sensors--sound_Exhibition-views--MoMA-Sculpture-garden--New-York--2026_Courtesy-the-artist_Photo-Alex-Yudzon.jpg?sha=c25687ff656c99aa",
+          "caption": "Pierre Huyghe《UUmwelt》MoMA 展場照；Photo: Alex Yudzon。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5912",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 說明《UUmwelt》以 fMRI 記錄想像活動，再由人工神經網路生成大量視覺推測；排序也受觀眾凝視感測與細胞突變模擬資料觸發，展至 2027 年 1 月 24 日。\n【策展推論】把輸入、模型、推測、觸發條件與觀看效果逐層標註，阻止技術語言越權。\n【原創模擬】建立「人機影像的不確定性標註」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「不確定性」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-24"
+  },
+  {
+    "id": "daily-2026-11-25-curator",
+    "date": "2026-11-25",
+    "category": "專業策展人課題",
+    "lens": "解殖建築的多證據策展",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Architects of Liberation: Modernism in Western Africa",
+      "url": "https://www.moma.org/calendar/exhibitions/5906",
+      "accessedAt": "2026-11-25",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當現代建築曾被新獨立國家用來想像未來，策展如何同時呈現解放願景、跨國作者與後殖民矛盾？",
+    "summary": "以政治目標、在地使用、建築作者、材料條件與今日狀態五欄交叉閱讀，不把現代主義只寫成風格。",
+    "questions": [
+      "關於「解殖建築」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰的經驗被放在中心，誰仍在邊緣？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪個展示選擇最可能改變理解？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "如何保存不同意或拒絕參與的權利？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「解殖建築的多證據策展」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「解殖建築」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「解殖建築」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「解殖建築」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「解殖建築的多證據策展」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出本展是首個大型博物館展覽，檢視現代建築如何參與西非解殖與國家自我形象；約 400 件圖紙、模型、檔案與新委託影像橫跨七國，多數首次公開，展至 2027 年 1 月 2 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Architects of Liberation: Modernism in Western Africa",
+      "statusAsOf": "2026-11-25",
+      "latestUpdate": "截至 2026-11-25，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5906"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDMvMzEvMTAzd2g4aTNvdF9NaWNoZWxfRmVneXZlcmVzX0NJQ0VTXzEuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/Michel-Fegyveres_CICES-1.jpg?sha=28a6678416a62178",
+          "caption": "CICES, Dakar 官方展覽圖像；Photo: Michel Fegyveres。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5906",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出本展是首個大型博物館展覽，檢視現代建築如何參與西非解殖與國家自我形象；約 400 件圖紙、模型、檔案與新委託影像橫跨七國，多數首次公開，展至 2027 年 1 月 2 日。\n【策展推論】以政治目標、在地使用、建築作者、材料條件與今日狀態五欄交叉閱讀，不把現代主義只寫成風格。\n【原創模擬】建立「解殖建築的多證據策展」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「解殖建築」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-25"
+  },
+  {
+    "id": "daily-2026-11-25-family",
+    "date": "2026-11-25",
+    "category": "親子觀展訓練",
+    "lens": "從專利圖到家庭原型",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Hyundai Card First Look: R. Buckminster Fuller",
+      "url": "https://www.moma.org/calendar/exhibitions/5956",
+      "accessedAt": "2026-11-25",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "親子看設計圖時，如何從「這是什麼」走向「它解決什麼、用了多少材料、還能怎麼改」？",
+    "summary": "用問題、限制、零件、測試與修改五步，讓孩子把圖紙讀成可驗證的想法。",
+    "questions": [
+      "關於「設計原型」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "孩子能用哪些語言、動作或材料先表達自己的版本？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "成人應在哪一步等待，而不是立即解釋？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "孩子是否可以跳過、重來或改變規則？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「從專利圖到家庭原型」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「設計原型」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「設計原型」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「設計原型」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「從專利圖到家庭原型」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 以 Fuller 28 項美國專利的圖紙與實物影像呈現空投住宅、預製浴室、三輪車與大跨距結構；展覽強調以最少材料與能源達成最大功能，展至 2027 年春季。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Hyundai Card First Look: R. Buckminster Fuller",
+      "statusAsOf": "2026-11-25",
+      "latestUpdate": "截至 2026-11-25，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5956"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMTQvODlwMHZycDN0OF8zXzIwMjVfMTFhX2NfUklDUl9GdWxsX3NpemVfSlBFR19NQy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/3_2025_11a-c_RICR-Full-size-JPEG_MC.jpg?sha=6ff4dcf99e7d1d83",
+          "caption": "Buckminster Fuller 的 Laminar Geodesic Dome 專利圖像，MoMA 館藏。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5956",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 以 Fuller 28 項美國專利的圖紙與實物影像呈現空投住宅、預製浴室、三輪車與大跨距結構；展覽強調以最少材料與能源達成最大功能，展至 2027 年春季。\n【策展推論】用問題、限制、零件、測試與修改五步，讓孩子把圖紙讀成可驗證的想法。\n【原創模擬】建立「從專利圖到家庭原型」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「設計原型」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-25"
+  },
+  {
+    "id": "daily-2026-11-25-life",
+    "date": "2026-11-25",
+    "category": "人生策展課題",
+    "lens": "日常物件的焦慮盤點",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Philip Guston: In the Studio",
+      "url": "https://www.moma.org/calendar/exhibitions/5962",
+      "accessedAt": "2026-11-25",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當燈泡、鞋子與菸蒂都能承載歷史焦慮，你如何用身邊物件辨認目前真正困擾你的事？",
+    "summary": "選一件日常物，分開寫觀察、記憶、夢境與社會壓力，再畫出不求漂亮的版本。",
+    "questions": [
+      "關於「日常焦慮」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "這個問題裡，哪一部分是你自己的聲音？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪一件日常物或行為能提供具體證據？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "哪些內容應保留隱私、不必公開？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「日常物件的焦慮盤點」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「日常焦慮」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「日常焦慮」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「日常焦慮」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「日常物件的焦慮盤點」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出 Guston 從觀察、記憶與夢境取材，以燈泡、菸、眼睛、手與不安場景回應歷史暴力及其持續條件；展覽聚焦其 1970 年代作品，展至 2027 年 2 月 7 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Philip Guston: In the Studio",
+      "statusAsOf": "2026-11-25",
+      "latestUpdate": "截至 2026-11-25，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5962"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTEvMTAvM3ZpbDF1bGdfNzIyXzIwMDVfQ0NDUl9GdWxsX3NpemVfSlBFRy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/722_2005_CCCR-Full-size-JPEG.jpg?sha=2e93f0697ab90515",
+          "caption": "Philip Guston《Deluge II》MoMA 官方展覽圖像；© Estate of Philip Guston。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5962",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出 Guston 從觀察、記憶與夢境取材，以燈泡、菸、眼睛、手與不安場景回應歷史暴力及其持續條件；展覽聚焦其 1970 年代作品，展至 2027 年 2 月 7 日。\n【策展推論】選一件日常物，分開寫觀察、記憶、夢境與社會壓力，再畫出不求漂亮的版本。\n【原創模擬】建立「日常物件的焦慮盤點」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「日常焦慮」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-25"
+  },
+  {
+    "id": "daily-2026-11-25-participation",
+    "date": "2026-11-25",
+    "category": "國際民眾參與實作",
+    "lens": "和平口號的行動轉譯",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Yoko Ono: IMAGINE PEACE",
+      "url": "https://www.moma.org/calendar/exhibitions/5935",
+      "accessedAt": "2026-11-25",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當藝術只寫下「想像和平」，公共參與如何把共同願望轉成一個可執行、可回報的微小行動？",
+    "summary": "讓參與者完成願望、分歧、行動、期限與回報五格卡，避免口號停在情緒認同。",
+    "questions": [
+      "關於「願望行動化」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰能決定參與規則，誰只能配合？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "每一次參與實際改變哪個決定？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "參與者如何撤回內容或選擇匿名？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「和平口號的行動轉譯」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「願望行動化」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「願望行動化」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「願望行動化」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「和平口號的行動轉譯」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 指出 Yoko Ono 長期以看板、廣告、明信片、衣物與網路傳播和平訊息；2026 年裝置延續館方合作，並與 JFK Terminal 6 的相關作品呼應，展至 2027 年春季。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Yoko Ono: IMAGINE PEACE",
+      "statusAsOf": "2026-11-25",
+      "latestUpdate": "截至 2026-11-25，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5935"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMjEvODR3cWRwcG91c19JTjI2MjVBXzAwMV9DQ0NSX0Z1bF9zaXplX0pQRUdfTUMuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/IN2625A_001_CCCR-Full-size-JPEG_MC.jpg?sha=8cbc131e9e385ed2",
+          "caption": "《Yoko Ono: IMAGINE PEACE》展場照；© MoMA，Photo: Jonathan Dorado。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5935",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 指出 Yoko Ono 長期以看板、廣告、明信片、衣物與網路傳播和平訊息；2026 年裝置延續館方合作，並與 JFK Terminal 6 的相關作品呼應，展至 2027 年春季。\n【策展推論】讓參與者完成願望、分歧、行動、期限與回報五格卡，避免口號停在情緒認同。\n【原創模擬】建立「和平口號的行動轉譯」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「願望行動化」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-25"
+  },
+  {
+    "id": "daily-2026-11-25-thinking",
+    "date": "2026-11-25",
+    "category": "策展思考訓練",
+    "lens": "影像技術的軍事系譜",
+    "source": {
+      "name": "The Museum of Modern Art",
+      "title": "Na Mira: NO SMOKING",
+      "url": "https://www.moma.org/calendar/exhibitions/5869",
+      "accessedAt": "2026-11-25",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當紅外線、全息投影與空間聲音都帶有軍事技術歷史，策展如何讓觀眾看見媒介並不無辜？",
+    "summary": "沿技術起源、採集地點、觀看位置、故障效果與政治用途，建立媒介系譜圖。",
+    "questions": [
+      "關於「媒介權力」，目前哪些是可查證事實？",
+      "哪些說法其實只是策展推論？",
+      "誰的經驗被放在中心，誰仍在邊緣？",
+      "觀眾需要哪些背景才能形成自己的判斷？",
+      "哪個展示選擇最可能改變理解？",
+      "目前缺少哪一種反例或相反聲音？",
+      "如何把抽象主張轉成可觀察行為？",
+      "什麼現實限制會讓方法失效？",
+      "如何保存不同意或拒絕參與的權利？",
+      "一次小型測試後，哪項證據會讓你修改方案？"
+    ],
+    "strategy": "建立「影像技術的軍事系譜」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。",
+    "task": "選一件相關作品或自身案例，30 分鐘完成一張「媒介權力」五欄表，最後刪掉一項目前無法被證明的主張。",
+    "training": "10 分鐘讀官方資料；15 分鐘分事實與推論；20 分鐘畫關係；20 分鐘設計測試；15 分鐘找反例；最後 10 分鐘重寫結論。",
+    "coreHypothesis": "若把「媒介權力」拆成可查證事實、權力位置與小型實驗，就能降低過度宣稱並提高可修正性。",
+    "underlyingNeed": "需要把「媒介權力」從概念轉成可觀察、可回應且可修正的行動。",
+    "realConstraints": "官方資料提供展覽脈絡但不等於完整成效證據；時間、語言、身體能力、影像授權與參與差異仍會限制判斷。",
+    "leverage": "「影像技術的軍事系譜」可複用於展覽文本、公共藝術提案、教育活動與個人回顧。",
+    "sourceFact": "MoMA 說明 Na Mira 在 Fort Bliss 與 White Sands Missile Range 的空戲院錄製素材，以紅外線影片、故障頻率、全息投影、田野錄音與空間聲音處理軍事影像技術及國家權力，展至 2027 年 2 月 15 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Museum of Modern Art",
+      "title": "Na Mira: NO SMOKING",
+      "statusAsOf": "2026-11-25",
+      "latestUpdate": "截至 2026-11-25，官方頁顯示該展覽／裝置仍在展期內。",
+      "references": [
+        "https://www.moma.org/calendar/exhibitions/5869"
+      ],
+      "photos": [
+        {
+          "url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMjIvMXkzY2diZTJhZF9OT19TTU9LSU5HX3dvcmtfaW5fcHJvZ3Jlc3Nfdmlldy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/NO-SMOKING-work-in-progress-view.jpg?sha=5e4388c38a728025",
+          "caption": "Na Mira《NO SMOKING》製作中官方圖像；Courtesy the artist。",
+          "credit": "The Museum of Modern Art；詳細權利資訊依官方頁圖說",
+          "sourceUrl": "https://www.moma.org/calendar/exhibitions/5869",
+          "verifiedAt": "2026-11-25"
+        }
+      ]
+    },
+    "rawText": "【來源事實】MoMA 說明 Na Mira 在 Fort Bliss 與 White Sands Missile Range 的空戲院錄製素材，以紅外線影片、故障頻率、全息投影、田野錄音與空間聲音處理軍事影像技術及國家權力，展至 2027 年 2 月 15 日。\n【策展推論】沿技術起源、採集地點、觀看位置、故障效果與政治用途，建立媒介系譜圖。\n【原創模擬】建立「影像技術的軍事系譜」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「媒介權力」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-25"
   }
 ]
