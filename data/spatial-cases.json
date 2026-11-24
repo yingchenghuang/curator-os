@@ -495,5 +495,254 @@
       ],
       "reading": "跨越把兩岸的視覺距離轉成步行經驗，顯示交通安排如何形塑公共性。可轉用到臨時展線，實作須另確認通行條件、替代路徑和營運限制。"
     }
+  },
+  {
+    "svg": "zollverein-ruhr",
+    "kind": "工業再生",
+    "t": "魯爾博物館洗煤廠",
+    "sub": "埃森，德國",
+    "data": "博物館進駐關稅同盟煤礦舊洗煤廠，觀眾由高處入口逐層向下看展。",
+    "move": "借用煤料由上而下的生產邏輯組織展覽順序。",
+    "take": "疊合舊物料流與新觀眾流，找出可解說的交叉點。",
+    "beats": [
+      "廠區入口",
+      "扶梯上行",
+      "高層定向",
+      "逐層下降",
+      "回到地面"
+    ],
+    "link": "https://ruhrmuseum.de/en/locations/locations-at-zollverein/ruhr-museum-in-the-coal-washing-plant",
+    "src": "Ruhr Museum",
+    "date": "2026-11-25",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruhrmuseum_Kohlenw%C3%A4scheanlage_Coalwash_Zeche_Zollverein_Essen.jpg/960px-Ruhrmuseum_Kohlenw%C3%A4scheanlage_Coalwash_Zeche_Zollverein_Essen.jpg",
+    "alt": "魯爾博物館所在洗煤廠外觀",
+    "credit": "Helen Simonsson｜CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ruhrmuseum_Kohlenw%C3%A4scheanlage_Coalwash_Zeche_Zollverein_Essen.jpg",
+    "system": {
+      "form": [
+        "原洗煤廠",
+        "高處入口",
+        "分層展廳"
+      ],
+      "route": [
+        "廠區",
+        "上升",
+        "展覽下行"
+      ],
+      "perception": [
+        "外部遠望",
+        "扶梯視點",
+        "展廳近讀"
+      ],
+      "reading": "先升後降讓既有工序成為理解建築的線索。類似改造可先標出高差對敘事的作用，再檢查替代動線是否保留相同的理解順序。"
+    }
+  },
+  {
+    "svg": "pompidou-metz",
+    "kind": "展示設計",
+    "t": "龐畢度梅斯分館的展廊端窗",
+    "sub": "梅斯，法國",
+    "data": "三條長形展廊疊置並朝向不同方向，端窗將城市景觀引入展廳。",
+    "move": "把端窗當成展線中的停頓點，讓觀眾重新定位。",
+    "take": "在展場平面上標出展品焦點與端窗視錐。",
+    "beats": [
+      "進入門廳",
+      "選擇樓層",
+      "沿展廊前進",
+      "望向城市",
+      "返回展線"
+    ],
+    "link": "https://www.centrepompidou-metz.fr/en/centre-pompidou-metz/architecture",
+    "src": "Centre Pompidou-Metz",
+    "date": "2026-11-25",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Centre_Pompidou_Metz_04_window_cathedral.jpg/960px-Centre_Pompidou_Metz_04_window_cathedral.jpg",
+    "alt": "展廊端窗框住梅斯主教座堂",
+    "credit": "Christian Ries｜CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Centre_Pompidou_Metz_04_window_cathedral.jpg",
+    "system": {
+      "form": [
+        "共享屋頂",
+        "疊置展廊",
+        "端窗"
+      ],
+      "route": [
+        "門廳",
+        "樓層轉換",
+        "展廊端點"
+      ],
+      "perception": [
+        "展品近景",
+        "長軸遠景",
+        "城市地標"
+      ],
+      "reading": "端窗讓長廊有明確的遠景方向，也可能讓逆光影響末端展品。可在提案中把城市觀看點與需穩定照度的展牆錯開。"
+    }
+  },
+  {
+    "svg": "louvre-pyramid",
+    "kind": "歷史建築",
+    "t": "羅浮宮拿破崙庭院與玻璃金字塔",
+    "sub": "巴黎，法國",
+    "data": "大羅浮宮改造在拿破崙庭院增設玻璃金字塔，下方集散空間連接館翼。",
+    "move": "把辨認入口和選擇館翼安排在不同空間層次。",
+    "take": "分別繪製地面入口辨識與地下分流的兩張圖。",
+    "beats": [
+      "接近庭院",
+      "辨認入口",
+      "下行",
+      "選擇館翼",
+      "回望天窗"
+    ],
+    "link": "https://www.louvre.fr/en/explore/the-palace/a-pyramid-for-a-symbol",
+    "src": "Musée du Louvre",
+    "date": "2026-11-25",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Inside_the_Louvre_Pyramid_July_2025.jpg/960px-Inside_the_Louvre_Pyramid_July_2025.jpg",
+    "alt": "羅浮宮玻璃金字塔內部",
+    "credit": "Dmarcovitz｜CC0 1.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Inside_the_Louvre_Pyramid_July_2025.jpg",
+    "system": {
+      "form": [
+        "歷史宮翼",
+        "庭院",
+        "地下大廳"
+      ],
+      "route": [
+        "庭院",
+        "入口下行",
+        "分流至館翼"
+      ],
+      "perception": [
+        "宮殿立面",
+        "玻璃量體",
+        "地下天光"
+      ],
+      "reading": "玻璃量體讓地面入口可被辨認，地下大廳承接跨翼分流。轉用到歷史場館時，應用尖峰排隊測試庭院能否兼顧通行與觀看。"
+    }
+  },
+  {
+    "svg": "miho-tunnel",
+    "kind": "地下光庭",
+    "t": "MIHO MUSEUM 山體隧道與橋",
+    "sub": "滋賀，日本",
+    "data": "貝聿銘設計的山間美術館以隧道和橋串接入口路徑，館體有相當部分嵌入山體。",
+    "move": "以隧道收束視線，再讓橋與山谷打開遠景。",
+    "take": "在剖面標示暗處適應、第一個亮點和景觀展開位置。",
+    "beats": [
+      "林間接近",
+      "進入隧道",
+      "看見亮口",
+      "過橋",
+      "抵達館舍"
+    ],
+    "link": "https://www.miho.jp/en/architecture/approach/",
+    "src": "MIHO MUSEUM",
+    "date": "2026-11-25",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Miho_Tunnel_leaving_%2854106913066%29.jpg/960px-Miho_Tunnel_leaving_%2854106913066%29.jpg",
+    "alt": "MIHO MUSEUM 的隧道路徑與亮口",
+    "credit": "mrpbps｜CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Miho_Tunnel_leaving_%2854106913066%29.jpg",
+    "system": {
+      "form": [
+        "山體",
+        "隧道",
+        "橋",
+        "館舍"
+      ],
+      "route": [
+        "林間路",
+        "隧道",
+        "跨谷",
+        "入口"
+      ],
+      "perception": [
+        "林間散光",
+        "隧道反射",
+        "出洞遠景"
+      ],
+      "reading": "收束與再開放放大出洞時的景深變化。小型展場可用短轉折與受控亮口測試同樣效果，並保留清楚的方向提示。"
+    }
+  },
+  {
+    "svg": "beyeler-daylight",
+    "kind": "光線與典藏",
+    "t": "貝耶勒基金會美術館的採光屋頂",
+    "sub": "里恩，瑞士",
+    "data": "倫佐・皮亞諾設計玻璃屋頂，讓自然光經調節後進入展廳。",
+    "move": "將展廳採光與園景視線分開處理，再在動線上讓兩者相遇。",
+    "take": "用同一剖面標示屋頂入光與側窗觀看，分別測試眩光。",
+    "beats": [
+      "園區接近",
+      "進入展廳",
+      "沿畫牆移動",
+      "停看園景",
+      "回到展線"
+    ],
+    "link": "https://www.fondazionerenzopiano.org/en/project/beyeler-foundation-museum/",
+    "src": "Fondazione Renzo Piano",
+    "date": "2026-11-25",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Fondazione_Beyeler.jpg/960px-Fondazione_Beyeler.jpg",
+    "alt": "貝耶勒美術館園區側實景",
+    "credit": "Valeriaulalume｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Fondazione_Beyeler.jpg",
+    "system": {
+      "form": [
+        "玻璃屋面",
+        "調光層",
+        "展廳"
+      ],
+      "route": [
+        "園區",
+        "展廳",
+        "園景視點"
+      ],
+      "perception": [
+        "上方散射光",
+        "作品表面",
+        "側向園景"
+      ],
+      "reading": "屋頂提供展廳的背景亮度，側窗維持與園景的連續性。轉用前可先量測觀眾轉向窗面與作品時的亮暗差，依展品需求調整遮光。"
+    }
+  },
+  {
+    "svg": "ruruhaus-kassel",
+    "kind": "地方藝術祭",
+    "t": "卡塞爾 ruruHaus 城市客廳",
+    "sub": "卡塞爾，德國",
+    "data": "ruruHaus 是 documenta fifteen 在市中心的交流據點，由 ruangrupa 與藝術節發起。",
+    "move": "把街道入口與可停留的交流空間接起來，降低觀眾參與門檻。",
+    "take": "把接待、自由停留與活動的區域畫在同一張配置圖上。",
+    "beats": [
+      "街道接近",
+      "看見入口",
+      "進入交流空間",
+      "參加或旁觀",
+      "返回街道"
+    ],
+    "link": "https://documenta-fifteen.de/en/venues/ruruhaus/",
+    "src": "documenta fifteen",
+    "date": "2026-11-25",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jan-Hendrik_Pelz%2C_%22An_Inner_Place%22%2C_Exhibition_view_ruruHaus_documenta_fifteen.png",
+    "alt": "ruruHaus 的《An Inner Place》展覽現場",
+    "credit": "Jan-Hendrik Pelz12｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jan-Hendrik_Pelz%2C_%22An_Inner_Place%22%2C_Exhibition_view_ruruHaus_documenta_fifteen.png",
+    "system": {
+      "form": [
+        "市中心街道",
+        "入口",
+        "交流與活動區"
+      ],
+      "route": [
+        "路過",
+        "進門",
+        "選擇停留",
+        "離開"
+      ],
+      "perception": [
+        "街道視線",
+        "入口辨識",
+        "室內活動"
+      ],
+      "reading": "街道可見的入口和自由停留空間，讓短暫到訪也能成立。移植到社區展場時，應為安靜停留與集體活動留出可並存的位置。"
+    }
   }
 ]
