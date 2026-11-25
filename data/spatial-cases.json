@@ -744,5 +744,253 @@
       ],
       "reading": "街道可見的入口和自由停留空間，讓短暫到訪也能成立。移植到社區展場時，應為安靜停留與集體活動留出可並存的位置。"
     }
+  },
+  {
+    "svg": "hamburger-bahnhof",
+    "kind": "工業再生",
+    "t": "漢堡車站當代藝術博物館",
+    "sub": "柏林，德國",
+    "data": "原漢堡鐵路終站後改作博物館，歷史車站大廳成為展覽空間。",
+    "move": "利用站房縱深承載大型作品，讓觀眾同時辨認工業尺度與藝術尺度。",
+    "take": "在同一剖面標示作品高度、結構跨度與首次看見作品的位置。",
+    "beats": [
+      "前場",
+      "穿過站房入口",
+      "進入大跨廳",
+      "繞看作品",
+      "轉入側廳"
+    ],
+    "link": "https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/about-us/history/",
+    "src": "柏林國立博物館",
+    "date": "2026-11-26",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Museum_Hamburger_Bahnhof.jpg/960px-Museum_Hamburger_Bahnhof.jpg",
+    "alt": "漢堡車站博物館建築實景",
+    "credit": "Miriam Guterland｜CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Museum_Hamburger_Bahnhof.jpg",
+    "system": {
+      "form": [
+        "歷史站房",
+        "大跨車站廳",
+        "相鄰展區"
+      ],
+      "route": [
+        "前場",
+        "中央廳",
+        "側向展廳"
+      ],
+      "perception": [
+        "立面辨認",
+        "長向遠景",
+        "作品近觀"
+      ],
+      "reading": "車站廳的長向視線讓遠距離預覽成為可能。大型作品可作為空間定位點，布展前仍需實測遮擋與側廳入口的可見度。"
+    }
+  },
+  {
+    "svg": "guggenheim-rotunda",
+    "kind": "展示設計",
+    "t": "紐約古根漢美術館螺旋展廊",
+    "sub": "紐約，美國",
+    "data": "中央圓廳周圍設螺旋坡道，展牆沿坡道延伸。",
+    "move": "以連續移動串起作品序列，同時保留跨中庭回望的機會。",
+    "take": "在坡道剖面標出前三個停留點，檢查停留者是否擋住通行。",
+    "beats": [
+      "入口",
+      "看見圓廳",
+      "選擇起點",
+      "循坡讀展",
+      "回望中央"
+    ],
+    "link": "https://www.guggenheim.org/wp-content/uploads/2026/05/260508_VE_VisitorGuide.pdf",
+    "src": "Guggenheim New York",
+    "date": "2026-11-26",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Main_Gallery_Interior_and_Skylight_Solomon_R_Guggenheim_Museum.jpg/500px-Main_Gallery_Interior_and_Skylight_Solomon_R_Guggenheim_Museum.jpg",
+    "alt": "古根漢美術館圓廳、螺旋展廊與天窗",
+    "credit": "EgorovaSvetlana｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Main_Gallery_Interior_and_Skylight_Solomon_R_Guggenheim_Museum.jpg",
+    "system": {
+      "form": [
+        "中央挑空",
+        "環繞坡道",
+        "連續展牆"
+      ],
+      "route": [
+        "入口",
+        "坡道或電梯",
+        "分段停留"
+      ],
+      "perception": [
+        "天窗",
+        "中庭視線",
+        "近讀展牆"
+      ],
+      "reading": "挑空使不同高度的觀眾能互見，連續坡度則增加停留與通行衝突。可把閱讀位置退離主要人流，並以剖面檢查視線交疊。"
+    }
+  },
+  {
+    "svg": "soane-house",
+    "kind": "歷史建築",
+    "t": "約翰・索恩爵士博物館",
+    "sub": "倫敦，英國",
+    "data": "索恩將自己的住宅、建築收藏與展示空間結合，今日以博物館形式保存。",
+    "move": "以房間尺度、開口和收藏密度安排近距離觀看。",
+    "take": "在小型展場畫出三個門洞視錐，測試何處能先看見下一件作品。",
+    "beats": [
+      "街道",
+      "入屋",
+      "穿越房間",
+      "近讀藏品",
+      "回望門洞"
+    ],
+    "link": "https://www.soane.org/",
+    "src": "Sir John Soane’s Museum",
+    "date": "2026-11-26",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Interior_view_-_Sir_John_Soane%27s_Museum_-_DSC00041.jpg/500px-Interior_view_-_Sir_John_Soane%27s_Museum_-_DSC00041.jpg",
+    "alt": "約翰・索恩爵士博物館的室內收藏空間",
+    "credit": "Daderot｜CC0 1.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Interior_view_-_Sir_John_Soane%27s_Museum_-_DSC00041.jpg",
+    "system": {
+      "form": [
+        "住宅格局",
+        "相鄰房間",
+        "收藏佈置"
+      ],
+      "route": [
+        "門廳",
+        "房間串接",
+        "轉身回望"
+      ],
+      "perception": [
+        "門洞框景",
+        "明暗交替",
+        "近距離細節"
+      ],
+      "reading": "透過房間之間的局部視線，有限面積也能逐步展開收藏。密集布置會壓縮停留空間，套用時可先標出每室的轉身範圍。"
+    }
+  },
+  {
+    "svg": "wieliczka-kinga",
+    "kind": "地下光庭",
+    "t": "維利奇卡鹽礦聖金加禮拜堂",
+    "sub": "維利奇卡，波蘭",
+    "data": "聖金加禮拜堂位於歷史鹽礦的地下參觀路線，堂內可見以鹽雕刻的裝飾。",
+    "move": "以坑道與大空間的尺度差強化抵達感，人工光讓細部可被閱讀。",
+    "take": "繪製坑道到主室的剖面，分別標出引路照明和展品照明。",
+    "beats": [
+      "下到礦道",
+      "穿越坑道",
+      "進入大室",
+      "觀看鹽雕",
+      "接續導覽"
+    ],
+    "link": "https://www.wieliczka-saltmine.com/individual-tourist/tourist-route",
+    "src": "Wieliczka Salt Mine",
+    "date": "2026-11-26",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Wieliczka_salt_mine_st_Kingy_chapel.jpg/960px-Wieliczka_salt_mine_st_Kingy_chapel.jpg",
+    "alt": "維利奇卡鹽礦聖金加禮拜堂室內",
+    "credit": "Andrzej Barabasz（Chepry）｜CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Wieliczka_salt_mine_st_Kingy_chapel.jpg",
+    "system": {
+      "form": [
+        "礦井",
+        "坑道",
+        "鹽岩禮拜堂"
+      ],
+      "route": [
+        "下行",
+        "導覽通道",
+        "大室停留"
+      ],
+      "perception": [
+        "引路光",
+        "吊燈",
+        "鹽雕細部"
+      ],
+      "reading": "地下案例的亮度節奏由人工照明塑造。小型展場可以先用窄入口再打開視野，並檢查觀眾能否在注意到展品前辨認地面與出口。"
+    }
+  },
+  {
+    "svg": "yale-british-art",
+    "kind": "光線與典藏",
+    "t": "耶魯英國藝術中心的天光展廊",
+    "sub": "紐黑文，美國",
+    "data": "路易・康以混凝土結構網格、內部中庭與頂層天窗組織館舍。",
+    "move": "以中庭建立方向感，再以展廳的光線條件配合不同展品。",
+    "take": "在同一剖面比較中庭、頂層展間及作品面三處的光線。",
+    "beats": [
+      "街道",
+      "入口中庭",
+      "上樓",
+      "進入展間",
+      "回望中庭"
+    ],
+    "link": "https://britishart.yale.edu/architecture",
+    "src": "Yale Center for British Art",
+    "date": "2026-11-26",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/YCBA_interior2.jpg/960px-YCBA_interior2.jpg",
+    "alt": "耶魯英國藝術中心室內",
+    "credit": "Stakhanov｜CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:YCBA_interior2.jpg",
+    "system": {
+      "form": [
+        "混凝土網格",
+        "中庭",
+        "上層展廊"
+      ],
+      "route": [
+        "入口",
+        "垂直轉換",
+        "展間",
+        "中庭回望"
+      ],
+      "perception": [
+        "天窗",
+        "展間亮度",
+        "作品表面"
+      ],
+      "reading": "中庭提供跨樓層的方向參照，展間則有獨立的觀看條件。可把導引空間與作品保護的照明需求分別量測，避免用同一照度處理兩者。"
+    }
+  },
+  {
+    "svg": "folkestone-mermaid",
+    "kind": "地方藝術祭",
+    "t": "福克斯通三年展的海港觀看點",
+    "sub": "福克斯通，英國",
+    "data": "Cornelia Parker 的《The Folkestone Mermaid》為 2011 年三年展委託，後留置於港邊。",
+    "move": "將作品靠近既有濱水步行線，使日常散步也能納入觀看。",
+    "take": "在港區平面標示步行線、停留點、望海方向與尖峰通行。",
+    "beats": [
+      "進入港區",
+      "沿岸行走",
+      "辨認作品",
+      "轉身望海",
+      "續走港邊"
+    ],
+    "link": "https://www.creativefolkestone.org.uk/artists/cornelia-parker/",
+    "src": "Creative Folkestone",
+    "date": "2026-11-26",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Folkestone_Mermaid_The_Stade_Folkestone_Kent_CT19_6NN.jpg",
+    "alt": "福克斯通港邊的《The Folkestone Mermaid》",
+    "credit": "Spudgun67｜CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:The_Folkestone_Mermaid_The_Stade_Folkestone_Kent_CT19_6NN.jpg",
+    "system": {
+      "form": [
+        "港區邊緣",
+        "濱水步道",
+        "作品站點"
+      ],
+      "route": [
+        "港區入口",
+        "步行線",
+        "短停",
+        "接回步道"
+      ],
+      "perception": [
+        "沿岸遠望",
+        "作品輪廓",
+        "海面背景"
+      ],
+      "reading": "作品和海景共同形成觀看點，場域日常使用也決定停留能否成立。轉用到港邊公共藝術時，先比較平日和活動日的通行需求。"
+    }
   }
 ]
