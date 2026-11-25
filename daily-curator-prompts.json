@@ -30610,5 +30610,293 @@
       ]
     },
     "rawText": "【來源事實】MoMA 說明 Na Mira 在 Fort Bliss 與 White Sands Missile Range 的空戲院錄製素材，以紅外線影片、故障頻率、全息投影、田野錄音與空間聲音處理軍事影像技術及國家權力，展至 2027 年 2 月 15 日。\n【策展推論】沿技術起源、採集地點、觀看位置、故障效果與政治用途，建立媒介系譜圖。\n【原創模擬】建立「影像技術的軍事系譜」工作表：記錄來源事實、待驗證假設、受影響者、現實限制與下一步。；選一件相關作品或自身案例，30 分鐘完成一張「媒介權力」五欄表，最後刪掉一項目前無法被證明的主張。\n查證日期：2026-11-25"
+  },
+  {
+    "id": "daily-2026-11-26-curator",
+    "date": "2026-11-26",
+    "category": "專業策展人課題",
+    "lens": "歷史影像的主觀證詞矩陣",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "A Long Shadow: Postwar Japan Through the Lens",
+      "url": "https://www.metmuseum.org/exhibitions/a-long-shadow-postwar-japan-through-the-lens",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當戰後攝影既是歷史紀錄也是個人證詞，策展如何讓觀眾看見影像背後的位置、缺席與權力？",
+    "summary": "用「拍攝者位置、被攝者處境、發表媒介、歷史缺席、今日回聲」五欄拆解影像，不把照片當成透明證據。",
+    "questions": [
+      "這張影像可直接證明什麼，又不能證明什麼？",
+      "拍攝者與被攝者各自處於什麼權力位置？",
+      "原始發表於雜誌、攝影書或展覽，如何改變閱讀？",
+      "哪些歷史經驗只存在於畫面之外？",
+      "個人記憶與國家敘事在哪裡衝突？",
+      "同一事件若由另一群人拍攝，可能出現什麼差異？",
+      "展牆文字是否把推論寫成了事實？",
+      "哪些圖像需要當事人或後代的回應？",
+      "今日觀眾如何避免把創傷觀看變成消費？",
+      "哪一項新增證據會迫使你重排展覽？"
+    ],
+    "strategy": "建立「主觀證詞矩陣」：每張圖都標註拍攝者位置、被攝者處境、原始流通媒介、缺席資訊與今日回聲。",
+    "task": "選三張歷史照片，各用五欄寫一行；最後刪掉一個無法由影像本身支持的結論。",
+    "training": "15 分鐘讀來源；20 分鐘做五欄表；15 分鐘找缺席者；20 分鐘重寫標籤；10 分鐘找反例；10 分鐘形成新排序。",
+    "coreHypothesis": "若同時揭露影像的作者位置、流通脈絡與缺席資訊，觀眾較不會把攝影誤當成中立歷史。",
+    "underlyingNeed": "需要在保存證詞的同時，保留影像的局限與被攝者的尊嚴。",
+    "realConstraints": "單張照片無法代表完整事件；語言、檔案權限、當事人安全、創傷倫理與版權會限制補充證據。",
+    "leverage": "「主觀證詞矩陣」可用於歷史展、地方檔案、公共藝術影像與新聞圖像審讀。",
+    "sourceFact": "The Met 指出展覽聚焦二戰後日本與沖繩的社會轉型，呈現攝影家如何由客觀報導轉向個人經驗；展覽是該館自 1995 年以來首個日本攝影展，展至 2027 年 5 月 2 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Metropolitan Museum of Art",
+      "title": "A Long Shadow: Postwar Japan Through the Lens",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁標示展覽正在展出，展至 2027-05-02。",
+      "references": [
+        "https://www.metmuseum.org/exhibitions/a-long-shadow-postwar-japan-through-the-lens"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.sanity.io/images/cctd4ker/production/3de2fe8030e994658556874bc70831ea0885507a-5121x1707.jpg?w=1920&q=75&auto=format",
+          "caption": "Tōmatsu Shōmei，《Hateruma Island》，1971，官方展覽頁橫幅影像。",
+          "credit": "作品：Tōmatsu Shōmei；Collection of David Dechman and Michel Mercure；影像權利依 The Met 官方頁",
+          "sourceUrl": "https://www.metmuseum.org/exhibitions/a-long-shadow-postwar-japan-through-the-lens",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 指出展覽聚焦二戰後日本與沖繩的社會轉型，呈現攝影家如何由客觀報導轉向個人經驗；展覽是該館自 1995 年以來首個日本攝影展，展至 2027 年 5 月 2 日。\n【策展推論】用「拍攝者位置、被攝者處境、發表媒介、歷史缺席、今日回聲」五欄拆解影像，不把照片當成透明證據。\n【原創模擬】建立「主觀證詞矩陣」：每張圖都標註拍攝者位置、被攝者處境、原始流通媒介、缺席資訊與今日回聲。；選三張歷史照片，各用五欄寫一行；最後刪掉一個無法由影像本身支持的結論。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a8153a861d26e6d629839"
+  },
+  {
+    "id": "daily-2026-11-26-thinking",
+    "date": "2026-11-26",
+    "category": "策展思考訓練",
+    "lens": "物件的交換生命史",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Tapa: Art of the Gift in Polynesia",
+      "url": "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當一件織物曾是外交贈禮、身分象徵與祖傳知識，策展如何避免只剩下材質與圖案之美？",
+    "summary": "把物件從「被觀看的作品」還原為生產、贈與、接收、保存與再詮釋的關係鏈。",
+    "questions": [
+      "誰共同製作這件物件，知識如何傳承？",
+      "它原本在什麼儀式或交換中發揮作用？",
+      "贈與者希望建立什麼關係？",
+      "接收者如何理解或誤讀它？",
+      "進入收藏前後，它的用途如何改變？",
+      "展覽是否只稱讚形式而忽略外交作用？",
+      "哪些詞彙來自社群自身，哪些是博物館分類？",
+      "如何呈現女性集體勞動而不抹平個別差異？",
+      "借展與展示是否延續互惠關係？",
+      "觀眾離場後能採取哪個尊重來源社群的行動？"
+    ],
+    "strategy": "畫出「交換生命史」：製作者、贈與者、接收者、收藏機構與當代社群五個節點，每條線寫清權利、義務與意義變化。",
+    "task": "挑一件館藏物，30 分鐘補出它至少三次所有權或意義轉換，並改寫一則只談外觀的標籤。",
+    "training": "10 分鐘看物件；15 分鐘找來源詞彙；20 分鐘畫交換鏈；20 分鐘標權力差；15 分鐘重寫標籤；10 分鐘檢查互惠。",
+    "coreHypothesis": "若展覽以交換關係而非孤立物件為單位，觀眾會更能理解文化物件的政治與倫理生命。",
+    "underlyingNeed": "需要讓製作知識、贈與意圖與來源社群持續存在於展示中。",
+    "realConstraints": "早期收藏紀錄可能不完整；名稱翻譯、社群內部差異、敏感知識與返還議題都需謹慎處理。",
+    "leverage": "「交換生命史」可複用於禮物、工藝、外交物件、殖民收藏與私人捐贈研究。",
+    "sourceFact": "The Met 指出 tapa 由玻里尼西亞女性集體製作，長期用於儀式、贈禮與政治文化外交；展覽集結斐濟、薩摩亞、富圖納與紐埃作品，展至 2027 年 12 月 12 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Metropolitan Museum of Art",
+      "title": "Tapa: Art of the Gift in Polynesia",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁標示展覽正在展出，展至 2027-12-12。",
+      "references": [
+        "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
+        "https://www.metmuseum.org/press-releases/tapa-art-of-the-gift"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.sanity.io/images/cctd4ker/production/7c87b6164655f711842004277a35e658e1ea7d1f-5121x1707.jpg?w=1920&q=75&auto=format",
+          "caption": "斐濟藝術家，Panel (Masi Kesa) 細節，19 世紀中後期，官方展覽頁橫幅影像。",
+          "credit": "The Metropolitan Museum of Art, Gift of Adelaide and Edmund Carpenter, 1990；詳細權利依官方頁",
+          "sourceUrl": "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 指出 tapa 由玻里尼西亞女性集體製作，長期用於儀式、贈禮與政治文化外交；展覽集結斐濟、薩摩亞、富圖納與紐埃作品，展至 2027 年 12 月 12 日。\n【策展推論】把物件從「被觀看的作品」還原為生產、贈與、接收、保存與再詮釋的關係鏈。\n【原創模擬】畫出「交換生命史」：製作者、贈與者、接收者、收藏機構與當代社群五個節點，每條線寫清權利、義務與意義變化。；挑一件館藏物，30 分鐘補出它至少三次所有權或意義轉換，並改寫一則只談外觀的標籤。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a81d2ba9ccacbde7af2e7"
+  },
+  {
+    "id": "daily-2026-11-26-participation",
+    "date": "2026-11-26",
+    "category": "國際民眾參與實作",
+    "lens": "學生共策展的決策軌跡",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "In the Library: Reimagining America by Design",
+      "url": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當大學生被邀請設計國家美術館展覽，機構如何讓參與不只停在作業展示，而是真正改變選件、詮釋與觀看方式？",
+    "summary": "以「哪個決策真的被改變」驗證共策展，把學生的研究、選件、原型與最終展件留成可追蹤的決策軌跡。",
+    "questions": [
+      "學生實際擁有哪些決策權？",
+      "哪些選件或文字因學生建議而改變？",
+      "館方提供了哪些檔案、時間與專業支持？",
+      "參與者能否拒絕既有分類？",
+      "過程中的失敗與修正是否被公開？",
+      "學生作品與館藏材料如何並置而不被降級？",
+      "誰沒有條件參與整學期合作？",
+      "觀眾如何辨認每項決策的作者？",
+      "專案結束後參與者還能影響什麼？",
+      "下一輪合作要把哪一項權力再往外移？"
+    ],
+    "strategy": "製作「決策軌跡表」：提案人、原始方案、機構限制、實際改動、證據與後續權責。",
+    "task": "從一場參與式專案挑五個關鍵決策，逐一寫出誰提出、最後改了什麼；沒有改動證據者不得標為共創。",
+    "training": "15 分鐘列決策；20 分鐘找改動證據；20 分鐘訪談或模擬不同角色；15 分鐘標權力；10 分鐘補回饋；10 分鐘重寫參與聲明。",
+    "coreHypothesis": "若參與成效以真實決策改動而非出席人數衡量，共策展較能避免象徵性參與。",
+    "underlyingNeed": "參與者需要可見的作者位置、實際決策權與專案結束後仍可追蹤的回饋。",
+    "realConstraints": "學期長度、館藏安全、機構審核、參與者時間與教育資源差異會限制權力移轉。",
+    "leverage": "「決策軌跡表」可用於校園展、社區工作坊、公共藝術與公民審議。",
+    "sourceFact": "National Gallery of Art 指出 2026 年春季與 George Washington University Corcoran School 學生合作一學期；學生使用館藏、檔案與圖書館資源設計展覽，11 月 2 日至 12 月 31 日的 Work & Play 結合學生作品與兒童玩具、遊戲等館藏材料。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓 National Gallery of Art",
+      "title": "In the Library: Reimagining America by Design",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁顯示第二階段 Work & Play 正在展出至 2026-12-31。",
+      "references": [
+        "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+        "https://www.nga.gov/press/women-and-index-american-design"
+      ],
+      "photos": [
+        {
+          "url": "https://www.nga.gov/sites/default/files/contextual/styles/16x9__focal_point_scale_and_crop__xl/public/2026-07/sc-044_123191_001-ppt-hd_0__jpg/5418206.jpg?itok=qCuDXJBf&h=cfb70e87",
+          "caption": "《In the Library: Reimagining America by Design》官方展覽影像。",
+          "credit": "National Gallery of Art；該展覽頁未另列攝影者，詳細權利依官方頁",
+          "sourceUrl": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 指出 2026 年春季與 George Washington University Corcoran School 學生合作一學期；學生使用館藏、檔案與圖書館資源設計展覽，11 月 2 日至 12 月 31 日的 Work & Play 結合學生作品與兒童玩具、遊戲等館藏材料。\n【策展推論】以「哪個決策真的被改變」驗證共策展，把學生的研究、選件、原型與最終展件留成可追蹤的決策軌跡。\n【原創模擬】製作「決策軌跡表」：提案人、原始方案、機構限制、實際改動、證據與後續權責。；從一場參與式專案挑五個關鍵決策，逐一寫出誰提出、最後改了什麼；沒有改動證據者不得標為共創。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a815f88a5f0e5ce33175f"
+  },
+  {
+    "id": "daily-2026-11-26-family",
+    "date": "2026-11-26",
+    "category": "親子觀展訓練",
+    "lens": "動手遊戲的觀察—猜測—重做循環",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "Playtime",
+      "url": "https://www.nga.gov/calendar/playtime-1?evd=202611290131",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "親子進入美術館的遊戲空間時，如何把堆疊、分類與建造變成觀察藝術的共同語言，而不是只讓孩子消耗體力？",
+    "summary": "用「先看一個形狀、猜它能做什麼、動手試、說出改變」四步，把自由玩耍接回視覺觀察。",
+    "questions": [
+      "孩子先注意到哪個形狀、顏色或材質？",
+      "大人能否先問而不急著示範？",
+      "堆疊失敗時，孩子觀察到什麼？",
+      "分類規則由誰提出，能否中途改變？",
+      "作品與遊戲材料之間有哪些形式呼應？",
+      "孩子如何用身體理解平衡與重量？",
+      "哪個選擇是孩子自己做的？",
+      "不同年齡或能力需要什麼替代材料？",
+      "收拾過程能否成為重新分類？",
+      "離館後可用哪三件日常物品重做一次？"
+    ],
+    "strategy": "採用「觀察—猜測—試做—重述」四步循環；每輪大人只問一題，讓孩子保留決策權。",
+    "task": "找三件安全日常物品，親子輪流訂一個分類規則與一個堆疊規則，完成後各說一次「我改變了什麼」。",
+    "training": "10 分鐘靜看；15 分鐘說形狀；20 分鐘自由建造；15 分鐘換規則；10 分鐘角色交換；10 分鐘連回作品；10 分鐘記錄孩子原話。",
+    "coreHypothesis": "若成人把遊戲中的觀察與修正說出來，幼兒能在不被講解壓迫的情況下建立觀看語言。",
+    "underlyingNeed": "孩子需要安全、可自主且能反覆嘗試的感官入口；成人需要可用的低干預提問。",
+    "realConstraints": "年齡、感官需求、材料安全、場地容量、排隊時間與成人對混亂的容忍度會影響活動。",
+    "leverage": "四步循環可用於展場積木、家庭日、教室材料站與居家觀察。",
+    "sourceFact": "National Gallery of Art 的 Playtime 為幼兒設計免費、免登記的動手空間，讓家庭進行玩、建造、分類與堆疊；官方列出 2026 年 11 月 29 日等場次，兒童須由成人陪同。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓 National Gallery of Art East Building",
+      "title": "Playtime",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁列有下一場 2026-11-29 10:00–13:00，活動免費且免登記。",
+      "references": [
+        "https://www.nga.gov/calendar/playtime-1?evd=202611290131"
+      ],
+      "photos": [
+        {
+          "url": "https://api.nga.gov/iiif/c69b3a6d-ce94-48bc-b740-d7262256a552__4000/0,284,4000,2100/!1200,630/0/default.jpg",
+          "caption": "幼兒與家人在 East Building 參與 Playtime，官方活動影像。",
+          "credit": "National Gallery of Art；官方頁未另列攝影者，詳細權利依官方頁",
+          "sourceUrl": "https://www.nga.gov/calendar/playtime-1?evd=202611290131",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 的 Playtime 為幼兒設計免費、免登記的動手空間，讓家庭進行玩、建造、分類與堆疊；官方列出 2026 年 11 月 29 日等場次，兒童須由成人陪同。\n【策展推論】用「先看一個形狀、猜它能做什麼、動手試、說出改變」四步，把自由玩耍接回視覺觀察。\n【原創模擬】採用「觀察—猜測—試做—重述」四步循環；每輪大人只問一題，讓孩子保留決策權。；找三件安全日常物品，親子輪流訂一個分類規則與一個堆疊規則，完成後各說一次「我改變了什麼」。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a811ea3a9daaab8f02ef9"
+  },
+  {
+    "id": "daily-2026-11-26-life",
+    "date": "2026-11-26",
+    "category": "人生策展課題",
+    "lens": "合作與個人聲音的雙軌盤點",
+    "source": {
+      "name": "Tate",
+      "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "長期合作讓你變得更完整，還是讓自己的聲音逐漸模糊？你如何同時保存共同世界與個人路徑？",
+    "summary": "把合作成果拆成共享、互相影響與各自堅持三區，辨認哪些關係應深化、協商或重新劃界。",
+    "questions": [
+      "這段合作共同創造了什麼？",
+      "哪些選擇明確來自我的聲音？",
+      "哪些能力是我向對方學來的？",
+      "我在哪些時刻為了和諧而沉默？",
+      "對方的貢獻是否被公平署名？",
+      "我們是否仍保有各自的獨立試驗？",
+      "共同生活與工作邊界需要怎麼調整？",
+      "外界是否把兩人的差異簡化成單一故事？",
+      "若合作暫停三個月，我最想獨自完成什麼？",
+      "下一次對話要提出哪個具體界線或邀請？"
+    ],
+    "strategy": "畫三個區域：「共同世界」「互相影響」「個人堅持」，每區放入近一年三個具體事件，再標註需深化、協商或劃界。",
+    "task": "用 30 分鐘完成三區盤點，挑一件被合作掩蓋的個人作品，安排本週第一個 45 分鐘獨立時段。",
+    "training": "10 分鐘列共同成果；15 分鐘標署名；15 分鐘找沉默時刻；15 分鐘寫個人路徑；15 分鐘設邊界；20 分鐘安排下一次對話。",
+    "coreHypothesis": "若合作關係能同時容納共同作者性與獨立路徑，長期創作較不會以自我消失為代價。",
+    "underlyingNeed": "需要被看見、被公平署名，也需要在親密合作中保有獨立試驗與清楚邊界。",
+    "realConstraints": "情感、經濟、照顧責任、社會評價與共享資源會讓界線難以重新協商。",
+    "leverage": "三區盤點可複用於伴侶創作、共同創業、團隊領導與長期師徒關係。",
+    "sourceFact": "Tate 指出展覽回顧 Vanessa Bell 與 Duncan Grant 超過 50 年的創作夥伴關係，展出 300 多件繪畫、家具、陶瓷與織品，並同時呈現共享實踐與各自路徑；展至 2027 年 4 月 11 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦 Tate Britain",
+      "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁標示展覽正在展出，展至 2027-04-11。",
+      "references": [
+        "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+        "https://www.tate.org.uk/press/press-releases/vanessa-bell-duncan-grant-inside-bloomsbury"
+      ],
+      "photos": [
+        {
+          "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Website_-_VBDG_2.width-600.jpg",
+          "caption": "Vanessa Bell 與 Duncan Grant 自畫像並置，Tate 官方展覽主視覺。",
+          "credit": "左：Vanessa Bell, Self-Portrait, c.1915, Yale Center for British Art, Paul Mellon Fund；右：Duncan Grant, Self-Portrait, c.1920, Private Collection；© respective estates, DACS 2026",
+          "sourceUrl": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Tate 指出展覽回顧 Vanessa Bell 與 Duncan Grant 超過 50 年的創作夥伴關係，展出 300 多件繪畫、家具、陶瓷與織品，並同時呈現共享實踐與各自路徑；展至 2027 年 4 月 11 日。\n【策展推論】把合作成果拆成共享、互相影響與各自堅持三區，辨認哪些關係應深化、協商或重新劃界。\n【原創模擬】畫三個區域：「共同世界」「互相影響」「個人堅持」，每區放入近一年三個具體事件，再標註需深化、協商或劃界。；用 30 分鐘完成三區盤點，挑一件被合作掩蓋的個人作品，安排本週第一個 45 分鐘獨立時段。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a81168683d5982763bb2d"
   }
 ]
