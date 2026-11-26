@@ -30669,122 +30669,6 @@
     "notionUrl": "https://app.notion.com/p/42334a20271a8153a861d26e6d629839"
   },
   {
-    "id": "daily-2026-11-26-thinking",
-    "date": "2026-11-26",
-    "category": "策展思考訓練",
-    "lens": "物件的交換生命史",
-    "source": {
-      "name": "The Metropolitan Museum of Art",
-      "title": "Tapa: Art of the Gift in Polynesia",
-      "url": "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
-      "accessedAt": "2026-11-26",
-      "sourceType": "英文官方展覽頁"
-    },
-    "title": "當一件織物曾是外交贈禮、身分象徵與祖傳知識，策展如何避免只剩下材質與圖案之美？",
-    "summary": "把物件從「被觀看的作品」還原為生產、贈與、接收、保存與再詮釋的關係鏈。",
-    "questions": [
-      "誰共同製作這件物件，知識如何傳承？",
-      "它原本在什麼儀式或交換中發揮作用？",
-      "贈與者希望建立什麼關係？",
-      "接收者如何理解或誤讀它？",
-      "進入收藏前後，它的用途如何改變？",
-      "展覽是否只稱讚形式而忽略外交作用？",
-      "哪些詞彙來自社群自身，哪些是博物館分類？",
-      "如何呈現女性集體勞動而不抹平個別差異？",
-      "借展與展示是否延續互惠關係？",
-      "觀眾離場後能採取哪個尊重來源社群的行動？"
-    ],
-    "strategy": "畫出「交換生命史」：製作者、贈與者、接收者、收藏機構與當代社群五個節點，每條線寫清權利、義務與意義變化。",
-    "task": "挑一件館藏物，30 分鐘補出它至少三次所有權或意義轉換，並改寫一則只談外觀的標籤。",
-    "training": "10 分鐘看物件；15 分鐘找來源詞彙；20 分鐘畫交換鏈；20 分鐘標權力差；15 分鐘重寫標籤；10 分鐘檢查互惠。",
-    "coreHypothesis": "若展覽以交換關係而非孤立物件為單位，觀眾會更能理解文化物件的政治與倫理生命。",
-    "underlyingNeed": "需要讓製作知識、贈與意圖與來源社群持續存在於展示中。",
-    "realConstraints": "早期收藏紀錄可能不完整；名稱翻譯、社群內部差異、敏感知識與返還議題都需謹慎處理。",
-    "leverage": "「交換生命史」可複用於禮物、工藝、外交物件、殖民收藏與私人捐贈研究。",
-    "sourceFact": "The Met 指出 tapa 由玻里尼西亞女性集體製作，長期用於儀式、贈禮與政治文化外交；展覽集結斐濟、薩摩亞、富圖納與紐埃作品，展至 2027 年 12 月 12 日。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "紐約 The Metropolitan Museum of Art",
-      "title": "Tapa: Art of the Gift in Polynesia",
-      "statusAsOf": "2026-11-26",
-      "latestUpdate": "截至 2026-11-26，官方頁標示展覽正在展出，展至 2027-12-12。",
-      "references": [
-        "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
-        "https://www.metmuseum.org/press-releases/tapa-art-of-the-gift"
-      ],
-      "photos": [
-        {
-          "url": "https://cdn.sanity.io/images/cctd4ker/production/7c87b6164655f711842004277a35e658e1ea7d1f-5121x1707.jpg?w=1920&q=75&auto=format",
-          "caption": "斐濟藝術家，Panel (Masi Kesa) 細節，19 世紀中後期，官方展覽頁橫幅影像。",
-          "credit": "The Metropolitan Museum of Art, Gift of Adelaide and Edmund Carpenter, 1990；詳細權利依官方頁",
-          "sourceUrl": "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
-          "verifiedAt": "2026-11-26"
-        }
-      ]
-    },
-    "rawText": "【來源事實】The Met 指出 tapa 由玻里尼西亞女性集體製作，長期用於儀式、贈禮與政治文化外交；展覽集結斐濟、薩摩亞、富圖納與紐埃作品，展至 2027 年 12 月 12 日。\n【策展推論】把物件從「被觀看的作品」還原為生產、贈與、接收、保存與再詮釋的關係鏈。\n【原創模擬】畫出「交換生命史」：製作者、贈與者、接收者、收藏機構與當代社群五個節點，每條線寫清權利、義務與意義變化。；挑一件館藏物，30 分鐘補出它至少三次所有權或意義轉換，並改寫一則只談外觀的標籤。\n查證日期：2026-11-26",
-    "notionUrl": "https://app.notion.com/p/42334a20271a81d2ba9ccacbde7af2e7"
-  },
-  {
-    "id": "daily-2026-11-26-participation",
-    "date": "2026-11-26",
-    "category": "國際民眾參與實作",
-    "lens": "學生共策展的決策軌跡",
-    "source": {
-      "name": "National Gallery of Art",
-      "title": "In the Library: Reimagining America by Design",
-      "url": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
-      "accessedAt": "2026-11-26",
-      "sourceType": "英文官方展覽頁"
-    },
-    "title": "當大學生被邀請設計國家美術館展覽，機構如何讓參與不只停在作業展示，而是真正改變選件、詮釋與觀看方式？",
-    "summary": "以「哪個決策真的被改變」驗證共策展，把學生的研究、選件、原型與最終展件留成可追蹤的決策軌跡。",
-    "questions": [
-      "學生實際擁有哪些決策權？",
-      "哪些選件或文字因學生建議而改變？",
-      "館方提供了哪些檔案、時間與專業支持？",
-      "參與者能否拒絕既有分類？",
-      "過程中的失敗與修正是否被公開？",
-      "學生作品與館藏材料如何並置而不被降級？",
-      "誰沒有條件參與整學期合作？",
-      "觀眾如何辨認每項決策的作者？",
-      "專案結束後參與者還能影響什麼？",
-      "下一輪合作要把哪一項權力再往外移？"
-    ],
-    "strategy": "製作「決策軌跡表」：提案人、原始方案、機構限制、實際改動、證據與後續權責。",
-    "task": "從一場參與式專案挑五個關鍵決策，逐一寫出誰提出、最後改了什麼；沒有改動證據者不得標為共創。",
-    "training": "15 分鐘列決策；20 分鐘找改動證據；20 分鐘訪談或模擬不同角色；15 分鐘標權力；10 分鐘補回饋；10 分鐘重寫參與聲明。",
-    "coreHypothesis": "若參與成效以真實決策改動而非出席人數衡量，共策展較能避免象徵性參與。",
-    "underlyingNeed": "參與者需要可見的作者位置、實際決策權與專案結束後仍可追蹤的回饋。",
-    "realConstraints": "學期長度、館藏安全、機構審核、參與者時間與教育資源差異會限制權力移轉。",
-    "leverage": "「決策軌跡表」可用於校園展、社區工作坊、公共藝術與公民審議。",
-    "sourceFact": "National Gallery of Art 指出 2026 年春季與 George Washington University Corcoran School 學生合作一學期；學生使用館藏、檔案與圖書館資源設計展覽，11 月 2 日至 12 月 31 日的 Work & Play 結合學生作品與兒童玩具、遊戲等館藏材料。",
-    "caseStudy": {
-      "realWorld": true,
-      "country": "美國",
-      "location": "華盛頓 National Gallery of Art",
-      "title": "In the Library: Reimagining America by Design",
-      "statusAsOf": "2026-11-26",
-      "latestUpdate": "截至 2026-11-26，官方頁顯示第二階段 Work & Play 正在展出至 2026-12-31。",
-      "references": [
-        "https://www.nga.gov/exhibitions/library-reimagining-america-design",
-        "https://www.nga.gov/press/women-and-index-american-design"
-      ],
-      "photos": [
-        {
-          "url": "https://www.nga.gov/sites/default/files/contextual/styles/16x9__focal_point_scale_and_crop__xl/public/2026-07/sc-044_123191_001-ppt-hd_0__jpg/5418206.jpg?itok=qCuDXJBf&h=cfb70e87",
-          "caption": "《In the Library: Reimagining America by Design》官方展覽影像。",
-          "credit": "National Gallery of Art；該展覽頁未另列攝影者，詳細權利依官方頁",
-          "sourceUrl": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
-          "verifiedAt": "2026-11-26"
-        }
-      ]
-    },
-    "rawText": "【來源事實】National Gallery of Art 指出 2026 年春季與 George Washington University Corcoran School 學生合作一學期；學生使用館藏、檔案與圖書館資源設計展覽，11 月 2 日至 12 月 31 日的 Work & Play 結合學生作品與兒童玩具、遊戲等館藏材料。\n【策展推論】以「哪個決策真的被改變」驗證共策展，把學生的研究、選件、原型與最終展件留成可追蹤的決策軌跡。\n【原創模擬】製作「決策軌跡表」：提案人、原始方案、機構限制、實際改動、證據與後續權責。；從一場參與式專案挑五個關鍵決策，逐一寫出誰提出、最後改了什麼；沒有改動證據者不得標為共創。\n查證日期：2026-11-26",
-    "notionUrl": "https://app.notion.com/p/42334a20271a815f88a5f0e5ce33175f"
-  },
-  {
     "id": "daily-2026-11-26-family",
     "date": "2026-11-26",
     "category": "親子觀展訓練",
@@ -30898,5 +30782,409 @@
     },
     "rawText": "【來源事實】Tate 指出展覽回顧 Vanessa Bell 與 Duncan Grant 超過 50 年的創作夥伴關係，展出 300 多件繪畫、家具、陶瓷與織品，並同時呈現共享實踐與各自路徑；展至 2027 年 4 月 11 日。\n【策展推論】把合作成果拆成共享、互相影響與各自堅持三區，辨認哪些關係應深化、協商或重新劃界。\n【原創模擬】畫三個區域：「共同世界」「互相影響」「個人堅持」，每區放入近一年三個具體事件，再標註需深化、協商或劃界。；用 30 分鐘完成三區盤點，挑一件被合作掩蓋的個人作品，安排本週第一個 45 分鐘獨立時段。\n查證日期：2026-11-26",
     "notionUrl": "https://app.notion.com/p/42334a20271a81168683d5982763bb2d"
+  },
+  {
+    "id": "daily-2026-11-26-participation",
+    "date": "2026-11-26",
+    "category": "國際民眾參與實作",
+    "lens": "學生共策展的決策軌跡",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "In the Library: Reimagining America by Design",
+      "url": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當大學生被邀請設計國家美術館展覽，機構如何讓參與不只停在作業展示，而是真正改變選件、詮釋與觀看方式？",
+    "summary": "以「哪個決策真的被改變」驗證共策展，把學生的研究、選件、原型與最終展件留成可追蹤的決策軌跡。",
+    "questions": [
+      "學生實際擁有哪些決策權？",
+      "哪些選件或文字因學生建議而改變？",
+      "館方提供了哪些檔案、時間與專業支持？",
+      "參與者能否拒絕既有分類？",
+      "過程中的失敗與修正是否被公開？",
+      "學生作品與館藏材料如何並置而不被降級？",
+      "誰沒有條件參與整學期合作？",
+      "觀眾如何辨認每項決策的作者？",
+      "專案結束後參與者還能影響什麼？",
+      "下一輪合作要把哪一項權力再往外移？"
+    ],
+    "strategy": "製作「決策軌跡表」：提案人、原始方案、機構限制、實際改動、證據與後續權責。",
+    "task": "從一場參與式專案挑五個關鍵決策，逐一寫出誰提出、最後改了什麼；沒有改動證據者不得標為共創。",
+    "training": "15 分鐘列決策；20 分鐘找改動證據；20 分鐘訪談或模擬不同角色；15 分鐘標權力；10 分鐘補回饋；10 分鐘重寫參與聲明。",
+    "coreHypothesis": "若參與成效以真實決策改動而非出席人數衡量，共策展較能避免象徵性參與。",
+    "underlyingNeed": "參與者需要可見的作者位置、實際決策權與專案結束後仍可追蹤的回饋。",
+    "realConstraints": "學期長度、館藏安全、機構審核、參與者時間與教育資源差異會限制權力移轉。",
+    "leverage": "「決策軌跡表」可用於校園展、社區工作坊、公共藝術與公民審議。",
+    "sourceFact": "National Gallery of Art 指出 2026 年春季與 George Washington University Corcoran School 學生合作一學期；學生使用館藏、檔案與圖書館資源設計展覽，11 月 2 日至 12 月 31 日的 Work & Play 結合學生作品與兒童玩具、遊戲等館藏材料。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "華盛頓 National Gallery of Art",
+      "title": "In the Library: Reimagining America by Design",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁顯示第二階段 Work & Play 正在展出至 2026-12-31。",
+      "references": [
+        "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+        "https://www.nga.gov/press/women-and-index-american-design"
+      ],
+      "photos": [
+        {
+          "url": "https://www.nga.gov/sites/default/files/contextual/styles/16x9__focal_point_scale_and_crop__xl/public/2026-07/sc-044_123191_001-ppt-hd_0__jpg/5418206.jpg?itok=qCuDXJBf&h=cfb70e87",
+          "caption": "《In the Library: Reimagining America by Design》官方展覽影像。",
+          "credit": "National Gallery of Art；該展覽頁未另列攝影者，詳細權利依官方頁",
+          "sourceUrl": "https://www.nga.gov/exhibitions/library-reimagining-america-design",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 指出 2026 年春季與 George Washington University Corcoran School 學生合作一學期；學生使用館藏、檔案與圖書館資源設計展覽，11 月 2 日至 12 月 31 日的 Work & Play 結合學生作品與兒童玩具、遊戲等館藏材料。\n【策展推論】以「哪個決策真的被改變」驗證共策展，把學生的研究、選件、原型與最終展件留成可追蹤的決策軌跡。\n【原創模擬】製作「決策軌跡表」：提案人、原始方案、機構限制、實際改動、證據與後續權責。；從一場參與式專案挑五個關鍵決策，逐一寫出誰提出、最後改了什麼；沒有改動證據者不得標為共創。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a815f88a5f0e5ce33175f"
+  },
+  {
+    "id": "daily-2026-11-26-thinking",
+    "date": "2026-11-26",
+    "category": "策展思考訓練",
+    "lens": "物件的交換生命史",
+    "source": {
+      "name": "The Metropolitan Museum of Art",
+      "title": "Tapa: Art of the Gift in Polynesia",
+      "url": "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
+      "accessedAt": "2026-11-26",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當一件織物曾是外交贈禮、身分象徵與祖傳知識，策展如何避免只剩下材質與圖案之美？",
+    "summary": "把物件從「被觀看的作品」還原為生產、贈與、接收、保存與再詮釋的關係鏈。",
+    "questions": [
+      "誰共同製作這件物件，知識如何傳承？",
+      "它原本在什麼儀式或交換中發揮作用？",
+      "贈與者希望建立什麼關係？",
+      "接收者如何理解或誤讀它？",
+      "進入收藏前後，它的用途如何改變？",
+      "展覽是否只稱讚形式而忽略外交作用？",
+      "哪些詞彙來自社群自身，哪些是博物館分類？",
+      "如何呈現女性集體勞動而不抹平個別差異？",
+      "借展與展示是否延續互惠關係？",
+      "觀眾離場後能採取哪個尊重來源社群的行動？"
+    ],
+    "strategy": "畫出「交換生命史」：製作者、贈與者、接收者、收藏機構與當代社群五個節點，每條線寫清權利、義務與意義變化。",
+    "task": "挑一件館藏物，30 分鐘補出它至少三次所有權或意義轉換，並改寫一則只談外觀的標籤。",
+    "training": "10 分鐘看物件；15 分鐘找來源詞彙；20 分鐘畫交換鏈；20 分鐘標權力差；15 分鐘重寫標籤；10 分鐘檢查互惠。",
+    "coreHypothesis": "若展覽以交換關係而非孤立物件為單位，觀眾會更能理解文化物件的政治與倫理生命。",
+    "underlyingNeed": "需要讓製作知識、贈與意圖與來源社群持續存在於展示中。",
+    "realConstraints": "早期收藏紀錄可能不完整；名稱翻譯、社群內部差異、敏感知識與返還議題都需謹慎處理。",
+    "leverage": "「交換生命史」可複用於禮物、工藝、外交物件、殖民收藏與私人捐贈研究。",
+    "sourceFact": "The Met 指出 tapa 由玻里尼西亞女性集體製作，長期用於儀式、贈禮與政治文化外交；展覽集結斐濟、薩摩亞、富圖納與紐埃作品，展至 2027 年 12 月 12 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 The Metropolitan Museum of Art",
+      "title": "Tapa: Art of the Gift in Polynesia",
+      "statusAsOf": "2026-11-26",
+      "latestUpdate": "截至 2026-11-26，官方頁標示展覽正在展出，展至 2027-12-12。",
+      "references": [
+        "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
+        "https://www.metmuseum.org/press-releases/tapa-art-of-the-gift"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.sanity.io/images/cctd4ker/production/7c87b6164655f711842004277a35e658e1ea7d1f-5121x1707.jpg?w=1920&q=75&auto=format",
+          "caption": "斐濟藝術家，Panel (Masi Kesa) 細節，19 世紀中後期，官方展覽頁橫幅影像。",
+          "credit": "The Metropolitan Museum of Art, Gift of Adelaide and Edmund Carpenter, 1990；詳細權利依官方頁",
+          "sourceUrl": "https://www.metmuseum.org/exhibitions/tapa-art-of-the-gift-in-polynesia",
+          "verifiedAt": "2026-11-26"
+        }
+      ]
+    },
+    "rawText": "【來源事實】The Met 指出 tapa 由玻里尼西亞女性集體製作，長期用於儀式、贈禮與政治文化外交；展覽集結斐濟、薩摩亞、富圖納與紐埃作品，展至 2027 年 12 月 12 日。\n【策展推論】把物件從「被觀看的作品」還原為生產、贈與、接收、保存與再詮釋的關係鏈。\n【原創模擬】畫出「交換生命史」：製作者、贈與者、接收者、收藏機構與當代社群五個節點，每條線寫清權利、義務與意義變化。；挑一件館藏物，30 分鐘補出它至少三次所有權或意義轉換，並改寫一則只談外觀的標籤。\n查證日期：2026-11-26",
+    "notionUrl": "https://app.notion.com/p/42334a20271a81d2ba9ccacbde7af2e7"
+  },
+  {
+    "id": "daily-2026-11-27-curator",
+    "date": "2026-11-27",
+    "category": "專業策展人課題",
+    "lens": "花園權力剖面",
+    "source": {
+      "name": "Walker Art Center",
+      "title": "Abbas Akhavan: Variations on a Garden",
+      "url": "https://www.walkerart.org/whats-on/abbas-akhavan-variations-on-a-garden/",
+      "accessedAt": "2026-11-27",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當花園同時是照護、馴化與權力邊界，策展如何讓觀眾看見「自然」其實是被安排的？",
+    "summary": "把花園拆成培育、排除、分類與廢棄四種動作，讓展覽不只讚美自然，而能揭示誰在決定哪些生命被保留。",
+    "questions": [
+      "展覽裡的「自然」是野生狀態、人工設計，還是兩者談判的結果？",
+      "誰有權決定哪些物種被培育、移除或命名？",
+      "花園的美感是否遮蔽了殖民、戰爭或遷徙歷史？",
+      "哪些材料會衰敗，哪些材料被保存，這個差異意味什麼？",
+      "觀眾能否從作品看見照護與控制同時存在？",
+      "公共與私人空間的邊界如何被作品重新安排？",
+      "展場是否把植物變成純粹裝飾或背景？",
+      "作品的脆弱性會如何改變保存與展示權力？",
+      "哪一項策展選擇最容易被誤讀為自然本來如此？",
+      "若刪除所有「自然療癒」語言，展覽還剩下什麼核心衝突？"
+    ],
+    "strategy": "建立「培育／排除／分類／廢棄」四欄權力表，逐件作品標出受益者、被忽略者與可見證據。",
+    "task": "拿一件正在規劃的作品，15 分鐘完成四欄權力表，並把一段過度浪漫化自然的展標改寫成可被證明的版本。",
+    "training": "20 分鐘列生命材料；20 分鐘追溯誰做決定；20 分鐘找被排除者；20 分鐘改寫展標；10 分鐘做反方檢查。",
+    "coreHypothesis": "若策展把花園視為治理系統而非中性景觀，觀眾較能辨認照護與控制如何同時發生。",
+    "underlyingNeed": "需要一套能把環境美學轉成權力、歷史與倫理問題的可操作方法。",
+    "realConstraints": "展品保存、活體照護、場館安全與觀眾對自然題材的浪漫預期，會壓縮批判表達。",
+    "leverage": "四欄權力表可複用於生態展、城市綠化、公共藝術與地方文化計畫。",
+    "sourceFact": "Walker Art Center 官方資料指出，展覽於 2026 年 11 月 12 日至 2027 年 4 月 18 日在 Galleries A & B 展出，是 Abbas Akhavan 首次大型美國博物館回顧展；展覽以花園作為野生與馴化生命的談判場域，討論生態變遷、文化保存及公共／私人空間。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "明尼阿波利斯 Walker Art Center",
+      "title": "Abbas Akhavan: Variations on a Garden",
+      "statusAsOf": "2026-11-27",
+      "latestUpdate": "截至 2026-11-27，官方頁標示展覽正在展出，展期至 2027-04-18。",
+      "references": [
+        "https://www.walkerart.org/whats-on/abbas-akhavan-variations-on-a-garden/"
+      ],
+      "photos": [
+        {
+          "url": "https://assets.walkerart.org/uploads/2025/11/des2026_web_image_1.6_1_abbas-e1793817760578.jpg?resize=1584%2C990&gravity",
+          "caption": "Abbas Akhavan《curtain call, variations on a folly》展場影像，呈現夯土柱列與綠色基面。",
+          "credit": "Abbas Akhavan, curtain call, variations on a folly, 2021/2023；Photo: David Stjernholm",
+          "sourceUrl": "https://www.walkerart.org/whats-on/abbas-akhavan-variations-on-a-garden/",
+          "verifiedAt": "2026-11-27"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Walker Art Center 官方資料指出，展覽於 2026 年 11 月 12 日至 2027 年 4 月 18 日在 Galleries A & B 展出，是 Abbas Akhavan 首次大型美國博物館回顧展；展覽以花園作為野生與馴化生命的談判場域，討論生態變遷、文化保存及公共／私人空間。\n【策展推論】把花園拆成培育、排除、分類與廢棄四種動作，讓展覽不只讚美自然，而能揭示誰在決定哪些生命被保留。\n【原創模擬】建立「培育／排除／分類／廢棄」四欄權力表，逐件作品標出受益者、被忽略者與可見證據。；拿一件正在規劃的作品，15 分鐘完成四欄權力表，並把一段過度浪漫化自然的展標改寫成可被證明的版本。\n查證日期：2026-11-27",
+    "notionUrl": "https://app.notion.com/42434a20271a81268dd9ef59aa422b47"
+  },
+  {
+    "id": "daily-2026-11-27-family",
+    "date": "2026-11-27",
+    "category": "親子觀展訓練",
+    "lens": "材料轉化四步",
+    "source": {
+      "name": "Cooper Hewitt, Smithsonian Design Museum",
+      "title": "Family Program | Mix, Pour and Make",
+      "url": "https://www.cooperhewitt.org/event/family-program-mix-pour-and-make-12-12-2026/",
+      "accessedAt": "2026-11-27",
+      "sourceType": "英文官方活動頁"
+    },
+    "title": "親子把液體材料倒入模具時，如何從「做出成品」進一步理解材料、古代技術與失敗測試？",
+    "summary": "用觀察、預測、製作、回看四步，把手作活動變成材料研究：孩子不只帶走成品，也能說出材料如何改變。",
+    "questions": [
+      "開始前，孩子看見材料有哪些狀態？",
+      "他預測混合後會發生什麼？",
+      "古代彩陶與現代 Jesmonite 的材料差異是什麼？",
+      "為什麼要使用模具？",
+      "倒入速度會如何影響成品？",
+      "哪一個失敗能成為新的觀察證據？",
+      "成人是否過早替孩子修正？",
+      "作品完成後，孩子能描述哪三個變化？",
+      "館藏物件如何成為手作的研究對象而非造型範本？",
+      "回家後能用哪種安全材料重做同一個問題？"
+    ],
+    "strategy": "使用「看見—猜測—動手—回看」四格紀錄卡；成人只能先問問題，孩子完成第一次嘗試後再提供技巧。",
+    "task": "找一種家中安全的可塑材料，和孩子做 20 分鐘四格實驗：先畫預測，再製作，最後圈出一個意外結果。",
+    "training": "10 分鐘看館藏；10 分鐘畫預測；20 分鐘混合與倒模；15 分鐘等待觀察；15 分鐘比較；20 分鐘把失敗改成下一輪問題。",
+    "coreHypothesis": "若手作前後都保留預測與回看，親子活動能從成品導向轉為材料推理。",
+    "underlyingNeed": "孩子需要在安全環境中擁有試錯權，成人也需要不急著代替完成的引導框架。",
+    "realConstraints": "材料安全、乾燥時間、年齡差異、場地清潔與活動容量會限制開放試驗。",
+    "leverage": "四格紀錄卡可複用於陶土、紙漿、染色、建構與科學館親子活動。",
+    "sourceFact": "Cooper Hewitt 官方頁指出，活動於 2026 年 12 月 12 日舉行，5–12 歲兒童與照顧者使用水性環保樹脂 Jesmonite 混合、倒模並製作物件；活動連結館內約西元前 1100 年的埃及蓮花形彩陶杯，且不要求既有經驗。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 Cooper Hewitt",
+      "title": "Family Program | Mix, Pour and Make",
+      "statusAsOf": "2026-11-27",
+      "latestUpdate": "截至 2026-11-27，官方頁標示活動將於 2026-12-12 11:00–15:00 ET 舉行。",
+      "references": [
+        "https://www.cooperhewitt.org/event/family-program-mix-pour-and-make-12-12-2026/",
+        "https://www.cooperhewitt.org/exhibition/design-across-time/"
+      ],
+      "photos": [
+        {
+          "url": "https://www.cooperhewitt.org/wp-content/uploads/2026/09/December-FP-1400x700-1.png",
+          "caption": "《Mix, Pour and Make》官方活動主視覺，並置蓮花形杯與兒童材料實作。",
+          "credit": "Cooper Hewitt, Smithsonian Design Museum／Smithsonian Institution",
+          "sourceUrl": "https://www.cooperhewitt.org/event/family-program-mix-pour-and-make-12-12-2026/",
+          "verifiedAt": "2026-11-27"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Cooper Hewitt 官方頁指出，活動於 2026 年 12 月 12 日舉行，5–12 歲兒童與照顧者使用水性環保樹脂 Jesmonite 混合、倒模並製作物件；活動連結館內約西元前 1100 年的埃及蓮花形彩陶杯，且不要求既有經驗。\n【策展推論】用觀察、預測、製作、回看四步，把手作活動變成材料研究：孩子不只帶走成品，也能說出材料如何改變。\n【原創模擬】使用「看見—猜測—動手—回看」四格紀錄卡；成人只能先問問題，孩子完成第一次嘗試後再提供技巧。；找一種家中安全的可塑材料，和孩子做 20 分鐘四格實驗：先畫預測，再製作，最後圈出一個意外結果。\n查證日期：2026-11-27",
+    "notionUrl": "https://app.notion.com/42434a20271a814391e6d5fe5fe9aafd"
+  },
+  {
+    "id": "daily-2026-11-27-life",
+    "date": "2026-11-27",
+    "category": "人生策展課題",
+    "lens": "緩慢見證與注意力倫理",
+    "source": {
+      "name": "Serpentine",
+      "title": "Amar Kanwar",
+      "url": "https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/",
+      "accessedAt": "2026-11-27",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "面對無法快速消化的暴力與記憶，你願意用多慢的速度觀看，才不會把他人的傷痛變成一次性內容？",
+    "summary": "用分段觀看、停頓與回返取代一次看完，建立自己的見證節奏，讓理解不以快速消費他人經驗為代價。",
+    "questions": [
+      "我現在觀看這段材料的真正動機是什麼？",
+      "哪些內容需要停下來，而不是立刻評論？",
+      "我能承受多長的專注時間而不麻木？",
+      "何時應該離開，何時值得回來？",
+      "我是否把他人的傷痛轉成自己的情緒素材？",
+      "哪些歷史脈絡必須先補讀？",
+      "作品的緩慢如何抵抗快速結論？",
+      "沉默在這裡是逃避、尊重還是思考？",
+      "觀看後我願意改變哪一個具體行為？",
+      "一週後仍留下的問題是什麼？"
+    ],
+    "strategy": "建立「觀看—停頓—補讀—回返」四段節奏；每段只寫一個可證明的觀察與一個尚不能下結論的問題。",
+    "task": "選一部至少 30 分鐘、涉及真實記憶的作品，先看 15 分鐘後停下；寫一個觀察、一個未知，再決定今天續看或改日回返。",
+    "training": "15 分鐘觀看；10 分鐘身體掃描；15 分鐘寫觀察；20 分鐘補一段歷史；15 分鐘回看片段；15 分鐘寫延後判斷。",
+    "coreHypothesis": "若觀看包含主動停頓與回返，觀者較不易把複雜傷痛壓縮成即時情緒或快速立場。",
+    "underlyingNeed": "需要一種既不逃避痛苦材料，也不以消費他人傷痛來證明同理心的觀看方式。",
+    "realConstraints": "時間、情緒容量、展場黑暗、作品總長度與既有知識差距都會影響觀看。",
+    "leverage": "四段節奏可複用於紀錄片、口述史、新聞影像、紀念館與個人哀傷整理。",
+    "sourceFact": "Serpentine 官方頁指出，Amar Kanwar 展覽以紀錄片、旅行敘事與視覺散文處理社會動盪、流離、暴力、正義與記憶；三組作品總長約 3 小時，觀眾可自行停留、移動並回訪，展覽免費並展至 2027 年 1 月 31 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦 Serpentine North Gallery",
+      "title": "Amar Kanwar",
+      "statusAsOf": "2026-11-27",
+      "latestUpdate": "截至 2026-11-27，官方頁標示展覽正在展出，免費入場，展至 2027-01-31。",
+      "references": [
+        "https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/"
+      ],
+      "photos": [
+        {
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2025/11/07_260921_Serpentine28221_Full-res-1501x1001.jpg",
+          "caption": "Amar Kanwar《The Peacock’s Graveyard》(2023) 於 Serpentine North 的 2026 年展場景觀。",
+          "credit": "© Amar Kanwar；Photo: © Serpentine and Luke Walker",
+          "sourceUrl": "https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/",
+          "verifiedAt": "2026-11-27"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Serpentine 官方頁指出，Amar Kanwar 展覽以紀錄片、旅行敘事與視覺散文處理社會動盪、流離、暴力、正義與記憶；三組作品總長約 3 小時，觀眾可自行停留、移動並回訪，展覽免費並展至 2027 年 1 月 31 日。\n【策展推論】用分段觀看、停頓與回返取代一次看完，建立自己的見證節奏，讓理解不以快速消費他人經驗為代價。\n【原創模擬】建立「觀看—停頓—補讀—回返」四段節奏；每段只寫一個可證明的觀察與一個尚不能下結論的問題。；選一部至少 30 分鐘、涉及真實記憶的作品，先看 15 分鐘後停下；寫一個觀察、一個未知，再決定今天續看或改日回返。\n查證日期：2026-11-27",
+    "notionUrl": "https://app.notion.com/42434a20271a81b7aec0e3d461a3e262"
+  },
+  {
+    "id": "daily-2026-11-27-participation",
+    "date": "2026-11-27",
+    "category": "國際民眾參與實作",
+    "lens": "典藏請求權",
+    "source": {
+      "name": "Victoria and Albert Museum",
+      "title": "Order an Object",
+      "url": "https://www.vam.ac.uk/info/order-an-object",
+      "accessedAt": "2026-11-27",
+      "sourceType": "英文官方服務頁"
+    },
+    "title": "當觀眾可以自己從庫房點選想看的物件，博物館如何把「開放典藏」從參觀口號變成可預約的選擇權？",
+    "summary": "把參與從提供意見提升為可執行的典藏請求：觀眾選物、選時、到庫房觀看，機構則公開限制並提供安全支持。",
+    "questions": [
+      "觀眾實際可以決定哪一件物件被取出？",
+      "請求流程是否讓非專業者也看得懂？",
+      "哪些物件不能預約，理由是否透明？",
+      "從線上選物到現場觀看需要等多久？",
+      "服務是否免費，還有哪些隱性成本？",
+      "無障礙需求能否在預約時提出？",
+      "工作人員如何在安全與近距離觀看之間協商？",
+      "參與者的選擇是否回饋到館藏研究或展示？",
+      "最多件數、陪同者與時間限制如何影響公平性？",
+      "若移植到地方館舍，最小可行版本需要哪些角色？"
+    ],
+    "strategy": "設計「請求權階梯」：可搜尋、可選擇、可預約、可接近、可回饋；每一層都標示規則、等待時間與例外。",
+    "task": "挑一組目前在庫房的 10 件物件，30 分鐘做出一頁式預約原型，至少包含可選清單、限制、時段與回饋欄。",
+    "training": "15 分鐘畫現行流程；20 分鐘找權力斷點；20 分鐘設五階梯；20 分鐘寫限制；15 分鐘用非專業觀眾角色測試。",
+    "coreHypothesis": "當公眾擁有可操作的典藏請求權，而非只被邀請觀看既定展示，參與會更接近實質選擇權。",
+    "underlyingNeed": "需要讓公共館藏的所有權主張，轉化為一般人可理解、可使用的制度。",
+    "realConstraints": "保存狀況、危險物質、運送、人力、場地、保險與資安都會限制可預約範圍。",
+    "leverage": "請求權階梯可複用於地方文史館、檔案館、圖書館特藏與公共藝術資料庫。",
+    "sourceFact": "V&A 官方頁說明 Order an Object 是免費服務，使用者可挑選庫藏物件、選擇觀看時間並到庫房見到物件；預約時可提出無障礙需求，現場由 Collections Access 團隊協助安全互動，單次最多可選同一場館的 5 件物件。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "英國",
+      "location": "倫敦 V&A East Storehouse／V&A South Kensington",
+      "title": "Order an Object",
+      "statusAsOf": "2026-11-27",
+      "latestUpdate": "截至 2026-11-27，官方服務頁仍提供線上選物與免費預約流程。",
+      "references": [
+        "https://www.vam.ac.uk/info/order-an-object",
+        "https://www.vam.ac.uk/east/storehouse/visit"
+      ],
+      "photos": [
+        {
+          "url": "https://assets-cdn.vam.ac.uk/2025/04/17/12/18/59/387c2969-d8f7-41fc-8c72-de2bc6bcf1ae/320.jpg",
+          "caption": "Collections Access Team 從庫房取出 Spitalfields 絲鞋，呈現 Order an Object 的實際取件流程。",
+          "credit": "Photo: Nuala Sharkey, courtesy of the Victoria and Albert Museum, London",
+          "sourceUrl": "https://www.vam.ac.uk/info/order-an-object",
+          "verifiedAt": "2026-11-27"
+        }
+      ]
+    },
+    "rawText": "【來源事實】V&A 官方頁說明 Order an Object 是免費服務，使用者可挑選庫藏物件、選擇觀看時間並到庫房見到物件；預約時可提出無障礙需求，現場由 Collections Access 團隊協助安全互動，單次最多可選同一場館的 5 件物件。\n【策展推論】把參與從提供意見提升為可執行的典藏請求：觀眾選物、選時、到庫房觀看，機構則公開限制並提供安全支持。\n【原創模擬】設計「請求權階梯」：可搜尋、可選擇、可預約、可接近、可回饋；每一層都標示規則、等待時間與例外。；挑一組目前在庫房的 10 件物件，30 分鐘做出一頁式預約原型，至少包含可選清單、限制、時段與回饋欄。\n查證日期：2026-11-27",
+    "notionUrl": "https://app.notion.com/42434a20271a81449751f85462c45d7b"
+  },
+  {
+    "id": "daily-2026-11-27-thinking",
+    "date": "2026-11-27",
+    "category": "策展思考訓練",
+    "lens": "非年代式跨時策展",
+    "source": {
+      "name": "Cooper Hewitt, Smithsonian Design Museum",
+      "title": "Design Across Time: Exploring the Smithsonian’s Design Collection",
+      "url": "https://www.cooperhewitt.org/exhibition/design-across-time/",
+      "accessedAt": "2026-11-27",
+      "sourceType": "英文官方展覽頁"
+    },
+    "title": "當125件設計跨越時代、地理與媒材，策展如何用行動主題取代年代排序而不抹平歷史差異？",
+    "summary": "用主題聚類連接跨時代物件，同時為每件作品保留時間、地域、材料與權力脈絡，避免「相似」取代歷史。",
+    "questions": [
+      "為什麼這批物件不適合只用年代排序？",
+      "主題詞描述的是形式、行動還是價值判斷？",
+      "哪些物件因跨時並置而產生新的理解？",
+      "哪些歷史差異可能被主題聚類抹平？",
+      "每組至少需要哪一項脈絡標記？",
+      "觀眾能否看出設計問題在不同時代如何改變？",
+      "地理跨度是否變成沒有權力關係的世界拼貼？",
+      "材料與製作條件是否被漂亮的分類名遮蔽？",
+      "若一件物件可進入三組，策展如何說明選擇？",
+      "哪一個主題群最需要加入反例，避免結論過度整齊？"
+    ],
+    "strategy": "建立「主題群＋脈絡護欄」雙層卡：正面寫跨時共通動作，背面固定保留年代、地域、材料、使用者與權力關係。",
+    "task": "選 6 件差異很大的物件，用 20 分鐘分成兩個行動主題；再為每件補一張五欄脈絡護欄卡。",
+    "training": "15 分鐘盲分組；15 分鐘命名；20 分鐘補脈絡；20 分鐘加入反例；20 分鐘測試觀眾是否能重建差異。",
+    "coreHypothesis": "主題聚類若同時附帶脈絡護欄，能兼顧跨時連結與歷史差異。",
+    "underlyingNeed": "需要擺脫線性年代敘事，又不犧牲物件所屬的具體社會條件。",
+    "realConstraints": "物件數量、展標字數、展櫃動線與觀眾時間有限，分類容易成為過度簡化。",
+    "leverage": "雙層卡可複用於館藏重陳、設計史教學、地方檔案與跨媒材研究。",
+    "sourceFact": "Cooper Hewitt 官方資料指出，展覽從超過 21.5 萬件館藏中選出 125 件，使用 Play、Tweak、Repeat、Transform、Show Off、Simplify 等主題群，跨越地理、材料與時間而非採傳統年代序列；展覽持續至 2028 年 10 月 22 日。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "紐約 Cooper Hewitt",
+      "title": "Design Across Time: Exploring the Smithsonian’s Design Collection",
+      "statusAsOf": "2026-11-27",
+      "latestUpdate": "截至 2026-11-27，官方頁標示為多年期常設館藏展示，持續至 2028-10-22。",
+      "references": [
+        "https://www.cooperhewitt.org/exhibition/design-across-time/",
+        "https://www.cooperhewitt.org/2026/06/15/cooper-hewitt-unveils-permanent-collection-galleries-showcasing-a-multi-year-presentation-of-the-national-design-collection/"
+      ],
+      "photos": [
+        {
+          "url": "https://www.cooperhewitt.org/wp-content/uploads/2026/03/WebBanner_2000x1000-DesignAcrossTime-030226-1.jpg",
+          "caption": "《Design Across Time》官方主視覺，以十二件跨時代館藏形成物件網格。",
+          "credit": "Cooper Hewitt, Smithsonian Design Museum／Smithsonian Institution",
+          "sourceUrl": "https://www.cooperhewitt.org/exhibition/design-across-time/",
+          "verifiedAt": "2026-11-27"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Cooper Hewitt 官方資料指出，展覽從超過 21.5 萬件館藏中選出 125 件，使用 Play、Tweak、Repeat、Transform、Show Off、Simplify 等主題群，跨越地理、材料與時間而非採傳統年代序列；展覽持續至 2028 年 10 月 22 日。\n【策展推論】用主題聚類連接跨時代物件，同時為每件作品保留時間、地域、材料與權力脈絡，避免「相似」取代歷史。\n【原創模擬】建立「主題群＋脈絡護欄」雙層卡：正面寫跨時共通動作，背面固定保留年代、地域、材料、使用者與權力關係。；選 6 件差異很大的物件，用 20 分鐘分成兩個行動主題；再為每件補一張五欄脈絡護欄卡。\n查證日期：2026-11-27",
+    "notionUrl": "https://app.notion.com/42434a20271a8151b356d1ba96303829"
   }
 ]
