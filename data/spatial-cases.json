@@ -992,5 +992,267 @@
       ],
       "reading": "作品和海景共同形成觀看點，場域日常使用也決定停留能否成立。轉用到港邊公共藝術時，先比較平日和活動日的通行需求。"
     }
+  },
+  {
+    "svg": "orsay-station-nave",
+    "kind": "工業再生",
+    "t": "奧賽博物館｜車站大廳再生",
+    "sub": "巴黎，法國",
+    "data": "原奧賽車站為 1900 年巴黎萬國博覽會興建。改建時由 ACT Architecture 負責建築，Gae Aulenti 設計室內，博物館於 1986 年揭幕。原玻璃拱頂與車站大鐘仍可從雕塑中殿辨認。",
+    "move": "用雕塑和可穿越的展台把舊車站的縱向尺度分段。遠端大鐘可作定向點，兩側展室讓觀看從長距離轉為近距離。",
+    "take": "在舊廠房先保留一條能看見原有構件的主軸，把停留展台放在通行帶側方，再從入口、分岔口與端景回測視線。",
+    "beats": [
+      "辨認舊站外殼",
+      "跨入拱頂大廳",
+      "沿雕塑中殿前行",
+      "轉入側室近看",
+      "回主軸以大鐘重新定位"
+    ],
+    "link": "https://www.epmo-musees.fr/en/les-musees/histoire-de-nos-musees",
+    "src": "EPMO 奧賽與橘園博物館公共機構",
+    "date": "2026-11-27",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Musee_d_Orsay_main_hall_Paris_2023_dllu.jpg/1280px-Musee_d_Orsay_main_hall_Paris_2023_dllu.jpg",
+    "alt": "奧賽博物館玻璃拱頂下的雕塑中殿，端部可見車站大鐘",
+    "credit": "DLLU｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Musee_d_Orsay_main_hall_Paris_2023_dllu.jpg",
+    "system": {
+      "form": [
+        "街道與站房外殼",
+        "拱頂中殿",
+        "兩側展室"
+      ],
+      "route": [
+        "入口",
+        "中殿",
+        "側室",
+        "中殿再定位"
+      ],
+      "perception": [
+        "玻璃拱頂採光",
+        "大鐘遠景",
+        "側室近觀"
+      ],
+      "reading": "中殿遠端的大鐘能縮短每次離開側室後的找路時間。高而亮的主廳容易讓小件失去焦點，也可能增加敏感作品受光，因此可把耐光的大件留在主軸，把精細作品移入可調光的側室。"
+    }
+  },
+  {
+    "svg": "berlin-neue-nationalgalerie-glass-hall",
+    "kind": "展示設計",
+    "t": "柏林新國家美術館｜玻璃展廳與下層展間",
+    "sub": "柏林，德國",
+    "data": "密斯・凡德羅設計的館舍於 1968 年開館。入口層為無內柱玻璃大廳，下層為展間並連接雕塑庭園。",
+    "move": "把需要長視距、可從多方向接近的作品放在玻璃大廳，讓建築與城市風景成為觀看背景。下層展牆可支撐較密集的作品序列。",
+    "take": "布展時畫出三條入場斜視線，先測模型輪廓是否被玻璃反光吞沒，再排展牆、說明牌及下樓導引。",
+    "beats": [
+      "登上基座平台",
+      "穿過玻璃入口",
+      "斜向繞看上層展場",
+      "下樓觀看分室展品",
+      "在雕塑庭園方向重新定向"
+    ],
+    "link": "https://www.smb.museum/en/museums-institutions/neue-nationalgalerie/about-us/profile",
+    "src": "柏林國立博物館",
+    "date": "2026-11-27",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin%2C_Neue_Nationalgalerie.jpg/1280px-Berlin%2C_Neue_Nationalgalerie.jpg",
+    "alt": "新國家美術館上層玻璃大廳的室內實景",
+    "credit": "Buzzi Michele｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Berlin,_Neue_Nationalgalerie.jpg",
+    "system": {
+      "form": [
+        "抬高的基座",
+        "無內柱玻璃廳",
+        "下層展間",
+        "雕塑庭園"
+      ],
+      "route": [
+        "平台",
+        "玻璃廳",
+        "樓梯轉層",
+        "展間"
+      ],
+      "perception": [
+        "城市外景",
+        "玻璃反射",
+        "穿越式長視線",
+        "展牆聚焦"
+      ],
+      "reading": "無內柱大廳讓觀眾自選接近角度，玻璃也讓背景亮度與反射持續變動。字幕、薄紙和低對比作品可轉入可控背景，開放展區則先測試作品在逆光下的輪廓與繞行距離。"
+    }
+  },
+  {
+    "svg": "rome-pantheon-oculus",
+    "kind": "歷史建築",
+    "t": "羅馬萬神殿｜門廊、圓廳與穹頂天眼",
+    "sub": "羅馬，義大利",
+    "data": "現存建築主要為哈德良時期重建。柱式門廊銜接圓形大廳，格狀穹頂中央的天眼開口讓日光直接進入。",
+    "move": "入口用正面軸線引人入場，進到圓廳後，圓形平面與上方天眼把觀看轉為環視與仰視。",
+    "take": "在歷史場址設計導覽時，把入口辨識、中央仰視、周邊細讀設成不同站位，記錄每站的視角及人群互擋情況。",
+    "beats": [
+      "從廣場看正面門廊",
+      "穿過柱列與門檻",
+      "步入圓廳",
+      "抬頭追蹤光斑",
+      "沿周邊回看入口"
+    ],
+    "link": "https://www.turismoroma.it/en/places/pantheon",
+    "src": "羅馬市官方旅遊局 Turismo Roma",
+    "date": "2026-11-27",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Interior_oculus_of_the_Rome_Pantheon.jpg/1280px-Interior_oculus_of_the_Rome_Pantheon.jpg",
+    "alt": "萬神殿室內的格狀穹頂與中央天眼",
+    "credit": "T. Le Berre｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Interior_oculus_of_the_Rome_Pantheon.jpg",
+    "system": {
+      "form": [
+        "廣場與門廊",
+        "圓廳",
+        "格狀穹頂",
+        "中央天眼"
+      ],
+      "route": [
+        "正面進入",
+        "中央定向",
+        "周邊繞行",
+        "回望入口"
+      ],
+      "perception": [
+        "門廊陰影",
+        "圓廳環視",
+        "天眼光束",
+        "移動光斑"
+      ],
+      "reading": "唯一的頂部開口把日光集中成可追蹤的時間訊號，也使中央容易成為拍照與仰視的停留點。做臨時展時可保留中央觀看空間，把文字或物件布置在周邊，避免讓停下來的人切斷穿越路線。"
+    }
+  },
+  {
+    "svg": "sancaklar-sunken-court",
+    "kind": "地下光庭",
+    "t": "桑賈克拉爾清真寺｜下沉前庭與縫光禮拜堂",
+    "sub": "伊斯坦堡，土耳其",
+    "data": "Emre Arolat Architecture 將禮拜堂嵌入坡地。順坡階梯通往較低的開放前庭，茶室與圖書館等公共空間在對側，禮拜堂由同一標高進入，朝拜方向牆以縫隙引光。",
+    "move": "將下行、露天停留、入室分成三段。前庭讓人聚散，進入低亮度的室內後，牆面狹縫成為主要視覺方向。",
+    "take": "在地下展場先設可見天空的停留節點，再用一段低亮入口調節視覺。把無階路線一起畫進剖面，檢查能否抵達同一停留點。",
+    "beats": [
+      "從街側辨認宣禮塔",
+      "順坡階梯下降",
+      "抵達開放前庭",
+      "轉入禮拜堂",
+      "視線沿縫光找到朝拜方向"
+    ],
+    "link": "https://emrearolat.com/project/sancaklar-mosque/",
+    "src": "Emre Arolat Architecture",
+    "date": "2026-11-27",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sancaklar_Camii_Minaresi.jpg/960px-Sancaklar_Camii_Minaresi.jpg",
+    "alt": "桑賈克拉爾清真寺的石造宣禮塔",
+    "credit": "Bjelica｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sancaklar_Camii_Minaresi.jpg",
+    "system": {
+      "form": [
+        "坡地與宣禮塔",
+        "順坡階梯",
+        "下沉開放前庭",
+        "嵌坡禮拜堂"
+      ],
+      "route": [
+        "街側辨識",
+        "沿坡下降",
+        "前庭停留",
+        "同層入堂"
+      ],
+      "perception": [
+        "地表天空",
+        "前庭開敞光",
+        "低亮室內",
+        "朝拜牆縫光"
+      ],
+      "reading": "前庭先保留天空與交談空間，入堂之後再收窄光源，因而能把集散與專注分開。階梯與明暗落差會影響行動和視覺適應，移植到展場時應讓無階路線共享前庭，並實測入口至焦點的亮度梯度。"
+    }
+  },
+  {
+    "svg": "fort-worth-modern-ando",
+    "kind": "光線與典藏",
+    "t": "沃斯堡現代美術館｜水池、外廊與展間採光",
+    "sub": "沃斯堡，美國",
+    "data": "安藤忠雄設計五座平屋頂展館量體，沿反射水池布置。懸挑混凝土屋頂遮蔭，連續線形天窗及高側窗把經漫射與反射的日光引入展區。",
+    "move": "把看景的水側界面當成展間之間的視覺休息點，依作品的耐光度與展示尺度安排採光較強或較可控的區段。",
+    "take": "布展前分早、中、晚量測作品表面照度，另外從坐姿與站姿實測玻璃反光，據此安排作品、座椅與遮光。",
+    "beats": [
+      "由入口辨認量體",
+      "沿有水景的通行帶前行",
+      "進入展間觀看",
+      "停在雙層挑高處辨認尺度",
+      "回水側重整方向"
+    ],
+    "link": "https://www.themodern.org/building",
+    "src": "Modern Art Museum of Fort Worth",
+    "date": "2026-11-27",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Modern_Art_Museum_of_Fort_Worth_January_2017_1.jpg/1280px-Modern_Art_Museum_of_Fort_Worth_January_2017_1.jpg",
+    "alt": "沃斯堡現代美術館的室內空間",
+    "credit": "Michael Barera｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Modern_Art_Museum_of_Fort_Worth_January_2017_1.jpg",
+    "system": {
+      "form": [
+        "反射水池",
+        "玻璃外緣與混凝土屋頂",
+        "展間",
+        "雙層高展廳"
+      ],
+      "route": [
+        "入口",
+        "水側通行",
+        "分館展間",
+        "挑高停留"
+      ],
+      "perception": [
+        "水面反射",
+        "玻璃外緣",
+        "高側窗與線形天窗",
+        "作品表面"
+      ],
+      "reading": "深簷遮住部分直射光，高側窗與線形天窗再把自然光帶入深處。水面和玻璃的亮度仍會隨天候變動，實作時可讓借景位置遠離最敏感的作品，並以作品表面照度和累積曝光校正。"
+    }
+  },
+  {
+    "svg": "venice-giardini-biennale",
+    "kind": "地方藝術祭",
+    "t": "威尼斯雙年展｜綠園城邦式展場",
+    "sub": "威尼斯，義大利",
+    "data": "綠園展區以中央館及園內 29 座不同時期興建的國家展館組成。中央館前身始於 1894 年，各展館藉公園步道串接。",
+    "move": "把園路當成展覽的一部分。中央館可以提供共同參照，各館門檻則讓觀眾逐次切換建築尺度、策展語言與觀看節奏。",
+    "take": "規劃地方藝術祭時，比對各點位步行時間、無障礙條件與排隊量，在主迴圈外另留短迴圈，並把休息點設在分岔前。",
+    "beats": [
+      "從綠園入口進場",
+      "沿園路建立方向",
+      "在中央館與支路間選擇",
+      "分館進出與比較",
+      "經園路回到主要節點"
+    ],
+    "link": "https://www.labiennale.org/en/venues/giardini-della-biennale",
+    "src": "La Biennale di Venezia",
+    "date": "2026-11-27",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Giardini_Biennale_2026.jpg/960px-Giardini_Biennale_2026.jpg",
+    "alt": "2026 年威尼斯雙年展綠園展區入口",
+    "credit": "Baseluna014｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Giardini_Biennale_2026.jpg",
+    "system": {
+      "form": [
+        "綠園入口",
+        "公共園路",
+        "中央館",
+        "分散國家館"
+      ],
+      "route": [
+        "入口",
+        "園路分岔",
+        "逐館進出",
+        "回主路"
+      ],
+      "perception": [
+        "露天園路",
+        "展館門面地標",
+        "室內光環境",
+        "回望園景"
+      ],
+      "reading": "分散的展館讓跨館步行形成消化與比較的時間，但地標辨識度和排隊會左右觀眾最後走到哪些館。移植到地方藝術祭時，可在岔路標示實際步行與等待時間，並把容易漏看的點位接入短迴圈。"
+    }
   }
 ]
