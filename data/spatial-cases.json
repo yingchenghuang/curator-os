@@ -1254,5 +1254,260 @@
       ],
       "reading": "分散的展館讓跨館步行形成消化與比較的時間，但地標辨識度和排隊會左右觀眾最後走到哪些館。移植到地方藝術祭時，可在岔路標示實際步行與等待時間，並把容易漏看的點位接入短迴圈。"
     }
+  },
+  {
+    "svg": "zkm-hallenbau-a",
+    "kind": "工業再生",
+    "t": "卡爾斯魯爾 ZKM｜軍工廠變成媒體藝術中心",
+    "sub": "卡爾斯魯爾，德國",
+    "data": "現址 Hallenbau A 原為 1915 至 1918 年興建的軍工生產建築。保留的廠房經改造後，容納 ZKM 與其他文化教育用途。",
+    "move": "利用入口大廳辨認廠房尺度及各區方向，再用門檻把公共交通、聲光展演分開。",
+    "take": "畫出柱網、共用通道與聲光展間的界線，實測三種作品的聲音是否跨過門口。",
+    "beats": [
+      "沿街讀舊廠立面",
+      "進入公共大廳",
+      "辨認分區",
+      "轉入媒體展場",
+      "回到共用大廳"
+    ],
+    "link": "https://zkm.de/en/architecture",
+    "src": "ZKM",
+    "date": "2026-11-28",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eingangshalle_des_Zentrums_f%C3%BCr_Kunst_und_Medientechnologie_%28ZKM%29_in_Karlsruhe.jpg/1280px-Eingangshalle_des_Zentrums_f%C3%BCr_Kunst_und_Medientechnologie_%28ZKM%29_in_Karlsruhe.jpg",
+    "alt": "ZKM 卡爾斯魯爾入口大廳",
+    "credit": "Andreas Schwarzkopf｜CC BY-SA 3.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Eingangshalle_des_Zentrums_f%C3%BCr_Kunst_und_Medientechnologie_%28ZKM%29_in_Karlsruhe.jpg",
+    "system": {
+      "form": [
+        "歷史廠殼",
+        "公共大廳",
+        "分區展間"
+      ],
+      "route": [
+        "街道",
+        "入口大廳",
+        "分流點",
+        "展間"
+      ],
+      "perception": [
+        "立面長向節奏",
+        "廳內遠視",
+        "展間聚焦"
+      ],
+      "reading": "大廳讓舊廠的尺度持續可讀，也讓不同用途共享入口。影音展場若直接敞向主通道，串音和漏光會影響兩邊。可先用可逆隔間做轉折門廳，再測試開關門時的聲光差。"
+    }
+  },
+  {
+    "svg": "va-london-weston-cast-court",
+    "kind": "展示設計",
+    "t": "倫敦 V&A｜Weston 翻模展庭",
+    "sub": "倫敦，英國",
+    "data": "V&A 於 1873 年開設翻模展庭，專門陳列藝術及建築複製件，展場能容納大型雕塑與建築構件。",
+    "move": "利用挑高放入超過日常人體尺度的構件，保留遠觀全貌與近讀表面的兩種位置。",
+    "take": "把同一展件的遠觀點與細讀點標在平面上，確認說明牌不會讓兩股人流交疊。",
+    "beats": [
+      "跨入展庭",
+      "遠望大型構件",
+      "沿展品邊緣移動",
+      "近讀翻模表面",
+      "退後比較群組"
+    ],
+    "link": "https://www.vam.ac.uk/articles/va-trail-architectural-wonders",
+    "src": "Victoria and Albert Museum",
+    "date": "2026-11-28",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Weston_Cast_Court_in_the_Victoria_and_Albert_Museum.JPG/1280px-Weston_Cast_Court_in_the_Victoria_and_Albert_Museum.JPG",
+    "alt": "V&A Weston 翻模展庭室內與大型翻模",
+    "credit": "Ethan Doyle White｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Weston_Cast_Court_in_the_Victoria_and_Albert_Museum.JPG",
+    "system": {
+      "form": [
+        "挑高展庭",
+        "大型翻模",
+        "低位閱讀區"
+      ],
+      "route": [
+        "入口",
+        "遠觀站位",
+        "近讀",
+        "退看"
+      ],
+      "perception": [
+        "高位輪廓",
+        "中距離比例",
+        "低位表面"
+      ],
+      "reading": "挑高讓建築級複製件可用原有尺度呈現，密集並置卻容易讓觀眾只看最高的物件。可使用兩組停留位置和低位資訊，引導比較製作痕跡與相對比例。"
+    }
+  },
+  {
+    "svg": "alhambra-court-of-lions",
+    "kind": "歷史建築",
+    "t": "阿爾罕布拉宮｜獅子庭院",
+    "sub": "格拉納達，西班牙",
+    "data": "獅子宮的矩形庭院由柱廊圍合，中央設獅子噴泉，水道把中央與四向空間連結。",
+    "move": "以柱廊遮蔭作近身行走區，讓水緣、中央噴泉與對側開口構成多個觀看距離。",
+    "take": "替庭院展畫出中央視軸與側邊陰影帶，測試在兩個方向進入時能否辨認同一地標。",
+    "beats": [
+      "穿越周邊房間",
+      "由柱廊看向庭院",
+      "辨認噴泉與水道",
+      "沿陰影邊界行走",
+      "回望對側開口"
+    ],
+    "link": "https://www.alhambra-patronato.es/en/edificios-lugares/the-court-of-the-lions",
+    "src": "阿爾罕布拉宮與赫內拉利費管理局",
+    "date": "2026-11-28",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Alhambra_Granada_-_Patio_de_los_Leones.jpg/500px-Alhambra_Granada_-_Patio_de_los_Leones.jpg",
+    "alt": "獅子庭院的柱廊與露天中庭",
+    "credit": "Robert Bovington｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Alhambra_Granada_-_Patio_de_los_Leones.jpg",
+    "system": {
+      "form": [
+        "周邊房間",
+        "環形柱廊",
+        "露天庭院",
+        "中央噴泉"
+      ],
+      "route": [
+        "房間門洞",
+        "柱廊",
+        "側向繞行",
+        "回望"
+      ],
+      "perception": [
+        "暗處框景",
+        "露天亮面",
+        "噴泉焦點"
+      ],
+      "reading": "柱列讓空間可穿透地被看見，走動時又會反覆遮露中央焦點。烈日下陰影區會吸引更多停留，可將展場說明配置在柱間側邊，避免占據主通道。"
+    }
+  },
+  {
+    "svg": "amos-rex-lasipalatsi-square",
+    "kind": "地下光庭",
+    "t": "赫爾辛基 Amos Rex｜地下展廳與廣場天窗",
+    "sub": "赫爾辛基，芬蘭",
+    "data": "Amos Rex 的展廳位於 Lasipalatsi 廣場下方，地下屋頂局部隆起成廣場地形，天窗把上下兩個標高相連。",
+    "move": "從廣場讀地形，再以下行、門廳與展間的不同亮度建立轉場，讓地表公共活動與地下展示並存。",
+    "take": "畫同一組天窗的地面和地下剖面，分別標出地面行人路徑、地下視線和可遮光位置。",
+    "beats": [
+      "踏入廣場",
+      "辨認屋頂隆起",
+      "從館舍下行",
+      "抵達地下門廳",
+      "進入展間並尋找上方光源"
+    ],
+    "link": "https://amosrex.fi/en/about-us/about-amos-rex/",
+    "src": "Amos Rex",
+    "date": "2026-11-28",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Interior_of_Amos_Rex.jpg/1280px-Interior_of_Amos_Rex.jpg",
+    "alt": "Amos Rex 地下展覽樓層的門廳",
+    "credit": "JIP｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Amos_Rex.jpg",
+    "system": {
+      "form": [
+        "公共廣場",
+        "隆起屋頂與天窗",
+        "地下門廳",
+        "展廳"
+      ],
+      "route": [
+        "廣場",
+        "入口下行",
+        "地下門廳",
+        "展室"
+      ],
+      "perception": [
+        "露天亮度",
+        "天窗視線",
+        "展間控光"
+      ],
+      "reading": "地下屋頂同時是公共廣場地形，天窗讓人感知地表方向。需要全黑的展出會與日光相衝，可在相鄰空間保留自然光定位點，並為暗展安排獨立控光。"
+    }
+  },
+  {
+    "svg": "louisiana-north-wing",
+    "kind": "光線與典藏",
+    "t": "路易斯安那現代美術館｜北翼玻璃廊",
+    "sub": "胡姆勒拜克，丹麥",
+    "data": "路易斯安那現代美術館以舊宅為起點，北翼用玻璃廊道及展間串起不同空間，窗外園景參與室內觀看。",
+    "move": "以透光廊道提供方向與短暫休息，在進入藏品展間前讓觀看距離從園景切回作品。",
+    "take": "同時記錄廊道眼高亮度與作品面照度，把需避免日照累積的作品安排在可調光位置。",
+    "beats": [
+      "由舊宅入館",
+      "進入玻璃廊",
+      "望向園景",
+      "轉入北翼展間",
+      "離開時回看園景"
+    ],
+    "link": "https://louisiana.dk/en/museum/architecture-and-history/",
+    "src": "Louisiana Museum of Modern Art",
+    "date": "2026-11-28",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2020_Louisiana_Museum.jpg/1280px-2020_Louisiana_Museum.jpg",
+    "alt": "路易斯安那現代美術館北翼展廊實景",
+    "credit": "Arquikek｜CC BY-SA 4.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:2020_Louisiana_Museum.jpg",
+    "system": {
+      "form": [
+        "舊宅",
+        "玻璃廊道",
+        "北翼展間",
+        "園地"
+      ],
+      "route": [
+        "舊宅入口",
+        "廊道前行",
+        "展間停留",
+        "回接廊道"
+      ],
+      "perception": [
+        "側向日光",
+        "園景遠視",
+        "展品近讀"
+      ],
+      "reading": "玻璃廊讓園景成為換場的距離參照，晴天的窗面反差可能讓進入展間後短暫看不清細節。可把第一件精細作品向內退，並實測不同天候的適應區段。"
+    }
+  },
+  {
+    "svg": "liverpool-biennial-crosby-tidal",
+    "kind": "地方藝術祭",
+    "t": "利物浦雙年展｜克羅斯比海灘《Another Place》",
+    "sub": "克羅斯比，英國",
+    "data": "Antony Gormley 的鑄鐵人像散置於潮間帶。利物浦雙年展與 South Sefton Partnership 於 2005 年把作品引入克羅斯比海灘，後成為長期設置。",
+    "move": "讓觀眾沿岸移動時逐次辨認人像，利用潮位變化改寫露出程度與遠近關係。",
+    "take": "設兩個固定岸上觀察點，分別記錄高低潮可見作品數量與視線角度，讓兩種潮位都有完整觀看路徑。",
+    "beats": [
+      "沿岸抵達",
+      "從岸上掃視人像",
+      "沿海岸平行移動",
+      "定點比較水位",
+      "回望地平線"
+    ],
+    "link": "https://www.archive.biennial.com/2006/exhibition/another-place",
+    "src": "Liverpool Biennial",
+    "date": "2026-11-28",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Another_Place.jpg/960px-Another_Place.jpg",
+    "alt": "克羅斯比海灘上一尊《Another Place》鑄鐵人像",
+    "credit": "Chris Howells｜CC BY-SA 3.0｜Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Another_Place.jpg",
+    "system": {
+      "form": [
+        "海岸步行線",
+        "潮間帶",
+        "分散鑄鐵人像"
+      ],
+      "route": [
+        "岸上抵達",
+        "沿岸移動",
+        "定點短停",
+        "回到步道"
+      ],
+      "perception": [
+        "遠處人形輪廓",
+        "潮水遮露",
+        "海天背景"
+      ],
+      "reading": "人像有固定座標，潮水卻反覆改變可見範圍，因此同一場所可以多次閱讀。潮位也限制可到達區域，規劃類似展演時可用固定岸上站點維持可達性，讓遠觀本身構成完整體驗。"
+    }
   }
 ]
