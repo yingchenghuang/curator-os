@@ -31186,5 +31186,295 @@
     },
     "rawText": "【來源事實】Cooper Hewitt 官方資料指出，展覽從超過 21.5 萬件館藏中選出 125 件，使用 Play、Tweak、Repeat、Transform、Show Off、Simplify 等主題群，跨越地理、材料與時間而非採傳統年代序列；展覽持續至 2028 年 10 月 22 日。\n【策展推論】用主題聚類連接跨時代物件，同時為每件作品保留時間、地域、材料與權力脈絡，避免「相似」取代歷史。\n【原創模擬】建立「主題群＋脈絡護欄」雙層卡：正面寫跨時共通動作，背面固定保留年代、地域、材料、使用者與權力關係。；選 6 件差異很大的物件，用 20 分鐘分成兩個行動主題；再為每件補一張五欄脈絡護欄卡。\n查證日期：2026-11-27",
     "notionUrl": "https://app.notion.com/42434a20271a8151b356d1ba96303829"
+  },
+  {
+    "id": "daily-2026-11-28-curator",
+    "date": "2026-11-28",
+    "category": "專業策展人課題",
+    "lens": "合成聲音倫理／證詞真實性",
+    "source": {
+      "name": "Solomon R. Guggenheim Museum",
+      "title": "Taryn Simon | Father Country I Do Love You",
+      "url": "https://www.guggenheim.org/exhibition/taryn-simon",
+      "accessedAt": "2026-11-28",
+      "sourceType": "英文官方展覽／活動頁"
+    },
+    "title": "當展覽使用 AI 複製親人的聲音來重建真實故事，策展如何區分見證、表演與情感操控？",
+    "summary": "以 Taryn Simon 的古根漢展覽為案例，建立「聲音來源—同意—情感效果」三層審查，避免合成聲音被誤認為未經中介的證詞。",
+    "sourceFact": "【來源事實】古根漢官方指出，展覽於 2026 年 9 月 18 日至 2027 年 3 月 14 日展出，整座圓形大廳呈現 42 組章節式作品；其語音導覽包含 Jodie Foster 旁白與藝術家父親的 AI 聲音複製。",
+    "coreHypothesis": "若策展同步揭露聲音的生成方法、授權鏈與敘事目的，觀眾較能把合成聲音理解為被設計的表述，而非原始證詞。",
+    "underlyingNeed": "在情感強度與證據透明度之間建立可被檢查的界線。",
+    "realConstraints": "逝者或失去完整意思能力者無法重新同意；導覽介面資訊有限；聲音相似度容易製造過度可信感。",
+    "leverage": "建立可重複使用的「聲音證詞標籤」：真人原聲、演員重述、合成重建、推測性模擬。",
+    "questions": [
+      "這段聲音是原始錄音、演員重述，還是 AI 合成？",
+      "觀眾在聽見之前，是否已清楚知道它的生成方式？",
+      "誰同意了聲音被使用，這份同意涵蓋哪些媒介與期間？",
+      "合成聲音補足了哪一段史料空缺，又新增了哪些推測？",
+      "如果移除熟悉聲線，敘事的說服力還剩多少？",
+      "作品是否把情感真實誤寫成事實真實？",
+      "導覽能否讓觀眾隨時查看來源、腳本與編輯紀錄？",
+      "不同文化背景的觀眾會如何理解『替他人說話』？",
+      "當被複製者已無法回應時，誰負責設定倫理界線？",
+      "策展人願意在哪一個瞬間放棄戲劇效果，以保住證據可信度？"
+    ],
+    "strategy": "建立四欄聲音清單：來源、授權、改造、觀眾提示；每一段聲音至少通過可追溯、可辨識、可撤回三項檢查。",
+    "task": "選一段展覽音檔，寫出 80 字播放前標示，必須說明是否合成、誰授權、哪些內容來自推測。",
+    "training": "90 分鐘：20 分鐘拆聲音來源，20 分鐘畫授權鏈，20 分鐘標出情感強化手法，20 分鐘改寫導覽標示，10 分鐘做不看說明的誤認測試。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "Solomon R. Guggenheim Museum, New York",
+      "title": "Taryn Simon | Father Country I Do Love You",
+      "statusAsOf": "2026-11-28",
+      "latestUpdate": "展覽正展出至 2027-03-14；官方說明語音導覽使用藝術家父親的 AI 聲音複製。",
+      "references": [
+        "https://www.guggenheim.org/exhibition/taryn-simon"
+      ],
+      "photos": [
+        {
+          "url": "https://www.guggenheim.org/wp-content/uploads/2025/10/TarynSimon_FatherCountry-exh_ph022-LARGE-JPG-1536x903.jpg",
+          "caption": "Taryn Simon《Father Country I Do Love You》展場裝置照",
+          "credit": "Solomon R. Guggenheim Museum；攝影者未於展覽頁標示",
+          "sourceUrl": "https://www.guggenheim.org/exhibition/taryn-simon",
+          "verifiedAt": "2026-11-28"
+        }
+      ]
+    },
+    "rawText": "【來源事實】古根漢官方指出，展覽於 2026 年 9 月 18 日至 2027 年 3 月 14 日展出，整座圓形大廳呈現 42 組章節式作品；其語音導覽包含 Jodie Foster 旁白與藝術家父親的 AI 聲音複製。\n\n【策展推論】以 Taryn Simon 的古根漢展覽為案例，建立「聲音來源—同意—情感效果」三層審查，避免合成聲音被誤認為未經中介的證詞。\n\n【原創模擬】建立四欄聲音清單：來源、授權、改造、觀眾提示；每一段聲音至少通過可追溯、可辨識、可撤回三項檢查。 今日任務：選一段展覽音檔，寫出 80 字播放前標示，必須說明是否合成、誰授權、哪些內容來自推測。",
+    "notionUrl": "https://app.notion.com/p/42534a20271a811e9b25e92eef69644d?pvs=204",
+    "notionId": "42534a20-271a-811e-9b25-e92eef69644d"
+  },
+  {
+    "id": "daily-2026-11-28-family",
+    "date": "2026-11-28",
+    "category": "親子觀展訓練",
+    "lens": "三段式家庭素描／關係線練習",
+    "source": {
+      "name": "National Gallery of Art",
+      "title": "Sketchbook Club",
+      "url": "https://www.nga.gov/calendar/sketchbook-club",
+      "accessedAt": "2026-11-28",
+      "sourceType": "英文官方展覽／活動頁"
+    },
+    "title": "親子只用一張紙與鉛筆線上看畫時，如何把「畫得像」改成觀察關係、姿勢與距離？",
+    "summary": "以 National Gallery of Art 的 30 分鐘線上 Sketchbook Club 為案例，把素描拆成先看關係、再畫距離、最後說出證據。",
+    "sourceFact": "【來源事實】National Gallery of Art 官方將 Sketchbook Club 設為 2026 年 9 月 8 日至 2027 年 1 月 27 日的免費線上系列，每次 30 分鐘，適合各年齡家庭，基本材料只需紙與鉛筆。",
+    "coreHypothesis": "若先畫人物或物件之間的關係線，再處理外形，親子更容易以觀察證據對話，降低『畫得不像』的挫折。",
+    "underlyingNeed": "讓家庭在低材料門檻下練習共同觀看、描述與修正，而不是競賽技巧。",
+    "realConstraints": "線上注意力短、親子技巧差異大、螢幕尺寸有限、成人容易代畫或糾正。",
+    "leverage": "固定使用「看 30 秒—畫 3 條關係線—說 1 個證據」的微流程。",
+    "questions": [
+      "畫面裡誰離誰最近？",
+      "哪一個姿勢讓你看出人物彼此的關係？",
+      "如果只能畫三條線，你會保留哪三條？",
+      "人物視線指向哪裡？",
+      "背景中的物件如何拉開或縮短距離？",
+      "孩子與成人看見的第一個細節有何不同？",
+      "哪一個形狀可以暫時不畫，仍不影響關係？",
+      "如何用『我看到……所以我猜……』取代對錯評語？",
+      "如果把人物位置互換，故事會怎麼變？",
+      "最後一分鐘，你會修正比例，還是補上一條關係線？"
+    ],
+    "strategy": "先禁用橡皮擦五分鐘，讓每一筆成為觀察紀錄；成人只提問不示範，最後互換圖說。",
+    "task": "找一幅兩人以上的作品，親子各畫三條關係線，輪流用一句『我看到……所以我猜……』解釋。",
+    "training": "30 分鐘：3 分鐘靜看、7 分鐘關係線、8 分鐘加姿勢、5 分鐘交換提問、5 分鐘補證據、2 分鐘共同命名。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "National Gallery of Art, Washington, DC／線上",
+      "title": "Sketchbook Club",
+      "statusAsOf": "2026-11-28",
+      "latestUpdate": "系列持續至 2027-01-27；2026-12-01 與 12-02 以 Ralph Earl 家族肖像為題。",
+      "references": [
+        "https://www.nga.gov/calendar/sketchbook-club"
+      ],
+      "photos": [
+        {
+          "url": "https://www.nga.gov/sites/default/files/styles/16x9__focal_point_scale_and_crop__xl/public/2026-08/virtual_art_family_programs_2.jpg?h=d318f057&itok=1mJfAI7s",
+          "caption": "National Gallery of Art 線上家庭藝術活動／Sketchbook Club 官方照片",
+          "credit": "National Gallery of Art；攝影者未於活動頁標示",
+          "sourceUrl": "https://www.nga.gov/calendar/sketchbook-club",
+          "verifiedAt": "2026-11-28"
+        }
+      ]
+    },
+    "rawText": "【來源事實】National Gallery of Art 官方將 Sketchbook Club 設為 2026 年 9 月 8 日至 2027 年 1 月 27 日的免費線上系列，每次 30 分鐘，適合各年齡家庭，基本材料只需紙與鉛筆。\n\n【策展推論】以 National Gallery of Art 的 30 分鐘線上 Sketchbook Club 為案例，把素描拆成先看關係、再畫距離、最後說出證據。\n\n【原創模擬】先禁用橡皮擦五分鐘，讓每一筆成為觀察紀錄；成人只提問不示範，最後互換圖說。 今日任務：找一幅兩人以上的作品，親子各畫三條關係線，輪流用一句『我看到……所以我猜……』解釋。",
+    "notionUrl": "https://app.notion.com/p/42534a20271a81ee829ef597c2f08362?pvs=204",
+    "notionId": "42534a20-271a-81ee-829e-f597c2f08362"
+  },
+  {
+    "id": "daily-2026-11-28-life",
+    "date": "2026-11-28",
+    "category": "人生策展課題",
+    "lens": "夢境符號索引／反覆意象紀錄",
+    "source": {
+      "name": "Whitney Museum of American Art",
+      "title": "The Lost World: The Art of Minnie Evans",
+      "url": "https://whitney.org/exhibitions/the-lost-world",
+      "accessedAt": "2026-11-28",
+      "sourceType": "英文官方展覽／活動頁"
+    },
+    "title": "當夢境裡的符號反覆出現，你如何分辨它是在逃避現實，還是在替尚未成形的經驗建立語言？",
+    "summary": "以 Minnie Evans 從夢境與異象發展出的圖像世界為鏡，建立反覆符號索引，把私人感受轉成可觀察、可回看的生活材料。",
+    "sourceFact": "【來源事實】Whitney 官方指出展期為 2026 年 8 月 22 日至 2027 年 1 月 10 日；Evans 自 1935 年起創作數百件素描、繪畫與拼貼，反覆結合天使、神話生物、凝視的臉與自然圖像。",
+    "coreHypothesis": "持續記錄符號出現的時間、情緒與現實事件，比立即解釋夢境更能辨識它是逃避、警訊或創造性語言。",
+    "underlyingNeed": "為尚未能直接說出的經驗建立安全且不急於定論的表達方式。",
+    "realConstraints": "記憶會改寫夢境、象徵沒有單一答案、過度詮釋可能放大焦慮、私人材料涉及隱私。",
+    "leverage": "用同一張四欄索引累積：符號、當下感受、現實事件、兩週後回看。",
+    "questions": [
+      "哪個符號在不同夢境中反覆出現？",
+      "它出現時，你的身體先有什麼感覺？",
+      "這個符號與最近哪一件現實事件最接近？",
+      "你是在夢中靠近它、逃離它，還是觀看它？",
+      "如果不解釋意義，只描述形狀與顏色，你會寫下什麼？",
+      "兩次出現之間，哪些細節改變了？",
+      "這個符號是否只在壓力高時出現？",
+      "把它畫出來後，你對它的距離有沒有改變？",
+      "哪一部分屬於記憶，哪一部分可能是醒來後補上的？",
+      "若兩週後再看，你會保留哪個解釋、刪除哪個解釋？"
+    ],
+    "strategy": "連續兩週只記錄不判讀；第三週再用頻率、情緒強度與現實對應三項指標回看。",
+    "task": "今天畫出最近反覆出現的一個夢境符號，旁邊只寫形狀、顏色、身體感受與最近事件，不寫結論。",
+    "training": "14 天，每天 8 分鐘：2 分鐘速寫、2 分鐘感受、2 分鐘事件、2 分鐘標記不確定處；第 15 天才做第一次比較。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "Whitney Museum of American Art, New York",
+      "title": "The Lost World: The Art of Minnie Evans",
+      "statusAsOf": "2026-11-28",
+      "latestUpdate": "Whitney 展覽正於八樓展出至 2027-01-10，為藝術家五十多年來首個重要個展回顧。",
+      "references": [
+        "https://whitney.org/exhibitions/the-lost-world"
+      ],
+      "photos": [
+        {
+          "url": "https://whitneymedia.org/assets/image/833778/large_EXME072%20Evans.jpg",
+          "caption": "Minnie Evans，《Untitled (Face with Crown and Angels)》，1968",
+          "credit": "Christopher Burke；Whitney Museum of American Art 展覽頁",
+          "sourceUrl": "https://whitney.org/exhibitions/the-lost-world",
+          "verifiedAt": "2026-11-28"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Whitney 官方指出展期為 2026 年 8 月 22 日至 2027 年 1 月 10 日；Evans 自 1935 年起創作數百件素描、繪畫與拼貼，反覆結合天使、神話生物、凝視的臉與自然圖像。\n\n【策展推論】以 Minnie Evans 從夢境與異象發展出的圖像世界為鏡，建立反覆符號索引，把私人感受轉成可觀察、可回看的生活材料。\n\n【原創模擬】連續兩週只記錄不判讀；第三週再用頻率、情緒強度與現實對應三項指標回看。 今日任務：今天畫出最近反覆出現的一個夢境符號，旁邊只寫形狀、顏色、身體感受與最近事件，不寫結論。",
+    "notionUrl": "https://app.notion.com/p/42534a20271a81ca8b84c745f148e4f8?pvs=204",
+    "notionId": "42534a20-271a-81ca-8b84-c745f148e4f8"
+  },
+  {
+    "id": "daily-2026-11-28-participation",
+    "date": "2026-11-28",
+    "category": "國際民眾參與實作",
+    "lens": "雙向能力建構／資源—知識交換表",
+    "source": {
+      "name": "Smithsonian Institution",
+      "title": "Mississippi Community Cultural Conservation Program",
+      "url": "https://www.si.edu/newsdesk/releases/smithsonians-regional-collaboratives-initiative-mississippi-culminates-national",
+      "accessedAt": "2026-11-28",
+      "sourceType": "英文官方展覽／活動頁"
+    },
+    "title": "當國家級博物館把專業資源帶進地方，參與如何避免單向培訓，真正讓在地知識改寫保存方法？",
+    "summary": "以 Smithsonian 密西西比文化保存計畫為案例，將專業資源與地方知識都列入交換表，讓參與者能改寫課程內容與後續合作。",
+    "sourceFact": "【來源事實】Smithsonian 於 2026 年 11 月 3 日公告，計畫自 2 月起串聯 15 個機構的 30 名參與者，涵蓋典藏照護、數位化、防災與社區敘事，並依在地優先需求設計活動。",
+    "coreHypothesis": "若地方參與者不只接受訓練，也能定義問題、選擇方法並留下可持續的同儕網絡，國家資源才會成為共作而非輸送。",
+    "underlyingNeed": "讓地方文化工作者取得資源，同時保有對文化知識、敘事節奏與優先順序的控制。",
+    "realConstraints": "跨機構時間有限、資源不均、防災需求急迫、國家級機構的權威容易壓過地方判斷。",
+    "leverage": "每次合作都填一張雙向交換表：中央提供什麼、地方提供什麼、共同改變哪個決策。",
+    "questions": [
+      "這個計畫的優先議題由誰提出？",
+      "地方參與者提供了哪些只有在地才知道的知識？",
+      "中央專家提供的技術是否適合當地預算與人力？",
+      "哪一堂課因地方回饋而改變了內容？",
+      "參與者能否拒絕不合適的保存做法？",
+      "知識與影像的使用權最後歸誰？",
+      "培訓結束後，誰維護跨機構聯絡網？",
+      "小型機構是否得到與大型機構相同的發言空間？",
+      "成效只看完成課程，還是看真實保存能力增加？",
+      "未來合作中，地方夥伴能否成為共同教師而非受訓者？"
+    ],
+    "strategy": "以共同議程、輪流教學、在地案例優先、資源回流與一年後追蹤五個機制重設合作。",
+    "task": "替一場地方文化工作坊畫雙向交換表，各列出主辦方與社區提供的三項資源，並圈出一個必須共同決定的事項。",
+    "training": "90 分鐘：20 分鐘盤點權力，20 分鐘列雙向資源，20 分鐘重排課程，20 分鐘設計後續網絡，10 分鐘做地方夥伴否決測試。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "Mississippi",
+      "title": "Smithsonian Mississippi Community Cultural Conservation Program",
+      "statusAsOf": "2026-11-28",
+      "latestUpdate": "年度計畫於 2026-11-12 至 11-14 在 National Folk Festival 期間完成最後一次實體工作坊與表揚。",
+      "references": [
+        "https://www.si.edu/newsdesk/releases/smithsonians-regional-collaboratives-initiative-mississippi-culminates-national"
+      ],
+      "photos": [
+        {
+          "url": "https://www.si.edu/sites/default/files/styles/press_photo/public/Regional_Collaboratives_Mississippi_image.JPG?itok=hjez-2t1",
+          "caption": "Smithsonian Regional Collaboratives Initiative 參與者於 Walter Anderson Museum of Art 合影",
+          "credit": "Smithsonian Institution；攝影者未於新聞稿標示",
+          "sourceUrl": "https://www.si.edu/newsdesk/releases/smithsonians-regional-collaboratives-initiative-mississippi-culminates-national",
+          "verifiedAt": "2026-11-28"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Smithsonian 於 2026 年 11 月 3 日公告，計畫自 2 月起串聯 15 個機構的 30 名參與者，涵蓋典藏照護、數位化、防災與社區敘事，並依在地優先需求設計活動。\n\n【策展推論】以 Smithsonian 密西西比文化保存計畫為案例，將專業資源與地方知識都列入交換表，讓參與者能改寫課程內容與後續合作。\n\n【原創模擬】以共同議程、輪流教學、在地案例優先、資源回流與一年後追蹤五個機制重設合作。 今日任務：替一場地方文化工作坊畫雙向交換表，各列出主辦方與社區提供的三項資源，並圈出一個必須共同決定的事項。",
+    "notionUrl": "https://app.notion.com/p/42534a20271a815280befd0727e1f488?pvs=204",
+    "notionId": "42534a20-271a-8152-80be-fd0727e1f488"
+  },
+  {
+    "id": "daily-2026-11-28-thinking",
+    "date": "2026-11-28",
+    "category": "策展思考訓練",
+    "lens": "數位作品遷移測試／介面保存矩陣",
+    "source": {
+      "name": "Whitney Museum of American Art",
+      "title": "artport: A History of Internet Art",
+      "url": "https://whitney.org/exhibitions/artport-25",
+      "accessedAt": "2026-11-28",
+      "sourceType": "英文官方展覽／活動頁"
+    },
+    "title": "當網路藝術被搬進實體展廳，策展如何保存連結、互動與時間性，而不是只展示螢幕截圖？",
+    "summary": "以 Whitney artport 25 週年展為案例，分拆作品的程式、網路、介面、節奏與社群依賴，練習判斷哪些部分必須在線運作。",
+    "sourceFact": "【來源事實】Whitney 官方指出展期為 2026 年 11 月 21 日至 2027 年 3 月 28 日，展覽同時在線上與實體展廳呈現，收錄超過 100 件為 artport 委託的作品。",
+    "coreHypothesis": "若先辨識數位作品的最低可運作條件，再設計實體轉譯，較能保存作品的行為邏輯，而非只留下視覺表面。",
+    "underlyingNeed": "讓易變的網路作品在技術更新與展示空間改變後仍可被操作、理解與研究。",
+    "realConstraints": "舊瀏覽器與外掛失效、外部 API 下線、作者意圖可能改變、資安與無障礙要求。",
+    "leverage": "建立「五層保存矩陣」：程式碼、資料、介面、互動規則、網路情境。",
+    "questions": [
+      "這件作品若離線，哪些部分立刻失效？",
+      "螢幕畫面是作品本體，還是某次執行的結果？",
+      "作品依賴哪些瀏覽器、外掛、API 或即時資料？",
+      "觀眾的點擊、等待與迷路是否屬於作品內容？",
+      "實體展場中的滑鼠、鍵盤、聲音與觀看距離改變了什麼？",
+      "保存原始程式與模擬舊環境，哪一種更接近作者意圖？",
+      "作品中的錯誤、延遲與斷線要被修復還是保留？",
+      "如何記錄線上社群曾經參與的痕跡？",
+      "無障礙替代介面會改變作品到什麼程度？",
+      "十年後重新啟動時，哪些變化必須向觀眾揭露？"
+    ],
+    "strategy": "替作品畫一張依賴圖，將每個元件標為必要、可替代或可失效，再用線上原版、模擬版與文件版三路並存。",
+    "task": "挑一件網路作品，列出它的五個技術依賴，並寫出其中一項失效時的最低可行展示方案。",
+    "training": "60 分鐘：15 分鐘實際操作，15 分鐘畫依賴圖，15 分鐘關閉一項功能做失效測試，15 分鐘比較螢幕錄影、模擬器與原網站。",
+    "caseStudy": {
+      "realWorld": true,
+      "country": "美國",
+      "location": "Whitney Museum of American Art, New York／線上",
+      "title": "artport: A History of Internet Art",
+      "statusAsOf": "2026-11-28",
+      "latestUpdate": "展覽於 2026-11-21 開幕，線上與六樓展廳同步呈現至 2027-03-28。",
+      "references": [
+        "https://whitney.org/exhibitions/artport-25"
+      ],
+      "photos": [
+        {
+          "url": "https://whitneymedia.org/assets/image/833830/large_26_Artport_Collage_0713.jpg",
+          "caption": "《artport: A History of Internet Art》展覽主視覺，彙整 artport 委託作品影像",
+          "credit": "Whitney Museum of American Art；圖片頁未另列攝影者",
+          "sourceUrl": "https://whitney.org/exhibitions/artport-25",
+          "verifiedAt": "2026-11-28"
+        }
+      ]
+    },
+    "rawText": "【來源事實】Whitney 官方指出展期為 2026 年 11 月 21 日至 2027 年 3 月 28 日，展覽同時在線上與實體展廳呈現，收錄超過 100 件為 artport 委託的作品。\n\n【策展推論】以 Whitney artport 25 週年展為案例，分拆作品的程式、網路、介面、節奏與社群依賴，練習判斷哪些部分必須在線運作。\n\n【原創模擬】替作品畫一張依賴圖，將每個元件標為必要、可替代或可失效，再用線上原版、模擬版與文件版三路並存。 今日任務：挑一件網路作品，列出它的五個技術依賴，並寫出其中一項失效時的最低可行展示方案。",
+    "notionUrl": "https://app.notion.com/p/42534a20271a81f2bdf8c8697060aa6e?pvs=204",
+    "notionId": "42534a20-271a-81f2-bdf8-c8697060aa6e"
   }
 ]
